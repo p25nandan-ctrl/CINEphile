@@ -38,6 +38,7 @@ function friendly(err) {
   if (/expired|invalid|otp/i.test(m) && /link|token|otp/i.test(m)) return 'This link has expired or was already used. Please request a new one.';
   if (/session.*(missing|not found)/i.test(m) || c === 'session_not_found') return 'Your session has ended. Please log in again.';
   if (/fetch|network|failed to/i.test(m) || err instanceof TypeError) return 'We could not reach the server. Check your connection and try again.';
+  if (/already (registered|exists)|user_already_exists/i.test(m) || c === 'user_already_exists') return 'That email already has an account. Please log in instead, or use “Forgot password”.';
   if (/signups? (not allowed|disabled)/i.test(m) || c === 'signup_disabled') return 'New sign-ups are currently turned off.';
   return 'Something went wrong. Please try again in a moment.';
 }
@@ -50,7 +51,7 @@ function invalid(input, on) { input.setAttribute('aria-invalid', on ? 'true' : '
 /* ---------- views inside the modal ---------- */
 const VIEWS = {
   login:  { title: 'Welcome back', sub: 'Log in to keep your stories and progress with you.', go: 'Log in', fields: ['email', 'pass'], pw: 'current-password', tabs: true },
-  signup: { title: 'Join Kathaa Sangam', sub: 'For parents and teachers. Create a free adult account, then add a simple nickname profile for each child. We will email you a link to confirm it.', go: 'Create account', fields: ['name', 'email', 'pass'], pw: 'new-password', tabs: true },
+  signup: { title: 'Join Kathaa Sangam', sub: 'For parents and teachers. Create a free adult account, then add a simple nickname profile for each child. You can start right away.', go: 'Create account', fields: ['name', 'email', 'pass'], pw: 'new-password', tabs: true },
   forgot: { title: 'Forgot password?', sub: 'Enter your email and we will send you a link to choose a new password.', go: 'Send reset link', fields: ['email'], tabs: false },
   reset:  { title: 'Choose a new password', sub: 'Pick something at least 8 characters long.', go: 'Save new password', fields: ['pass', 'pass2'], pw: 'new-password', tabs: false },
   sent:   { title: 'Check your email', sub: '', go: '', fields: [], tabs: false },

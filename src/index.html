@@ -578,6 +578,13 @@ body.lm-open{overflow:hidden}.lm-ov{position:fixed;inset:0;background:rgba(58,10
 #abolview.hidden,#shareview.hidden,#readersview.hidden{display:none}
 #abolview h1,#shareview h1,#readersview h1{font-size:clamp(24px,4.2vw,40px);line-height:1.1}
 #abolview .atl-head p,#shareview .atl-head p,#readersview .atl-head p{font-size:18px;font-weight:800}
+/* Abol Tabol submissions */
+.ab-submit{margin:6px 0 4px}.ab-live{margin:6px 0}.ab-empty{background:#fff7e0;border:3px dashed var(--rani);border-radius:20px;padding:12px 16px;font-weight:700}
+.ab-rcards small{display:block;font-weight:600;font-size:12px;opacity:.85}.ab-rcards .ab-desc{margin-top:2px}.ab-by{opacity:.8}
+.ab-rpoems{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}.ab-rpoem{background:#fff;border:3px solid var(--jamun);border-radius:20px;padding:14px 16px}
+.ab-rpoem h3{margin:0 0 8px;font:900 20px 'Grandstander',sans-serif;color:var(--jamun)}.ab-rpimg{width:100%;height:auto;border-radius:14px;margin-bottom:8px;display:block}
+.ab-rtext{white-space:pre-wrap;overflow-wrap:anywhere;font:700 17px/1.55 'Nunito',sans-serif;margin:6px 0}
+@media(max-width:560px){.ab-rpoems{grid-template-columns:1fr}.ab-rtext{font-size:16px}}
 
 </style>
 </head>
@@ -683,7 +690,7 @@ body.lm-open{overflow:hidden}.lm-ov{position:fixed;inset:0;background:rgba(58,10
   </section>
 
   <footer class="footer"><svg class="fw" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60V30C120 0 240 0 360 26S600 56 720 30 960 0 1080 24 1320 54 1440 20V60Z" fill="#6A0D6B"/></svg><div id="footArt"></div>
-    <div class="brand">Kathaa Sangam</div><p>Folk stories from across India</p><p class="foot-attr">[Official CINE project attribution — confirmation required]</p><p class="foot-links"><a href="#about" data-hash="about">About us</a> · <a href="#sources" data-hash="sources">Sources &amp; Acknowledgements</a></p><p style="opacity:.75;font-size:13px">Prototype · sample story shelves, to be confirmed by editors</p></footer>
+    <div class="brand">Kathaa Sangam</div><p>Folk stories from across India</p><p class="foot-links"><a href="#about" data-hash="about">About us</a> · <a href="#sources" data-hash="sources">Sources &amp; Acknowledgements</a></p></footer>
 </main>
 
 <main id="atlasview" class="hidden">
@@ -765,7 +772,7 @@ body.lm-open{overflow:hidden}.lm-ov{position:fixed;inset:0;background:rgba(58,10
 </div>
 <main id="aboutview" class="hidden"><div class="pgv">
   <div class="atl-head"><button class="hb" data-hash="">← Home</button><div><h1>About <span>us</span></h1><p>The people and the idea behind Kathaa Sangam.</p></div></div>
-  <section class="pg-card"><h2>Who we are</h2><p>We are a group of students from the Indian Institute of Management Ahmedabad (IIMA), bringing together different educational, professional, and personal backgrounds.</p><p>We share a belief that stories can make learning more engaging, accessible, and meaningful.</p></section>
+  <section class="pg-card"><h2>Who we are</h2><p>We are a group of students from the Indian Institute of Management Ahmedabad, brought together by a shared interest in education, storytelling, and social impact.</p><p>Our experiences span classrooms, community initiatives, and organisations such as Teach For India, Neev, and Ashoka, as well as social-impact initiatives at IIM Ahmedabad. Some of us have worked directly as teachers, fellows, or volunteers, giving us firsthand exposure to the opportunities and challenges of learning in diverse educational settings.</p><p>These experiences inspired us to explore how storytelling could make language learning more engaging, accessible, and culturally meaningful.</p><p>Through Kathaa Sangam, we hope to bring India’s rich storytelling traditions into children’s learning journeys while creating a free space for curiosity, creativity, and connection across cultures.</p><p class="bk-small">Kathaa Sangam is a student project. The organisations named above are part of our own experiences; none of them has endorsed or sponsored this website.</p></section>
   <section class="pg-card"><h2>What we are building</h2><p>We are creating a free, multilingual digital repository of children’s folk stories from across India.</p><p>Our aim is to bring together stories from different states, communities, and storytelling traditions in one accessible space.</p><p>The platform will allow children to discover stories from across the country while developing their language skills, curiosity, and understanding of India’s cultural diversity.</p></section>
   <h2 class="pg-h">Why this matters</h2>
   <div class="vals">
@@ -819,6 +826,7 @@ body.lm-open{overflow:hidden}.lm-ov{position:fixed;inset:0;background:rgba(58,10
     <div class="acv-card" id="adLearn"></div>
     <div class="acv-card" id="adStories"></div>
     <div class="acv-card" id="adTesti"></div>
+    <div class="acv-card" id="adAbol"></div>
   </div>
 </main>
 <div id="toast" role="status"></div>
@@ -1927,9 +1935,19 @@ Object.entries({tRead:'read',tListen:'listen',tCreate:'create',tQuest:'quest'}).
 
 /* nav */
 const goTo=id=>{const el=document.getElementById(id);if(el){const y=el.getBoundingClientRect().top+scrollY-84;scrollTo({top:y,behavior:'smooth'})}};
+/* Go to a section of the home page from ANY view (About, Abol Tabol, Account, a story, the map, the Hollow, a state shelf...).
+   The home sections are inside #landing, which is hidden on every other view, so scrolling to them only works once home is showing. */
+function goHomeTo(id){
+  const l=document.getElementById('landing');
+  const go=()=>setTimeout(()=>goTo(id),90);
+  if(l&&!l.classList.contains('hidden')){goTo(id);return}
+  if(location.hash.replace(/^#/,'')===''){if(typeof route==='function')route();go()}
+  else{location.hash='';go()}
+}
+window.goHomeTo=goHomeTo;
 document.addEventListener('click',e=>{
   const g=e.target.closest('[data-go]');if(g){e.preventDefault();$('#links').classList.remove('open');
-    if(!$('#shelfview').classList.contains('hidden')){location.hash='';setTimeout(()=>goTo(g.dataset.go),60)}else goTo(g.dataset.go);return}
+    goHomeTo(g.dataset.go);return}
   const s=e.target.closest('[data-soon]');if(s)toast('🌱 '+s.dataset.soon);
 });
 $('#burger').onclick=()=>$('#links').classList.toggle('open');
@@ -6915,13 +6933,23 @@ const Community=(function(){
       <p>Nonsense poetry is playful poetry that follows its own silly logic. English readers may know it from Edward Lear and Lewis Carroll. Abol Tabol brought that same spirit to Bengali, with its own invented words, creatures and jokes. Some readers also find gentle fun poked at the world around the poet hiding inside the nonsense.</p>
       <h3 class="ab-h">Why play with words?</h3>
       <p>Rhyme, rhythm and funny invented words make us listen closely to sounds. Reading a poem aloud, clapping its beat and noticing how words are built are good habits when you are learning English or Hindi, and they are simply fun.</p></section>
-    <section class="pg-card ab-gal" aria-labelledby="abGalT"><h2 id="abGalT">Made-up creatures</h2><p class="bk-small">Invented for this page. They are not characters from the book.</p>
+    <section class="pg-card ab-gal" id="abCreatures" aria-labelledby="abGalT"><h2 id="abGalT">Made-up creatures</h2>
+      <p>Dream up the strangest creature you can imagine! Give it wings, whiskers, seven feet, or a tail that tells stories. Draw your wonderful, wacky creation and share it with the Kathaa Sangam community!</p>
+      <div class="lis-bar"><button type="button" class="lbtn ab-submit" id="abBtnCreature">🎨 Submit Your Creature</button></div>
+      <h3 class="ab-h">Creatures from our readers</h3><div class="ab-live" aria-live="polite"></div>
+      <h3 class="ab-h">A few to get you started</h3><p class="bk-small">Drawn by the Kathaa Sangam team to spark your imagination.</p>
       <ul class="ab-cards">${ART.map(a=>`<li><img src="assets/abol/${a[0]}.svg" alt="${ESC(a[1])}" loading="lazy" decoding="async" width="300" height="300"><span>${ESC(a[2])}</span></li>`).join('')}</ul></section>
     <section class="pg-card" id="abPoems" aria-labelledby="abPT"><h2 id="abPT">The poems</h2>
       ${ps.length?`<ul class="ab-poems">${ps.map(p=>`<li><a class="ab-pcard" href="#abol/${ESC(p.id)}">${p.art?`<img src="${ESC(p.art)}" alt="${ESC(p.alt||'')}" loading="lazy" width="300" height="300">`:'<span class="ab-noart" aria-hidden="true">✨</span>'}<b>${ESC(p.title.en)}</b>${p.title.hi?`<span lang="hi">${ESC(p.title.hi)}</span>`:''}</a></li>`).join('')}</ul>`:
       `<div class="ab-wait" role="note"><p><b>No poems are published here yet.</b></p>
       <p>We show a poem only after we have checked where its words come from, who wrote the English or Hindi version, and whether we are allowed to share it. Sukumar Ray’s Bengali originals are old enough to be out of copyright in India, but the English and Hindi versions made by other writers, and the pictures in modern editions, belong to those people. We will not copy them without permission, and we will not make up poems and pretend they are his.</p>
-      <p>Until a checked version is ready, you can ask a grown-up or a librarian for a Bengali, English or Hindi edition of Abol Tabol and read it together.</p></div>`}</section>`;
+      <p>Until a checked version is ready, you can ask a grown-up or a librarian for a Bengali, English or Hindi edition of Abol Tabol and read it together.</p></div>`}</section>
+    <section class="pg-card" id="abReaderPoems" aria-labelledby="abRPT"><h2 id="abRPT">Poems From Our Readers</h2>
+      <p>Write a playful, funny, imaginative nonsense poem in the spirit of Abol Tabol: invented words, silly creatures, topsy-turvy ideas. These are poems by Kathaa Sangam readers, not poems by Sukumar Ray.</p>
+      <div class="lis-bar"><button type="button" class="lbtn ab-submit" id="abBtnPoem">✍️ Submit Your Crazy Poem</button></div>
+      <div class="ab-live" aria-live="polite"></div></section>
+    <section class="pg-card" id="abMine" hidden></section>`;
+    if(window.AbolSubmit)AbolSubmit.mount(box);
   }
   function renderPoem(box,p){
     const hasHi=!!(p.stanzas.hi&&p.stanzas.hi.length),same=hasHi&&p.stanzas.hi.length===p.stanzas.en.length;
@@ -7178,15 +7206,234 @@ const Community=(function(){
     }
     load();
   }
-  function mountAdmin(){const a=q('#adStories'),b=q('#adTesti');if(a)mountStories(a);if(b)mountTesti(b)}
+  function mountAdmin(){const a=q('#adStories'),b=q('#adTesti'),c=q('#adAbol');if(a)mountStories(a);if(b)mountTesti(b);if(c&&window.AbolSubmit)AbolSubmit.mountAdmin(c)}
 
   /* ================= routing hooks ================= */
   let cur=null;
   function show(view,arg){cur=[view,arg];if(view==='abol')renderAbol(arg);else if(view==='share')renderShare();else if(view==='readers')renderReaders(arg)}
-  window.addEventListener('ks:auth',()=>{loadVoices();if(cur&&cur[0]==='share'&&!q('#shareview').classList.contains('hidden'))renderShare();if(cur&&cur[0]==='readers'&&!q('#readersview').classList.contains('hidden'))renderReaders(cur[1]);if(!q('#adminview').classList.contains('hidden'))mountAdmin()});
+  window.addEventListener('ks:auth',()=>{loadVoices();if(cur&&cur[0]==='abol'&&!q('#abolview').classList.contains('hidden')&&!cur[1])renderAbol();if(cur&&cur[0]==='share'&&!q('#shareview').classList.contains('hidden'))renderShare();if(cur&&cur[0]==='readers'&&!q('#readersview').classList.contains('hidden'))renderReaders(cur[1]);if(!q('#adminview').classList.contains('hidden'))mountAdmin()});
   loadVoices();
   return{show,mountAdmin,usablePoem};
 })();
+
+/* Abol Tabol reader submissions: "Submit Your Creature" (drawing) and "Submit Your Crazy Poem", public galleries of APPROVED items,
+   "my submissions", and the administrator review queue. Data lives in Supabase (table abol_submissions, private bucket abol-art,
+   public views published_abol_creatures / published_abol_poems) under row-level security; see supabase/abol_community.sql.
+   Nothing is stored in localStorage. All reader text is inserted with textContent, never as HTML. Nothing is public until an admin publishes it. */
+const AbolSubmit=(function(){
+  const q=s=>document.querySelector(s);
+  const E=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+  const SBX=()=>window.KathaaSB||null,CLIENT=()=>{const s=SBX();return s&&s.client?s.client:null};
+  const READY=()=>SBX()?SBX().ready():Promise.resolve();
+  const USER=()=>{const s=SBX();return s&&s.user?s.user():null};
+  const ISADMIN=()=>{const s=SBX();return !!(s&&s.isAdmin&&s.isAdmin())};
+  const BUCKET='abol-art',MAXIMG=2*1024*1024;
+  const dateOf=t=>{try{return new Date(t).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'})}catch(_){return ''}};
+  const KIND={creature:{noun:'creature',btn:'🎨 Submit Your Creature',title:'Submit your creature'},poem:{noun:'poem',btn:'✍️ Submit Your Crazy Poem',title:'Submit your crazy poem'}};
+  const STATUS={pending:['check','Waiting for review','The Kathaa Sangam team will look at it soon. Nobody else can see it yet.'],
+    published:['ok','Published','It is shown on the Abol Tabol page.'],
+    rejected:['todo','Not chosen for the website','Thank you for sending it. Keep creating! It stays private.'],
+    hidden:['todo','Taken off the website','The team has hidden it. It is no longer public.']};
+
+  /* ---------- helpers ---------- */
+  const sniff=async fl=>{const b=new Uint8Array(await fl.slice(0,12).arrayBuffer());
+    if(b[0]===0xFF&&b[1]===0xD8&&b[2]===0xFF)return['image/jpeg','jpg'];
+    if(b[0]===0x89&&b[1]===0x50&&b[2]===0x4E&&b[3]===0x47&&b[4]===0x0D&&b[5]===0x0A&&b[6]===0x1A&&b[7]===0x0A)return['image/png','png'];
+    if(b[0]===0x52&&b[1]===0x49&&b[2]===0x46&&b[3]===0x46&&b[8]===0x57&&b[9]===0x45&&b[10]===0x42&&b[11]===0x50)return['image/webp','webp'];return null};
+  async function signed(paths){const out={};paths=paths.filter(Boolean);if(!paths.length||!CLIENT())return out;
+    try{const r=await CLIENT().storage.from(BUCKET).createSignedUrls(paths,3600);(r.data||[]).forEach(x=>{if(x&&x.path&&x.signedUrl)out[x.path]=x.signedUrl})}catch(_){}return out}
+  const FAIL=e=>({ok:false,error:e});
+  const dbErr=e=>{const m=String((e&&e.message)||'');
+    if(/too_many_waiting/.test(m))return 'You already have 6 things waiting for review. Please wait until the team has looked at some of them.';
+    if(/does not exist|schema cache|PGRST205|42P01/.test(m+(e&&e.code||'')))return 'Sharing is not fully set up on the website yet, so nothing was sent. The team has been told what to check.';
+    if(/jwt|session/i.test(m))return 'Your login has ended. Please log in again, then try once more.';
+    return 'We could not save it. Nothing was sent. Please try again.'};
+
+  /* ---------- submission (testable, no DOM) ---------- */
+  async function submit(kind,f){
+    const c=CLIENT();if(!c)return FAIL('Sharing is not switched on yet.');
+    await READY();const u=USER();if(!u)return FAIL('Please log in first.');
+    const title=(f.title||'').trim(),desc=(f.description||'').trim(),body=(f.body||'').replace(/\r\n/g,'\n').replace(/\n{3,}/g,'\n\n').trim();
+    if(!title)return FAIL(kind==='creature'?'Please give your creature a name.':'Please give your poem a title.');
+    if(title.length>80)return FAIL('That is too long (up to 80 letters).');
+    if(desc.length>300)return FAIL('The short description is too long (up to 300 letters).');
+    if(kind==='poem'){if(body.length<20)return FAIL('Your poem is a little short. Please write at least 20 letters.');if(body.length>3000)return FAIL('Your poem is too long (up to 3000 letters).')}
+    if(kind==='creature'&&!f.file)return FAIL('Please choose a picture of your creature.');
+    if(!f.ok)return FAIL('Please tick the first box: a parent, guardian or teacher must say it is OK to send this.');
+    let art=null;
+    if(f.file){if(f.file.size<1||f.file.size>MAXIMG)return FAIL('That picture is too big. Please choose one under 2 MB.');
+      const t=await sniff(f.file);if(!t)return FAIL('Please choose a JPG, PNG or WebP picture.');
+      const path=u.id+'/'+crypto.randomUUID()+'.'+t[1];
+      const up=await c.storage.from(BUCKET).upload(path,f.file,{contentType:t[0],upsert:false,cacheControl:'3600'});
+      if(up.error)return FAIL(/not found|bucket/i.test(up.error.message||'')?dbErr({message:'does not exist'}):'We could not save the picture. Nothing was sent. Please try again.');
+      art={path,type:t[0]}}
+    const row={kind,title,description:desc||null,body:kind==='poem'?body:null,consent_confirmed:true,publish_consent:!!f.pub,...(art?{art_path:art.path,art_content_type:art.type}:{})};
+    const r=await c.from('abol_submissions').insert(row).select('id,created_at,status').single();
+    if(r.error||!r.data){if(art)await c.storage.from(BUCKET).remove([art.path]);return FAIL(dbErr(r.error))}
+    return{ok:true,id:r.data.id,status:r.data.status};
+  }
+
+  /* ---------- modal form ---------- */
+  let ov=null;
+  function closeModal(){if(ov){ov.remove();ov=null;document.body.classList.remove('lm-open')}}
+  function openForm(kind,done){
+    if(!CLIENT())return toast('Sharing is not switched on yet. It needs the site to be connected to its database.');
+    READY().then(()=>{
+      if(!USER()){toast('Please log in to share your '+KIND[kind].noun+'.');window.KathaaAuth&&window.KathaaAuth.open('login');return}
+      closeModal();const K=KIND[kind],isP=kind==='poem';
+      ov=E('div','lm-ov');
+      ov.innerHTML=`<div class="lm-card" role="dialog" aria-modal="true" aria-labelledby="abfT"><button type="button" class="lm-x" aria-label="Close">✕</button><h2 id="abfT">${K.title}</h2>
+        <p>${isP?'Write a playful, funny, imaginative nonsense poem of your own, in the spirit of Abol Tabol. It must be <b>your own words</b>. Please do not copy a poem from a book or website.':'Dream up the strangest creature you can imagine! Draw it and send us a picture.'}
+        Your ${K.noun} is <b>private</b> until the Kathaa Sangam team has looked at it. It will be shown as “by a reader”, never as part of Sukumar Ray’s book.</p>
+        <form id="abfForm" novalidate>
+          <div class="qa"><label for="abfTitle"><span class="qk">${isP?'Poem title':'Name of your creature'}</span></label><input id="abfTitle" class="ainp" maxlength="80" autocomplete="off" required></div>
+          ${isP?`<div class="qa"><label for="abfBody"><span class="qk">Your poem</span></label><textarea id="abfBody" rows="9" maxlength="3000" required aria-describedby="abfCount"></textarea><small id="abfCount" class="bk-small">0 / 3000 letters. Press Enter for a new line, and leave an empty line between verses.</small></div>`:''}
+          <div class="qa"><label for="abfDesc"><span class="qk">Short description (optional)</span></label><textarea id="abfDesc" rows="2" maxlength="300"></textarea></div>
+          <div class="qa"><label for="abfFile"><span class="qk">${isP?'A picture to go with it (optional)':'Your drawing'}</span>JPG, PNG or WebP, up to 2 MB. Please do not send photos of people.</label><input type="file" id="abfFile" accept="image/jpeg,image/png,image/webp"><div id="abfPrev"></div></div>
+          <p class="bk-small">You do not need your real name. Please do not write your full name, school, address or phone number in the title, poem or description.</p>
+          <div class="qa"><label class="chk"><input type="checkbox" id="abfOk"> A parent, guardian or teacher says it is OK for me to send this to the Kathaa Sangam team.</label></div>
+          <div class="qa"><label class="chk"><input type="checkbox" id="abfPub"> They also say it may be shown on the website, with no name, if the team chooses to publish it. <i>(Leave this empty if you are not sure. The team can still read it, but it cannot be published.)</i></label></div>
+          <div class="lis-bar"><button type="submit" class="lbtn" id="abfGo">📤 Send</button></div>
+          <p class="lis-st" id="abfSt" role="status" aria-live="polite"></p></form></div>`;
+      document.body.append(ov);document.body.classList.add('lm-open');
+      const st=(m,e)=>{const s=q('#abfSt');s.textContent=m;s.className='lis-st'+(e?' err':'')};
+      ov.querySelector('.lm-x').onclick=closeModal;
+      ov.addEventListener('mousedown',e=>{if(e.target===ov)closeModal()});
+      ov.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+      let url=null;
+      const fileIn=q('#abfFile');
+      fileIn.onchange=e=>{const fl=e.target.files[0],P=q('#abfPrev');P.textContent='';if(url){URL.revokeObjectURL(url);url=null}st('');if(!fl)return;
+        if(!/^image\/(png|jpeg|webp)$/.test(fl.type)){st('Please choose a JPG, PNG or WebP picture.',1);e.target.value='';return}
+        if(fl.size>MAXIMG){st('That picture is too big. Please choose one under 2 MB.',1);e.target.value='';return}
+        url=URL.createObjectURL(fl);const im=E('img','mine');im.src=url;im.alt='Preview of your picture (not sent yet)';P.append(im)};
+      if(isP){const b=q('#abfBody'),n=q('#abfCount');b.oninput=()=>{n.textContent=b.value.length+' / 3000 letters. Press Enter for a new line, and leave an empty line between verses.'}}
+      q('#abfForm').onsubmit=async e=>{e.preventDefault();const go=q('#abfGo');go.disabled=true;st('Sending… please wait.');
+        let r;try{r=await submit(kind,{title:q('#abfTitle').value,description:q('#abfDesc').value,body:isP?q('#abfBody').value:'',file:fileIn.files[0],ok:q('#abfOk').checked,pub:q('#abfPub').checked})}catch(_){r={ok:false,error:'Something went wrong. Nothing was sent. Please try again.'}}
+        go.disabled=false;
+        if(r.ok){q('#abfForm').innerHTML='<p><b>Thank you!</b> Your '+K.noun+' was saved and is waiting for the Kathaa Sangam team. It is private until the team decides.</p><div class="lis-bar"><button type="button" class="lbtn" id="abfClose">Close</button></div>';q('#abfClose').onclick=closeModal;done&&done()}
+        else st(r.error,1)};
+      setTimeout(()=>q('#abfTitle')&&q('#abfTitle').focus(),30);
+    });
+  }
+  const toast=m=>{const t=q('#toast');if(!t)return;t.textContent=m;t.classList.add('show','on');clearTimeout(toast._t);toast._t=setTimeout(()=>t.classList.remove('show','on'),3800)};
+
+  /* ---------- public galleries (approved only) ---------- */
+  async function loadCreatures(host){
+    host.textContent='';const c=CLIENT();
+    if(!c){host.append(E('p','bk-small','Reader creatures will appear here once the site is connected to its database.'));return}
+    const w=E('p','bk-small','Loading…');host.append(w);
+    const {data,error}=await c.from('published_abol_creatures').select('id,title,description,art_public_path,published_at').order('published_at',{ascending:false}).limit(60);
+    w.remove();
+    if(error){host.append(E('p','lis-st err','We could not load the creature gallery right now.'));return}
+    if(!data.length){host.append(E('p','ab-empty','No reader creatures have been published yet. Be the first to dream one up!'));return}
+    const urls=await signed(data.map(d=>d.art_public_path)),ul=E('ul','ab-cards ab-rcards');
+    data.forEach(d=>{const li=E('li');
+      if(d.art_public_path&&urls[d.art_public_path]){const im=E('img');im.src=urls[d.art_public_path];im.alt='A creature drawn by a reader: '+d.title;im.loading='lazy';im.decoding='async';li.append(im)}
+      li.append(E('span','',d.title));if(d.description)li.append(E('small','ab-desc',d.description));li.append(E('small','ab-by','by a reader'));ul.append(li)});
+    host.append(ul);
+  }
+  async function loadPoems(host){
+    host.textContent='';const c=CLIENT();
+    if(!c){host.append(E('p','bk-small','Reader poems will appear here once the site is connected to its database.'));return}
+    const w=E('p','bk-small','Loading…');host.append(w);
+    const {data,error}=await c.from('published_abol_poems').select('id,title,description,body,art_public_path,published_at').order('published_at',{ascending:false}).limit(60);
+    w.remove();
+    if(error){host.append(E('p','lis-st err','We could not load the poems right now.'));return}
+    if(!data.length){host.append(E('p','ab-empty','No reader poems have been published yet. Would you like to write the first one?'));return}
+    const urls=await signed(data.map(d=>d.art_public_path)),list=E('div','ab-rpoems');
+    data.forEach(d=>{const a=E('article','ab-rpoem');a.append(E('h3','',d.title));
+      if(d.art_public_path&&urls[d.art_public_path]){const im=E('img','ab-rpimg');im.src=urls[d.art_public_path];im.alt='Picture to go with the poem “'+d.title+'”';im.loading='lazy';a.append(im)}
+      a.append(E('div','ab-rtext',d.body)); /* white-space:pre-wrap keeps every line and stanza break */
+      if(d.description)a.append(E('p','bk-small',d.description));
+      a.append(E('p','bk-small ab-by','A poem by a Kathaa Sangam reader, not by Sukumar Ray.'));list.append(a)});
+    host.append(list);
+  }
+
+  /* ---------- my submissions ---------- */
+  async function loadMine(host){
+    host.textContent='';const c=CLIENT();if(!c)return;await READY();const u=USER();
+    if(!u){host.hidden=true;return}
+    host.hidden=false;host.append(E('h2','','My Abol Tabol submissions'));
+    const L=E('div');host.append(L);L.append(E('p','bk-small','Loading…'));
+    const {data,error}=await c.from('abol_submissions').select('id,kind,title,status,created_at,art_path,publish_consent').eq('user_id',u.id).order('created_at',{ascending:false}).limit(50);
+    L.textContent='';
+    if(error){L.append(E('p','lis-st err','We could not load your submissions right now.'));return}
+    if(!data.length){L.append(E('p','bk-small','You have not sent anything yet.'));return}
+    const urls=await signed(data.map(d=>d.art_path));
+    data.forEach(d=>{const s=STATUS[d.status]||STATUS.pending,card=E('article','ad-card cm-mine'),meta=E('div','ad-meta');
+      meta.append(E('span','pill '+s[0],s[1]),E('b','',(d.kind==='poem'?'Poem: ':'Creature: ')+d.title),E('span','bk-small',s[2]),E('span','bk-small','Sent '+dateOf(d.created_at)+(d.publish_consent?'':' · publication permission not given')));
+      if(d.art_path&&urls[d.art_path]){const im=E('img','mine');im.src=urls[d.art_path];im.alt='Your picture (private)';meta.append(im)}
+      const acts=E('div','lis-bar');
+      if(d.status!=='published'){const b=E('button','lbtn','🗑 Withdraw');b.type='button';b.onclick=async()=>{if(!confirm('Take this back and delete it? This cannot be undone.'))return;b.disabled=true;
+        const r=await c.from('abol_submissions').delete().eq('id',d.id).select('id');
+        if(r.error||!r.data||!r.data.length){b.disabled=false;L.prepend(E('p','lis-st err','It could not be deleted.'));return}
+        if(d.art_path)await c.storage.from(BUCKET).remove([d.art_path]);loadMine(host)};acts.append(b)}
+      card.append(meta,acts);L.append(card)});
+  }
+
+  /* ---------- mount on the Abol Tabol page ---------- */
+  function mount(root){
+    const cs=root.querySelector('#abCreatures'),ps=root.querySelector('#abReaderPoems'),mine=root.querySelector('#abMine');
+    const refresh=()=>{cs&&loadCreatures(cs.querySelector('.ab-live'));ps&&loadPoems(ps.querySelector('.ab-live'));mine&&loadMine(mine)};
+    const bc=root.querySelector('#abBtnCreature'),bp=root.querySelector('#abBtnPoem');
+    if(bc)bc.onclick=()=>openForm('creature',()=>loadMine(mine));
+    if(bp)bp.onclick=()=>openForm('poem',()=>loadMine(mine));
+    refresh();
+  }
+
+  /* ---------- administrator review ---------- */
+  async function mountAdmin(root){
+    root.textContent='';const note=t=>{root.textContent='';root.append(E('p','bk-small',t))};
+    if(!CLIENT()){note('Abol Tabol review is not switched on because the site is not connected to its database yet.');return}
+    await READY();
+    if(!USER()){note('Please log in with an administrator account.');return}
+    if(!ISADMIN()){note('This part is for project administrators only.');return}
+    const c=CLIENT();root.append(E('h2','','Abol Tabol submissions (creatures and poems)'));
+    const bar=E('div','lis-bar'),k=E('select'),s=E('select');k.setAttribute('aria-label','Kind');s.setAttribute('aria-label','Status');
+    [['all','Creatures and poems'],['creature','Creatures'],['poem','Poems']].forEach(([v,t])=>{const o=E('option','',t);o.value=v;k.append(o)});
+    [['pending','Waiting for review'],['published','Published'],['hidden','Hidden'],['rejected','Rejected'],['all','All']].forEach(([v,t])=>{const o=E('option','',t);o.value=v;s.append(o)});
+    const l1=E('label','lspd','Show ');l1.append(k);const l2=E('label','lspd','');l2.append(s);bar.append(l1,l2);
+    const status=E('p','lis-st');status.setAttribute('role','status');status.setAttribute('aria-live','polite');const list=E('div','ad-list');root.append(bar,status,list);
+    const say=(m,e)=>{status.className='lis-st'+(e?' err':'');status.textContent=m};
+    async function load(){
+      list.textContent='';say('Loading…');
+      let qy=c.from('abol_submissions').select('*').order('created_at',{ascending:false}).limit(200);
+      if(k.value!=='all')qy=qy.eq('kind',k.value);if(s.value!=='all')qy=qy.eq('status',s.value);
+      const {data,error}=await qy;if(error){say('Could not load submissions. '+(/does not exist|schema cache/i.test(error.message||'')?'The database script supabase/abol_community.sql has not been run yet.':''),1);return}
+      say(data.length?data.length+' item'+(data.length===1?'':'s'):'Nothing here.');
+      const urls=await signed(data.map(d=>d.art_path));
+      data.forEach(d=>{
+        const card=E('article','ad-card'),fig=E('div','ad-img');
+        if(d.art_path&&urls[d.art_path]){const im=new Image();im.src=urls[d.art_path];im.alt='Picture sent with “'+d.title+'”';im.loading='lazy';fig.append(im)}else fig.textContent=d.art_path?'Preview unavailable':'No picture';
+        const meta=E('div','ad-meta'),st=STATUS[d.status]||STATUS.pending;
+        meta.append(E('span','pill '+st[0],d.status),E('b','',(d.kind==='poem'?'Poem: ':'Creature: ')+d.title),
+          E('span','bk-small','Sent '+dateOf(d.created_at)+' · ID '+d.id.slice(0,8)),
+          E('span','bk-small','Consent to send: '+(d.consent_confirmed?'yes':'NO')+' · Consent to publish: '+(d.publish_consent?'yes':'no')));
+        if(d.body){const tx=E('div','ab-rtext',d.body);meta.append(tx)}
+        if(d.description)meta.append(E('span','bk-small','Description: '+d.description));
+        const acts=E('div','lis-bar');
+        const act=(label,fn)=>{const b=E('button','lbtn',label);b.type='button';b.onclick=async()=>{b.disabled=true;try{await fn()}finally{b.disabled=false}};return b};
+        const setS=async(stt,extra={})=>{const r=await c.from('abol_submissions').update({status:stt,...extra}).eq('id',d.id).select('id,status').single();
+          if(r.error||!r.data){say('That change was not saved.',1);return false}load();return true};
+        if(d.status!=='published'){
+          const pb=act('🌍 Approve and publish',async()=>{
+            if(!d.publish_consent){say('Cannot publish: the guardian permission to publish was not given.',1);return}
+            let pub=null;
+            if(d.art_path){pub='published/'+d.id+'.'+d.art_path.split('.').pop();const cp=await c.storage.from(BUCKET).copy(d.art_path,pub);if(cp.error&&!/exists|duplicate/i.test(cp.error.message||'')){say('The picture could not be prepared for publishing, so nothing was published.',1);return}}
+            const ok=await setS('published',{art_public_path:pub});if(!ok&&pub)await c.storage.from(BUCKET).remove([pub])});
+          if(!d.publish_consent){pb.disabled=true;pb.title='The guardian did not give permission to publish'}acts.append(pb)}
+        if(d.status==='published')acts.append(act('🙈 Hide (take off the website)',async()=>{const old=d.art_public_path;if(await setS('hidden')&&old)await c.storage.from(BUCKET).remove([old])}));
+        if(d.status!=='rejected'&&d.status!=='published')acts.append(act('⛔ Reject',()=>setS('rejected')));
+        acts.append(act('🗑 Delete',async()=>{if(!confirm('Delete this submission and its picture permanently?'))return;
+          const paths=[d.art_path,d.art_public_path].filter(Boolean);const rr=await c.from('abol_submissions').delete().eq('id',d.id).select('id');
+          if(rr.error||!rr.data||!rr.data.length){say('It could not be deleted.',1);return}if(paths.length)await c.storage.from(BUCKET).remove(paths);load()}));
+        card.append(fig,meta,acts);list.append(card)});
+    }
+    k.onchange=s.onchange=load;load();
+  }
+  return{submit,openForm,mount,mountAdmin,loadCreatures,loadPoems};
+})();
+window.AbolSubmit=AbolSubmit;
 
 /* ---------- routing ---------- */
 function route(){
@@ -7219,7 +7466,7 @@ const KathaaLearn=(function(){
   const SBX=()=>window.KathaaSB||null,sb=()=>SBX()&&SBX().client;
   const LVN={1:'Little Seedling',2:'Growing Sapling',3:'Mighty Tree'},LVI={1:'🌱',2:'🌿',3:'🌳'},GR={1:'Grades 4–5',2:'Grades 6–7',3:'Grades 8–10'};
   const CONSENT_VERSION='v1';
-  const S={user:null,consent:false,children:[],child:null,progress:[],attempts:[],responses:[],reviews:{},art:[],loaded:false,loading:false,error:''};
+  const S={user:null,consent:false,children:[],child:null,progress:[],attempts:[],responses:[],reviews:{},art:[],loaded:false,loading:false,error:'',errKind:'',partial:[]};
 
   /* ---------------- pure logic (also used by the tests) ---------------- */
   const suggestLevel=g=>g==null||g===''?null:(+g<=5?1:+g<=7?2:3);
@@ -7261,7 +7508,17 @@ const KathaaLearn=(function(){
   /* ---------------- small helpers ---------------- */
   const toast=m=>{const t=$('#toast');if(!t)return;t.textContent=m;t.classList.add('show');clearTimeout(toast._t);toast._t=setTimeout(()=>t.classList.remove('show'),3800)};
   const q=async p=>{const {data,error}=await p;if(error)throw error;return data};
-  const errText=e=>/row-level security|42501|permission/i.test((e&&e.message)||'')?'That was not allowed for this account.':(/fetch|network/i.test((e&&e.message)||'')?'We could not reach the server. Check your connection and try again.':'Something went wrong. Please try again.');
+  /* Classify a Supabase/network error so the page can say what is actually wrong (and log the technical detail for the team). */
+  function diagnose(e){
+    const m=String((e&&(e.message||e.error_description))||''),c=String((e&&(e.code||e.status))||'');
+    try{console.error('[Kathaa Sangam] database error',c,m,e&&e.details?e.details:'')}catch(_){}
+    if(/jwt expired|invalid jwt|jwt|refresh token|not authenticated|auth session missing/i.test(m)||c==='PGRST301'||c==='401')return {kind:'session',text:'Your login session has ended. Please log in again to see your journey.'};
+    if(/row-level security|permission denied|insufficient/i.test(m)||c==='42501'||c==='403')return {kind:'perm',text:'This account is not allowed to see that yet. If this keeps happening, tell the Kathaa Sangam team.'};
+    if(c==='PGRST205'||c==='42P01'||/does not exist|schema cache|could not find the table|relation .* does not exist/i.test(m))return {kind:'setup',text:'My Learning Journey has not been fully set up on the website’s database yet. Nothing you did caused this. The team has been told what to check.'};
+    if(/failed to fetch|networkerror|network request failed|load failed|timeout|fetch/i.test(m)||c==='0')return {kind:'net',text:'We could not reach the server. Please check your connection and try again.'};
+    return {kind:'other',text:'We could not load your journey just now. Please try again in a moment.'};
+  }
+  const errText=e=>diagnose(e).text;
   const signedIn=()=>!!S.user;
   const childId=()=>S.child?S.child.id:null;
   const stName=id=>(REAL[id]&&STATES[REAL[id].state])?STATES[REAL[id].state].name:'';
@@ -7362,20 +7619,37 @@ const KathaaLearn=(function(){
   function selectChild(id){const c=S.children.find(x=>x.id===id);S.child=c||null;try{if(c)localStorage.setItem(prefKey(),c.id)}catch(_){}}
 
   /* ---------------- loading ---------------- */
+  /* Progress is the critical read: if it fails, the error is shown. The other reads are optional extras for the dashboard
+     (written answers, quiz evidence, artwork): if one of them fails the dashboard still shows, and S.partial says what was left out. */
   async function loadChildData(){
-    const c=S.child;S.progress=[];S.attempts=[];S.responses=[];S.reviews={};S.art=[];if(!c)return;
-    const db=sb();
-    const [p,a,r,art]=await Promise.all([
-      q(db.from('story_progress').select('story_id,level,status,page,updated_at,completed_at').eq('child_id',c.id)),
-      q(db.from('quiz_attempts').select('item_id,story_id,level,dimension,correct,created_at').eq('child_id',c.id)),
-      q(db.from('child_responses').select('id,story_id,level,question_id,body,updated_at').eq('child_id',c.id)),
-      q(db.from('artwork_submissions').select('id,story_id,title,status,created_at,storage_path').eq('child_id',c.id).order('created_at',{ascending:false}))]);
-    S.progress=p||[];S.attempts=a||[];S.responses=r||[];S.art=art||[];
-    if(S.responses.length){const rv=await q(db.from('response_reviews').select('response_id,written,critical').in('response_id',S.responses.map(x=>x.id)));(rv||[]).forEach(x=>S.reviews[x.response_id]=x)}
+    const c=S.child;
+    if(!c){S.progress=[];S.attempts=[];S.responses=[];S.reviews={};S.art=[];S.partial=[];return}
+    const db=sb(),partial=[],reviews={}; /* fetch into locals and swap in at the end, so a refresh never shows the page an empty state while it is loading */
+    const progress=(await q(db.from('story_progress').select('story_id,level,status,page,updated_at,completed_at').eq('child_id',c.id)))||[];
+    const opt=async(name,p)=>{try{return (await q(p))||[]}catch(e){diagnose(e);partial.push(name);return []}};
+    const [a,r,art]=await Promise.all([
+      opt('quiz results',db.from('quiz_attempts').select('item_id,story_id,level,dimension,correct,created_at').eq('child_id',c.id)),
+      opt('written answers',db.from('child_responses').select('id,story_id,level,question_id,body,updated_at').eq('child_id',c.id)),
+      opt('artwork',db.from('artwork_submissions').select('id,story_id,title,status,created_at,storage_path').eq('child_id',c.id).order('created_at',{ascending:false}))]);
+    if(r.length){try{const rv=await q(db.from('response_reviews').select('response_id,written,critical').in('response_id',r.map(x=>x.id)));(rv||[]).forEach(x=>reviews[x.response_id]=x)}catch(e){diagnose(e);partial.push('reviews')}}
+    if(S.child!==c)return; /* the reader switched child while this was loading */
+    S.progress=mergePending(progress);S.attempts=a;S.responses=r;S.art=art;S.reviews=reviews;S.partial=partial;
   }
+  /* page turns not yet saved to the database stay visible instead of being overwritten by an older read */
+  function mergePending(rows){
+    pend.forEach(p=>{const i=rows.findIndex(x=>x.story_id===p.story_id&&x.level===p.level);const l={story_id:p.story_id,level:p.level,status:p.status,page:p.page,updated_at:p.updated_at,completed_at:p.completed_at};if(i<0)rows.push(l);else if(String(rows[i].updated_at)<=String(p.updated_at))rows[i]=l});
+    return rows;
+  }
+  /* never run two loads at once: a request that arrives while one is running is queued and run once afterwards */
   async function load(){
-    if(!sb())return;S.loading=true;S.error='';render();
-    try{
+    if(S.loading){load.again=true;return}
+    await loadOnce();
+    if(load.again){load.again=false;return load()}
+  }
+  async function loadOnce(){
+    if(!sb())return;
+    S.loading=true;S.error='';render();
+    const attempt=async()=>{
       await SBX().ready();const u=SBX().user();
       if(!u){S.user=null;S.consent=false;S.children=[];S.child=null;S.progress=[];S.attempts=[];S.responses=[];S.reviews={};S.art=[];S.loading=false;S.loaded=true;render();decorate();return}
       S.user=u;const db=sb();
@@ -7385,7 +7659,17 @@ const KathaaLearn=(function(){
       let want=null;try{want=localStorage.getItem(prefKey())}catch(_){}
       selectChild(S.children.some(c=>c.id===want)?want:(S.children[0]&&S.children[0].id));
       await loadChildData();
-    }catch(e){S.error=errText(e)}
+    };
+    try{
+      try{await attempt()}catch(e1){
+        const d1=diagnose(e1);
+        if(d1.kind==='session'){ /* try to refresh the login once before giving up */
+          if(Date.now()-(load.refreshedAt||0)<30000)throw e1; /* refresh the login at most once per 30 s, so a persistent error cannot loop */
+          load.refreshedAt=Date.now();try{await sb().auth.refreshSession();await attempt()}catch(e2){throw e2}
+        }else if(d1.kind==='net'){await new Promise(r=>setTimeout(r,1200));await attempt()} /* one quiet retry for a blip */
+        else throw e1;
+      }
+    }catch(e){const d=diagnose(e);S.error=d.text;S.errKind=d.kind}
     S.loading=false;S.loaded=true;render();decorate();
     /* a story opened straight from a link (before sign-in was known) is re-opened once at the child's own level / saved page, if the reader has not moved yet */
     if(!load.done){load.done=1;const sv=$('#storyview');if(S.child&&cur&&!cur.moved&&sv&&!sv.classList.contains('hidden')&&typeof StoryPage!=='undefined'){StoryPage.show(cur.id)}else refreshStory()}else refreshStory();
@@ -7446,7 +7730,8 @@ const KathaaLearn=(function(){
         <p class="lj-small">Accounts are for parents and teachers, who add a nickname profile for each child. You can still read every story without an account.</p>
         <div class="lj-act"><button type="button" class="btn-y" id="ljSign">Create an account</button><button type="button" class="btn-o" id="ljLog">Log in</button></div></div>`;
       $('#ljSign').onclick=()=>window.KathaaAuth&&KathaaAuth.open('signup');$('#ljLog').onclick=()=>window.KathaaAuth&&KathaaAuth.open('login');return}
-    if(S.error){box.innerHTML=`<div class="lj-wrap"><h2>My Learning <span>Journey</span></h2><p class="lj-note err">${esc(S.error)}</p><div class="lj-act"><button type="button" class="btn-y" id="ljRetry">Try again</button></div></div>`;$('#ljRetry').onclick=load;return}
+    if(S.error){box.innerHTML=`<div class="lj-wrap"><h2>My Learning <span>Journey</span></h2><p class="lj-note err" role="alert">${esc(S.error)}</p><div class="lj-act">${S.errKind==='session'?'<button type="button" class="btn-y" id="ljRelog">Log in again</button>':'<button type="button" class="btn-y" id="ljRetry">Try again</button>'}</div></div>`;
+      const rt=$('#ljRetry');if(rt)rt.onclick=load;const rl=$('#ljRelog');if(rl)rl.onclick=()=>window.KathaaAuth&&KathaaAuth.open('login');return}
     if(!S.consent||!S.child){
       box.innerHTML=`<div class="lj-wrap"><h2>My Learning <span>Journey</span></h2><p class="lj-lead">Almost there! A parent or teacher needs to finish setting up a learning profile first.</p><div class="lj-act"><button type="button" class="btn-y" id="ljSetup">Set up profile</button></div></div>`;
       $('#ljSetup').onclick=()=>S.consent?showChildForm():showConsent();return}
@@ -7463,6 +7748,7 @@ const KathaaLearn=(function(){
         ${stat('Stories completed',String(done.length),done.length?'Distinct stories finished':'Finish a story to see it here')}
         ${stat('English learning score',scoreBig,scoreSub,A.overall==null?'':'b-'+A.band.toLowerCase())}
       </div>
+      ${S.partial&&S.partial.length?`<p class="lj-note" role="status">Some parts could not be loaded just now (${esc(S.partial.join(', '))}). Your reading progress is shown below.</p>`:''}
       <details class="lj-how"><summary>What does this score measure?</summary>
         <p>The score (0–100) comes only from real evidence, never from just opening or finishing stories. It is the average of the parts that have enough evidence:</p>
         <ul><li><b>Reading comprehension:</b> story questions answered correctly on the first try (needs at least ${MIN_QUIZ} answered).</li>
@@ -7526,6 +7812,7 @@ const KathaaLearn=(function(){
   function refreshStory(){if(cur&&cur.lv&&!$('#storyview').classList.contains('hidden'))onStory(cur)}
   function onStory(d){
     const prevMoved=cur&&cur.id===d.id&&cur.moved;cur=d;cur.moved=!!prevMoved;const {id,lv}=d;
+    if(S.child&&lv&&REAL[id]&&!rowFor(id,lv))track(id,lv,-1); /* opening a story marks it Currently Reading (a record is created at the cover) */
     wireAnswers(id,lv);renderQuiz(id,lv);
   }
   async function wireAnswers(id,lv){
@@ -7633,9 +7920,19 @@ const KathaaLearn=(function(){
   function menu(){
     const m=$('#auMenu');if(!m||$('#ljMenu',m))return;
     const a=document.createElement('a');a.id='ljMenu';a.href='#';a.textContent='🌱 My Learning Journey';
-    a.onclick=e=>{e.preventDefault();$('#auMenu').classList.add('hidden');location.hash='';setTimeout(()=>{const el=$('#mylj');el&&el.scrollIntoView({behavior:'smooth',block:'start'})},60)};
+    a.onclick=e=>{e.preventDefault();$('#auMenu').classList.add('hidden');if(window.goHomeTo)window.goHomeTo('mylj');else{location.hash='';setTimeout(()=>{const el=$('#mylj');el&&el.scrollIntoView({behavior:'smooth',block:'start'})},60)}};
     m.insertBefore(a,m.children[1]||null);
   }
+
+  /* ---------------- fresh data when the reader comes back ---------------- */
+  let refreshing=false;
+  async function refresh(){
+    if(refreshing||!signedIn()||!S.child||S.loading)return;refreshing=true;
+    try{await flush();await loadChildData();S.error='';S.errKind=''}
+    catch(e){const d=diagnose(e);if(d.kind==='session'||d.kind==='setup'||d.kind==='perm'){S.error=d.text;S.errKind=d.kind}}
+    refreshing=false;render();decorate();
+  }
+  const homeVisible=()=>{const l=$('#landing');return !!l&&!l.classList.contains('hidden')};
 
   /* ---------------- boot ---------------- */
   function boot(){
@@ -7644,12 +7941,16 @@ const KathaaLearn=(function(){
     window.addEventListener('ks:auth',()=>{load();setTimeout(menu,60)});
     window.addEventListener('ks:story',e=>onStory(e.detail));
     window.addEventListener('ks:turn',e=>onTurn(e.detail));
+    window.addEventListener('hashchange',()=>{setTimeout(()=>{if(homeVisible())refresh()},120)}); /* coming back from a story: re-read progress, never trust stale state */
+    window.addEventListener('pageshow',e=>{if(e.persisted)refresh()});
+    document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden')flush();else refresh()}); /* save when leaving the tab */
+    window.addEventListener('pagehide',()=>{flush()});
     window.addEventListener('hashchange',()=>{setTimeout(decorate,350);if(location.hash==='#admin')setTimeout(mountAdmin,400)});
     const sv=$('#shelfview');if(sv)new MutationObserver(()=>decorate()).observe(sv,{childList:true,subtree:true});
     if(sb())SBX().ready().then(()=>{load();menu();if(location.hash==='#admin')setTimeout(mountAdmin,400)});
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot);else boot();
-  return {childId,signedIn,preferredLevel,resumeFor,core,state:S,mountAdmin};
+  return {childId,signedIn,preferredLevel,resumeFor,core,state:S,mountAdmin,refresh,diagnose};
 })();
 window.KathaaLearn=KathaaLearn;
 

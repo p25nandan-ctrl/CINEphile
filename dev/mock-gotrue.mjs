@@ -2,6 +2,7 @@
 import http from 'node:http';
 import crypto from 'node:crypto';
 import { community, CDB, resetCommunity } from './mock-community.mjs';
+import { abol, ADB, resetAbol } from './mock-abol.mjs';
 const files = new Map(), rows = [], users = new Map(), codes = new Map(), mails = [], sessions = new Map();
 const DB = { consent_records:[], child_profiles:[], story_progress:[], child_responses:[], quiz_attempts:[], response_reviews:[] };
 const owns = (who, cid) => !!(who && cid && DB.child_profiles.some(c => c.id===cid && c.guardian_id===who.id));
@@ -20,6 +21,7 @@ http.createServer(async (req, res) => {
   if (p === '/auth/v1/signup') {
     const email = (body.email||'').toLowerCase(); if ((body.password||'').length < 8) return err(res,422,'Password should be at least 8 characters.','weak_password');
     let x = users.get(email);
+    if (globalThis.__autoconfirm) { if (x) return err(res,422,'User already registered','user_already_exists'); x = { id:crypto.randomUUID(), email, pw:body.password, created:new Date().toISOString(), confirmed:true, meta:body.data }; users.set(email,x); return send(res,200,sess(x)); }
     if (!x) { x = { id:crypto.randomUUID(), email, pw:body.password, created:new Date().toISOString(), confirmed:false, meta:body.data }; users.set(email,x); const c = crypto.randomUUID(); codes.set(c,{email,kind:'signup'}); mails.push({to:email,kind:'signup',link:`http://localhost:54321/auth/v1/verify?c=${c}&redirect_to=${encodeURIComponent(u.searchParams.get('redirect_to')||'')}`}); return send(res,200,pub(x)); }
     return send(res,200,{ ...pub(x), identities:[] }); // obfuscated for existing email
   }
@@ -38,9 +40,12 @@ http.createServer(async (req, res) => {
 
   /* ---- DEV-ONLY approximation of Supabase Storage + PostgREST for the artwork flow. Mimics the intended RLS rules; it is NOT a test of the real policies. ---- */
   const who = byTok(); const isAdm = !!(who && who.email.startsWith('admin@'));
-  if (p === '/__resetcommunity') { resetCommunity(); return send(res,200,{}); }
+  if (p === '/__resetcommunity') { resetCommunity(); resetAbol(); return send(res,200,{}); }
+  if (p === '/__abol') return send(res,200,ADB);
+  if (p === '/__autoconfirm') { globalThis.__autoconfirm = u.searchParams.get('on')==='1'; return send(res,200,{on:globalThis.__autoconfirm}); }
   if (p === '/__community') return send(res,200,CDB);
   if (await community({ req, res, u, body, who, isAdm, send, err, files })) return;
+  if (await abol({ req, res, u, body, who, isAdm, send, err, files })) return;
   if (p.startsWith('/storage/v1/')) {
     if (p.startsWith('/storage/v1/object/sign/child-art/') && req.method==='GET') { const key = decodeURIComponent(p.slice('/storage/v1/object/sign/child-art/'.length)); const f = files.get(key); if(!f) return err(res,404,'nf'); res.writeHead(200,{'content-type':f.type,'access-control-allow-origin':'*'}); return res.end(f.buf); }
     if (!who) return err(res,401,'invalid JWT');
