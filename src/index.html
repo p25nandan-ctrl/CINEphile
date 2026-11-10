@@ -476,6 +476,15 @@ dd.tbv{display:inline-block;margin:0}
 .bk-in .ph.pend{aspect-ratio:346/283;background:repeating-linear-gradient(135deg,#fff7e0 0 14px,#fbefd3 14px 28px);border:3px dashed #b28ac6;box-shadow:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.35em;padding:14px;color:#6a2f7c}
 .bk-in .ph.pend span{font-size:2em}.bk-in .ph.pend b{font:900 1em 'Grandstander','Nunito',sans-serif}.bk-in .ph.pend i{font:800 .85em/1.3 'Nunito',sans-serif;font-style:normal;color:#6b2616}
 .cv-art.pend{display:grid;place-content:center;font-size:56px;background:#fff7e0;border:3px dashed #b28ac6}
+/* Voices That Inspire Us (About us) */
+.vi-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:stretch}
+.vi-card{position:relative;margin:0;display:flex;flex-direction:column;background:var(--ivory);color:var(--jamun);border:4px solid #FFF4DB;border-radius:24px;padding:22px 20px 16px;box-shadow:0 6px 0 rgba(30,0,34,.4)}
+.vi-mark{position:absolute;top:-6px;left:14px;font:900 74px/1 'Grandstander',Georgia,serif;color:var(--rani,#d6336c);opacity:.28;pointer-events:none}
+.vi-text{margin:14px 0 14px;padding:0;flex:1}.vi-text p{margin:0;font:600 16px/1.6 'Nunito',Georgia,serif;overflow-wrap:anywhere}
+.vi-by{display:flex;flex-direction:column;gap:2px;border-top:2px dashed rgba(30,0,34,.25);padding-top:10px}
+.vi-name{font:900 18px 'Grandstander','Nunito',sans-serif}.vi-role{font-weight:700;font-size:14px}.vi-from{font-weight:700;font-size:13px;opacity:.75}
+.vi-draft{outline:3px dashed #c0392b;outline-offset:3px}.vi-flag{display:block;font:800 12px 'Nunito',sans-serif;color:#c0392b;margin-bottom:4px}
+@media(max-width:900px){.vi-grid{grid-template-columns:1fr}}
 
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .lj{padding:26px 16px 10px}.lj[hidden]{display:none}
@@ -783,6 +792,7 @@ body.lm-open{overflow:hidden}.lm-ov{position:fixed;inset:0;background:rgba(58,10
     <article class="val"><span aria-hidden="true">🤝</span><h3>Building Connections Across Cultures</h3><p>By reading stories from different parts of the country, children can discover shared values, different perspectives, and the richness of India’s cultural heritage.</p></article>
     <article class="val"><span aria-hidden="true">💡</span><h3>Encouraging Critical Thinking</h3><p>The website should encourage children to reflect on stories, answer questions, share interpretations, and express their understanding creatively through writing and artwork.</p></article>
   </div>
+  <section id="voicesInspire" aria-label="Voices That Inspire Us" hidden></section>
 </div></main>
 <main id="sourcesview" class="hidden"><div class="pgv">
   <div class="atl-head"><button class="hb" data-hash="">← Home</button><div><h1>Sources &amp; <span>Acknowledgements</span></h1><p>Where every story and picture comes from.</p></div></div>
@@ -7434,6 +7444,39 @@ const AbolSubmit=(function(){
   return{submit,openForm,mount,mountAdmin,loadCreatures,loadPoems};
 })();
 window.AbolSubmit=AbolSubmit;
+
+/* "Voices That Inspire Us": three testimonials on the About us page.
+   They are DRAFTS written for the named people to review. A testimonial is shown to visitors ONLY after its `approved` flag is set to true
+   (by the team, once that person has confirmed the exact wording and attribution). Until then the section is hidden from visitors.
+   Team preview (shows all drafts, each marked "Draft"): open the site with ?preview=voices  e.g. https://your-site/?preview=voices#about
+   Names, designations, places and the wording below are exactly as supplied; do not edit them without the person's approval. */
+const VOICES=[
+  {name:'Dawny Johnson',role:'Founder, BAFL',from:'Kerala',approved:false,
+   text:"Growing up in Kerala, stories were always a part of our lives. What I really like about Kathaa Sangam is that it brings those stories to children who may never have heard them before. And it's not just about reading a story and moving on. The different reading levels and the chance to think about what you've read make it a really useful learning tool. I can see children enjoying this, especially in classrooms."},
+  {name:'Khushboo Kumari',role:'Teach For India, 2022',from:'Jharkhand',approved:false,
+   text:"Coming from Jharkhand, I know there are so many wonderful stories that children grow up hearing but rarely find in their schoolbooks. I love that Kathaa Sangam is trying to bring these stories together from across India. The English and Hindi versions are especially helpful because children can learn at their own pace without feeling lost. It's the kind of resource I would have loved to use with my students."},
+  {name:'Anandu C. A.',role:'Teach For India, 2022',from:'Kerala',approved:false,
+   text:"One thing I've always noticed with children is how much more interested they become when learning starts with a good story. That's what I like about Kathaa Sangam. A child in Kerala can read a story from Rajasthan or Assam and discover something completely new, while also getting better at English. I particularly like that children can share their own thoughts and drawings. It makes the experience much more than just reading."}
+];
+(function(){
+  const host=document.getElementById('voicesInspire');if(!host)return;
+  const preview=/[?&]preview=voices\b/.test(location.search);
+  const show=VOICES.filter(v=>v.approved||preview);
+  if(!show.length){host.hidden=true;return}
+  const E=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+  host.hidden=false;host.textContent='';
+  host.append(E('h2','pg-h','Voices That Inspire Us'));
+  const grid=E('div','vi-grid');
+  show.forEach(v=>{
+    const f=E('figure','vi-card'+(v.approved?'':' vi-draft'));
+    if(!v.approved)f.append(E('span','vi-flag','Draft: not yet approved by this person. Preview only.'));
+    f.append(E('span','vi-mark','“'));f.lastChild.setAttribute('aria-hidden','true');
+    const bq=E('blockquote','vi-text');bq.append(E('p','',v.text));f.append(bq);
+    const cap=E('figcaption','vi-by');cap.append(E('b','vi-name',v.name),E('span','vi-role',v.role),E('span','vi-from','From '+v.from));
+    f.append(cap);grid.append(f);
+  });
+  host.append(grid);
+})();
 
 /* ---------- routing ---------- */
 function route(){

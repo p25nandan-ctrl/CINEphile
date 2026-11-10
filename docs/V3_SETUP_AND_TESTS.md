@@ -46,3 +46,6 @@ The mock imitates the intended rules. **It does not prove the real SQL policies 
 
 ## 6. Not tested
 Real Supabase (SQL, RLS, Storage, signed URLs, Auth settings); real email; the Vercel deployment; Hindi wording; phones (only viewport widths were tested); screen readers; the 3D Hollow world beyond "Stories link works from it".
+
+## 7. Testimonials ("Voices That Inspire Us", About us)
+Added at the end of the About us page (`site/voices.js`, `#voicesInspire`). The three drafts are stored with `approved:false`, so **visitors currently see nothing**. To preview them (each marked "Draft"): open the site with `?preview=voices`. After each person confirms their exact wording and attribution, set that entry's `approved` to `true` in `voices.js`, run `bash build_k.sh`, copy `kathaa.html` to `src/index.html` and redeploy. Text is exactly as supplied. Tested on file:// in Chrome only (3 columns at 1280 px, 1 column at 390 px, no horizontal overflow, hidden by default, shown when approved).
