@@ -1,0 +1,607 @@
+{
+ "id": "the-day-dreamer",
+ "state": "jh",
+ "title": "The Day Dreamer",
+ "titleHi": "दिवास्वप्न देखने वाला लड़का",
+ "summary": "A young Santhal boy carrying oil pots to market daydreams about chickens, cows, a family and great wealth, until a wobble sends everything crashing. A funny tale about dreams and paying attention.",
+ "summarySource": "written for this site",
+ "genre": "Folktale (humour)",
+ "from": "Santhal folktale, Jharkhand",
+ "origLevel": 2,
+ "levelReason": "The supplied English averages about 11.5 words per sentence, which fits Level 2 (9-12). It uses plain events and many short lines, but also some harder words (vigorously, astonished, absorbed, substitute) and a reflective moral, which is more than Level 1 and less layered than Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a young Santhal boy worked for an oil seller.",
+     "His job was easy. He carried pots of oil in a big basket on his head. He took them to the market.",
+     "The oil seller would pay him fifty paisa.",
+     "One morning, the boy put the basket on his head. He walked to the market. The oil seller walked right behind him.",
+     "The boy walked down the village road. His mind began to wander. He thought about the money he would get.",
+     "“With half my pay, I will buy chickens,” he thought. “The chickens will lay eggs. I can sell the eggs and the chicks. Soon I can buy goats.”",
+     "His dream grew bigger. “The goats will have babies. I will sell them and buy cows. Then I will buy buffaloes. I will be a very rich man!”",
+     "The boy felt very excited. He saw himself with hundreds of animals. He saw himself richer than anyone in the village.",
+     "Then he dreamed about his family. “I will marry a lovely wife,” he thought. “We will have sweet children and a big house. My wife will cook yummy food for me every day.”",
+     "He saw his wife coming to him one evening. “Dear, dinner is ready. Come and eat!” she would say.",
+     "But the boy was lost in his dream. He shook his head and said, “No, no! Not now!”",
+     "He shook his head so hard that the basket began to wobble. Then the basket slipped. Crash!",
+     "All the pots fell and broke. The oil spilled on the dusty road. The oil seller was shocked.",
+     "He ran to the boy and shouted at him. “What have you done? All my oil is gone! How will you pay me back?”",
+     "The boy stood quiet for a moment. Then he said sadly, “You lost only some oil, master. But I have lost so much more!”",
+     "The oil seller was puzzled. “What do you mean? What else have you lost?”",
+     "The boy sighed. “I have lost all my chickens, goats, cows and buffaloes. I have lost my lovely wife and my children too!”",
+     "The oil seller stared at him. Then the boy told him about his dream of money, a wife and a family.",
+     "The oil seller listened to all of it. At first, he was amazed. Then he laughed and laughed.",
+     "He understood the boy’s problem. The boy was so busy dreaming that he forgot his work.",
+     "The oil seller stopped scolding. He laughed at the big adventure that happened only in the boy’s mind.",
+     "So the young Santhal boy learned something. Dreams can be wonderful. But he must still pay attention to his work.",
+     "Moral: Dreams and plans are good. But without care and action, they stay only dreams."
+    ],
+    "hi": [
+     "बहुत समय पहले एक छोटा संथाल लड़का तेल बेचने वाले के यहाँ काम करता था।",
+     "उसका काम आसान था। वह तेल के घड़े एक बड़ी टोकरी में रखकर सिर पर उठाता था। फिर उन्हें बाज़ार ले जाता था।",
+     "तेल वाला उसे पचास पैसे देने वाला था।",
+     "एक सुबह लड़के ने टोकरी सिर पर रखी और बाज़ार की ओर चल पड़ा। तेल वाला ठीक उसके पीछे-पीछे चल रहा था।",
+     "लड़का गाँव की सड़क पर चल रहा था। उसका मन इधर-उधर भटकने लगा। वह सोचने लगा कि पैसे मिलने पर वह क्या करेगा।",
+     "“आधे पैसों से मैं मुर्गियाँ खरीदूँगा,” उसने सोचा। “मुर्गियाँ अंडे देंगी। मैं अंडे और चूज़े बेच दूँगा। जल्दी ही मैं बकरियाँ खरीद लूँगा।”",
+     "उसका सपना बड़ा होता गया। “बकरियों के बच्चे होंगे। उन्हें बेचकर मैं गायें खरीदूँगा। फिर भैंसें खरीदूँगा। मैं बहुत अमीर आदमी बन जाऊँगा!”",
+     "लड़का बहुत खुश हो गया। उसने देखा कि उसके चारों ओर सैकड़ों जानवर हैं। वह गाँव में सबसे अमीर है।",
+     "फिर वह अपने परिवार के सपने देखने लगा। “मैं एक सुंदर पत्नी से शादी करूँगा,” उसने सोचा। “हमारे प्यारे बच्चे होंगे और बड़ा घर होगा। मेरी पत्नी रोज़ मेरे लिए स्वादिष्ट खाना बनाएगी।”",
+     "उसने सोचा कि एक शाम उसकी पत्नी उसके पास आती है। “प्रिय, खाना तैयार है। आओ, खा लो!” वह कहेगी।",
+     "पर लड़का अपने सपने में खोया हुआ था। उसने सिर हिलाकर कहा, “नहीं, नहीं! अभी नहीं!”",
+     "उसने इतने ज़ोर से सिर हिलाया कि टोकरी डगमगाने लगी। फिर टोकरी फिसल गई। धड़ाम!",
+     "सारे घड़े गिरकर टूट गए। तेल धूल भरी सड़क पर बह गया। तेल वाला घबरा गया।",
+     "वह दौड़कर लड़के के पास आया और गुस्से से डाँटने लगा। “तुमने क्या कर दिया? मेरा सारा तेल बेकार हो गया! मेरा नुकसान कैसे भरोगे?”",
+     "लड़का एक पल चुप खड़ा रहा। फिर उसने उदास होकर कहा, “मालिक, आपका तो थोड़ा-सा तेल गया है। पर मेरा तो बहुत कुछ चला गया!”",
+     "तेल वाला उलझन में पड़ गया। “तुम्हारा क्या मतलब है? तुम्हारा और क्या गया?”",
+     "लड़के ने आह भरी। “मेरी सारी मुर्गियाँ, बकरियाँ, गायें और भैंसें चली गईं। मेरी सुंदर पत्नी और बच्चे भी चले गए!”",
+     "तेल वाला उसे देखता रह गया। तब लड़के ने अपने पैसों, पत्नी और परिवार के सपने के बारे में बताया।",
+     "तेल वाले ने पूरी बात सुनी। पहले वह हैरान हुआ। फिर वह खूब हँसा।",
+     "वह समझ गया कि लड़का सपनों में इतना खो गया था कि अपना काम ही भूल गया।",
+     "उसने डाँटना छोड़ दिया। वह उस बड़े कारनामे पर हँसा जो बस लड़के के मन में हुआ था।",
+     "इस तरह संथाल लड़के ने सीखा कि सपने सुंदर होते हैं। पर अपने सामने के काम पर ध्यान देना भी ज़रूरी है।",
+     "सीख: सपने और इरादे अच्छे होते हैं। पर ध्यान और काम के बिना वे सिर्फ़ सपने ही रहते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "basket",
+     "en": "a big container for carrying things",
+     "hi": "टोकरी"
+    },
+    {
+     "w": "wander",
+     "en": "to let the mind drift away",
+     "hi": "भटकना"
+    },
+    {
+     "w": "excited",
+     "en": "very happy about something",
+     "hi": "उत्साहित"
+    },
+    {
+     "w": "wobble",
+     "en": "to shake from side to side",
+     "hi": "डगमगाना"
+    },
+    {
+     "w": "slipped",
+     "en": "slid off by accident",
+     "hi": "फिसल गई"
+    },
+    {
+     "w": "spilled",
+     "en": "ran out and spread everywhere",
+     "hi": "बह गया"
+    },
+    {
+     "w": "dusty",
+     "en": "covered with dry dirt",
+     "hi": "धूल भरी"
+    },
+    {
+     "w": "puzzled",
+     "en": "confused",
+     "hi": "उलझन में"
+    },
+    {
+     "w": "sighed",
+     "en": "let out a long, sad breath",
+     "hi": "आह भरी"
+    },
+    {
+     "w": "amazed",
+     "en": "very surprised",
+     "hi": "हैरान"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and what",
+     "q": "Who did the boy work for, and what did he carry on his head?"
+    },
+    {
+     "k": "The dream",
+     "q": "What did the boy dream of buying with his money? Name two things."
+    },
+    {
+     "k": "What happened",
+     "q": "What happened when the boy shook his head?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the oil seller feel at first, and how did he feel at the end?"
+    },
+    {
+     "k": "My connection",
+     "q": "Have you ever daydreamed so much that you forgot what you were doing? What happened?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Many years ago, there lived a young Santhal boy who worked for an oil merchant.",
+     "His job was simple. He had to carry pots filled with oil in a large basket balanced on his head and deliver them to the marketplace.",
+     "For his work, the merchant promised to pay him fifty paisa.",
+     "One morning, the boy placed the basket of oil pots on his head and began walking towards the market. The merchant followed closely behind him.",
+     "As the boy walked along the village road, his mind began to wander. He started thinking about what he would do with the money he was going to earn.",
+     "“With half my wages, I shall buy some chickens,” he thought. “The chickens will lay eggs, and I can sell both the eggs and the chicks. Soon I will have enough money to buy goats.”",
+     "His imagination grew. “I shall breed the goats and sell their young ones. With the money I earn, I will buy cows. After that, I shall purchase buffaloes. Before long, I will become a very wealthy man!”",
+     "The boy became increasingly excited. He imagined himself surrounded by hundreds of animals and possessing more wealth than anyone in the village.",
+     "Then he began dreaming about his future family. “I shall marry a beautiful woman,” he thought. “We will have lovely children and live in a grand house. My wife will prepare delicious meals for me every day.”",
+     "He imagined his wife approaching him one evening. “Darling, dinner is ready. Come and eat!” she would say.",
+     "But the boy, lost in his imaginary world, shook his head and replied: “No, no! Not now!”",
+     "He shook his head so vigorously that the basket balanced upon it began to wobble. Suddenly, the basket slipped. Crash!",
+     "All the oil pots fell to the ground and broke. The precious oil spilled across the dusty road. The merchant, who had been following him, was horrified.",
+     "He rushed towards the boy and scolded him furiously. “What have you done? All my oil is wasted! How will you repay me for this loss?”",
+     "The boy stood silently for a moment. Then, looking very sad, he replied: “You have lost only some oil, master. But I have lost so much more!”",
+     "The merchant was puzzled. “What do you mean? What else have you lost?”",
+     "The boy sighed. “I have lost all my chickens, goats, cows and buffaloes. I have lost my beautiful wife and my children too!”",
+     "The merchant stared at him. The boy then explained how he had imagined building a great fortune with his wages, marrying and raising a family.",
+     "The merchant listened to the entire story. At first, he was astonished. Then he burst into laughter.",
+     "He realised that the boy had become so absorbed in his dreams that he had forgotten the very task he had been employed to perform.",
+     "Rather than continuing to scold him, the merchant laughed at the extraordinary adventure that had taken place entirely inside the boy’s imagination.",
+     "And so, the young Santhal boy learned that dreams could be wonderful, but they were no substitute for paying attention to the work in front of him.",
+     "Moral: Dreams and ambitions are valuable, but without attention and action, they remain only dreams."
+    ],
+    "hi": [
+     "बहुत साल पहले एक युवा संथाल लड़का एक तेल व्यापारी के यहाँ काम करता था।",
+     "उसका काम सीधा-सादा था। उसे तेल से भरे घड़े एक बड़ी टोकरी में रखकर, सिर पर संतुलित करके, बाज़ार तक पहुँचाने थे।",
+     "इस काम के बदले व्यापारी ने उसे पचास पैसे देने का वादा किया था।",
+     "एक सुबह लड़के ने तेल के घड़ों की टोकरी सिर पर रखी और बाज़ार की ओर चलने लगा। व्यापारी उसके ठीक पीछे-पीछे चल रहा था।",
+     "गाँव की सड़क पर चलते हुए लड़के का मन भटकने लगा। वह सोचने लगा कि जो पैसे उसे मिलने वाले हैं, उनका वह क्या करेगा।",
+     "“अपनी आधी मज़दूरी से मैं कुछ मुर्गियाँ खरीदूँगा,” उसने सोचा। “मुर्गियाँ अंडे देंगी, और मैं अंडे और चूज़े दोनों बेच सकूँगा। जल्दी ही मेरे पास बकरियाँ खरीदने लायक पैसे हो जाएँगे।”",
+     "उसकी कल्पना बढ़ती गई। “मैं बकरियाँ पालूँगा और उनके बच्चे बेचूँगा। उस कमाई से मैं गायें खरीदूँगा। उसके बाद भैंसें खरीदूँगा। देखते-देखते मैं बहुत धनी आदमी बन जाऊँगा!”",
+     "लड़का और भी उत्साहित हो गया। उसने कल्पना की कि वह सैकड़ों जानवरों से घिरा है और पूरे गाँव में किसी से भी ज़्यादा दौलत का मालिक है।",
+     "फिर वह अपने भावी परिवार के सपने देखने लगा। “मैं एक सुंदर स्त्री से विवाह करूँगा,” उसने सोचा। “हमारे प्यारे बच्चे होंगे और हम एक शानदार घर में रहेंगे। मेरी पत्नी हर दिन मेरे लिए स्वादिष्ट खाना बनाएगी।”",
+     "उसने कल्पना की कि एक शाम उसकी पत्नी उसके पास आ रही है। “प्रिय, खाना तैयार है। आओ, खा लो!” वह कहेगी।",
+     "पर लड़का अपनी काल्पनिक दुनिया में खोया हुआ था। उसने सिर हिलाकर जवाब दिया, “नहीं, नहीं! अभी नहीं!”",
+     "उसने इतने ज़ोर से सिर हिलाया कि सिर पर रखी टोकरी डगमगाने लगी। अचानक टोकरी फिसल गई। धड़ाम!",
+     "सारे तेल के घड़े ज़मीन पर गिरकर टूट गए। कीमती तेल धूल भरी सड़क पर बिखर गया। पीछे चल रहा व्यापारी यह देखकर सन्न रह गया।",
+     "वह दौड़कर लड़के के पास पहुँचा और उसे बहुत गुस्से से डाँटा। “तुमने क्या कर दिया? मेरा सारा तेल बर्बाद हो गया! इस नुकसान की भरपाई तुम कैसे करोगे?”",
+     "लड़का एक पल चुपचाप खड़ा रहा। फिर बहुत उदास दिखते हुए उसने कहा, “मालिक, आपका तो थोड़ा-सा तेल ही गया है। पर मेरा तो बहुत कुछ चला गया!”",
+     "व्यापारी उलझन में पड़ गया। “तुम्हारा क्या मतलब है? तुमने और क्या खो दिया?”",
+     "लड़के ने गहरी साँस ली। “मेरी सारी मुर्गियाँ, बकरियाँ, गायें और भैंसें चली गईं। मेरी सुंदर पत्नी और मेरे बच्चे भी चले गए!”",
+     "व्यापारी उसे घूरता रह गया। फिर लड़के ने समझाया कि उसने अपनी मज़दूरी से बड़ी दौलत बनाने, विवाह करने और परिवार पालने की कल्पना कैसे की थी।",
+     "व्यापारी ने पूरी कहानी सुनी। पहले तो वह हैरान रह गया। फिर वह ज़ोर से हँस पड़ा।",
+     "वह समझ गया कि लड़का अपने सपनों में इतना डूब गया था कि जिस काम के लिए उसे रखा गया था, वही भूल बैठा।",
+     "उसे डाँटते रहने के बजाय व्यापारी उस अनोखे कारनामे पर हँसा, जो पूरी तरह लड़के की कल्पना के भीतर हुआ था।",
+     "और इस तरह उस युवा संथाल लड़के ने सीखा कि सपने अद्भुत हो सकते हैं, पर अपने सामने के काम पर ध्यान देने की जगह वे नहीं ले सकते।",
+     "सीख: सपने और महत्वाकांक्षाएँ मूल्यवान हैं, लेकिन ध्यान और कर्म के बिना वे केवल सपने ही रह जाते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "balanced",
+     "en": "held steady so it does not fall",
+     "hi": "संतुलित"
+    },
+    {
+     "w": "wages",
+     "en": "money paid for work",
+     "hi": "मज़दूरी"
+    },
+    {
+     "w": "imagination",
+     "en": "the power to picture things in your mind",
+     "hi": "कल्पना"
+    },
+    {
+     "w": "vigorously",
+     "en": "with great strength and energy",
+     "hi": "ज़ोर से"
+    },
+    {
+     "w": "wobble",
+     "en": "to shake from side to side",
+     "hi": "डगमगाना"
+    },
+    {
+     "w": "precious",
+     "en": "very valuable",
+     "hi": "कीमती"
+    },
+    {
+     "w": "horrified",
+     "en": "shocked and upset",
+     "hi": "सन्न"
+    },
+    {
+     "w": "scolded",
+     "en": "spoke angrily to someone who did wrong",
+     "hi": "डाँटा"
+    },
+    {
+     "w": "puzzled",
+     "en": "confused",
+     "hi": "उलझन में"
+    },
+    {
+     "w": "astonished",
+     "en": "very surprised",
+     "hi": "हैरान"
+    },
+    {
+     "w": "absorbed",
+     "en": "so interested in something that you notice nothing else",
+     "hi": "लीन"
+    },
+    {
+     "w": "substitute",
+     "en": "something that takes the place of another thing",
+     "hi": "विकल्प"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did the boy begin thinking about chickens, goats and cows while he walked?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "How did the boy’s daydream lead to the basket falling?"
+    },
+    {
+     "k": "The boy’s reply",
+     "q": "Why do you think the boy said he had lost much more than the oil? Was he being honest, funny, or both?"
+    },
+    {
+     "k": "A decision",
+     "q": "Why did the merchant laugh instead of scolding the boy more? What would you have done in his place?"
+    },
+    {
+     "k": "Meaning",
+     "q": "What does the story mean when it says dreams are “no substitute” for paying attention? Can someone dream big and still do their work well?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Many years ago, in a Santhal village, there lived a young boy who worked for a prosperous oil merchant.",
+     "His task was simple enough: he had to carry pots filled to the brim with oil in a large basket balanced upon his head, and deliver them safely to the bustling marketplace.",
+     "In return for his labour, the merchant had promised him fifty paisa.",
+     "One morning, the boy lifted the heavy basket onto his head and set off towards the market, while the merchant trailed closely behind him, keeping watch over his precious goods.",
+     "Along the winding village road, the boy’s thoughts began to drift away from the path. He started to wonder what he might do with the money he was about to earn.",
+     "“With half my wages, I shall buy a few chickens,” he thought. “The hens will lay eggs, and I can sell both the eggs and the chicks. Before long, I shall have enough to buy goats.”",
+     "His imagination ran faster and faster. “I shall breed the goats and sell their young, and with that money I will buy cows. After the cows, buffaloes! Before long, I will be a very wealthy man!”",
+     "The boy’s excitement swelled with every step. He pictured himself surrounded by hundreds of animals, possessing more wealth than anyone else in the village.",
+     "Then his daydream turned towards the family he would one day have. “I shall marry a beautiful woman,” he thought. “We will have lovely children and live in a grand house, and my wife will prepare delicious meals for me every single day.”",
+     "In his mind, he saw his wife come to him one evening. “Darling, dinner is ready. Come and eat!” she would call.",
+     "But the boy, utterly lost in his imaginary world, shook his head and replied firmly, “No, no! Not now!”",
+     "He shook his head with such force that the basket perched on top of it began to wobble dangerously. Then, all at once, it slipped from his head. Crash!",
+     "Every oil pot hit the ground and shattered, and the precious oil flowed out across the dusty road. The merchant, who had been walking just behind, was horrified.",
+     "He rushed forward and scolded the boy furiously. “What have you done? All my oil is wasted! How will you ever repay me for this loss?”",
+     "For a moment the boy stood in silence. Then, with a deeply sorrowful look, he answered, “You have lost only some oil, master. But I have lost so much more!”",
+     "The merchant frowned in bewilderment. “What do you mean? What else could you possibly have lost?”",
+     "The boy let out a long sigh. “I have lost all my chickens, my goats, my cows and my buffaloes. I have lost my beautiful wife and my children too!”",
+     "The merchant stared at him in disbelief. Slowly, the boy explained how he had imagined building a great fortune from his wages, and then marrying and raising a family.",
+     "The merchant listened to the whole tale from beginning to end. At first he was astonished; then, unable to hold it back any longer, he burst into laughter.",
+     "He realised that the boy had become so absorbed in his dreams that he had forgotten the very task for which he had been hired.",
+     "Instead of scolding him further, the merchant laughed at the remarkable adventure that had taken place entirely inside the boy’s imagination.",
+     "And so the young Santhal boy learned a lasting lesson: dreams can be wonderful, but they can never replace the attention that the work in front of you deserves.",
+     "Moral: Dreams and ambitions are precious, but unless they are joined by attention and action, they remain nothing more than dreams."
+    ],
+    "hi": [
+     "बहुत वर्ष पहले एक संथाल गाँव में एक युवा लड़का रहता था, जो एक संपन्न तेल व्यापारी के यहाँ काम करता था।",
+     "उसका काम काफ़ी सीधा था: उसे तेल से लबालब भरे घड़े एक बड़ी टोकरी में रखकर, सिर पर संभालते हुए, चहल-पहल भरे बाज़ार तक सुरक्षित पहुँचाना था।",
+     "उसकी मेहनत के बदले व्यापारी ने उसे पचास पैसे देने का वचन दिया था।",
+     "एक सुबह लड़के ने भारी टोकरी सिर पर उठाई और बाज़ार की ओर चल पड़ा, जबकि व्यापारी अपने कीमती माल पर नज़र रखते हुए उसके ठीक पीछे चल रहा था।",
+     "गाँव की टेढ़ी-मेढ़ी सड़क पर चलते-चलते लड़के के विचार रास्ते से भटककर कहीं और जा पहुँचे। वह सोचने लगा कि मिलने वाली कमाई का वह क्या करेगा।",
+     "“अपनी आधी मज़दूरी से मैं कुछ मुर्गियाँ खरीदूँगा,” उसने सोचा। “मुर्गियाँ अंडे देंगी, और मैं अंडे और चूज़े, दोनों बेच सकूँगा। कुछ ही समय में मेरे पास बकरियाँ खरीदने भर के पैसे जमा हो जाएँगे।”",
+     "उसकी कल्पना की उड़ान तेज़ होती गई। “मैं बकरियाँ पालूँगा और उनके बच्चे बेचूँगा, और उस धन से गायें खरीदूँगा। गायों के बाद भैंसें! देखते-ही-देखते मैं एक बहुत धनी आदमी बन जाऊँगा!”",
+     "हर कदम के साथ उसका उत्साह बढ़ता गया। उसने खुद को सैकड़ों पशुओं से घिरा हुआ देखा, जिसके पास गाँव में किसी से भी अधिक संपत्ति थी।",
+     "फिर उसका दिवास्वप्न उस परिवार की ओर मुड़ गया जो कभी उसका होगा। “मैं एक सुंदर स्त्री से विवाह करूँगा,” उसने सोचा। “हमारे प्यारे बच्चे होंगे, हम एक भव्य घर में रहेंगे, और मेरी पत्नी हर दिन मेरे लिए स्वादिष्ट भोजन बनाएगी।”",
+     "अपने मन में उसने देखा कि एक शाम उसकी पत्नी उसके पास आई है। “प्रिय, भोजन तैयार है। आओ, खा लो!” वह पुकारेगी।",
+     "पर लड़का, अपनी कल्पना की दुनिया में पूरी तरह खोया हुआ, सिर हिलाकर दृढ़ता से बोला, “नहीं, नहीं! अभी नहीं!”",
+     "उसने इतने ज़ोर से सिर हिलाया कि उस पर टिकी टोकरी खतरनाक ढंग से डगमगाने लगी। फिर अचानक वह सिर से फिसल गई। धड़ाम!",
+     "हर घड़ा ज़मीन से टकराकर चकनाचूर हो गया, और कीमती तेल धूल भरी सड़क पर फैल गया। ठीक पीछे चल रहा व्यापारी यह देखकर सन्न रह गया।",
+     "वह तेज़ी से आगे बढ़ा और लड़के को बुरी तरह फटकारा। “तुमने यह क्या कर दिया? मेरा सारा तेल बर्बाद हो गया! इस नुकसान की भरपाई तुम कैसे करोगे?”",
+     "एक पल को लड़का चुप खड़ा रहा। फिर गहरी उदासी के साथ उसने उत्तर दिया, “मालिक, आपने तो बस थोड़ा-सा तेल खोया है। पर मैंने तो बहुत कुछ खो दिया!”",
+     "व्यापारी ने उलझन से माथे पर बल डाले। “तुम्हारा क्या मतलब है? तुमने और भला क्या खो दिया?”",
+     "लड़के ने लंबी साँस छोड़ी। “मैंने अपनी सारी मुर्गियाँ, बकरियाँ, गायें और भैंसें खो दीं। मैंने अपनी सुंदर पत्नी और अपने बच्चे भी खो दिए!”",
+     "व्यापारी अविश्वास से उसे घूरता रहा। धीरे-धीरे लड़के ने समझाया कि उसने अपनी मज़दूरी से बड़ी संपत्ति बनाने, फिर विवाह करने और परिवार बसाने की कल्पना कैसे की थी।",
+     "व्यापारी ने शुरू से अंत तक पूरी कथा सुनी। पहले वह चकित हुआ; फिर, हँसी रोक न पाने पर, वह ठहाका मारकर हँस पड़ा।",
+     "वह समझ गया कि लड़का अपने सपनों में इतना तल्लीन हो गया था कि जिस काम के लिए उसे रखा गया था, वही भूल गया।",
+     "उसे और डाँटने के बजाय व्यापारी उस विलक्षण कारनामे पर हँसा जो पूरी तरह लड़के की कल्पना के भीतर घटा था।",
+     "और इस तरह उस युवा संथाल लड़के ने एक स्थायी सबक सीखा: सपने अद्भुत हो सकते हैं, पर जो ध्यान सामने के काम का हक़ है, उसकी जगह वे कभी नहीं ले सकते।",
+     "सीख: सपने और महत्वाकांक्षाएँ अनमोल हैं, लेकिन जब तक उनके साथ ध्यान और कर्म न जुड़ें, वे केवल सपने ही बने रहते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "prosperous",
+     "en": "rich and successful",
+     "hi": "संपन्न"
+    },
+    {
+     "w": "swelled",
+     "en": "grew bigger and stronger",
+     "hi": "बढ़ता गया"
+    },
+    {
+     "w": "utterly",
+     "en": "completely",
+     "hi": "पूरी तरह"
+    },
+    {
+     "w": "perched",
+     "en": "resting on top of something",
+     "hi": "टिकी"
+    },
+    {
+     "w": "shattered",
+     "en": "broke into many pieces",
+     "hi": "चकनाचूर हो गया"
+    },
+    {
+     "w": "horrified",
+     "en": "filled with shock and fear",
+     "hi": "सन्न"
+    },
+    {
+     "w": "furiously",
+     "en": "in a very angry way",
+     "hi": "क्रोध से"
+    },
+    {
+     "w": "bewilderment",
+     "en": "a feeling of being very confused",
+     "hi": "उलझन"
+    },
+    {
+     "w": "fortune",
+     "en": "a very large amount of money",
+     "hi": "संपत्ति"
+    },
+    {
+     "w": "absorbed",
+     "en": "completely busy with one thing",
+     "hi": "तल्लीन"
+    },
+    {
+     "w": "ambitions",
+     "en": "strong wishes to achieve something",
+     "hi": "महत्वाकांक्षाएँ"
+    },
+    {
+     "w": "astonished",
+     "en": "greatly surprised",
+     "hi": "चकित"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "Should the boy still have to repay the merchant for the broken pots? What might be a fair way to put things right?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Retell the story from the merchant’s side: what might he have felt as he followed the boy, saw the pots break, and then heard the boy’s explanation?"
+    },
+    {
+     "k": "Culture",
+     "q": "This tale is told in the Santhal storytelling tradition as a humorous story. Why might communities use humour to share lessons about ambition and focus?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says dreams need “attention and action”. How would you explain the link between a dream and the small steps that make it real?"
+    },
+    {
+     "k": "Today",
+     "q": "What things pull our attention away from the task in front of us today? How can we make room for both dreaming and doing?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ],
+  [
+   15,
+   16
+  ],
+  [
+   17,
+   18
+  ],
+  [
+   19,
+   20
+  ],
+  [
+   21,
+   22
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "The boy and the merchant",
+   "th": "लड़का और तेल व्यापारी",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. Early morning at a Santhal village. the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) stands holding a wide round basket packed with clay oil pots; the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) stands beside him handing him the load. Mud-walled thatched houses and sal trees behind. Calm, cheerful mood."
+  },
+  {
+   "t": "A mind begins to wander",
+   "th": "मन भटकने लगा",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) walks down a dusty village road with the basket of oil pots balanced on his head, eyes looking dreamily upward; the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) follows a few steps behind. A thought bubble hints at chickens."
+  },
+  {
+   "t": "Chickens, goats, cows, buffaloes",
+   "th": "मुर्गियाँ, बकरियाँ, गायें, भैंसें",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. Dream bubble above the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) showing a growing line of hens with eggs, goats, cows and buffaloes in friendly cartoon style. The boy walks on with a happy smile; the basket stays on his head."
+  },
+  {
+   "t": "Dreams of a family",
+   "th": "परिवार के सपने",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. Dream bubble above the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet): he stands proudly among hundreds of animals, then a small mud house with a smiling wife and two children. The boy grins with wide eyes."
+  },
+  {
+   "t": "“No, no! Not now!”",
+   "th": "“नहीं, नहीं! अभी नहीं!”",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. In a dream bubble a smiling wife calls him to dinner. In the real road below, the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) shakes his head hard, eyes half closed, the basket tilting on his head. Funny, lively mood."
+  },
+  {
+   "t": "Crash!",
+   "th": "धड़ाम!",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. The basket slips; clay pots fall and break on the dusty road, oil spreading in golden pools. the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) looks stunned; the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) behind him throws up his hands in shock. Comic drama, no anger shown in extreme."
+  },
+  {
+   "t": "“I have lost so much more!”",
+   "th": "“मैंने तो बहुत कुछ खो दिया!”",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) points and scolds, frowning; the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) stands among broken pots with a sad, quiet face, speaking to him. Broken pots and spilled oil around their feet."
+  },
+  {
+   "t": "What else have you lost?",
+   "th": "और क्या खो दिया?",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) looks puzzled with head tilted; the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) sighs and counts on his fingers, small ghostly drawings of hens, goats, cows, buffaloes, a wife and children floating away like smoke above him."
+  },
+  {
+   "t": "The merchant begins to laugh",
+   "th": "व्यापारी हँसने लगा",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) explains with lively hand gestures while the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) listens, first with wide astonished eyes, then bursting into laughter, holding his stomach. Broken pots on the road."
+  },
+  {
+   "t": "A dream inside the head",
+   "th": "सिर्फ़ मन की एक कहानी",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) laughing warmly and putting a hand on the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet)’s shoulder; the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) smiles shyly. Sunlight over the village road, a dream bubble with tiny animals dissolving."
+  },
+  {
+   "t": "Dream, but pay attention",
+   "th": "सपने देखो, पर ध्यान रखो",
+   "p": "Gentle humorous storybook illustration, warm earthy palette of reds, yellows, indigo-blue, black and white, flat figures with bold dark outlines and large expressive eyes, vertical-panel feel. the Santhal boy (about 12-13 years old, slim, short dark hair, simple white cloth wrapped at the waist, bare feet) walking proudly with a new full basket on his head, eyes on the road ahead, with a small dream bubble beside him; the oil merchant (middle-aged man, short moustache, white dhoti and a plain cotton shawl) walks with him smiling. Bright morning light."
+  }
+ ],
+ "artStyle": {
+  "region": "Santhal Pargana region, Jharkhand (Santhal community)",
+  "verified": true,
+  "tradition": "Jadopatia scroll painting (Santhal Pargana)",
+  "note": "Two sources describe Jadopatia as scroll painting of the Santhal Pargana area, painted by Chitrakar artists for Santhal patrons: flat two-dimensional figures with bold black outlines and large prominent eyes, scenes in vertical panels, and natural colours (red, yellow, blue, black, white). We suggest borrowing this look (palette, outlines, large eyes) respectfully, without copying any specific scroll. Village clothing and houses follow the general Santhal description (white cloth worn at the waist, earth-walled houses with thatched roofs, sal trees). The image the repository attached to this story is a Wellcome Collection painting of an oil seller; we do not use or claim it.",
+  "characters": [
+   {
+    "name": "The Santhal boy",
+    "look": "About 12-13 years old, slim, short dark hair, plain white cloth wrapped at the waist, bare feet; always carries a wide round basket of clay oil pots on his head."
+   },
+   {
+    "name": "The oil merchant",
+    "look": "Middle-aged man, short moustache, white dhoti and plain cotton shawl, walks just behind the boy."
+   }
+  ],
+  "sources": [
+   [
+    "Jadopatia Scroll Painting / Jadu Patua (Rooftop)",
+    "https://rooftopapp.com/art-wiki/jadopatia-scroll-painting"
+   ],
+   [
+    "Jadopatia: the dying art of India’s scroll painters (Brown History)",
+    "https://brownhistory.substack.com/p/jadopatia-the-dying-art-of-indias"
+   ],
+   [
+    "Santals (Encyclopedia.com)",
+    "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/santals"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the boy and your daydream keeps growing. What is the very next thing you would dream of buying or doing, and what would you see around you?",
+ "create": "Draw a daydream bubble above the boy’s head with the dream you like best, then write three sentences about what the boy should do next time his mind starts to wander.",
+ "about": {
+  "where": "Jharkhand is a state in eastern India. Most Santhals live on the Chota Nagpur Plateau in Jharkhand, and many also live in West Bengal, Odisha and other places. The Santhal Pargana region of Jharkhand is especially linked with them.",
+  "community": "The Santhals (who call themselves Hor ko) are one of the largest tribal communities in India. They speak Santali, which was long passed on by speaking and singing; the Ol Chiki script for writing it was created in 1925. Most Santhals today are farmers, and each village traditionally has a sacred sal grove.",
+  "tradition": "Santhal folk tales, songs and dances are passed down from one generation to the next. This story belongs to the humorous kind of tale, where a funny moment carries a lesson. Santhal Pargana is also home to Jadopatia scroll painting, made by Chitrakar painters for Santhal families, which is why we suggest its style for the pictures.",
+  "shared": "The sources we have do not say whether other communities tell similar stories. This is one version from one source, published by the Centre for Contemporary Folklore, and it is not the only way the tale can be told.",
+  "matters": "It reminds us that dreams and plans are good, but they only grow when we pay attention and act. It also shows a gentle ending: the merchant answers a mistake with laughter and understanding instead of only anger.",
+  "links": [
+   [
+    "Santals (Encyclopedia.com)",
+    "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/santals"
+   ],
+   [
+    "Jadopatia Scroll Painting (Rooftop)",
+    "https://rooftopapp.com/art-wiki/jadopatia-scroll-painting"
+   ],
+   [
+    "Santali language (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Santali_language"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Santhal folk tale from Jharkhand, sourced to Sarita Sahay, Tribal Folktales of India: A Study in Anthropological Perspective; the narrative is published by the Centre for Contemporary Folklore (CCF).",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Task brief said about 1,350 words; the supplied story is about 530 words (23 paragraphs, 11 spreads).",
+  "Original level (2) chosen by sentence length and vocabulary; an educator should confirm.",
+  "Licence and permission for CCF text and the Sarita Sahay book unconfirmed.",
+  "Original book details (publisher, year) not verified; stories about a daydreamer who loses imaginary wealth are known elsewhere, so check how Santhal-specific this version is.",
+  "Jadopatia is made by Chitrakar painters for Santhals; confirm wording and art guidance with an expert.",
+  "Wellcome Collection oil-seller painting caption in the repository is image metadata and is not used.",
+  "Hindi not reviewed by a fluent reader; terms like तेल व्यापारी, दिवास्वप्न and सीख need a check.",
+  "Dialogue mentions wife and family dreams: age-appropriate for Level 1, but confirm."
+ ]
+}

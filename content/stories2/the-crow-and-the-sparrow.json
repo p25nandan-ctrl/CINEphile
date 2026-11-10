@@ -1,0 +1,598 @@
+{
+ "id": "the-crow-and-the-sparrow",
+ "state": "mh",
+ "title": "The Crow and the Sparrow",
+ "titleHi": "कौआ और गौरैया",
+ "genre": "Animal folktale",
+ "levelTitles": {
+  "1": {
+   "en": "The Crow and the Sparrow",
+   "hi": "कौआ और गौरैया"
+  },
+  "2": {
+   "en": "The Crow and the Sparrow",
+   "hi": "कौआ और गौरैया"
+  },
+  "3": {
+   "en": "The Crow and the Sparrow",
+   "hi": "कौआ और गौरैया"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once upon a time, in a small village in Maharashtra, there lived a crow and a sparrow. They were neighbours, but they were very different.",
+     "The crow was in a hurry to finish everything. One morning, he decided to build himself a house. He gathered some mud and cow dung and quickly put together a little hut.",
+     "\"There! My house is ready!\" he cawed proudly. \"I finished it before anyone else!\"",
+     "Nearby, the sparrow was still busy building her home. She collected small pieces of straw, twigs and other materials. She worked slowly, making sure every corner was strong.",
+     "The crow laughed at her.",
+     "\"Why are you taking so long? Look at my house! It is already finished!\"",
+     "The sparrow smiled and continued working.",
+     "A few days later, dark clouds covered the sky. Soon, heavy rain began to fall. The wind blew, the trees shook, and water rushed through the village.",
+     "The crow hurried inside his little house. But the rain was too strong. His mud-and-cow-dung house began to melt and finally washed away!",
+     "\"Oh no! Where will I go now?\" cried the crow.",
+     "Soaked and shivering, he flew to the sparrow's house and knocked on her door.",
+     "\"Chiu-tai! Chiu-tai! Please open the door! I am cold and wet!\"",
+     "\"Who is it?\" asked the sparrow.",
+     "\"It is me, your neighbour! My house has been washed away. Please let me in.\"",
+     "\"Wait a little,\" said the sparrow. \"I am bathing my baby.\"",
+     "The crow waited. He knocked again.",
+     "\"Please open the door!\"",
+     "\"Wait,\" she replied. \"I am dressing my baby now.\"",
+     "The crow was tired and hungry. He knocked once more.",
+     "At last, the sparrow opened the door.",
+     "\"Come in, poor crow! You must be freezing.\"",
+     "She gave him a dry place to sit, warmed him by the fire and shared her food with him. The crow was grateful.",
+     "He soon became friends with the little sparrows. He told them funny stories and played with them.",
+     "One day, while the sparrow was away, a snake slithered towards the nest. The little birds began to chirp in fear.",
+     "The crow heard them and rushed over.",
+     "\"Go away!\" he cawed loudly, flapping his wings. He pecked at the snake until it slithered away.",
+     "When the sparrow returned, she was overjoyed.",
+     "\"Thank you for saving my babies!\" she said.",
+     "The rain had stopped, and the crow's house still needed rebuilding. This time, the sparrow and her little ones helped him gather strong materials.",
+     "Together, they built him a lovely new home.",
+     "The crow had learnt an important lesson: a house built with care lasts longer, and a kind neighbour can make all the difference."
+    ],
+    "hi": [
+     "बहुत समय पहले महाराष्ट्र के एक छोटे-से गाँव में एक कौआ और एक गौरैया रहते थे। दोनों पड़ोसी थे, लेकिन दोनों का स्वभाव बहुत अलग था।",
+     "कौआ हर काम जल्दी-जल्दी करना चाहता था। एक सुबह उसने अपना घर बनाने का निश्चय किया। उसने थोड़ी मिट्टी और गोबर इकट्ठा किया और जल्दी से एक छोटी-सी झोपड़ी बना डाली।",
+     "\"देखो! मेरा घर तैयार हो गया!\" कौआ गर्व से बोला। \"मैंने इसे सबसे पहले बना लिया!\"",
+     "पास ही एक गौरैया अपना घर बनाने में लगी थी। वह तिनके, छोटी टहनियाँ और दूसरी चीज़ें इकट्ठा कर रही थी। वह धीरे-धीरे काम कर रही थी ताकि उसका घर मजबूत बने।",
+     "कौआ उसे देखकर हँसा।",
+     "\"तुम इतना समय क्यों लगा रही हो? मेरा घर तो कब का तैयार हो गया!\"",
+     "गौरैया मुस्कराई और अपना काम करती रही।",
+     "कुछ दिनों बाद आसमान में काले बादल छा गए। देखते ही देखते तेज़ बारिश शुरू हो गई। हवा चलने लगी, पेड़ हिलने लगे और गाँव की गलियों में पानी भर गया।",
+     "कौआ जल्दी से अपने घर में घुस गया। लेकिन बारिश बहुत तेज़ थी। उसका मिट्टी और गोबर से बना घर धीरे-धीरे गलने लगा और आखिरकार बह गया!",
+     "\"अरे! अब मैं कहाँ जाऊँगा?\" कौआ घबराकर बोला।",
+     "वह पूरी तरह भीग चुका था और ठंड से काँप रहा था। वह उड़कर गौरैया के घर पहुँचा और दरवाज़ा खटखटाने लगा।",
+     "\"चिऊ ताई! चिऊ ताई! दरवाज़ा खोलो! मैं बहुत ठंडा और भीगा हुआ हूँ!\"",
+     "\"कौन है?\" गौरैया ने पूछा।",
+     "\"मैं हूँ, तुम्हारा पड़ोसी कौआ! मेरा घर बारिश में बह गया। कृपया मुझे अंदर आने दो।\"",
+     "\"थोड़ा रुको,\" गौरैया ने कहा। \"मैं अपने बच्चे को नहला रही हूँ।\"",
+     "कौआ इंतज़ार करता रहा। उसने फिर दरवाज़ा खटखटाया।",
+     "\"कृपया दरवाज़ा खोलो!\"",
+     "\"बस थोड़ा रुको,\" गौरैया बोली। \"मैं अपने बच्चे को कपड़े पहना रही हूँ।\"",
+     "कौआ भूखा और थका हुआ था। उसने एक बार फिर आवाज़ लगाई।",
+     "आखिरकार गौरैया ने दरवाज़ा खोल दिया।",
+     "\"अंदर आ जाओ, बेचारे कौए! तुम तो ठंड से काँप रहे हो!\"",
+     "उसने कौए को बैठने की जगह दी, आग के पास बिठाया और खाने के लिए भोजन दिया। कौआ बहुत खुश हुआ।",
+     "धीरे-धीरे उसकी दोस्ती गौरैया के बच्चों से भी हो गई। वह उन्हें मज़ेदार कहानियाँ सुनाता और उनके साथ खेलता।",
+     "एक दिन गौरैया घर से बाहर गई हुई थी। तभी एक साँप रेंगता हुआ उसके घोंसले की ओर बढ़ने लगा। छोटे पक्षी डरकर चहचहाने लगे।",
+     "कौए ने उनकी आवाज़ सुनी और तुरंत वहाँ पहुँचा।",
+     "\"दूर हटो!\" वह ज़ोर से काँव-काँव करने लगा। उसने अपने पंख फड़फड़ाए और साँप को चोंच मारकर भगा दिया।",
+     "जब गौरैया वापस आई, तो अपने बच्चों को सुरक्षित देखकर बहुत खुश हुई।",
+     "\"मेरे बच्चों को बचाने के लिए तुम्हारा बहुत-बहुत धन्यवाद!\" उसने कहा।",
+     "बारिश रुक चुकी थी, लेकिन कौए का घर अभी बनना बाकी था। इस बार गौरैया और उसके बच्चों ने उसकी मदद की। सबने मिलकर मजबूत चीज़ें इकट्ठा कीं और उसका नया घर बनाया।",
+     "कौए ने एक बड़ी सीख सीखी—घर बनाते समय जल्दबाज़ी नहीं करनी चाहिए और अच्छे पड़ोसी जीवन को बहुत सुंदर बना सकते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ],
+     [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ],
+     [
+      25,
+      26,
+      27,
+      28,
+      29
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In a little village surrounded by fields and trees, a crow and a sparrow lived in neighbouring homes. The crow was proud of being quick and clever. He disliked spending too much time on any task, while the sparrow believed that good things required patience.",
+     "One morning, the crow decided it was time to build a new house. He gathered mud and cow dung from the village paths, mixed them together and hurriedly put up a small hut.",
+     "\"Finished!\" he announced, spreading his wings proudly. \"I have built my house in no time at all!\"",
+     "The sparrow, who was gathering straw and tiny twigs for her own home, looked at him and smiled.",
+     "\"A home must be strong enough to protect you,\" she said. \"It is worth taking a little extra time.\"",
+     "But the crow only laughed.",
+     "\"Why should I work all day when I can finish in an hour? You will still be building yours when the next season arrives!\"",
+     "The sparrow did not argue. She continued weaving her nest carefully, fitting each twig into place.",
+     "A few days later, the monsoon arrived. Thick clouds gathered over the village, and the first drops of rain fell on the dusty fields. Soon, a heavy shower swept across the countryside. The wind howled through the trees, and rainwater streamed down the narrow paths.",
+     "The crow sat comfortably inside his new house, pleased that he had finished building before the rains. But his happiness did not last long. Water began seeping through the walls. The mud softened, the roof sagged, and before he could do anything, the entire house collapsed.",
+     "\"My house! My beautiful house!\" he cried.",
+     "He was left standing in the rain with nowhere to go. Shivering and miserable, he flew towards the sparrow's home.",
+     "\"Chiu-tai! Chiu-tai! Please open the door! I have nowhere to go!\"",
+     "The sparrow heard him but hesitated. She had little ones inside, and she did not know whether it was safe to let a stranger enter.",
+     "\"Who is there?\" she called.",
+     "\"It is your neighbour, the crow. My house has fallen apart. Please give me shelter.\"",
+     "\"Wait a moment,\" she replied. \"I am bathing my baby.\"",
+     "The crow waited. A few minutes later, he knocked again.",
+     "\"Please, I am very cold!\"",
+     "\"Wait,\" said the sparrow. \"I am drying my baby.\"",
+     "He knocked once more.",
+     "\"Please let me in. I promise I will not trouble you.\"",
+     "The sparrow finally opened the door. Seeing the crow trembling in the rain, she felt sorry for him.",
+     "\"Come inside. You can sit by the fire and warm yourself.\"",
+     "She gave him a dry cloth and shared her meal. The crow ate gratefully and thanked her for her kindness.",
+     "As the days passed, the crow became part of the little household. He entertained the sparrow's babies with stories and kept them company while their mother searched for food.",
+     "One afternoon, the sparrow had gone out when a snake quietly approached the nest. The baby birds sensed danger and began chirping loudly. The crow, who was resting nearby, immediately understood that something was wrong.",
+     "He flew towards the nest, cawed fiercely and struck at the snake with his beak. Startled by the sudden attack, the snake retreated into the bushes.",
+     "When the sparrow returned, she was relieved to find her babies safe.",
+     "\"You have done so much for us,\" she told the crow. \"I am grateful that you are here.\"",
+     "The crow lowered his head. He had come to her home as a guest, but he had found something more valuable than shelter: friendship.",
+     "When the monsoon passed, the sparrow and her little ones helped him rebuild his house. This time, the crow listened carefully to their suggestions. He gathered strong materials and took his time.",
+     "His new home was sturdy and comfortable. And whenever the rains returned, the crow remembered that patience builds strong homes, while kindness builds strong friendships."
+    ],
+    "hi": [
+     "एक छोटे-से गाँव में, जहाँ चारों ओर खेत और पेड़ थे, एक कौआ और एक गौरैया पास-पास रहते थे। कौए को अपनी तेज़ी और चतुराई पर बहुत घमंड था। वह किसी भी काम में अधिक समय लगाना पसंद नहीं करता था। इसके विपरीत, गौरैया का मानना था कि अच्छी चीज़ें बनाने के लिए धैर्य और मेहनत की आवश्यकता होती है।",
+     "एक सुबह कौए ने नया घर बनाने का निश्चय किया। उसने गाँव की पगडंडियों से मिट्टी और गोबर इकट्ठा किया, उन्हें मिलाया और जल्दी-जल्दी एक छोटी-सी झोपड़ी बना डाली।",
+     "\"हो गया!\" उसने अपने पंख फैलाते हुए गर्व से कहा। \"देखा, मैंने कितनी जल्दी अपना घर बना लिया!\"",
+     "पास ही अपनी झोपड़ी के लिए तिनके और छोटी-छोटी टहनियाँ इकट्ठा कर रही गौरैया ने उसकी ओर देखा और मुस्कराई।",
+     "\"घर ऐसा होना चाहिए जो मुश्किल मौसम में भी हमारी रक्षा कर सके,\" उसने कहा। \"इसलिए थोड़ा अधिक समय लगाना कोई बुरी बात नहीं है।\"",
+     "लेकिन कौआ उसकी बात सुनकर हँस पड़ा।",
+     "\"जब मैं एक घंटे में काम पूरा कर सकता हूँ, तो पूरा दिन मेहनत क्यों करूँ? तुम तो अगला मौसम आने तक भी अपना घर बनाती रहोगी!\"",
+     "गौरैया ने उससे बहस नहीं की। वह चुपचाप अपनी झोपड़ी को मजबूत बनाने में जुटी रही। वह हर तिनके और टहनी को ध्यान से लगाती थी।",
+     "कुछ दिनों बाद मानसून आ पहुँचा। आसमान में घने बादल छा गए और सूखे खेतों पर बारिश की पहली बूँदें गिरने लगीं। देखते ही देखते मूसलाधार बारिश शुरू हो गई। पेड़ों के बीच हवा तेज़ी से बहने लगी और गाँव की पगडंडियों पर पानी बहने लगा।",
+     "कौआ अपने नए घर में आराम से बैठा था। उसे खुशी थी कि उसने बारिश से पहले ही अपना घर बना लिया था। लेकिन उसकी खुशी अधिक समय तक नहीं रही। घर की दीवारों से पानी रिसने लगा। मिट्टी नरम पड़ गई, छत झुकने लगी और देखते ही देखते पूरा घर ढह गया।",
+     "\"मेरा घर! मेरा सुंदर घर!\" वह चिल्लाया।",
+     "अब उसके पास रहने के लिए कोई जगह नहीं थी। ठंड और बारिश से परेशान होकर वह गौरैया के घर पहुँचा।",
+     "\"चिऊ ताई! चिऊ ताई! कृपया दरवाज़ा खोलो! मेरे पास रहने की कोई जगह नहीं है!\"",
+     "गौरैया ने उसकी आवाज़ सुनी, लेकिन वह थोड़ी झिझकी। उसके छोटे-छोटे बच्चे घर के अंदर थे और उसे समझ नहीं आ रहा था कि किसी अनजान को अंदर आने देना सुरक्षित होगा या नहीं।",
+     "\"कौन है?\" उसने पूछा।",
+     "\"मैं तुम्हारा पड़ोसी कौआ हूँ। मेरा घर गिर गया है। कृपया मुझे थोड़ी जगह दे दो।\"",
+     "\"थोड़ा रुको,\" गौरैया ने उत्तर दिया। \"मैं अपने बच्चे को नहला रही हूँ।\"",
+     "कौआ इंतज़ार करता रहा। कुछ देर बाद उसने फिर दरवाज़ा खटखटाया।",
+     "\"कृपया जल्दी करो! मुझे बहुत ठंड लग रही है!\"",
+     "\"बस एक पल,\" गौरैया बोली। \"मैं अपने बच्चे का शरीर पोंछ रही हूँ।\"",
+     "कौए ने एक बार फिर विनती की।",
+     "\"मुझे अंदर आने दो। मैं तुम्हें बिल्कुल परेशान नहीं करूँगा।\"",
+     "आखिरकार गौरैया ने दरवाज़ा खोल दिया। बारिश में काँपते कौए को देखकर उसे उस पर दया आ गई।",
+     "\"अंदर आ जाओ। आग के पास बैठकर थोड़ा आराम कर लो।\"",
+     "उसने कौए को सूखा कपड़ा दिया और अपना भोजन भी उसके साथ बाँटा। कौए ने भोजन किया और गौरैया को उसकी दयालुता के लिए धन्यवाद दिया।",
+     "धीरे-धीरे कौआ उस छोटे-से परिवार का हिस्सा बन गया। वह गौरैया के बच्चों को मज़ेदार कहानियाँ सुनाता और उनकी माँ के भोजन खोजने जाने पर उनका ध्यान रखता।",
+     "एक दोपहर गौरैया घर से बाहर गई हुई थी। तभी एक साँप चुपचाप घोंसले की ओर बढ़ने लगा। छोटे पक्षियों ने खतरा भाँप लिया और ज़ोर-ज़ोर से चहचहाने लगे। पास में आराम कर रहे कौए ने उनकी आवाज़ सुनी और तुरंत वहाँ पहुँचा।",
+     "उसने ज़ोर से काँव-काँव की और अपनी चोंच से साँप पर वार किया। अचानक हुए इस हमले से साँप घबरा गया और झाड़ियों में भाग गया।",
+     "जब गौरैया लौटी, तो अपने बच्चों को सुरक्षित देखकर उसकी जान में जान आई।",
+     "\"तुमने हमारे लिए बहुत कुछ किया है,\" उसने कौए से कहा। \"मुझे खुशी है कि तुम हमारे साथ हो।\"",
+     "कौए ने सिर झुका लिया। वह गौरैया के घर में केवल आश्रय लेने आया था, लेकिन उसे वहाँ एक अनमोल चीज़ मिली थी—सच्ची दोस्ती।",
+     "मानसून समाप्त होने के बाद गौरैया और उसके बच्चों ने कौए का घर दोबारा बनाने में उसकी सहायता की। इस बार कौए ने उनकी सलाह ध्यान से सुनी। उसने मजबूत सामग्री इकट्ठा की और बिना जल्दबाज़ी किए अपना घर बनाया।",
+     "उसका नया घर सुंदर और मजबूत था। अब जब भी बारिश का मौसम आता, कौए को याद रहता कि धैर्य से मजबूत घर बनते हैं और दयालुता से मजबूत रिश्ते।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+     ],
+     [
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28,
+      29
+     ],
+     [
+      30,
+      31,
+      32
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+     ],
+     [
+      22,
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28,
+      29
+     ],
+     [
+      30,
+      31,
+      32
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In a quiet village in Maharashtra, where the fields stretched towards distant hills and the trees offered shelter to countless birds, a crow and a sparrow lived not far from one another. Though they were neighbours, they had very different ideas about how to live.",
+     "The crow was impatient and rather pleased with himself. He believed that the cleverest creatures were those who could finish their work in the least amount of time. The sparrow, on the other hand, was careful and thoughtful. She believed that anything worth having deserved patience and attention.",
+     "One morning, the crow decided to build himself a house. He collected mud and cow dung from the village paths and began piling them together. He worked quickly, paying little attention to the strength of the walls or the sturdiness of the roof. Before long, he had finished a small hut.",
+     "\"Look at that!\" he exclaimed, admiring his work. \"A house built in a single morning! What a waste of time it would be to spend days over something so simple.\"",
+     "The sparrow was nearby, gathering straw and tiny twigs for her own home. She had spent several days weaving the materials together, carefully strengthening every corner.",
+     "\"A house is more than four walls and a roof,\" she replied. \"It must protect you when the weather turns difficult.\"",
+     "The crow laughed.",
+     "\"By the time you finish yours, I will have built another one!\"",
+     "The sparrow simply returned to her work.",
+     "A few days later, the monsoon clouds gathered over the village. The air grew heavy, the leaves turned their pale undersides towards the wind, and the first drops of rain fell upon the thirsty earth. Soon, the rain grew fierce. Water rushed through the narrow paths, branches swayed wildly, and the village disappeared behind a curtain of rain.",
+     "The crow watched proudly from inside his hut. He had been wise enough, he thought, to finish his house before the rains arrived.",
+     "But then he noticed a thin stream of water trickling down one wall. He tried to block it with his wings. Another stream appeared. The walls began to soften, the roof sagged, and the little hut trembled under the weight of the rain.",
+     "Before the crow could escape, the house collapsed.",
+     "He stood outside, drenched and bewildered. His hurried work had offered him no protection at all.",
+     "With no place to go, he flew towards the sparrow's house. It stood firm despite the storm, its carefully woven walls holding against the wind.",
+     "He landed at her doorstep and knocked.",
+     "\"Chiu-tai! Chiu-tai! Please open the door! I have lost my home!\"",
+     "The sparrow looked through a small opening. She was inside with her little ones, and the sight of a large, unfamiliar visitor made her cautious.",
+     "\"Who is calling?\" she asked.",
+     "\"It is your neighbour, the crow. My house has been washed away. I am cold and have nowhere to go. Please let me in.\"",
+     "The sparrow hesitated. She had to think of her babies first. So she called out, \"Wait a little. I am bathing my little one.\"",
+     "The crow waited beneath the rain. After some time, he knocked again.",
+     "\"Please, Chiu-tai! I am getting colder!\"",
+     "\"Just a moment,\" she replied. \"I am drying my baby.\"",
+     "He waited once more. When he knocked again, she said she was dressing the little one. Then she had to feed it, and afterwards settle it down to sleep.",
+     "The crow began to wonder whether she would ever open the door. Yet he did not give up.",
+     "At last, the sparrow opened it.",
+     "\"Come inside,\" she said. \"You must be terribly cold.\"",
+     "She gave him a dry place near the fire, helped him warm himself and shared her food. The crow thanked her sincerely. He had expected to find shelter, but he had not expected such generosity.",
+     "In the days that followed, the crow became a familiar presence in the little household. He was gentle with the sparrow's babies and entertained them with stories of the village and the forest. The sparrow, who had initially been uncertain about welcoming him, began to trust him.",
+     "One afternoon, while the sparrow was away, a snake emerged from the bushes and approached the nest. The little birds began chirping frantically. The crow, who was resting nearby, immediately recognised the danger.",
+     "He flew at the snake, flapping his wings and striking with his beak. The snake tried to reach the nest, but the crow would not let it pass. After several attempts, it retreated into the undergrowth.",
+     "When the sparrow returned, she found her babies safe and the crow standing guard beside them.",
+     "\"You have saved my children,\" she said, her voice full of gratitude. \"I welcomed you into my home when you had nowhere else to go, and you have become one of our family.\"",
+     "The crow felt humbled. He had once laughed at the sparrow for taking her time to build a house. Now he understood that her patience had given him shelter when he needed it most.",
+     "When the monsoon finally passed, the sparrow and her little ones helped him rebuild his home. The crow gathered strong materials, listened to their advice and worked carefully. He no longer measured success by how quickly he could finish a task.",
+     "His new house stood firm, even when the next rains arrived.",
+     "And from that day onwards, the crow never laughed at anyone for working slowly. He had learnt that patience gives strength to our efforts, while kindness gives warmth to the homes we share."
+    ],
+    "hi": [
+     "महाराष्ट्र के एक शांत गाँव में, जहाँ दूर तक फैले खेत पहाड़ियों से मिलते थे और पेड़ों पर अनगिनत पक्षियों को आश्रय मिलता था, एक कौआ और एक गौरैया रहते थे। दोनों एक-दूसरे के पड़ोसी थे, लेकिन जीवन को देखने का उनका नज़रिया बिल्कुल अलग था।",
+     "कौआ अधीर स्वभाव का था और उसे अपनी चतुराई पर बहुत घमंड था। उसका मानना था कि सबसे बुद्धिमान वही है जो किसी भी काम को सबसे कम समय में पूरा कर ले। इसके विपरीत, गौरैया शांत, धैर्यवान और विचारशील थी। वह मानती थी कि किसी भी अच्छी चीज़ को बनाने के लिए समय और मेहनत देना आवश्यक है।",
+     "एक सुबह कौए ने अपने लिए घर बनाने का निश्चय किया। उसने गाँव की पगडंडियों से मिट्टी और गोबर इकट्ठा किया और उन्हें एक साथ जोड़ने लगा। उसने दीवारों की मजबूती या छत की टिकाऊ बनावट पर अधिक ध्यान नहीं दिया। कुछ ही देर में उसकी छोटी-सी झोपड़ी तैयार हो गई।",
+     "\"देखा!\" उसने अपने काम को निहारते हुए कहा। \"एक ही सुबह में मैंने अपना घर बना लिया! इतनी-सी चीज़ के लिए कई दिन लगाना कितना बेकार है!\"",
+     "पास ही गौरैया अपने घर के लिए तिनके और छोटी-छोटी टहनियाँ इकट्ठा कर रही थी। वह कई दिनों से उन्हें जोड़कर अपनी झोपड़ी बना रही थी और हर कोने को मजबूत करने में विशेष ध्यान दे रही थी।",
+     "\"घर केवल चार दीवारों और एक छत का नाम नहीं है,\" उसने कहा। \"उसे खराब मौसम में भी हमारी रक्षा करनी चाहिए।\"",
+     "कौआ हँस पड़ा।",
+     "\"जब तक तुम अपना घर पूरा करोगी, मैं तो दूसरा घर भी बना चुका होऊँगा!\"",
+     "गौरैया ने उसकी बात का उत्तर नहीं दिया और अपने काम में लग गई।",
+     "कुछ दिनों बाद गाँव के ऊपर मानसून के बादल छा गए। हवा में नमी बढ़ने लगी और पेड़ों की पत्तियाँ हवा के साथ हिलने लगीं। धरती पर बारिश की पहली बूँदें पड़ीं। जल्द ही मूसलाधार बारिश शुरू हो गई। गाँव की पगडंडियों पर पानी बहने लगा, पेड़ों की डालियाँ ज़ोर-ज़ोर से हिलने लगीं और चारों ओर बारिश की मोटी चादर छा गई।",
+     "कौआ अपनी झोपड़ी के अंदर बैठा गर्व महसूस कर रहा था। उसे लग रहा था कि बारिश आने से पहले घर बनाकर उसने बहुत समझदारी का काम किया है।",
+     "तभी उसने देखा कि दीवार से पानी की एक पतली धार अंदर आ रही है। उसने अपने पंखों से उसे रोकने की कोशिश की। लेकिन दूसरी ओर से भी पानी रिसने लगा। दीवारें गलने लगीं, छत झुक गई और बारिश का भार सहन न कर पाने के कारण पूरी झोपड़ी ढह गई।",
+     "कौआ भीगता हुआ बाहर खड़ा रह गया। उसकी जल्दबाज़ी ने उसे बिल्कुल भी सुरक्षा नहीं दी थी।",
+     "अब उसके पास जाने के लिए कोई जगह नहीं थी। वह उड़कर गौरैया के घर पहुँचा। तेज़ बारिश और हवा के बावजूद उसकी झोपड़ी मजबूती से खड़ी थी। उसकी सावधानी से बुनी गई दीवारें तूफ़ान का सामना कर रही थीं।",
+     "कौए ने दरवाज़ा खटखटाया।",
+     "\"चिऊ ताई! चिऊ ताई! कृपया दरवाज़ा खोलो! मेरा घर टूट गया है!\"",
+     "गौरैया ने दरवाज़े की छोटी-सी खिड़की से बाहर देखा। वह अपने बच्चों के साथ घर में थी। इतने बड़े और अनजान मेहमान को देखकर वह थोड़ी घबरा गई।",
+     "\"कौन है?\" उसने पूछा।",
+     "\"मैं तुम्हारा पड़ोसी कौआ हूँ। मेरा घर बारिश में बह गया है। मैं बहुत ठंडा और भीगा हुआ हूँ। कृपया मुझे अंदर आने दो।\"",
+     "गौरैया कुछ देर सोचने लगी। उसे सबसे पहले अपने बच्चों की सुरक्षा का ध्यान रखना था। इसलिए उसने कहा, \"थोड़ा रुको। मैं अपने बच्चे को नहला रही हूँ।\"",
+     "कौआ बारिश में इंतज़ार करता रहा। कुछ समय बाद उसने फिर दरवाज़ा खटखटाया।",
+     "\"कृपया जल्दी करो, चिऊ ताई! मुझे बहुत ठंड लग रही है!\"",
+     "\"बस एक पल,\" गौरैया ने उत्तर दिया। \"मैं अपने बच्चे को सुखा रही हूँ।\"",
+     "कौए ने फिर इंतज़ार किया। जब उसने दोबारा दरवाज़ा खटखटाया, तो गौरैया ने कहा कि वह अपने बच्चे को कपड़े पहना रही है। फिर उसे खाना खिलाना था और अंत में सुलाना भी था।",
+     "कौआ सोचने लगा कि क्या गौरैया कभी दरवाज़ा खोलेगी भी या नहीं। फिर भी उसने हार नहीं मानी।",
+     "आखिरकार गौरैया ने दरवाज़ा खोल दिया।",
+     "\"अंदर आ जाओ,\" उसने कहा। \"तुम तो बहुत ठंड से काँप रहे हो!\"",
+     "उसने कौए को आग के पास बैठाया, सूखी जगह दी और अपना भोजन उसके साथ बाँटा। कौए ने दिल से उसका धन्यवाद किया। वह केवल आश्रय पाने की उम्मीद लेकर आया था, लेकिन उसे इतनी उदारता की अपेक्षा नहीं थी।",
+     "आने वाले दिनों में कौआ उस छोटे-से परिवार का हिस्सा बन गया। वह गौरैया के बच्चों के साथ प्रेम से पेश आता और उन्हें गाँव तथा जंगल की मज़ेदार कहानियाँ सुनाता। गौरैया, जो पहले उसे घर में बुलाने को लेकर चिंतित थी, अब उस पर भरोसा करने लगी थी।",
+     "एक दोपहर, जब गौरैया घर से बाहर गई हुई थी, तभी झाड़ियों से एक साँप निकला और घोंसले की ओर बढ़ने लगा। छोटे पक्षी डर के मारे चहचहाने लगे। पास में आराम कर रहे कौए ने उनकी आवाज़ सुनी और तुरंत खतरे को पहचान लिया।",
+     "वह साँप की ओर झपटा। उसने अपने पंख फड़फड़ाए और चोंच से उस पर वार किया। साँप ने घोंसले तक पहुँचने की कोशिश की, लेकिन कौए ने उसे आगे नहीं बढ़ने दिया। आखिरकार साँप हार मानकर झाड़ियों में लौट गया।",
+     "जब गौरैया वापस आई, तो उसने अपने बच्चों को सुरक्षित पाया। कौआ उनके पास पहरा दे रहा था।",
+     "\"तुमने मेरे बच्चों की जान बचाई है,\" गौरैया ने कृतज्ञता से कहा। \"जब तुम्हारे पास रहने की कोई जगह नहीं थी, तब मैंने तुम्हें अपने घर में जगह दी थी। लेकिन अब तुम हमारे परिवार का हिस्सा बन गए हो।\"",
+     "कौए को अपनी गलती का एहसास हुआ। कभी वह गौरैया का मज़ाक उड़ाता था कि वह घर बनाने में इतना समय क्यों लगाती है। आज उसी के धैर्य और मेहनत ने उसे मुश्किल समय में आश्रय दिया था।",
+     "मानसून समाप्त होने पर गौरैया और उसके बच्चों ने कौए का नया घर बनाने में सहायता की। कौए ने मजबूत सामग्री इकट्ठा की, उनकी सलाह सुनी और बिना जल्दबाज़ी किए काम किया। अब वह सफलता को केवल काम पूरा करने की गति से नहीं आँकता था।",
+     "उसका नया घर बहुत मजबूत बना और अगली बारिश में भी सुरक्षित रहा।",
+     "उस दिन के बाद कौए ने कभी किसी का मज़ाक नहीं उड़ाया जो अपना काम धीरे-धीरे करता था। उसने समझ लिया था कि धैर्य हमारे प्रयासों को मजबूती देता है और दयालुता उन घरों को अपनापन देती है जिन्हें हम दूसरों के साथ बाँटते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28,
+      29
+     ],
+     [
+      30,
+      31
+     ],
+     [
+      32,
+      33,
+      34
+     ],
+     [
+      35,
+      36,
+      37
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28
+     ],
+     [
+      29,
+      30
+     ],
+     [
+      31,
+      32,
+      33
+     ],
+     [
+      34,
+      35,
+      36
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Maharashtra",
+  "community": "Marathi folk tradition",
+  "tradition": "Animal folktale"
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Marathi folk tradition, Maharashtra. HBCSE, Class 3 English Teachers’ Book; RoundGlass Sustain, via the Centre for Contemporary Folklore (CCF).",
+   "s": "ok"
+  },
+  {
+   "l": "Related article",
+   "v": "“Crow and Sparrow Story” (कावळा-चिमणीची मैत्री), esakal.com.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-002-000",
+ "meta": [
+  "कौआ और गौरैया",
+  "Maharashtra Marathi folk tradition Crow and Sparrow Story : कावळा-चिमणीची मैत्री; संकटातही टिकणारी की फक्त आठवणी? esakal.com"
+ ]
+}

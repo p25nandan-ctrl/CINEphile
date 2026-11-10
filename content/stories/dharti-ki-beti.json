@@ -1,0 +1,624 @@
+{
+ "id": "dharti-ki-beti",
+ "state": "jh",
+ "title": "The Story of Dharti Ki Beti — Daughter of Mother Earth",
+ "titleHi": "धरती की बेटी की कहानी — धरती माँ की बेटी",
+ "summary": "Mother Earth’s beloved daughter is lost to a river, and in her grief the land dries up. A bargain brings the girl home for six months each year, bringing spring, flowers and the Sarhul festival.",
+ "summarySource": "written for this site",
+ "genre": "Origin myth",
+ "from": "Munda tradition, Jharkhand",
+ "origLevel": 3,
+ "levelReason": "The supplied English averages about 12 words per sentence (the Level 2/3 border), but its vocabulary (entrusted, cherished, barren, vitality, symbolise, consequences) and its abstract ideas about grief, seasonal renewal and the bond between people and nature match Level 3 better than Level 2.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, Mother Earth had a lovely daughter.",
+     "Everyone loved her. She made people and animals happy.",
+     "Mother Earth wanted her girl to be safe. Each day, a kind servant looked after the girl.",
+     "The servant had one big job. She had to draw a circle of fire around the girl. The circle kept the girl safe.",
+     "One day, the servant was busy with other work. She forgot the circle.",
+     "The girl loved to explore. So she walked away.",
+     "She came to a river. A pretty lotus was floating on the water. “Oh, what a lovely flower!” she said.",
+     "She wanted to pick it. Some children said, “Do not go into the river!” But she did not listen.",
+     "She stepped into the water and reached for the lotus. Then the river grew strong.",
+     "No one could help her in time. The water carried the girl away, under the river.",
+     "Mother Earth came back. Her girl was gone! She looked everywhere. Then she asked the servant. “Where is my child?” she cried.",
+     "The servant shook with fear. “Please forgive me, Mother. I forgot the circle. She went to the river. The water took her.”",
+     "Mother Earth felt very, very sad. She loved her girl more than anything. She stopped taking care of the land.",
+     "Bad things happened. The rivers dried up. The plants grew dry and weak. The trees lost their strength. The land became bare.",
+     "People and animals were suffering. The world that was full of life became lifeless.",
+     "The people saw the pain all around. They prayed to God for help. God came to Mother Earth. He asked softly, “Mother, why did you stop caring for the world? Why are the rivers drying? Why are the plants dying?”",
+     "Mother Earth said, “My heart is broken. I lost my dear girl. Without her, I am not happy. How can I care for the world? My heart is empty.”",
+     "God understood her sadness. He went to Yamraj, the god of death. He asked if there was a way to help.",
+     "They talked for a long time. Then they agreed. Mother Earth’s daughter could come home for six months each year. For the other six months, she would stay in the world of the dead.",
+     "God told Mother Earth the news. She would see her girl again! Her face shone with joy.",
+     "She thanked God. She cared for the land again. The rivers flowed. The plants turned green. The trees had flowers.",
+     "Each year, Mother Earth and her daughter are together. Then the earth fills with life and flowers. This return shows nature coming alive again, as spring begins.",
+     "In the Munda tradition of Jharkhand, this story goes with the Sarhul festival. The festival celebrates the flowering of the sal trees. It also celebrates how the earth grows good things, and how close people and nature are.",
+     "So people celebrate life coming back to the earth. They remember Mother Earth’s sorrow and her joy at the reunion.",
+     "Moral: People and nature are deeply joined. We must care for the earth and respect it. All living things need it to live."
+    ],
+    "hi": [
+     "बहुत पहले धरती माँ की एक प्यारी बेटी थी।",
+     "सब उसे प्यार करते थे। वह लोगों और जानवरों को खुश कर देती थी।",
+     "धरती माँ चाहती थी कि उसकी बेटी सुरक्षित रहे। हर दिन एक भरोसेमंद सेविका बेटी की देखभाल करती थी।",
+     "सेविका का एक बड़ा काम था। उसे लड़की के चारों ओर आग का घेरा बनाना था। वह घेरा लड़की को सुरक्षित रखता था।",
+     "एक दिन सेविका दूसरे कामों में लगी थी। वह घेरा बनाना भूल गई।",
+     "लड़की को घूमना-देखना बहुत पसंद था। इसलिए वह दूर चली गई।",
+     "वह एक नदी के पास पहुँची। पानी पर एक सुंदर कमल तैर रहा था। “अरे, कितना प्यारा फूल!” उसने कहा।",
+     "वह उसे तोड़ना चाहती थी। कुछ बच्चों ने कहा, “नदी में मत जाओ!” पर उसने नहीं सुनी।",
+     "वह पानी में उतरी और कमल की ओर हाथ बढ़ाया। तभी नदी का बहाव तेज़ हो गया।",
+     "कोई समय पर मदद नहीं कर सका। पानी लड़की को बहाकर ले गया, नदी के नीचे।",
+     "धरती माँ लौटी। उसकी बेटी नहीं थी! उसने हर जगह ढूँढा। फिर उसने सेविका से पूछा। “मेरी बच्ची कहाँ है?” वह रो पड़ी।",
+     "सेविका डर से काँपने लगी। “माँ, मुझे माफ़ कर दीजिए। मैं घेरा बनाना भूल गई। वह नदी की ओर चली गई। पानी उसे ले गया।”",
+     "धरती माँ बहुत ही दुखी हो गई। वह अपनी बेटी को सबसे ज़्यादा प्यार करती थी। उसने धरती की देखभाल करना छोड़ दिया।",
+     "बुरी बातें होने लगीं। नदियाँ सूख गईं। पौधे सूखकर कमज़ोर हो गए। पेड़ों की ताकत चली गई। ज़मीन सूनी हो गई।",
+     "लोग और जानवर कष्ट में थे। जो दुनिया जीवन से भरी थी, वह जीवन से खाली हो गई।",
+     "लोगों ने चारों ओर दुख देखा। उन्होंने भगवान से मदद की प्रार्थना की। भगवान धरती माँ के पास आए। उन्होंने प्यार से पूछा, “माँ, तुमने दुनिया की देखभाल क्यों छोड़ दी? नदियाँ क्यों सूख रही हैं? पौधे क्यों मर रहे हैं?”",
+     "धरती माँ ने कहा, “मेरा दिल टूट गया है। मैंने अपनी प्यारी बेटी खो दी। उसके बिना मैं खुश नहीं हूँ। मैं दुनिया की देखभाल कैसे करूँ? मेरा दिल खाली है।”",
+     "भगवान उसका दुख समझ गए। वे यमराज के पास गए, जो मृत्यु के देवता हैं। उन्होंने पूछा कि क्या कोई रास्ता है।",
+     "उन्होंने बहुत देर बात की। फिर वे राज़ी हो गए। धरती माँ की बेटी हर साल छह महीने अपनी माँ के पास आ सकती थी। बाकी छह महीने वह मरे हुओं की दुनिया में रहेगी।",
+     "भगवान ने धरती माँ को यह खबर सुनाई। वह अपनी बच्ची से फिर मिलेगी! उसका चेहरा खुशी से चमक उठा।",
+     "उसने भगवान को धन्यवाद दिया। वह फिर से धरती की देखभाल करने लगी। नदियाँ बहने लगीं। पौधे हरे हो गए। पेड़ों पर फूल आ गए।",
+     "हर साल धरती माँ और उसकी बेटी साथ होती हैं। तब धरती जीवन और फूलों से भर जाती है। यह वापसी बताती है कि प्रकृति फिर जाग उठी है और वसंत आ रहा है।",
+     "झारखंड की मुंडा परंपरा में यह कहानी सरहुल त्योहार से जुड़ी है। यह त्योहार साल के पेड़ों के फूलने का उत्सव है। यह धरती की उपजाऊ शक्ति और इंसान और प्रकृति के गहरे रिश्ते का भी उत्सव है।",
+     "इसलिए लोग धरती पर जीवन के लौटने का उत्सव मनाते हैं। वे धरती माँ का दुख और बेटी से मिलने की उसकी खुशी याद करते हैं।",
+     "सीख: इंसान और प्रकृति गहराई से जुड़े हैं। हमें धरती की देखभाल और इज़्ज़त करनी चाहिए। सभी जीवों को जीने के लिए इसकी ज़रूरत है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "lovely",
+     "en": "very pretty and nice",
+     "hi": "प्यारी"
+    },
+    {
+     "w": "servant",
+     "en": "a person who works to help someone",
+     "hi": "सेविका"
+    },
+    {
+     "w": "circle",
+     "en": "a round shape",
+     "hi": "घेरा"
+    },
+    {
+     "w": "explore",
+     "en": "to walk around and look at new things",
+     "hi": "घूमना-देखना"
+    },
+    {
+     "w": "lotus",
+     "en": "a flower that floats on water",
+     "hi": "कमल"
+    },
+    {
+     "w": "bare",
+     "en": "with nothing growing on it",
+     "hi": "सूनी"
+    },
+    {
+     "w": "suffering",
+     "en": "feeling pain or trouble",
+     "hi": "कष्ट"
+    },
+    {
+     "w": "agreed",
+     "en": "said yes to the same plan",
+     "hi": "राज़ी हो गए"
+    },
+    {
+     "w": "reunion",
+     "en": "meeting again after being apart",
+     "hi": "मिलन"
+    },
+    {
+     "w": "respect",
+     "en": "to treat with care and honour",
+     "hi": "इज़्ज़त"
+    }
+   ],
+   "questions": [
+    {
+     "k": "The servant",
+     "q": "Who looked after Mother Earth’s daughter, and what was her special job?"
+    },
+    {
+     "k": "At the river",
+     "q": "What did the girl see at the river, and what did she do?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did Mother Earth feel when her daughter was gone?"
+    },
+    {
+     "k": "What changed",
+     "q": "What happened to the rivers, plants and trees when Mother Earth stopped caring?"
+    },
+    {
+     "k": "My connection",
+     "q": "What can you do to take care of plants, water or animals near you?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, when the world was new, Mother Earth had a beautiful daughter.",
+     "Everyone who saw her loved her. She brought happiness wherever she went, and all the animals and people on the earth treasured her.",
+     "Mother Earth kept a careful watch over her daughter. Every day she left the girl with a faithful servant, whose job was to keep her safe.",
+     "The servant had one special duty: she had to draw a circle of fire around the girl. As long as the circle was there, the daughter was safe.",
+     "One day, however, the servant got busy with her other work. She forgot to draw the circle of fire.",
+     "The girl was curious and loved to explore, so she wandered away.",
+     "Near a river, she spotted a lovely lotus floating on the water. “Oh, what a beautiful flower!” she cried.",
+     "She wanted to go closer and pick it. Some children nearby told her not to go into the river, but she did not listen.",
+     "She stepped into the water and reached for the lotus. Suddenly, the river current grew strong.",
+     "Before anyone could help, the girl was swept away and sank beneath the water.",
+     "When Mother Earth came back, she saw at once that her daughter was missing. She searched everywhere and then asked the servant. “Where is my child?” she cried.",
+     "The servant shook with fear. “Forgive me, Mother. I did not keep her safe. She wandered to the river, and the water took her away.”",
+     "Mother Earth was filled with sorrow. She loved her daughter more than anything, and she could not bear to lose her, so she stopped taking care of the land.",
+     "Terrible things followed. The rivers began to dry up. The plants withered. The trees lost their strength, and the land turned dry and empty.",
+     "People and animals began to suffer. The world that had been full of life slowly became lifeless.",
+     "When the people saw all the creatures suffering, they prayed to God for help. God came to Mother Earth and asked her kindly: “Mother, why have you stopped caring for the world? Why are the rivers drying up and the plants dying?”",
+     "Mother Earth answered: “My heart is broken. I have lost my dear daughter. Without her, I have no joy. How can I look after the world when my heart is empty?”",
+     "God understood her sadness. He went to Yamraj, the god of death, to ask if there was any answer.",
+     "After a long talk, they agreed on a plan. Mother Earth’s daughter could come back to her mother for six months every year. For the other six months, she would stay in the world of the dead.",
+     "God took the news to Mother Earth. When she heard that she would be with her daughter again, her face shone with joy.",
+     "She thanked God and began to care for the land again. The rivers flowed once more, the plants turned green, and the trees came into bloom.",
+     "Every year, when Mother Earth and her daughter were together, the earth filled with life and flowers. This yearly return became a sign of nature’s renewal and the coming of spring.",
+     "In the Munda tradition of Jharkhand, this story is linked to the Sarhul festival. The festival celebrates the flowering of the sal trees, the earth’s fertility and the close bond between people and nature.",
+     "And so, people celebrate the return of life to the earth. They remember Mother Earth’s sorrow and the joy of her reunion with her daughter.",
+     "Moral: Human life is closely tied to nature. We must care for the earth and respect it, because its health is needed for all living things to survive."
+    ],
+    "hi": [
+     "बहुत पहले, जब दुनिया नई थी, धरती माँ की एक सुंदर बेटी थी।",
+     "जो भी उसे देखता, उससे प्यार करने लगता। वह जहाँ जाती, खुशी फैला देती, और धरती के सभी जीव-जंतु और लोग उसे बहुत चाहते थे।",
+     "धरती माँ अपनी बेटी की बहुत देखरेख करती थी। हर दिन वह लड़की को एक भरोसेमंद सेविका के पास छोड़ जाती थी, जिसका काम उसे सुरक्षित रखना था।",
+     "सेविका की एक खास ज़िम्मेदारी थी: उसे लड़की के चारों ओर आग का घेरा खींचना था। जब तक वह घेरा रहता, बेटी सुरक्षित रहती थी।",
+     "लेकिन एक दिन सेविका अपने दूसरे कामों में उलझ गई। वह आग का घेरा बनाना भूल गई।",
+     "लड़की जिज्ञासु थी और घूमना-देखना उसे बहुत पसंद था, इसलिए वह भटकती हुई दूर निकल गई।",
+     "एक नदी के पास उसने पानी पर तैरता एक सुंदर कमल देखा। “अरे, कितना प्यारा फूल!” वह बोल उठी।",
+     "वह उसके पास जाकर उसे तोड़ना चाहती थी। पास के कुछ बच्चों ने उसे नदी में न जाने को कहा, पर उसने उनकी बात नहीं मानी।",
+     "वह पानी में उतरी और कमल की ओर हाथ बढ़ाया। अचानक नदी का बहाव तेज़ हो गया।",
+     "किसी के मदद करने से पहले ही लड़की बह गई और पानी के नीचे चली गई।",
+     "जब धरती माँ लौटी, तो उसने तुरंत देखा कि उसकी बेटी नहीं है। उसने हर जगह ढूँढा और फिर सेविका से पूछा। “मेरी बच्ची कहाँ है?” वह चीख पड़ी।",
+     "सेविका डर से काँप उठी। “माँ, मुझे माफ़ कर दीजिए। मैं उसे सुरक्षित नहीं रख सकी। वह नदी की ओर चली गई और पानी उसे बहा ले गया।”",
+     "धरती माँ दुख से भर गई। वह अपनी बेटी को सबसे ज़्यादा प्यार करती थी और यह नुकसान सह नहीं पाई, इसलिए उसने धरती की देखभाल करना छोड़ दिया।",
+     "बहुत बुरे नतीजे हुए। नदियाँ सूखने लगीं। पौधे मुरझा गए। पेड़ों की ताकत खत्म हो गई और ज़मीन सूखी और सूनी हो गई।",
+     "लोग और जानवर कष्ट पाने लगे। जो दुनिया जीवन से भरी थी, वह धीरे-धीरे बेजान हो गई।",
+     "जब लोगों ने सभी जीवों को तड़पते देखा, तो उन्होंने भगवान से मदद माँगी। भगवान धरती माँ के पास आए और प्यार से पूछा, “माँ, तुमने दुनिया की देखभाल क्यों छोड़ दी? नदियाँ क्यों सूख रही हैं और पौधे क्यों मर रहे हैं?”",
+     "धरती माँ ने जवाब दिया, “मेरा दिल टूट गया है। मैंने अपनी प्यारी बेटी खो दी है। उसके बिना मुझे कोई खुशी नहीं। जब मेरा दिल ही खाली है, तो मैं दुनिया की देखभाल कैसे करूँ?”",
+     "भगवान उसका दुख समझ गए। वे मृत्यु के देवता यमराज के पास गए, यह पूछने कि क्या कोई हल निकल सकता है।",
+     "लंबी बातचीत के बाद दोनों एक बात पर राज़ी हो गए। धरती माँ की बेटी हर साल छह महीने अपनी माँ के पास लौट सकती थी। बाकी छह महीने उसे मृतकों की दुनिया में रहना था।",
+     "भगवान यह खबर लेकर धरती माँ के पास लौटे। जब उसने सुना कि वह फिर अपनी बेटी से मिलेगी, तो उसका चेहरा खुशी से खिल उठा।",
+     "उसने भगवान को धन्यवाद दिया और फिर से धरती की देखभाल करने लगी। नदियाँ फिर बहने लगीं, पौधे हरे हो गए और पेड़ फूलों से लद गए।",
+     "हर साल जब धरती माँ अपनी बेटी से मिलती, तो धरती जीवन और फूलों से भर जाती। यह सालाना वापसी प्रकृति के नवजीवन और वसंत के आगमन का प्रतीक बन गई।",
+     "झारखंड की मुंडा परंपरा में यह कहानी सरहुल त्योहार से जुड़ी है। यह त्योहार साल के पेड़ों के फूलने, धरती की उपजाऊ शक्ति और इंसान तथा प्रकृति के गहरे रिश्ते का उत्सव है।",
+     "और इसलिए लोग धरती पर जीवन के लौटने का उत्सव मनाते हैं। वे धरती माँ का दुख और बेटी से मिलन की खुशी याद करते हैं।",
+     "सीख: इंसान का जीवन प्रकृति से गहराई से जुड़ा है। हमें धरती की देखभाल और सम्मान करना चाहिए, क्योंकि सभी जीवों के जीवित रहने के लिए उसकी भलाई ज़रूरी है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "treasured",
+     "en": "loved and kept very dear",
+     "hi": "चाहते थे"
+    },
+    {
+     "w": "faithful",
+     "en": "someone you can trust",
+     "hi": "भरोसेमंद"
+    },
+    {
+     "w": "curious",
+     "en": "wanting to know and see new things",
+     "hi": "जिज्ञासु"
+    },
+    {
+     "w": "current",
+     "en": "water moving in one direction",
+     "hi": "बहाव"
+    },
+    {
+     "w": "swept",
+     "en": "carried away by moving water",
+     "hi": "बह गई"
+    },
+    {
+     "w": "sorrow",
+     "en": "deep sadness",
+     "hi": "दुख"
+    },
+    {
+     "w": "withered",
+     "en": "dried up and died slowly",
+     "hi": "मुरझा गए"
+    },
+    {
+     "w": "lifeless",
+     "en": "without any life",
+     "hi": "बेजान"
+    },
+    {
+     "w": "renewal",
+     "en": "starting again fresh",
+     "hi": "नवजीवन"
+    },
+    {
+     "w": "fertility",
+     "en": "the ability of earth to grow plants",
+     "hi": "उपजाऊ शक्ति"
+    },
+    {
+     "w": "bond",
+     "en": "a close link between people or things",
+     "hi": "रिश्ता"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Why she went",
+     "q": "Why do you think the girl went into the river even after the children warned her?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "How did one forgotten circle lead to dry rivers and withered plants? Tell the steps in order."
+    },
+    {
+     "k": "Asking for help",
+     "q": "Why did the people pray to God, and why did God go to Yamraj?"
+    },
+    {
+     "k": "The agreement",
+     "q": "Why do you think the daughter spends six months with her mother and six months in the world of the dead? How does this help the world?"
+    },
+    {
+     "k": "Seasons",
+     "q": "How does the story explain the arrival of spring and the flowering of the sal trees?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, when the world was young, Mother Earth had a beautiful daughter.",
+     "She was loved by everyone who saw her. Her presence brought happiness, and she was cherished by all the creatures and people who lived upon the earth.",
+     "Mother Earth was very protective of her daughter. Every day, she entrusted the girl to the care of a faithful servant, who was responsible for keeping her safe.",
+     "The servant had a special duty: she had to protect the girl by drawing a circle of fire around her. As long as the circle remained in place, the daughter would be safe.",
+     "One day, however, the servant became distracted by her other duties. She forgot to create the protective circle.",
+     "The young girl, who was naturally curious and loved exploring her surroundings, wandered away.",
+     "As she approached a river, she noticed a beautiful lotus floating upon the water. “Oh, what a lovely flower!” she exclaimed.",
+     "She wanted to get closer and pick it. Some children nearby warned her not to enter the river, but the girl ignored their advice.",
+     "She stepped into the water and reached towards the lotus. Suddenly, the river current became stronger.",
+     "Before anyone could help her, the girl was swept away and disappeared beneath the water.",
+     "When Mother Earth returned, she immediately noticed that her daughter was missing. She searched everywhere and finally questioned the servant. “Where is my child?” she cried.",
+     "The servant trembled with fear. “Forgive me, Mother. I failed to protect her. She wandered towards the river, and the water carried her away.”",
+     "Mother Earth was overcome with grief. She loved her daughter more than anything in the world. Unable to bear her loss, she stopped caring for the land.",
+     "The consequences were terrible. Rivers began to dry up. Plants withered. Trees lost their vitality, and the earth became barren.",
+     "The people and animals began to suffer. The world that had once been full of life gradually became lifeless.",
+     "Seeing the suffering of all living creatures, the people prayed to God for help. God appeared before Mother Earth and gently asked: “Mother, why have you stopped caring for the world? Why are the rivers drying and the plants dying?”",
+     "Mother Earth replied: “My heart is broken. I have lost my beloved daughter. Without her, I have no happiness. How can I care for the world when my own heart is empty?”",
+     "God understood her sorrow. He decided to approach Yamraj, the god of death, and ask whether a solution could be found.",
+     "After much discussion, they arrived at an agreement. Mother Earth’s daughter would be allowed to return to her mother for six months every year. For the remaining six months, she would stay in the world of the dead.",
+     "God returned to Mother Earth with the news. When she heard that she would once again be reunited with her daughter, her face lit up with happiness.",
+     "She thanked God and began caring for the land once more. The rivers began flowing again, the plants grew green and the trees blossomed.",
+     "Every year, when Mother Earth was reunited with her daughter, the earth became filled with life and flowers. This annual return came to symbolise the renewal of nature and the arrival of spring.",
+     "In the Munda tradition of Jharkhand, this story is associated with the Sarhul festival, which celebrates the flowering of the sal trees, the earth’s fertility and the close relationship between human beings and nature.",
+     "And so, the people celebrate the return of life to the earth, remembering the sorrow of Mother Earth and the joy of her reunion with her daughter.",
+     "Moral: Human life is deeply connected to nature. The earth must be cared for and respected, for its well-being is essential to the survival of all living things."
+    ],
+    "hi": [
+     "बहुत पहले, जब संसार नया था, धरती माँ की एक सुंदर बेटी थी।",
+     "उसे देखने वाला हर व्यक्ति उसे स्नेह करता था। उसकी उपस्थिति खुशियाँ लाती थी, और धरती पर रहने वाले सभी जीव और लोग उसे दुलारते थे।",
+     "धरती माँ अपनी बेटी की बहुत रक्षा करती थी। हर दिन वह लड़की को एक विश्वासपात्र सेविका की देखरेख में सौंप देती थी, जिस पर उसे सुरक्षित रखने की ज़िम्मेदारी थी।",
+     "सेविका का एक विशेष कर्तव्य था: उसे लड़की के चारों ओर अग्नि का घेरा खींचकर उसकी रक्षा करनी थी। जब तक वह घेरा बना रहता, बेटी सुरक्षित रहती।",
+     "लेकिन एक दिन सेविका अपने अन्य कामों में उलझकर ध्यान भटका बैठी। वह रक्षा का घेरा बनाना भूल गई।",
+     "वह लड़की स्वभाव से जिज्ञासु थी और आसपास की चीज़ों को खोजना उसे अच्छा लगता था; वह भटकती हुई दूर निकल गई।",
+     "एक नदी के पास पहुँचते ही उसकी नज़र पानी पर तैरते एक सुंदर कमल पर पड़ी। “अरे, कितना मनमोहक फूल!” वह चहक उठी।",
+     "वह उसके करीब जाकर उसे तोड़ना चाहती थी। पास खड़े कुछ बच्चों ने उसे नदी में न उतरने की चेतावनी दी, पर लड़की ने उनकी सलाह अनसुनी कर दी।",
+     "वह पानी में उतर गई और कमल की ओर हाथ बढ़ाया। अचानक नदी की धारा तेज़ हो गई।",
+     "किसी के मदद के लिए पहुँचने से पहले ही लड़की धारा में बह गई और पानी की गहराई में ओझल हो गई।",
+     "जब धरती माँ लौटी, तो उसने तुरंत भाँप लिया कि उसकी बेटी गायब है। उसने हर जगह खोजा और अंत में सेविका से पूछा। “मेरी बच्ची कहाँ है?” वह व्याकुल होकर बोली।",
+     "सेविका भय से काँप उठी। “माँ, मुझे क्षमा कीजिए। मैं उसकी रक्षा करने में चूक गई। वह नदी की ओर भटक गई, और पानी उसे बहा ले गया।”",
+     "धरती माँ शोक से टूट गई। वह अपनी बेटी को संसार में सबसे ज़्यादा प्यार करती थी। यह वियोग न सह पाने के कारण उसने धरती की देखभाल करना छोड़ दिया।",
+     "इसके परिणाम भयानक थे। नदियाँ सूखने लगीं। पौधे मुरझा गए। पेड़ों की जीवनशक्ति चली गई, और धरती बंजर हो गई।",
+     "लोग और पशु कष्ट सहने लगे। जो संसार कभी जीवन से भरा था, वह धीरे-धीरे प्राणहीन हो गया।",
+     "सभी जीवों की पीड़ा देखकर लोगों ने ईश्वर से सहायता की प्रार्थना की। ईश्वर धरती माँ के सामने प्रकट हुए और कोमलता से पूछा: “माँ, तुमने संसार की देखभाल करना क्यों छोड़ दिया? नदियाँ क्यों सूख रही हैं और पौधे क्यों मर रहे हैं?”",
+     "धरती माँ ने उत्तर दिया: “मेरा हृदय टूट चुका है। मैंने अपनी प्रिय बेटी खो दी है। उसके बिना मेरे पास कोई सुख नहीं। जब मेरा अपना हृदय ही रिक्त है, तो मैं संसार की देखभाल कैसे करूँ?”",
+     "ईश्वर उसका दुख समझ गए। उन्होंने मृत्यु के देवता यमराज के पास जाकर पूछने का निश्चय किया कि क्या कोई समाधान निकल सकता है।",
+     "लंबी चर्चा के बाद वे एक समझौते पर पहुँचे। धरती माँ की बेटी को हर वर्ष छह महीने के लिए अपनी माँ के पास लौटने की अनुमति मिलेगी। शेष छह महीने वह मृतकों के लोक में रहेगी।",
+     "ईश्वर यह समाचार लेकर धरती माँ के पास लौटे। यह सुनकर कि वह फिर अपनी बेटी से मिलेगी, उसका चेहरा खुशी से दमक उठा।",
+     "उसने ईश्वर को धन्यवाद दिया और एक बार फिर धरती की देखभाल करने लगी। नदियाँ फिर बहने लगीं, पौधे हरे हो उठे और पेड़ फूलों से लद गए।",
+     "हर वर्ष जब धरती माँ अपनी बेटी से मिलती, तो धरती जीवन और फूलों से भर जाती। यह वार्षिक वापसी प्रकृति के नवीनीकरण और वसंत के आगमन का प्रतीक बन गई।",
+     "झारखंड की मुंडा परंपरा में यह कथा सरहुल पर्व से जुड़ी है, जो साल के वृक्षों के फूलने, धरती की उर्वरता और मनुष्य तथा प्रकृति के गहरे संबंध का उत्सव है।",
+     "और इसीलिए लोग धरती पर जीवन की वापसी का उत्सव मनाते हैं, और धरती माँ के शोक तथा बेटी से मिलन की खुशी को याद करते हैं।",
+     "सीख: मानव जीवन प्रकृति से गहराई से जुड़ा है। धरती की देखभाल और सम्मान करना आवश्यक है, क्योंकि उसकी भलाई सभी जीवों के अस्तित्व के लिए अनिवार्य है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "cherished",
+     "en": "loved and cared for deeply",
+     "hi": "दुलारते थे"
+    },
+    {
+     "w": "entrusted",
+     "en": "gave someone the responsibility of caring",
+     "hi": "सौंप देती थी"
+    },
+    {
+     "w": "distracted",
+     "en": "having your attention pulled away",
+     "hi": "ध्यान भटका"
+    },
+    {
+     "w": "vitality",
+     "en": "strength and energy for life",
+     "hi": "जीवनशक्ति"
+    },
+    {
+     "w": "barren",
+     "en": "too dry for anything to grow",
+     "hi": "बंजर"
+    },
+    {
+     "w": "consequences",
+     "en": "results that follow an action",
+     "hi": "परिणाम"
+    },
+    {
+     "w": "withered",
+     "en": "dried up and became weak",
+     "hi": "मुरझा गए"
+    },
+    {
+     "w": "overcome",
+     "en": "overpowered by a strong feeling",
+     "hi": "टूट गई"
+    },
+    {
+     "w": "symbolise",
+     "en": "to stand as a sign of something",
+     "hi": "प्रतीक"
+    },
+    {
+     "w": "fertility",
+     "en": "the power of the earth to grow plants",
+     "hi": "उर्वरता"
+    },
+    {
+     "w": "solution",
+     "en": "an answer to a problem",
+     "hi": "समाधान"
+    },
+    {
+     "w": "reunited",
+     "en": "brought together again",
+     "hi": "मिलन"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Responsibility",
+     "q": "The servant forgot her duty, the girl ignored a warning, and Mother Earth stopped caring for the world in her grief. Who was responsible for what? Is it right for grief to stop us from caring for others?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine the story from the servant’s point of view. What might she have felt after forgetting the circle, and what could she have done differently?"
+    },
+    {
+     "k": "Culture",
+     "q": "In the Munda tradition, this story is linked to the Sarhul festival. How might a festival about sal flowers help a community remember its bond with nature?"
+    },
+    {
+     "k": "Theme",
+     "q": "What does the story suggest about loss and return, or sorrow and joy, being part of one cycle?"
+    },
+    {
+     "k": "Today",
+     "q": "The land in the story dried up when care for it stopped. What are signs of nature suffering today, and what can young people do about them?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15,
+   16
+  ],
+  [
+   17,
+   18
+  ],
+  [
+   19,
+   20
+  ],
+  [
+   21,
+   22
+  ],
+  [
+   23,
+   24
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Mother Earth and her daughter",
+   "th": "धरती माँ और उसकी बेटी",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Long ago in a young green world: Mother Earth (tall, serene woman with long dark hair, a deep green and earth-brown sari, sal leaves and small white flowers in her hair, calm kind face) smiling beside the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress). Animals and villagers gather around the girl with happy faces. Soft sunrise light, blossoming trees."
+  },
+  {
+   "t": "The circle of fire",
+   "th": "आग का घेरा",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. the servant (a woman in a plain cotton sari, hair tied back, kind and a little shy) sits near the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress) and, with a calm gentle gesture, traces a protective circle of small golden flames on the ground around the girl, who plays safely inside. Mother Earth watches fondly from a distance."
+  },
+  {
+   "t": "The forgotten circle",
+   "th": "भूला हुआ घेरा",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. the servant (a woman in a plain cotton sari, hair tied back, kind and a little shy) busy in the background with baskets of work, her back turned; the ring of flame on the ground is missing. the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress) looks curiously over her shoulder and tiptoes away along a path."
+  },
+  {
+   "t": "A lovely lotus",
+   "th": "एक सुंदर कमल",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress) at the edge of a calm river looking at a pink lotus floating on the water, delighted. Two or three village children stand behind her on the bank, gesturing a warning with raised hands."
+  },
+  {
+   "t": "The river grows strong",
+   "th": "नदी का बहाव तेज़ हुआ",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Wide view of the river as the current swirls and grows stronger around the lotus; the girl is a small figure being carried away from a distance, shown gently with no distress on her face. The children on the bank call out. Soft, not frightening."
+  },
+  {
+   "t": "“Where is my child?”",
+   "th": "“मेरी बच्ची कहाँ है?”",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Mother Earth (tall, serene woman with long dark hair, a deep green and earth-brown sari, sal leaves and small white flowers in her hair, calm kind face) has returned, looking around with worry and then turning to the servant (a woman in a plain cotton sari, hair tied back, kind and a little shy), who kneels, trembling, with hands folded in apology. Empty circle on the ground."
+  },
+  {
+   "t": "The earth begins to dry",
+   "th": "धरती सूखने लगी",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Mother Earth (tall, serene woman with long dark hair, a deep green and earth-brown sari, sal leaves and small white flowers in her hair, calm kind face) sitting alone with bowed head and hands over her face in sorrow; around her the river is thin and cracked, plants drooping and trees bare under a pale sky."
+  },
+  {
+   "t": "A world losing its life",
+   "th": "जीवन खोती दुनिया",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Villagers and animals gather under dry trees, hands folded in prayer, looking up. A soft, calm glow of light (God, no specific deity face) appears before Mother Earth, who answers with her hand on her heart."
+  },
+  {
+   "t": "An agreement with Yamraj",
+   "th": "यमराज के साथ समझौता",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. A calm luminous figure (God, no specific iconography) speaks with a dignified, serious but kind figure of Yamraj, god of death, at a quiet threshold of shadow and soft light. Gentle, not frightening; two figures talking, a pair of scales of six months suggested by a half-dark half-light sky."
+  },
+  {
+   "t": "The daughter returns",
+   "th": "बेटी लौट आई",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Mother Earth (tall, serene woman with long dark hair, a deep green and earth-brown sari, sal leaves and small white flowers in her hair, calm kind face) with face lit by joy as the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress) runs into her arms on green grass; rivers flowing again, plants green, trees budding behind them."
+  },
+  {
+   "t": "Spring and flowers return",
+   "th": "वसंत और फूलों की वापसी",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. The whole land in bloom: sal trees covered in white-cream flowers, flowing rivers, animals and villagers. Mother Earth (tall, serene woman with long dark hair, a deep green and earth-brown sari, sal leaves and small white flowers in her hair, calm kind face) and the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress) stand together under a flowering sal tree in a warm spring light."
+  },
+  {
+   "t": "Sarhul: celebrating the return",
+   "th": "सरहुल: वापसी का उत्सव",
+   "p": "Soft, respectful storybook illustration in a neutral warm style (earthy greens, ochre, deep red, river blue), gentle shapes, no scary or graphic imagery. Munda villagers celebrating together under a grove of flowering sal trees: women in white saris with red borders and flowers in their hair, men in white with red borders, dancers holding sal flowers, drums played. Mother Earth (tall, serene woman with long dark hair, a deep green and earth-brown sari, sal leaves and small white flowers in her hair, calm kind face) and the daughter (a girl of about 9, bright eyes, hair in two braids with a small flower, simple yellow and green dress) are drawn as a soft glow in the trees above. Joyful, respectful."
+  }
+ ],
+ "artStyle": {
+  "region": "Jharkhand (Munda community)",
+  "verified": false,
+  "tradition": null,
+  "note": "We could not verify a specific Munda visual art tradition to base the pictures on, so a neutral storybook style is proposed: warm earthy greens, ochre, deep red and river blue, gentle shapes. For the final Sarhul scene, a reliable news source says people wear white clothes with red borders, with sal flowers, and that drums such as dhol and nagara are played; use these details, with care, and have the community check them.",
+  "characters": [
+   {
+    "name": "Mother Earth (Dharti Maa)",
+    "look": "Tall, serene woman, long dark hair, deep green and earth-brown sari, sal leaves and small white flowers in her hair, kind face."
+   },
+   {
+    "name": "Dharti Ki Beti (the daughter)",
+    "look": "A girl of about 9, bright eyes, two braids with a small flower, simple yellow and green dress."
+   },
+   {
+    "name": "The servant",
+    "look": "A woman in a plain cotton sari, hair tied back, kind and a little shy."
+   },
+   {
+    "name": "God and Yamraj",
+    "look": "Shown only as calm light and a dignified, kind-serious figure; no specific religious iconography."
+   }
+  ],
+  "sources": [
+   [
+    "Sarhul (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Sarhul"
+   ],
+   [
+    "Tribal communities celebrate Sarhul (Gaon Connection)",
+    "https://www.gaonconnection.com/read/sarhul-festival-jharkhand-sal-tree-tribal-population-nature-celebrations-festivities-handia-dance-folk-culture-sarna-new-year-50599"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are walking by the river on the day Mother Earth’s daughter comes home for the first time. What do you see, hear and smell as the flowers open around you?",
+ "create": "Draw the earth in two halves, one half dry and bare and the other half in bloom. Write two sentences about what Mother Earth feels in each half.",
+ "about": {
+  "where": "Jharkhand is a state in eastern India, known for its forests of sal trees. Sarhul, the spring festival linked with this story, is celebrated across Jharkhand.",
+  "community": "This story comes from the Munda tradition, as published by the Centre for Contemporary Folklore from a book of Munda stories. The Munda are one of the tribal communities of Jharkhand. Sources say the Munda and Ho call Sarhul by the name Baa Parab, and that Oraon, Munda and Ho communities all celebrate it.",
+  "tradition": "Sarhul is a spring festival that is also described as the start of the new year. It is held around the time the sal tree flowers, and rituals are done at the sarna, a sacred grove of sal trees, led by the village priest (pahan). People dance with sal flowers to drums, and many wear white clothes with red borders.",
+  "shared": "In this version, Mother Earth’s daughter returns for six months each year, and her return stands for spring and the renewal of nature. Other sources describe Sarhul in other ways, for example as the symbolic marriage of the Earth and the Sun. This is one version from one source, not the only one.",
+  "matters": "It shows how a community can explain the seasons through a story of love, loss and return. It teaches that the earth must be cared for and respected, because all living things depend on it.",
+  "links": [
+   [
+    "Sarhul (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Sarhul"
+   ],
+   [
+    "Tribal communities celebrate Sarhul (Gaon Connection)",
+    "https://www.gaonconnection.com/read/sarhul-festival-jharkhand-sal-tree-tribal-population-nature-celebrations-festivities-handia-dance-folk-culture-sarna-new-year-50599"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Munda community narrative from Jagdish Trigunayat, Munda Lok Kathayein; published as The Story of Dharti Ki Beti by the Centre for Contemporary Folklore on 14 November 2024.",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version (Level 3)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Child drowns (swept away by the river); kept as supplied but softened in wording and pictures, and Level 1 says she was carried away under the river. Educator should check suitability for grades 4-5.",
+  "Death and the world of the dead (Yamraj) appear; Level 1 explains them simply, check tone.",
+  "Original level (3) is a judgement call; sentence length alone is on the Level 2/3 border.",
+  "Source book Munda Lok Kathayein not verified; licence and permission for CCF text unconfirmed.",
+  "Story is linked to Sarhul only in the supplied text; other sources describe Sarhul differently, so a community member should verify the connection.",
+  "Repository image is an Amrit Vichar photo for a Sarhul article; not used here.",
+  "Terms like God/ईश्वर and Yamraj: confirm how the Munda tradition names these figures.",
+  "Hindi not reviewed by a fluent reader; सेविका, मृतकों का लोक and similar need checking.",
+  "Art style is neutral because no Munda tradition could be verified; Sarhul clothing details come from one news source."
+ ]
+}

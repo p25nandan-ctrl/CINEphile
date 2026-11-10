@@ -1,0 +1,257 @@
+{
+ "id": "dharmapada",
+ "state": "or",
+ "title": "Dharmapada — The Boy Who Saved the Craftsmen",
+ "titleHi": "धर्मपद और विशाल मंदिर",
+ "genre": "Local legend",
+ "levelTitles": {
+  "1": {
+   "en": "Dharmapada and the Great Temple",
+   "hi": "धर्मपद और विशाल मंदिर"
+  },
+  "2": {
+   "en": "The Last Stone of Konark",
+   "hi": "कोणार्क का आखिरी पत्थर"
+  },
+  "3": {
+   "en": "Dharmapada: A Name Carved in Stone",
+   "hi": "धर्मपद: पत्थरों में अंकित एक नाम"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in Odisha, many skilled workers were building a beautiful temple for the Sun God. The temple was being built at Konark, near the sea.",
+     "The workers had spent many years shaping stones and carving beautiful designs. Their leader was a master builder named Bisu Maharana. He had a young son named Dharmapada.",
+     "One day, Bisu’s son heard that the workers had a big problem. They had built almost the whole temple, but they could not place the final stone at the very top.",
+     "The king was angry. He had given the workers a deadline, and they were afraid they would be punished if they failed.",
+     "Dharmapada travelled to the temple to see his father. When he looked at the building, he noticed something the others had missed. He studied the stones carefully and thought about how they fitted together.",
+     "“I think I know how to do it,” he said.",
+     "The workers were surprised. Dharmapada was only a boy, but he explained his idea clearly. They followed his suggestion, and at last the final stone was placed at the top.",
+     "The temple was complete!",
+     "But Dharmapada knew that the king might punish the workers for needing his help. He feared that his success would put their lives in danger. The legend tells us that he jumped into the river near the temple so that the workers would be safe.",
+     "People remembered Dharmapada for his courage and for thinking of others before himself. His story became part of the memory of Konark."
+    ],
+    "hi": [
+     "बहुत समय पहले ओडिशा में सूर्य देव के लिए एक सुंदर मंदिर बनाया जा रहा था। यह मंदिर समुद्र के पास कोणार्क में बन रहा था।",
+     "कई कारीगर वर्ष से पत्थरों को तराश रहे थे और उन पर सुंदर आकृतियाँ बना रहे थे। उनका नेतृत्व बिसु महाराणा नाम के एक कुशल शिल्पकार कर रहे थे। उनका एक छोटा बेटा था, जिसका नाम धर्मपद था।",
+     "एक दिन धर्मपद को पता चला कि मंदिर बनाने वाले कारीगर एक बड़ी परेशानी में हैं। उन्होंने लगभग पूरा मंदिर बना लिया था, लेकिन वे उसकी सबसे ऊँची जगह पर आखिरी पत्थर नहीं रख पा रहे थे।",
+     "राजा नाराज़ था। उसने काम पूरा करने की समय-सीमा तय की थी। कारीगर डर रहे थे कि असफल होने पर उन्हें सज़ा मिलेगी।",
+     "धर्मपद अपने पिता से मिलने मंदिर पहुँचा। उसने मंदिर को ध्यान से देखा। उसने पत्थरों की बनावट और उनके जुड़ने के तरीके को समझने की कोशिश की।",
+     "उसने कहा, “मुझे लगता है कि मैं इसका उपाय बता सकता हूँ।”",
+     "कारीगर हैरान थे। धर्मपद अभी छोटा-सा लड़का था, लेकिन उसने अपना विचार समझाया। कारीगरों ने उसकी बात मानी और आखिरकार मंदिर के शिखर पर आखिरी पत्थर रख दिया गया।",
+     "मंदिर पूरा हो गया!",
+     "लेकिन धर्मपद जानता था कि राजा कारीगरों को सज़ा दे सकता है, क्योंकि उन्हें एक बच्चे की मदद लेनी पड़ी थी। उसे डर था कि उसकी सफलता के कारण कारीगरों की जान खतरे में पड़ जाएगी। लोककथा के अनुसार, उसने कारीगरों को बचाने के लिए मंदिर के पास बहने वाली नदी में छलाँग लगा दी।",
+     "लोग धर्मपद को उसके साहस और दूसरों के बारे में पहले सोचने के लिए याद करने लगे। उसकी कहानी कोणार्क की स्मृतियों का हिस्सा बन गई।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "For years, the sound of chisels echoed across the coast of Odisha. At Konark, hundreds of craftsmen were building a magnificent temple dedicated to the Sun God. Under the guidance of the chief architect, Bisu Maharana, they carved pillars, shaped stone wheels and decorated the walls with intricate designs.",
+     "But the final stage of the construction brought an unexpected challenge. The great stone that was meant to crown the temple would not settle into place. The craftsmen tried again and again, but nothing worked.",
+     "The king had demanded that the temple be completed within a fixed time. The workers feared that failure would bring a terrible punishment.",
+     "Far away, Bisu Maharana’s twelve-year-old son, Dharmapada, heard about the trouble. He travelled to Konark, determined to see his father. When he arrived, he found the craftsmen exhausted and worried.",
+     "Dharmapada examined the structure. He looked at the way the stones had been arranged and considered how the final piece could fit. Soon, he understood what needed to be done.",
+     "He explained his idea to the craftsmen. At first, they hesitated. Could a child really solve a problem that had defeated so many experienced builders? But Dharmapada’s reasoning was sound. They followed his instructions, and the final stone was successfully placed.",
+     "The temple stood complete.",
+     "Yet the boy was troubled. The king might ask how the workers had finally succeeded. If he discovered that a twelve-year-old had solved the problem, he might believe the craftsmen had been unable to finish their work on their own. Dharmapada feared that they would be punished.",
+     "The legend says that he chose to sacrifice himself rather than allow the workers to suffer. He leapt from the top of the temple into the Chandrabhaga River.",
+     "The craftsmen were saved, but the story left behind a deep sadness. Over generations, Dharmapada became a symbol of courage, skill and sacrifice. The great temple of Konark is remembered not only for its stonework, but also for the boy whose name became part of its legend."
+    ],
+    "hi": [
+     "कई वर्ष तक ओडिशा के समुद्र तट पर छैनी और हथौड़ों की आवाज़ गूँजती रही। कोणार्क में सैकड़ों कारीगर सूर्य देव को समर्पित एक भव्य मंदिर बना रहे थे। मुख्य शिल्पकार बिसु महाराणा के नेतृत्व में वे विशाल स्तंभ तराशते, पत्थरों से पहिए बनाते और दीवारों पर बारीक नक्काशी करते थे।",
+     "लेकिन मंदिर के निर्माण का आखिरी चरण बहुत कठिन साबित हुआ। मंदिर के सबसे ऊपर रखा जाने वाला विशाल पत्थर अपनी जगह पर ठीक से नहीं बैठ रहा था। कारीगरों ने कई बार कोशिश की, लेकिन हर बार असफल रहे।",
+     "राजा ने आदेश दिया था कि मंदिर एक निश्चित समय तक पूरा हो जाना चाहिए। कारीगरों को डर था कि काम पूरा न होने पर उन्हें कठोर सज़ा मिलेगी।",
+     "दूर अपने घर पर बिसु महाराणा के बारह वर्षय बेटे धर्मपद को इस परेशानी के बारे में पता चला। वह अपने पिता से मिलने कोणार्क पहुँचा। वहाँ उसने देखा कि सभी कारीगर थके हुए और चिंतित थे।",
+     "धर्मपद ने मंदिर की बनावट को ध्यान से देखा। उसने पत्थरों की व्यवस्था और उनके जुड़ने के तरीकों पर विचार किया। जल्द ही उसे समझ आ गया कि आखिरी पत्थर को कैसे रखा जा सकता है।",
+     "उसने कारीगरों को अपना उपाय बताया। पहले तो वे हिचकिचाए। क्या सचमुच एक बच्चा वह समस्या सुलझा सकता था, जिसे इतने अनुभवी कारीगर हल नहीं कर पाए थे? लेकिन धर्मपद की बात में दम था। उन्होंने उसके बताए तरीके से काम किया और आखिरकार आखिरी पत्थर अपनी जगह पर रख दिया गया।",
+     "मंदिर बनकर तैयार हो गया।",
+     "फिर भी धर्मपद चिंतित था। राजा पूछ सकता था कि कारीगर आखिर सफल कैसे हुए। यदि उसे पता चलता कि एक बारह साल के लड़के ने समस्या हल की है, तो वह समझ सकता था कि कारीगर अपना काम पूरा करने में असमर्थ थे। धर्मपद को डर था कि उन्हें सज़ा दी जाएगी।",
+     "लोककथा के अनुसार, उसने कारीगरों को बचाने के लिए अपना बलिदान देने का निर्णय लिया। वह मंदिर के शिखर से चंद्रभागा नदी में कूद गया।",
+     "कारीगरों की जान बच गई, लेकिन इस घटना ने सबके मन में गहरा दुख छोड़ दिया। पीढ़ियों से धर्मपद को साहस, कौशल और त्याग के प्रतीक के रूप में याद किया जाता है। कोणार्क का मंदिर केवल अपनी पत्थर की",
+     "कला के लिए ही नहीं, बल्कि उस बालक की कहानी के लिए भी जाना जाता है जिसका नाम उसकी किंवदंती का हिस्सा बन गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The Konark Sun Temple rises in the imagination of Odisha as much more than a monument. Its vast stone wheels, sculpted figures and elaborate architecture speak of extraordinary craftsmanship. But alongside the temple’s architectural grandeur lives a legend about a young boy whose name has been carried through generations: Dharmapada.",
+     "The story begins with a monumental undertaking. Under the supervision of the chief architect, Bisu Maharana, twelve hundred craftsmen worked to build a temple dedicated to Surya, the Sun God. They laboured for years, carving stone and assembling a structure that seemed almost impossible in its scale.",
+     "As the work approached completion, one final challenge remained. The crowning stone at the summit could not be installed. The craftsmen attempted to solve the problem, but their efforts failed. The king’s deadline was approaching, and the consequences of failure were said to be severe.",
+     "Bisu Maharana’s young son, Dharmapada, heard of the crisis and travelled to the construction site. Though only twelve years old, he possessed a sharp and observant mind. He studied the temple’s structure, examined the arrangement of the stones and worked out how the final piece could be placed.",
+     "He shared his solution with the craftsmen. They followed his instructions, and the final stone was successfully installed. After years of labour, the temple stood complete.",
+     "But the achievement brought a new dilemma. Dharmapada feared that the king would interpret the incident as proof that the craftsmen had failed to complete their task without a child’s intervention. Their lives might be at risk. The legend presents the boy with an impossible choice: allow the workers to face punishment, or protect them at a terrible personal cost.",
+     "In the story’s tragic conclusion, Dharmapada jumps from the temple into the Chandrabhaga River. His death, as remembered in the oral tradition, ensures that the craftsmen are not punished for the difficulty they faced.",
+     "The legend is not a historical record of the temple’s construction. It is a story through which generations have remembered the skill of the artisans and the value of courage, loyalty and sacrifice. Dharmapada’s place in the cultural memory of Konark reminds us that monuments are built not only from stone, but also from the human stories attached to them."
+    ],
+    "hi": [
+     "ओडिशा की कल्पना में कोणार्क का सूर्य मंदिर केवल एक ऐतिहासिक स्मारक नहीं है। उसके विशाल पत्थर के पहिए, मूर्तियाँ और जटिल स्थापत्य अद्भुत शिल्पकला की गवाही देते हैं। लेकिन इस मंदिर की भव्यता के साथ एक ऐसे बालक की लोककथा भी जुड़ी है, जिसका नाम पीढ़ियों से याद किया जाता रहा है—धर्मपद।",
+     "कहानी एक विशाल निर्माण कार्य से शुरू होती है। मुख्य शिल्पकार बिसु महाराणा की देखरेख में बारह सौ कारीगर सूर्य देव को समर्पित मंदिर बना रहे थे। वर्ष तक उन्होंने पत्थर तराशे और एक ऐसी संरचना तैयार की, जिसका आकार और वैभव असाधारण था।",
+     "निर्माण लगभग पूरा हो चुका था, लेकिन एक बड़ी समस्या बाकी थी। मंदिर के शिखर पर रखा जाने वाला अंतिम पत्थर अपनी जगह पर नहीं बैठ रहा था। कारीगरों ने अनेक प्रयास किए, लेकिन वे सफल नहीं हुए। राजा द्वारा तय की गई समय-सीमा नज़दीक आ रही थी और असफलता के परिणाम भयानक बताए जाते थे।",
+     "बिसु महाराणा के छोटे बेटे धर्मपद को इस संकट के बारे में पता चला। वह निर्माण स्थल पर पहुँचा। उम्र केवल बारह वर्ष थी, लेकिन उसकी दृष्टि तेज़ और समझ गहरी थी। उसने मंदिर की संरचना का अध्ययन किया, पत्थरों की व्यवस्था को परखा और यह समझ लिया कि आखिरी पत्थर किस प्रकार रखा जा सकता है।",
+     "उसने अपना उपाय कारीगरों को बताया। उन्होंने उसके निर्देशों का पालन किया और अंतिम पत्थर सफलतापूर्वक स्थापित कर दिया। वर्ष की मेहनत के बाद मंदिर पूरा हो गया।",
+     "लेकिन इस सफलता के साथ एक नई चिंता भी पैदा हुई। धर्मपद को डर था कि राजा इस घटना को कारीगरों की असफलता के रूप में देखेगा—उसे लगेगा कि वे अपना काम एक बच्चे की सहायता के बिना पूरा नहीं कर सकते। उनकी जान खतरे में पड़ सकती थी। लोककथा में धर्मपद के सामने एक असंभव चुनाव खड़ा होता है: कारीगरों को सज़ा का सामना करने देना या उन्हें बचाने के लिए स्वयं एक भयानक कीमत चुकाना।",
+     "कहानी के दुखद अंत में धर्मपद मंदिर के शिखर से चंद्रभागा नदी में छलाँग लगा देता है। मौखिक परंपरा में याद की जाने वाली उसकी मृत्यु के कारण कारीगर राजा के क्रोध से बच जाते हैं।",
+     "यह कथा मंदिर के निर्माण का प्रमाणित ऐतिहासिक विवरण नहीं है। यह एक ऐसी लोककथा है जिसके माध्यम से पीढ़ियों ने कारीगरों के कौशल और साहस, निष्ठा तथा त्याग के मूल्यों को याद रखा है। कोणार्क की सांस्कृतिक स्मृति में धर्मपद का स्थान हमें याद दिलाता है कि स्मारक केवल पत्थरों से नहीं बनते; उनसे जुड़ी मानवीय कहानियाँ भी उन्हें अर्थ देती हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Konark, coastal Odisha",
+  "community": "Local oral legend",
+  "tradition": "Legend associated with the building of the Konark Sun Temple."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Chirashree Srabani Rath, “Exploring the Lost River(s) at Konark: A Multi-Disciplinary Approach”, Odisha Review (Government of Odisha), November 2017. The account is oral tradition, passed down through stories and songs; it is a legend, not established historical fact.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-098-008",
+ "meta": [
+  " Recommended for the repository",
+  "Region: Konark, coastal Odisha · Genre: Local legend · Themes: Courage, responsibility, sacrifice, craftsmanship",
+  "About the story and its origins",
+  "The legend of Dharmapada is closely associated with the construction of the Konark Sun Temple. In the best-known version, the temple’s chief architect, Bisu Maharana, is away from home for years, working with 1,200 craftsmen on the great Sun Temple. When the final stone at the summit cannot be placed, the workers face a terrible threat: failure could cost them their lives.",
+  "Bisu’s young son, Dharmapada, hears of the problem and travels to Konark. Though only twelve, he studies the structure and finds a way to complete the work. But the king’s order creates another danger: if the boy’s achievement becomes known, the craftsmen may be accused of having failed until a child rescued them. In the tragic ending remembered by the legend, Dharmapada leaps from the temple into the Chandrabhaga River, sacrificing himself to protect the workers.",
+  "Source and attribution: An article in the Government of Odisha’s Odisha Review describes Dharmapada as a twelve-year-old son of chief architect Bisu Maharana who gave his life to",
+  "save his father and 1,200 craftsmen. It explicitly identifies the account as oral tradition, passed down through stories and songs. The story is a legend, not established historical fact.",
+  "magazines.odisha.gov.in"
+ ]
+}

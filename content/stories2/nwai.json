@@ -1,0 +1,233 @@
+{
+ "id": "nwai",
+ "state": "tr",
+ "title": "Nwai — The Girl and Her Stepmother",
+ "titleHi": "न्वाई और कठोर सौतेली माँ",
+ "genre": "Family folktale",
+ "levelTitles": {
+  "1": {
+   "en": "Nwai and the Unkind Stepmother",
+   "hi": "न्वाई और कठोर सौतेली माँ"
+  },
+  "2": {
+   "en": "Nwai's Difficult Home",
+   "hi": "न्वाई का कठिन घरेलू जीवन"
+  },
+  "3": {
+   "en": "Nwai: A Child's Place in the Family",
+   "hi": "न्वाई: परिवार में एक बच्चे का स्थान"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once upon a time, in a small village in Tripura, there lived a girl named Nwai.",
+     "Nwai had lost her mother when she was very young. Her father later married another woman, who became Nwai's stepmother.",
+     "At first, Nwai hoped that her new family would be happy. She wanted someone to care for her, talk to her and help her when she was sad.",
+     "But her stepmother was unkind to her. She gave Nwai many chores to do and rarely spoke to her gently. While other children played outside, Nwai often had to stay home and finish the work.",
+     "Every morning, she swept the house, fetched water and helped with the household tasks. Even when she was tired, she tried to do everything properly.",
+     "Sometimes she looked at the other children in the village and wondered why her life was so different.",
+     "One day, an elderly woman saw Nwai working alone. She asked, “Child, why do you look so sad?”",
+     "Nwai hesitated, but then told her how she was treated at home.",
+     "The woman listened carefully. She reminded Nwai that being kind did not mean she had to believe that unfair treatment was right.",
+     "“You deserve care and respect, just like every other child,” she said.",
+     "Nwai felt a little lighter. She returned home with a new understanding: she could remain kind without forgetting that she deserved kindness too.",
+     "The story of Nwai reminds us that every child deserves love, safety and fairness. A family should be a place where everyone is cared for."
+    ],
+    "hi": [
+     "बहुत समय पहले त्रिपुरा के एक छोटे-से गाँव में न्वाई नाम की एक लड़की रहती थी।",
+     "न्वाई ने बहुत छोटी उम्र में अपनी माँ को खो दिया था। कुछ समय बाद उसके पिता ने दूसरी शादी कर ली। नई पत्नी न्वाई की सौतेली माँ बन गई।",
+     "शुरुआत में न्वाई को उम्मीद थी कि उसका नया परिवार खुशहाल होगा। वह चाहती थी कि कोई उसकी देखभाल करे, उससे बातें करे और उदास होने पर उसे समझाए।",
+     "लेकिन उसकी सौतेली माँ उसके साथ अच्छा व्यवहार नहीं करती थी। वह न्वाई को घर के बहुत सारे काम देती और उससे प्यार से कम ही बात करती। जब गाँव के दूसरे बच्चे बाहर खेलते, तब न्वाई को घर में रहकर काम पूरा करना पड़ता।",
+     "हर सुबह वह घर में झाड़ू लगाती, पानी लाती और घर के दूसरे कामों में मदद करती। थक जाने पर भी वह अपना काम ठीक से करने की कोशिश करती।",
+     "कभी-कभी वह गाँव के दूसरे बच्चों को देखकर सोचती कि उसका जीवन उनसे इतना अलग क्यों है।",
+     "एक दिन एक बुज़ुर्ग महिला ने न्वाई को अकेले काम करते देखा। उन्होंने पूछा, “बेटी, तुम इतनी उदास क्यों हो?”",
+     "न्वाई पहले झिझकी, लेकिन फिर उसने घर में अपने साथ होने वाले व्यवहार के बारे में बता दिया।",
+     "बुज़ुर्ग महिला ने उसकी बात ध्यान से सुनी। उन्होंने उसे समझाया कि दयालु होने का अर्थ यह नहीं है कि वह अपने साथ होने वाले अन्याय को सही मान ले।",
+     "उन्होंने कहा, “तुम भी हर दूसरे बच्चे की तरह प्यार और सम्मान पाने की हकदार हो।”",
+     "न्वाई का मन थोड़ा हल्का हुआ। वह एक नई समझ के साथ घर लौटी: वह दयालु रह सकती है, लेकिन उसे यह भी याद रखना चाहिए कि वह स्वयं भी दया और अच्छे व्यवहार की हकदार है।",
+     "न्वाई की कहानी हमें याद दिलाती है कि हर बच्चे को प्यार, सुरक्षा और निष्पक्ष व्यवहार मिलना चाहिए। परिवार ऐसी जगह होना चाहिए जहाँ सभी की देखभाल की जाए।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Nwai lived in a village in Tripura. She had lost her mother when she was young, and her father had married again. Her stepmother became responsible for looking after her, but the two never developed a warm relationship.",
+     "Nwai tried hard to be helpful. She woke up early, completed the household chores and did whatever work she was asked to do. She hoped that her efforts would make her stepmother happy.",
+     "Instead, her stepmother continued to treat her harshly. She expected Nwai to work without complaint and rarely showed appreciation. Nwai often felt that she was being treated differently from the other members of the household.",
+     "The girl had very little time for herself. While other children spent their afternoons playing, she remained occupied with household responsibilities. She missed the comfort of her mother and wished that someone would understand how she felt.",
+     "As time passed, Nwai began to recognise that the problem was not simply that she had to work. It was that she was denied the affection, attention and respect that every child needs.",
+     "The traditional story of Nwai draws attention to the vulnerability of a child within an unequal family relationship. It asks readers to consider how power operates inside a household and how a child's experience can be shaped by the adults responsible for her care.",
+     "Nwai's story is a reminder that family relationships are not made fair simply because people live under the same roof. Love must be expressed through care, patience and respect."
+    ],
+    "hi": [
+     "न्वाई त्रिपुरा के एक गाँव में रहती थी। उसने छोटी उम्र में अपनी माँ को खो दिया था और उसके पिता ने दूसरी शादी कर ली थी। उसकी सौतेली माँ पर उसकी देखभाल की ज़िम्मेदारी थी, लेकिन दोनों के बीच कभी आत्मीय संबंध नहीं बन पाया।",
+     "न्वाई हमेशा मदद करने की कोशिश करती थी। वह सुबह जल्दी उठती, घर के काम पूरे करती और उसे जो भी काम दिया जाता, उसे करने की कोशिश करती। उसे उम्मीद थी कि उसकी मेहनत से उसकी सौतेली माँ खुश होगी।",
+     "लेकिन इसके बजाय सौतेली माँ उसके साथ कठोर व्यवहार करती रही। वह चाहती थी कि न्वाई बिना शिकायत किए काम करती रहे और शायद ही कभी उसकी मेहनत की सराहना करती। न्वाई को अक्सर लगता कि घर के दूसरे सदस्यों की तुलना में उसके साथ अलग व्यवहार किया जाता है।",
+     "उसके पास अपने लिए बहुत कम समय था। जब दूसरे बच्चे दोपहर में खेलते, तब वह घर के कामों में लगी रहती। उसे अपनी माँ की याद आती और वह चाहती कि कोई उसकी भावनाओं को समझे।",
+     "समय के साथ न्वाई समझने लगी कि समस्या केवल यह नहीं थी कि उसे काम करना पड़ता था। असली समस्या यह थी कि उसे वह स्नेह, ध्यान और सम्मान नहीं मिलता था जिसकी हर बच्चे को ज़रूरत होती है।",
+     "न्वाई की पारंपरिक कहानी परिवार के भीतर असमान संबंधों में बच्चे की असुरक्षा की ओर ध्यान दिलाती है। यह पाठकों को सोचने के लिए प्रेरित करती है कि घर के भीतर शक्ति किस तरह काम करती है और बच्चे का अनुभव उन बड़ों के व्यवहार से कैसे प्रभावित होता है जिन्हें उसकी देखभाल करनी चाहिए।",
+     "न्वाई की कहानी याद दिलाती है कि केवल एक ही छत के नीचे रहने से पारिवारिक संबंध अपने आप न्यायपूर्ण नहीं बन जाते। प्रेम को देखभाल, धैर्य और सम्मान के माध्यम से व्यक्त करना आवश्यक है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Nwai is a story about a young girl growing up in a household where she does not receive the affection and consideration she needs. After losing her mother, she lives with her father and stepmother. The stepmother treats her harshly, and Nwai finds herself burdened with responsibilities while being denied the emotional care that should accompany them.",
+     "The story's central conflict is not merely between a girl and an unkind adult. It is about the position of a child within a family structure in which adults hold authority and children have little power to challenge their treatment.",
+     "Nwai's experience raises questions about what makes a household a family. Is it simply the fact that people share a home, or does family life depend on mutual care and responsibility? What happens when the person expected to protect a child becomes the source of her distress?",
+     "The narrative also offers an opportunity to discuss the vulnerability of girls in traditional domestic settings. Household work, expectations of obedience and unequal treatment can shape a child's sense of belonging. The story encourages readers to recognise that affection cannot be demanded from children while respect and care are withheld from them.",
+     "The most important lesson is not that children must silently endure hardship. It is that adults have a responsibility to treat children fairly, and that kindness must be accompanied by dignity and protection."
+    ],
+    "hi": [
+     "न्वाई एक ऐसी लड़की की कहानी है जो ऐसे घर में बड़ी होती है जहाँ उसे आवश्यक स्नेह और संवेदनशीलता नहीं मिलती। माँ को खोने के बाद वह अपने पिता और सौतेली माँ के साथ रहती है। सौतेली माँ उसके साथ कठोर व्यवहार करती है। न्वाई पर घर की अनेक ज़िम्मेदारियाँ डाल दी जाती हैं, लेकिन उसे वह भावनात्मक देखभाल नहीं मिलती जिसकी हर बच्चे को आवश्यकता होती है।",
+     "कहानी का केंद्रीय संघर्ष केवल एक लड़की और कठोर स्वभाव वाले वयस्क के बीच नहीं है। यह परिवार की उस संरचना में बच्चे की स्थिति के बारे में है जहाँ अधिकार बड़ों के पास होता है और बच्चों के पास अपने साथ होने वाले व्यवहार पर सवाल उठाने की बहुत कम शक्ति होती है।",
+     "न्वाई का अनुभव हमें सोचने के लिए प्रेरित करता है कि किसी घर को परिवार क्या बनाता है। क्या केवल एक ही घर में रहने से लोग परिवार बन जाते हैं, या पारिवारिक जीवन आपसी देखभाल और ज़िम्मेदारी पर निर्भर करता है? जब बच्चे की रक्षा करने वाला व्यक्ति ही उसके दुख का कारण बन जाए, तब क्या होता है?",
+     "यह कथा पारंपरिक घरेलू परिस्थितियों में लड़कियों की असुरक्षा पर चर्चा करने का अवसर भी देती है। घर के काम, आज्ञाकारी रहने की अपेक्षाएँ और असमान व्यवहार बच्चे के अपनेपन की भावना को प्रभावित कर सकते हैं। कहानी पाठकों को यह समझने के लिए प्रेरित करती है कि बच्चों से स्नेह की अपेक्षा करते हुए उन्हें सम्मान और देखभाल से वंचित नहीं किया जा सकता।",
+     "इस कहानी की सबसे महत्वपूर्ण सीख यह नहीं है कि बच्चों को चुपचाप कठिनाइयाँ सहनी चाहिए। बल्कि यह है कि बड़ों की ज़िम्मेदारी है कि वे बच्चों के साथ न्यायपूर्ण व्यवहार करें और दयालुता के साथ उन्हें सम्मान तथा सुरक्षा भी दें।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Tripura",
+  "community": "Kokborok-speaking Tripuri communities",
+  "tradition": "Kokborok family folktale."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Professor Sukhendu Debbarma’s study of Kokborok folktales (Granthaalayah Publication) identifies Nwai as a Kokborok folktale about a girl mistreated by her stepmother.",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "This version is an adaptation of the documented premise. It is not a retelling of the complete original tale.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-162-018",
+ "meta": [
+  "Community: Kokborok-speaking Tripuri communities · Region: Tripura · Genre: Family folktale · Themes: Kindness, fairness, family relationships, resilience",
+  "About the story and its origins",
+  "Nwai is identified in Professor Sukhendu Debbarma's study as a Kokborok folktale about a girl who is mistreated by her stepmother. The study reads the story as a reflection of family relationships and the challenges faced by women in traditional society.",
+  "Granthaalayah Publication",
+  "The accessible academic summary does not provide the complete sequence of events or the original ending. The versions below are therefore adaptations of the documented premise, with an expanded narrative structure for children. They should be checked against the full story in a Kokborok collection before being published as faithful retellings."
+ ]
+}

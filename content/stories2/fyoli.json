@@ -1,0 +1,316 @@
+{
+ "id": "fyoli",
+ "state": "ut",
+ "title": "Fyoli — The Girl Who Became a Flower",
+ "titleHi": "फ्योंली, जंगल की बेटी",
+ "genre": "Literary folktale",
+ "levelTitles": {
+  "1": {
+   "en": "Fyoli, the Forest Girl",
+   "hi": "फ्योंली, जंगल की बेटी"
+  },
+  "2": {
+   "en": "The Flower on the Mountain",
+   "hi": "पहाड़ पर खिला फूल"
+  },
+  "3": {
+   "en": "Fyoli and the World She Left Behind",
+   "hi": "फ्योंली और पीछे छूटी हुई दुनिया"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in a beautiful forest in the mountains, there lived a girl named Fyoli. She had no human family, but she was never lonely. The deer, birds, flowers and trees were her friends. She lived near a little lake, where the water sparkled in the morning sun.",
+     "Every day, the birds sang to wake her. The deer came close to her, and the flowers seemed to smile whenever she walked past. She gathered wild fruits, made garlands and played beside the streams. The forest was her home, and she loved every part of it.",
+     "One day, a prince came to the forest while hunting. He stopped near the lake to drink water. Fyoli saw him and asked, “Have you come here to hunt?”",
+     "The prince said yes.",
+     "Fyoli told him, “Please do not hurt the animals. They are my family. Nobody harms anyone in this forest.”",
+     "The prince was surprised by her words. He put away his hunting plans and rested near the lake. As evening came, the animals returned with fruits and flowers for Fyoli. The prince watched them and realised how much the forest loved her.",
+     "The next morning, the prince asked Fyoli to come with him to his palace. He promised that she would live like a queen, surrounded by beautiful things.",
+     "Fyoli was unsure. “But will there be trees, birds, rivers and flowers?” she asked.",
+     "The prince told her that the palace had many wonderful things. After thinking for a long time, Fyoli agreed to go with him.",
+     "At first, palace life seemed exciting. She had lovely clothes, delicious food and people to look after her. But slowly, she began to miss the forest. The palace was grand, but it did not have the same songs, freedom or friendship.",
+     "She missed the birds that woke her, the deer that visited her and the streams beside which she had played. The prince tried to make her happy, but she grew weaker with every passing day.",
+     "One day, Fyoli made a request. She asked the prince that, when she was gone, he should take her back to the mountain where she had grown up. She also asked him never to hunt the animals who had been her family.",
+     "Soon, Fyoli passed away. The prince kept his promise and buried her on the mountain.",
+     "After some time, a small plant grew there. It blossomed into a beautiful yellow flower. The people of the mountains called it Fyoli, in memory of the girl who had loved the forest so dearly."
+    ],
+    "hi": [
+     "बहुत समय पहले, पहाड़ों के एक सुंदर जंगल में फ्योंली नाम की एक लड़की रहती थी। उसका कोई इंसानी परिवार नहीं था, लेकिन वह कभी अकेली नहीं थी। हिरन, पक्षी, फूल और पेड़ उसके दोस्त थे। वह एक छोटी-सी झील के पास रहती थी, जिसका पानी सुबह की धूप में चमकता था।",
+     "हर सुबह पक्षी गाकर उसे जगाते। हिरन उसके पास आ जाते और ऐसा लगता मानो फूल उसके रास्ते में मुस्कुरा रहे हों। वह जंगली फल चुनती, फूलों की मालाएँ बनाती और झरनों के किनारे खेलती। जंगल ही उसका घर था और उसे जंगल की हर चीज़ से प्यार था।",
+     "एक दिन एक राजकुमार शिकार करते हुए उस जंगल में आ पहुँचा। वह झील के पास पानी पीने के लिए रुका। फ्योंली ने उसे देखकर पूछा, “क्या आप यहाँ शिकार करने आए हैं?”",
+     "राजकुमार ने कहा, “हाँ।”",
+     "फ्योंली बोली, “कृपया जानवरों को चोट मत पहुँचाइए। वे मेरा परिवार हैं। इस जंगल में कोई किसी को नुकसान नहीं पहुँचाता।”",
+     "राजकुमार उसकी बात सुनकर हैरान हुआ। उसने शिकार करने का विचार छोड़ दिया और झील के पास आराम करने लगा। शाम को जंगल के जानवर फ्योंली के लिए फल और फूल लेकर आए। राजकुमार ने देखा कि जंगल के सभी जीव उससे कितना प्यार करते हैं।",
+     "अगली सुबह राजकुमार ने फ्योंली से अपने महल चलने को कहा। उसने वादा किया कि वह उसे रानी की तरह रखेगा और उसके आसपास बहुत-सी सुंदर चीज़ें होंगी।",
+     "फ्योंली ने पूछा, “लेकिन वहाँ पेड़, पक्षी, नदियाँ और फूल भी होंगे?”",
+     "राजकुमार ने कहा कि महल में भी बहुत-सी सुंदर चीज़ें हैं। काफी सोचने के बाद फ्योंली उसके साथ जाने को तैयार हो गई।",
+     "शुरुआत में महल का जीवन उसे अच्छा लगा। उसके पास सुंदर कपड़े, स्वादिष्ट भोजन और उसकी देखभाल करने वाले लोग थे। लेकिन धीरे-धीरे उसे जंगल की याद आने लगी। महल बहुत बड़ा और सुंदर था, पर वहाँ जंगल जैसा अपनापन और आज़ादी नहीं थी।",
+     "उसे सुबह जगाने वाले पक्षी याद आते। उसे मिलने आने वाले हिरन याद आते। उसे झरनों के किनारे बिताए दिन याद आते। राजकुमार ने उसे खुश रखने की बहुत कोशिश की, लेकिन हर दिन वह और उदास होती गई।",
+     "एक दिन फ्योंली ने राजकुमार से एक विनती की। उसने कहा कि जब वह इस दुनिया में न रहे, तो उसे उसी पहाड़ पर ले जाकर दफनाया जाए जहाँ वह पली-बढ़ी थी। उसने यह भी कहा कि राजकुमार कभी उन जानवरों का शिकार न करे जो उसका परिवार थे।",
+     "कुछ समय बाद फ्योंली चल बसी। राजकुमार ने अपना वादा निभाया और उसे पहाड़ पर दफना दिया।",
+     "कुछ समय बाद वहाँ एक छोटा-सा पौधा उगा। उस पर एक सुंदर पीला फूल खिला। पहाड़ के लोगों ने उस फूल का नाम फ्योंली रखा—उस लड़की की याद में जिसे जंगल से बहुत प्यार था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In a quiet forest in the mountains lived a young woman named Fyoli. She had grown up among trees, streams and wild animals. She had no human family, but she was surrounded by companions: birds that sang at dawn, deer that came to rest near her, and flowers that brightened the paths she walked.",
+     "The forest gave her everything she needed. She gathered wild fruits and roots, made garlands from flowers and spent her days listening to the sounds of the streams. She was happy because she belonged to the world around her.",
+     "One afternoon, a prince entered the forest on a hunting expedition. He stopped beside a stream to drink water and noticed Fyoli sitting nearby with a young deer. She asked him whether he had come to hunt.",
+     "When he said that he had, Fyoli told him that the animals were her brothers and sisters. She asked him not to kill them. The prince was struck by her affection for the forest. He stayed there until evening, watching the animals gather around her with food and flowers.",
+     "The following morning, the prince invited Fyoli to his palace. He promised to make her his queen and give her a life of comfort and luxury. Fyoli hesitated. She wondered whether she would find the same trees, birds, streams and freedom in the palace.",
+     "The prince assured her that she would want for nothing. At last, Fyoli agreed to accompany him.",
+     "For a while, palace life seemed wonderful. There was plenty of food, fine clothing and every comfort she could imagine. Yet, as the days passed, she began to feel that something important was missing. The palace had jewels and grand rooms, but it lacked the simple affection of the forest. No birds sang outside her window as they once had. No deer came to greet her. The streams and trees she had known were far away.",
+     "The prince tried to cheer her, but Fyoli became increasingly unhappy and ill. She felt as though a plant had been uprooted from the soil in which it had grown and placed somewhere it could not thrive.",
+     "At last, she asked the prince to fulfil two wishes. When she died, he must take her back to the mountain she had called home. And he must never hunt the animals who had once been her family.",
+     "The prince promised. Soon afterwards, Fyoli died. He carried her back to the mountain and buried her there.",
+     "The forest seemed to mourn her. The birds fell silent, the flowers drooped and the wind moved through the trees like a sigh. But the mountain did not remain without life. In time, a small plant appeared at the place where Fyoli rested. It grew and produced a delicate yellow flower.",
+     "People began calling it the Fyoli flower. Each spring, when it blooms on the mountain paths and beside the fields, it recalls the girl whose heart had always belonged to the forest."
+    ],
+    "hi": [
+     "पहाड़ों के एक शांत जंगल में फ्योंली नाम की एक युवती रहती थी। उसका बचपन पेड़ों, झरनों और जंगली जानवरों के बीच बीता था। उसका कोई इंसानी परिवार नहीं था, लेकिन उसके आसपास बहुत-से साथी थे—सुबह गाने वाले पक्षी, उसके पास आकर बैठने वाले हिरन और रास्तों को सुंदर बनाने वाले फूल।",
+     "जंगल उसे वह सब देता था जिसकी उसे ज़रूरत थी। वह जंगली फल और कंद-मूल इकट्ठा करती, फूलों की मालाएँ बनाती और झरनों की आवाज़ सुनते हुए दिन बिताती। वह खुश थी, क्योंकि वह अपने आसपास की दुनिया का हिस्सा थी।",
+     "एक दोपहर एक राजकुमार शिकार के लिए जंगल में आया। पानी पीने के लिए वह एक झरने के पास रुका। वहाँ उसने फ्योंली को एक हिरन के बच्चे के साथ बैठे देखा। उसने पूछा कि क्या राजकुमार शिकार करने आया है।",
+     "राजकुमार ने हाँ कहा। फ्योंली ने उसे बताया कि जंगल के जानवर उसके भाई-बहन जैसे हैं। उसने उससे उन्हें न मारने की विनती की। राजकुमार उसके जंगल-प्रेम से प्रभावित हुआ। वह शाम तक वहीं रुका और उसने देखा कि जानवर उसके लिए फल और फूल लेकर उसके आसपास इकट्ठा हो रहे हैं।",
+     "अगली सुबह राजकुमार ने फ्योंली को अपने महल चलने का निमंत्रण दिया। उसने वादा किया कि वह उसे अपनी रानी बनाएगा और उसे आराम और सुख-सुविधाओं से भरा जीवन देगा। फ्योंली हिचकिचाई। उसने सोचा कि क्या महल में भी उसे वही पेड़, पक्षी, झरने और आज़ादी मिलेगी?",
+     "राजकुमार ने भरोसा दिलाया कि वहाँ उसे किसी चीज़ की कमी नहीं होगी। आखिरकार फ्योंली उसके साथ जाने को तैयार हो गई।",
+     "कुछ समय तक महल का जीवन उसे बहुत अच्छा लगा। वहाँ भरपूर भोजन था, सुंदर कपड़े थे और हर तरह की सुविधा थी। लेकिन दिन बीतने के साथ उसे महसूस हुआ कि कोई ज़रूरी चीज़ गायब है। महल में रत्न और भव्य कमरे थे, पर जंगल जैसा सरल अपनापन नहीं था। उसकी खिड़की के बाहर अब पक्षी नहीं गाते थे। कोई हिरन उससे मिलने नहीं आता था। उसके परिचित पेड़ और झरने बहुत दूर रह गए थे।",
+     "राजकुमार ने उसे खुश करने की कोशिश की, लेकिन फ्योंली दिन-ब-दिन उदास और बीमार होती गई। उसे ऐसा लगता था जैसे किसी पौधे को उसकी मिट्टी से उखाड़कर ऐसी जगह लगा दिया गया हो जहाँ वह पनप ही नहीं सकता।",
+     "आखिरकार उसने राजकुमार से दो इच्छाएँ पूरी करने का वादा लिया। जब वह इस दुनिया में न रहे, तो उसे उसी पहाड़ पर वापस ले जाया जाए जिसे वह अपना घर मानती थी। और राजकुमार कभी उन जानवरों का शिकार न करे जो कभी उसका परिवार थे।",
+     "राजकुमार ने वादा किया। कुछ समय बाद फ्योंली चल बसी। वह उसे वापस पहाड़ पर ले गया और वहीं दफना दिया।",
+     "जंगल भी मानो उसके जाने का शोक मनाने लगा। पक्षियों ने गाना बंद कर दिया, फूल झुक गए और पेड़ों के बीच बहती हवा किसी आह जैसी सुनाई देने लगी। लेकिन पहाड़ पर जीवन समाप्त नहीं हुआ। कुछ समय बाद उसी जगह एक छोटा-सा पौधा उगा जहाँ फ्योंली को दफनाया गया था। वह बड़ा हुआ और उस पर एक नाज़ुक पीला फूल खिलने लगा।",
+     "लोग उसे फ्योंली का फूल कहने लगे। हर वसंत में जब वह पहाड़ी रास्तों और खेतों की मेड़ों पर खिलता है, तो उस लड़की की याद दिलाता है जिसका मन हमेशा जंगल में बसता था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In a forest high in the mountains, far from villages and palaces, lived a young woman named Fyoli. She had grown up without human company, yet she had never known loneliness. The forest was her family. Deer came to her without fear, birds greeted her at dawn, and the flowers and grasses seemed to make room for her wherever she walked.",
+     "Her days followed the rhythms of the natural world. She gathered fruits and roots, wove garlands, listened to the streams and wandered beneath the trees. She was not a queen, but the animals treated her as one. Her kingdom was a place where no creature hunted another and where she felt entirely at home.",
+     "One day, a prince entered the forest on a hunting expedition. He found Fyoli beside a stream, tending to a young deer. When she learnt that he had come to hunt, she asked him to leave the animals unharmed. They were her family, she explained, and the forest was a place of peace.",
+     "The prince was captivated by her beauty and by the life she led. He stayed until evening, watching the animals bring her fruits and flowers. The following morning, he asked her to accompany him to his palace. He promised to make her his queen and surround her with comfort.",
+     "Fyoli questioned the offer. What would a palace mean without the trees, birds and streams she knew? The prince insisted that his world contained pleasures greater than anything the forest could offer. Fyoli was torn between the life she understood and the possibility of love and companionship in a world she had never known. Eventually, she chose to go with him.",
+     "At first, she was welcomed into a life of abundance. There were fine clothes, elaborate meals, attendants and the splendour of the royal court. Yet comfort could not replace belonging. The palace was filled with people, but Fyoli felt increasingly alone. She missed the creatures who had known her without rank or title. She missed the freedom of the forest and the affection that had never asked anything of her.",
+     "The prince tried to please her, but the sadness deepened. The life she had entered was not cruel to her; it was simply not the life in which she could flourish. Like a plant removed from its native soil, she began to wither.",
+     "When she realised that she would not recover, Fyoli asked the prince to honour her final wishes. She wanted to be buried on the mountain where she had lived. She also asked him never to hunt the animals who had been her companions.",
+     "The prince agreed. After her death, he carried her back to the mountain and buried her there. The forest seemed to grieve: the birds grew quiet, flowers drooped and the wind moved through the branches like a long sigh.",
+     "But in time, a new plant grew at the place where Fyoli had been laid to rest. It produced a small, beautiful yellow flower. People came to know it by her name.",
+     "The story explains the flower through a tale of loss and transformation. It also asks a larger question: can a life of comfort make up for the loss of belonging? Fyoli's story suggests that home is not simply a place of shelter or wealth. It is also the relationships, freedoms and landscapes through which we come to understand ourselves."
+    ],
+    "hi": [
+     "पहाड़ों की ऊँचाइयों पर, गाँवों और महलों से दूर, एक जंगल में फ्योंली नाम की युवती रहती थी। वह इंसानों के बीच नहीं पली थी, फिर भी उसने कभी अकेलापन नहीं जाना। जंगल ही उसका परिवार था। हिरन उसके पास निडर होकर आते, पक्षी सुबह उसका स्वागत करते और फूल तथा घास मानो उसके चलने के लिए रास्ता बना देते।",
+     "उसके दिन प्रकृति की लय के साथ बीतते थे। वह फल और कंद-मूल इकट्ठा करती, फूलों की मालाएँ बनाती, झरनों की आवाज़ सुनती और पेड़ों के बीच घूमती रहती। वह रानी नहीं थी, लेकिन जानवर उसे अपनी रानी मानते थे। उसका संसार ऐसा था जहाँ कोई जीव दूसरे का शिकार नहीं करता था और जहाँ वह पूरी तरह अपने घर में महसूस करती थी।",
+     "एक दिन एक राजकुमार शिकार करते हुए जंगल में आया। उसने फ्योंली को एक झरने के पास हिरन के बच्चे की देखभाल करते देखा। जब फ्योंली को पता चला कि वह शिकार करने आया है, तो उसने उससे जानवरों को नुकसान न पहुँचाने की विनती की। उसने कहा कि वे उसका परिवार हैं और जंगल शांति की जगह है।",
+     "राजकुमार उसकी सुंदरता और उसके जीवन से प्रभावित हुआ। वह शाम तक वहीं रुका और उसने देखा कि जंगल के जीव उसके लिए फल और फूल लेकर आते हैं। अगली सुबह उसने फ्योंली से अपने महल चलने को कहा। उसने वादा किया कि वह उसे अपनी रानी बनाएगा और सुख-सुविधाओं से भरपूर जीवन देगा।",
+     "फ्योंली ने उससे पूछा कि पेड़ों, पक्षियों और झरनों के बिना महल उसके लिए क्या मायने रखेगा। राजकुमार ने कहा कि उसके संसार में जंगल से कहीं अधिक सुख और आनंद है। फ्योंली अपने परिचित जीवन और एक अनजानी दुनिया में प्रेम तथा साथ पाने की संभावना के बीच उलझ गई। आखिरकार उसने राजकुमार के साथ जाने का निर्णय लिया।",
+     "शुरुआत में उसका स्वागत ऐश्वर्य से भरे जीवन में हुआ। उसके पास सुंदर कपड़े, तरह-तरह के भोजन, सेविकाएँ और राजदरबार की चमक-दमक थी। लेकिन सुख-सुविधाएँ अपनापन नहीं दे सकती थीं। महल में बहुत-से लोग थे, फिर भी फ्योंली खुद को अकेला महसूस करने लगी। उसे वे जीव याद आते जो उसे किसी पद या पहचान के बिना जानते थे। उसे जंगल की आज़ादी और उस प्रेम की याद आती जिसमें उससे कुछ माँगा नहीं जाता था।",
+     "राजकुमार ने उसे खुश करने की कोशिश की, लेकिन उसकी उदासी बढ़ती गई। महल का जीवन उसके साथ क्रूर नहीं था; बस वह ऐसा जीवन नहीं था जिसमें फ्योंली फल-फूल सकती थी। अपनी मिट्टी से अलग किए गए पौधे की तरह वह धीरे-धीरे मुरझाने लगी।",
+     "जब उसे समझ आया कि अब वह ठीक नहीं हो पाएगी, तो उसने राजकुमार से अपनी अंतिम इच्छाएँ पूरी करने को कहा। वह उसी पहाड़ पर दफन होना चाहती थी जहाँ उसने अपना जीवन बिताया था। उसने यह भी कहा कि राजकुमार कभी उन जानवरों का शिकार न करे जो उसके साथी रहे थे।",
+     "राजकुमार ने उसकी बात मान ली। फ्योंली की मृत्यु के बाद वह उसे वापस पहाड़ पर ले गया और वहीं दफना दिया। जंगल भी मानो शोक में डूब गया। पक्षी शांत हो गए, फूल झुक गए और पेड़ों के बीच बहती हवा किसी लंबी आह जैसी लगने लगी।",
+     "लेकिन कुछ समय बाद उसी जगह एक नया पौधा उगा जहाँ फ्योंली को दफनाया गया था। उस पर एक छोटा-सा सुंदर पीला फूल खिला। लोग उसे फ्योंली के नाम से जानने लगे।",
+     "यह कहानी एक फूल की उत्पत्ति को दुख और रूपांतरण की कथा के माध्यम से समझाती है। साथ ही यह एक बड़ा प्रश्न भी उठाती है: क्या सुख-सुविधाओं से भरा जीवन अपनापन खो देने की भरपाई कर सकता है? फ्योंली की कहानी बताती है कि घर केवल आश्रय या धन का नाम नहीं है। घर उन रिश्तों, आज़ादियों और प्राकृतिक परिवेश से भी बनता है जिनके बीच हम स्वयं को पहचानते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Garhwal, Uttarakhand",
+  "community": "Garhwali",
+  "tradition": "Garhwali literary folktale about the yellow spring flower fyoli (Reinwardtia indica)."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "A Garhwali literary retelling attributed by the eKumaun account to Dr. Govind Chatak. It is a literary retelling, not a transcript of an oral performance.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-187-022",
+ "meta": [
+  "Garhwali literary folktale · Themes: belonging, nature, love, sacrifice, the meaning of home",
+  "Source and attribution",
+  "The eKumaun account attributes this story to Dr. Govind Chatak, a prominent figure in Garhwali literature. It describes fyoli (also written pyoli) as a yellow flower that blooms in spring around homes and field boundaries in the hill regions. The botanical name given is Reinwardtia indica.",
+  "फ्योंली की लोककथा+1",
+  "Adaptation note: The source is a literary retelling, not a verbatim transcript of an identified oral performance. Its original ending is tragic: Fyoli dies after struggling to adapt to palace life, and a flower grows where she is buried. The adaptations preserve this transformation but handle her death gently, especially for younger readers."
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "id": "the-legend-of-mount-sophet-bneng",
+ "state": "ml",
+ "title": "The Legend of Mount Sophet Bneng — The Seven Families",
+ "titleHi": "आसमान को छूने वाला पेड़",
+ "genre": "Creation legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Tree That Touched the Sky",
+   "hi": "आसमान को छूने वाला पेड़"
+  },
+  "2": {
+   "en": "The Seven Families of Sophet Bneng",
+   "hi": "सोफेत ब्नेंग के सात परिवार"
+  },
+  "3": {
+   "en": "Sophet Bneng and the Broken Path to Heaven",
+   "hi": "सोफेत ब्नेंग और स्वर्ग का टूटा हुआ रास्ता"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, when the earth was still young, a beautiful hill called Sophet Bneng stood beneath the open sky. A great tree grew on its summit. It was so tall that its branches reached all the way to heaven.",
+     "The tree was like a ladder between two worlds. Heavenly beings could climb down to the earth and climb back up to the sky.",
+     "The earth was full of trees, flowers and green fields. The heavenly beings loved visiting it. Sixteen families came down from heaven to grow crops on the land. They worked in the fields during the day and returned to heaven at night.",
+     "But one of the heavenly beings wanted to become more powerful than everyone else. He did not want to follow the rules of the heavens. He wanted to rule over the others.",
+     "One day, only seven of the sixteen families came down to the earth to work. The ambitious being saw his chance. He took an axe and secretly cut down the great tree.",
+     "The tree crashed to the ground. The path between heaven and earth was broken.",
+     "The seven families who were on earth could no longer climb back home. They had to remain on the land and make a life for themselves.",
+     "They planted crops, built homes and raised children. Their families grew, and their descendants spread across the world.",
+     "The Khasi people remember this story as the legend of the Seven Families, or Ki Hynniew Skum. It tells of the time when the connection between heaven and earth was broken, and human beings began their life on earth."
+    ],
+    "hi": [
+     "बहुत समय पहले, जब धरती नई-नई थी, तब खुले आसमान के नीचे सोफेत ब्नेंग नाम की एक सुंदर पहाड़ी थी। उसकी चोटी पर एक विशाल पेड़ उगा था। वह इतना ऊँचा था कि उसकी शाखाएँ सीधे स्वर्ग तक पहुँचती थीं।",
+     "यह पेड़ दो दुनियाओं के बीच सीढ़ी की तरह था। स्वर्ग के लोग इसकी मदद से धरती पर उतर सकते थे और वापस आकाश में जा सकते थे।",
+     "धरती पर चारों ओर पेड़, फूल और हरे-भरे खेत थे। स्वर्ग के लोगों को यहाँ आना बहुत पसंद था। सोलह परिवार स्वर्ग से धरती पर खेती करने आते थे। वे दिन भर खेतों में काम करते और रात को वापस स्वर्ग लौट जाते।",
+     "लेकिन स्वर्ग के लोगों में से एक बहुत महत्वाकांक्षी था। वह दूसरों से अधिक शक्तिशाली बनना चाहता था। वह स्वर्ग के नियमों का पालन नहीं करना चाहता था। वह सब पर शासन करना चाहता था।",
+     "एक दिन सोलह में से केवल सात परिवार खेती करने धरती पर आए। उस महत्वाकांक्षी व्यक्ति को अपना मौका दिखाई दिया। उसने कुल्हाड़ी उठाई और चुपके से उस विशाल पेड़ को काट दिया।",
+     "पेड़ ज़ोर की आवाज़ के साथ धरती पर गिर पड़ा। स्वर्ग और धरती के बीच का रास्ता टूट गया।",
+     "धरती पर मौजूद सात परिवार अब वापस नहीं जा सकते थे। उन्हें यहीं रहकर अपना जीवन बनाना पड़ा।",
+     "उन्होंने खेत लगाए, घर बनाए और बच्चों को जन्म दिया। उनके परिवार बढ़ते गए और उनके वंशज दुनिया के अलग-अलग हिस्सों में फैल गए।",
+     "खासी लोग इस कहानी को सात परिवारों की कथा, या की हिन्नियू स्कुम, के नाम से याद करते हैं। यह उस समय की कहानी है जब स्वर्ग और धरती का संबंध टूट गया और मनुष्यों ने धरती पर अपना जीवन शुरू किया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the earliest days, when the earth was still uninhabited by human beings, a magnificent tree stood on the summit of Mount Sophet Bneng. It grew so tall that its branches reached the heavens. The tree served as a passage between the world above and the world below.",
+     "The heavenly beings often descended to the earth. They admired its forests, flowers and fertile land. Sixteen families began cultivating the fields. They would come down during the day, work the soil and grow crops, and return to their heavenly home before nightfall.",
+     "One of the heavenly beings, however, was dissatisfied with his place in the world above. He wanted power and wished to rule over the others. He waited for an opportunity to separate himself from his companions and carry out his plan.",
+     "One day, only seven of the sixteen families descended to the earth. The others remained in heaven. While the seven families were busy working in the fields, the ambitious being secretly took an axe and cut down the great tree.",
+     "With the tree destroyed, the passage between heaven and earth disappeared. The seven families could no longer return to their heavenly home.",
+     "They were now left on the earth. They had to build shelters, cultivate the soil and learn to live permanently in the world that had once been only a place they visited.",
+     "Over time, their families grew. Their descendants spread across the earth, and human communities came into being.",
+     "In Khasi tradition, these seven families are remembered as Ki Hynniew Skum—the seven roots or seven nests. The story of Sophet Bneng explains how the first families became separated from the heavenly world and began their life on earth.",
+     "The legend also gives the mountain a special place in the imagination of the Khasis. Sophet Bneng is not merely a hill in the landscape; it is remembered as the place where the connection between two worlds once existed."
+    ],
+    "hi": [
+     "सृष्टि के शुरुआती दिनों में, जब धरती पर मनुष्यों का निवास नहीं था, सोफेत ब्नेंग पहाड़ की चोटी पर एक विशाल पेड़ खड़ा था। वह इतना ऊँचा था कि उसकी शाखाएँ स्वर्ग तक पहुँचती थीं। यह पेड़ ऊपर की दुनिया और नीचे की दुनिया के बीच रास्ते का काम करता था।",
+     "स्वर्ग के लोग अक्सर धरती पर उतरते थे। उन्हें यहाँ के जंगल, फूल और उपजाऊ ज़मीन बहुत पसंद थी। सोलह परिवारों ने धरती पर खेती करना शुरू किया। वे दिन में नीचे आते, खेतों में काम करते और फसल उगाते, फिर रात होने से पहले अपने स्वर्गय घर लौट जाते।",
+     "लेकिन स्वर्ग के लोगों में से एक अपने स्थान से संतुष्ट नहीं था। वह अधिक शक्तिशाली बनना चाहता था और दूसरों पर शासन करने की इच्छा रखता था। वह अपने साथियों से अलग होकर अपनी योजना पूरी करने के अवसर की प्रतीक्षा करने लगा।",
+     "एक दिन सोलह परिवारों में से केवल सात धरती पर उतरे। बाकी नौ स्वर्ग में ही रहे। जब सातों परिवार खेतों में काम कर रहे थे, तब उस महत्वाकांक्षी व्यक्ति ने चुपके से कुल्हाड़ी उठाई और विशाल पेड़ को काट दिया।",
+     "पेड़ के नष्ट होते ही स्वर्ग और धरती के बीच का रास्ता समाप्त हो गया। सात परिवार अब अपने स्वर्गय घर वापस नहीं जा सकते थे।",
+     "वे धरती पर ही रह गए। उन्हें अपने लिए आश्रय बनाना पड़ा, ज़मीन पर खेती करनी पड़ी और उस संसार में स्थायी रूप से रहना सीखना पड़ा जहाँ वे पहले केवल कुछ समय के लिए आया करते थे।",
+     "समय के साथ उनके परिवार बढ़ते गए। उनके वंशज धरती के अलग-अलग हिस्सों में फैल गए और मानव समुदायों का निर्माण हुआ।",
+     "खासी परंपरा में इन सात परिवारों को की हिन्नियू स्कुम—सात जड़ें या सात घोंसले—के नाम से याद किया जाता है। सोफेत ब्नेंग की यह कथा बताती है कि कैसे पहले परिवार स्वर्गय संसार से अलग हुए और धरती पर अपना जीवन शुरू किया।",
+     "यह लोककथा खासी कल्पना में इस पहाड़ को एक विशेष स्थान भी देती है। सोफेत ब्नेंग केवल भू-दृश्य में मौजूद एक पहाड़ी नहीं है; इसे उस स्थान के रूप में याद किया जाता है जहाँ कभी दो दुनियाओं के बीच संबंध मौजूद था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the beginning, according to this Khasi legend, the earth was a beautiful and fertile place, yet it was not inhabited by human beings. On the summit of Mount Sophet Bneng grew a magnificent tree whose branches reached the heavens. It connected two worlds, allowing heavenly beings to descend to the earth and return to their home above.",
+     "The heavenly beings were drawn to the richness of the earth. Its forests, flowers and fertile fields offered a place of beauty and abundance. Sixteen families began cultivating the land. They descended from heaven to work in the fields during the day and returned through the great tree at night.",
+     "Among the heavenly beings was one who was unwilling to accept his place in the order of things. He desired authority over his companions and sought an opportunity to rule them. His ambition remained hidden until a particular day, when only seven of the sixteen families descended to the earth.",
+     "While the seven families were occupied with their work, the ambitious being took an axe and secretly cut down the tree. The great passage between heaven and earth was destroyed.",
+     "The families who had come down to cultivate the land were stranded. The other nine families remained in heaven, but the seven could no longer return.",
+     "The seven families therefore began a new existence on earth. The land that had once been a place of temporary cultivation became their permanent home. They established households, raised children and passed their lives to the generations that followed.",
+     "Their descendants multiplied and spread across the world. The Khasi tradition remembers them as Ki Hynniew Skum—the seven roots or seven nests—from whom the nations of the earth are said to have descended.",
+     "The legend gives Sophet Bneng a significance beyond its physical presence in the Khasi Hills. It becomes the site of a lost connection between heaven and earth, a reminder of a time when the two worlds were not separated.",
+     "The story also carries an unsettling idea: the separation of human beings from their original home was not caused by a natural disaster, but by the ambition of one individual. The act of cutting the tree changed the fate of everyone who depended on it. In this way, the legend can be read as a reflection on power, consequence and the fragile connections that hold communities together."
+    ],
+    "hi": [
+     "इस खासी लोककथा के अनुसार, सृष्टि के आरंभ में धरती सुंदर और उपजाऊ थी, लेकिन उस पर मनुष्यों का निवास नहीं था। सोफेत ब्नेंग पहाड़ की चोटी पर एक विशाल पेड़ उगा था जिसकी शाखाएँ स्वर्ग तक पहुँचती थीं। वह दो दुनियाओं को जोड़ता था और स्वर्ग के लोगों को धरती पर उतरने तथा अपने घर वापस लौटने का रास्ता देता था।",
+     "स्वर्ग के लोग धरती की समृद्धि से आकर्षित थे। यहाँ के जंगल, फूल और उपजाऊ खेत सुंदरता और प्रचुरता से भरे थे। सोलह परिवारों ने इस भूमि पर खेती करना शुरू किया। वे दिन में खेतों में काम करने के लिए स्वर्ग से नीचे उतरते और रात को विशाल पेड़ के रास्ते वापस लौट जाते।",
+     "स्वर्ग के लोगों में एक ऐसा व्यक्ति था जो व्यवस्था में अपने स्थान को स्वीकार नहीं करना चाहता था। वह अपने साथियों पर अधिकार जमाना चाहता था और उन पर शासन करने का अवसर खोज रहा था। उसकी महत्वाकांक्षा छिपी रही, जब तक एक दिन ऐसा नहीं आया जब सोलह परिवारों में से केवल सात परिवार धरती पर उतरे।",
+     "जब सातों परिवार अपने काम में व्यस्त थे, तब उस महत्वाकांक्षी व्यक्ति ने कुल्हाड़ी उठाई और चुपके से पेड़ काट दिया। स्वर्ग और धरती के बीच का विशाल रास्ता नष्ट हो गया। जो परिवार खेती करने धरती पर आए थे, वे वहीं फँस गए। बाकी नौ परिवार स्वर्ग में ही रह गए, लेकिन सात परिवार अब वापस नहीं लौट सकते थे।",
+     "इसलिए सातों परिवारों को धरती पर एक नया जीवन शुरू करना पड़ा। जो भूमि पहले केवल कुछ समय के लिए खेती करने की जगह थी, वही उनका स्थायी घर बन गई। उन्होंने अपने घर बसाए, बच्चों को जन्म दिया और आने वाली पीढ़ियों को अपना जीवन सौंपा।",
+     "उनके वंशज बढ़ते गए और दुनिया के अलग-अलग हिस्सों में फैल गए। खासी परंपरा उन्हें की हिन्नियू स्कुम—सात जड़ें या सात घोंसले—के रूप में याद करती है। माना जाता है कि धरती के विभिन्न समुदाय उन्हीं सात परिवारों से निकले।",
+     "यह कथा सोफेत ब्नेंग को खासी पहाड़ियों में स्थित एक भौगोलिक स्थान से कहीं अधिक महत्व देती है। वह स्वर्ग और धरती के बीच खोए हुए संबंध का प्रतीक बन जाता है और उस समय की याद दिलाता है जब दोनों दुनियाएँ एक-दूसरे से अलग नहीं थीं।",
+     "इस कहानी में एक बेचैन करने वाला विचार भी है: मनुष्यों का अपने मूल घर से अलग होना किसी प्राकृतिक आपदा का परिणाम नहीं था, बल्कि एक व्यक्ति की महत्वाकांक्षा का नतीजा था। पेड़ काटने के उस एक कार्य ने उन सभी का भाग्य बदल दिया जो उस पर निर्भर थे। इस अर्थ में, यह लोककथा सत्ता, उसके परिणामों और समुदायों को जोड़े रखने वाले नाज़ुक संबंधों पर विचार करने का अवसर देती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Mount Sophet Bneng, Meghalaya",
+  "community": "Khasi",
+  "tradition": "Khasi creation legend. Sophet Bneng is commonly translated as “the navel of heaven”."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Mrs. K. U. Rafy, Folk-Tales of the Khasis (Macmillan, 1920).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-223-027",
+ "meta": [
+  "Khasi creation legend · Themes: origins, connection, separation, human responsibility, the natural world",
+  "Source and cultural attribution",
+  "This story appears in the same 1920 collection by Mrs. K. U. Rafy. It describes a great tree growing on Mount Sophet Bneng, through which heavenly beings travelled between the sky and the earth. Sixteen families cultivated the earth, but when one ambitious being cut down the tree, seven families were left behind and became the ancestors of humankind.",
+  "Project Gutenberg+1",
+  "Sophet Bneng is commonly translated as “the navel of heaven” or “the centre of heaven.” The mountain is a significant landscape in Khasi tradition. The story should be presented as a Khasi creation legend, not as a literal account of human origins or a scientific explanation.",
+  "Project Gutenberg+1",
+  "Adaptation note: The central events are retained closely. The versions add descriptive language and reflective passages for different age groups, but do not introduce new characters or a different explanation for humanity's arrival on earth."
+ ]
+}

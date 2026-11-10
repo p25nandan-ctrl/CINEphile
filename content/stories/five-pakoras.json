@@ -1,0 +1,493 @@
+{
+ "id": "five-pakoras",
+ "state": "hp",
+ "title": "Five Pakoras",
+ "titleHi": "पाँच पकौड़े",
+ "summary": "On a cold, rainy evening an elderly couple in a Himachali village make five pakoras but want to share them fairly. Their loving contest of who can stay asleep longest ends in a very funny mix-up.",
+ "summarySource": "written for this site",
+ "genre": "Humorous folktale",
+ "from": "Folktale from Himachal Pradesh (sourced to K. A. Seethalakshmi, Folktales of Himachal Pradesh)",
+ "origLevel": 2,
+ "levelReason": "The supplied text mostly uses clear, everyday sentences of about 11 words on average, with connectors such as 'but', 'while' and 'meanwhile', and a few harder words (diminished, custom, emerged, cremation ground). That is more varied than Level 1 but lighter than the long, atmospheric sentences of Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "In a small village called Ramolihat, an old man and his wife lived. They had been together for almost all their lives. They were about seventy years old. They still loved each other very much. They liked to talk and eat together.",
+     "One cold, rainy evening, the old man asked, “Is there any gram flour left?” The old woman looked in the kitchen. Only a little flour was left at the bottom of the box.",
+     "“I want to eat hot pakoras today,” said the old man. His wife was happy to cook. She made five tasty pakoras with the last of the flour.",
+     "Then the old man remembered a village custom. “When we make something tasty, we should share it with the other families,” he said.",
+     "The old woman thought about it. There were six families in the village. But there were only five pakoras. “How can we share five pakoras with everyone?” she asked. The old man agreed. It was not possible.",
+     "The old woman put three pakoras on her husband’s plate and kept two for herself. But neither one wanted the other to get less. The old man said, “Let us cut one pakora in half.” His wife did not want to break such a tasty pakora.",
+     "At last they made a plan. The one who woke up first in the morning would get three pakoras. The other would get two. That night, both went to bed. Each one made up their mind not to wake up first.",
+     "Morning came, but nobody moved. Hours went by.",
+     "The villagers began to worry. The old couple had not come out of their house. “Did something bad happen?” they wondered. At last, they broke open the door.",
+     "The villagers went in. They began to talk about how to carry the two bodies to the place where the dead are burned.",
+     "The old man was trying so hard to stay quiet. Now he could not do it any more. “All right! You eat two, and I will eat three!” he shouted.",
+     "The villagers were very scared. They thought the dead couple had become ghosts. They thought the ghosts were talking about which villagers to eat! Everyone ran out of the house.",
+     "Then the old couple got out of bed. They happily ate their five pakoras. Later the villagers learned the truth. They all burst out laughing.",
+     "So a small quarrel about five pakoras became one of the funniest stories in the village.",
+     "Moral: Love and kindness are wonderful. But if we wait too long to decide, even an easy choice can become very hard."
+    ],
+    "hi": [
+     "रामोलीहाट नाम के एक छोटे से गाँव में एक बूढ़ा आदमी और उसकी पत्नी रहते थे। वे लगभग पूरी ज़िंदगी साथ रहे थे। उनकी उम्र करीब सत्तर साल थी। फिर भी वे एक-दूसरे से बहुत प्यार करते थे। उन्हें साथ बातें करना और खाना खाना अच्छा लगता था।",
+     "एक ठंडी, बरसात वाली शाम को बूढ़े ने पूछा, “क्या घर में थोड़ा बेसन बचा है?” बुढ़िया ने रसोई में देखा। डिब्बे की तली में बस थोड़ा-सा बेसन बचा था।",
+     "“आज मेरा गरम पकौड़े खाने का मन है,” बूढ़े ने कहा। पत्नी खुशी से मान गई। उसने बचे हुए बेसन से पाँच स्वादिष्ट पकौड़े बनाए।",
+     "तभी बूढ़े को गाँव की एक पुरानी रीत याद आई। उसने कहा, “जब हम कुछ स्वादिष्ट बनाते हैं, तो उसे दूसरे परिवारों के साथ बाँटना चाहिए।”",
+     "बुढ़िया ने सोचा। गाँव में छह परिवार थे, लेकिन पकौड़े सिर्फ़ पाँच थे। उसने पूछा, “पाँच पकौड़े सबमें कैसे बाँटें?” बूढ़े ने भी माना कि यह मुमकिन नहीं है।",
+     "बुढ़िया ने पति की थाली में तीन पकौड़े रखे और अपने लिए दो रखे। पर कोई नहीं चाहता था कि दूसरे को कम मिले। बूढ़े ने कहा, “एक पकौड़े को आधा काट लेते हैं।” पर पत्नी को इतना स्वादिष्ट पकौड़ा तोड़ना ठीक नहीं लगा।",
+     "आख़िर उन्होंने एक तरकीब सोची। जो सुबह पहले जागेगा, उसे तीन पकौड़े मिलेंगे। दूसरे को दो मिलेंगे। उस रात दोनों सोने गए। दोनों ने पक्का सोच लिया कि पहले नहीं जागना है।",
+     "सुबह हो गई, पर कोई नहीं हिला। घंटे बीतते गए।",
+     "गाँव वाले चिंता करने लगे। बूढ़ा-बूढ़ी घर से बाहर नहीं आए थे। वे सोचने लगे, “क्या कुछ बुरा हो गया?” आख़िर उन्होंने दरवाज़ा तोड़ दिया।",
+     "गाँव वाले अंदर गए। वे बातें करने लगे कि दोनों के शरीरों को श्मशान तक कैसे ले जाएँ।",
+     "बूढ़ा चुप रहने की बहुत कोशिश कर रहा था। अब वह और सह नहीं सका। वह चिल्लाया, “ठीक है! तुम दो खा लो, मैं तीन खाऊँगा!”",
+     "गाँव वाले बहुत डर गए। उन्हें लगा कि मरे हुए बूढ़ा-बूढ़ी भूत बन गए हैं। उन्हें लगा कि भूत बात कर रहे हैं कि किस गाँव वाले को खाया जाए! सब घर से भाग निकले।",
+     "फिर बूढ़ा-बूढ़ी बिस्तर से उठे। उन्होंने खुशी-खुशी अपने पाँचों पकौड़े खाए। बाद में गाँव वालों को सच पता चला। वे सब हँसते-हँसते लोटपोट हो गए।",
+     "इस तरह पाँच पकौड़ों की एक छोटी-सी बहस गाँव की सबसे मज़ेदार कहानियों में से एक बन गई।",
+     "सीख: प्यार और परवाह बहुत अच्छी चीज़ें हैं। पर अगर हम फ़ैसला करने में बहुत देर लगाएँ, तो आसान बात भी बहुत उलझ सकती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "flour",
+     "en": "powder made by grinding grain or beans",
+     "hi": "आटा, पिसा हुआ अनाज"
+    },
+    {
+     "w": "custom",
+     "en": "something people in a place have done for a long time",
+     "hi": "रीत, परंपरा"
+    },
+    {
+     "w": "share",
+     "en": "to give a part to others",
+     "hi": "बाँटना"
+    },
+    {
+     "w": "plan",
+     "en": "an idea for how to do something",
+     "hi": "तरकीब, योजना"
+    },
+    {
+     "w": "worry",
+     "en": "to feel afraid that something is wrong",
+     "hi": "चिंता करना"
+    },
+    {
+     "w": "wondered",
+     "en": "asked themselves in their minds",
+     "hi": "सोचने लगे"
+    },
+    {
+     "w": "quiet",
+     "en": "not making any sound",
+     "hi": "चुप, शांत"
+    },
+    {
+     "w": "ghosts",
+     "en": "spirits of dead people in stories",
+     "hi": "भूत"
+    },
+    {
+     "w": "truth",
+     "en": "what really happened",
+     "hi": "सच"
+    },
+    {
+     "w": "quarrel",
+     "en": "an angry or silly argument",
+     "hi": "झगड़ा, बहस"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and where",
+     "q": "Who lived in the village of Ramolihat, and what did they cook on the cold, rainy evening?"
+    },
+    {
+     "k": "The problem",
+     "q": "Why could the old couple not share the pakoras with the other families?"
+    },
+    {
+     "k": "The plan",
+     "q": "What plan did they make about who would get three pakoras?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the villagers feel when they broke open the door? How did they feel when the old man shouted?"
+    },
+    {
+     "k": "Your life",
+     "q": "Think of a time you shared something with a friend or family member. How did it feel?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In a tiny Himachali village called Ramolihat, there lived an elderly couple who had spent almost their entire lives together. They were about seventy years old, but their affection for each other had not diminished. They enjoyed talking, sharing meals and spending their days in one another’s company.",
+     "One particularly cold and rainy evening, the old man asked his wife whether there was any gram flour left in the house. The old woman checked the kitchen and discovered that only a little remained at the bottom of the container.",
+     "“I feel like eating some hot pakoras today,” said the old man. His wife happily agreed and prepared five delicious pakoras with the remaining flour.",
+     "When they were ready, the old man suddenly remembered an old village custom. “Whenever we prepare something delicious, we should share it with the other families,” he said.",
+     "The old woman thought about this. There were six families in their tiny village, but only five pakoras. “How can we divide five pakoras among everyone?” she asked. The old man agreed that sharing them equally would be impossible.",
+     "The old woman placed three pakoras on her husband’s plate and kept two for herself. But neither wanted the other to receive less. The old man suggested cutting one pakora in half, but his wife disliked the idea of breaking such a delicious snack.",
+     "Finally, they agreed upon a solution. Whoever woke up first the following morning would receive three pakoras, while the other would receive two. That night, both went to sleep determined not to wake before the other.",
+     "The next morning arrived, but neither moved. Hours passed.",
+     "The villagers became worried when they noticed that the elderly couple had not emerged from their house. They began wondering whether something terrible had happened. Eventually, they decided to break open the door.",
+     "As they entered, they began discussing how to carry the couple’s bodies to the cremation ground.",
+     "The old man, who had been struggling to remain silent, suddenly could not bear it any longer. “All right! You eat two, and I shall eat three!” he shouted.",
+     "The villagers were terrified. They believed that the dead couple had returned as ghosts and were discussing which villagers to eat! Everyone ran out of the house in panic.",
+     "Meanwhile, the old couple finally got out of bed and happily ate their five pakoras. When the villagers eventually discovered what had really happened, they burst into laughter.",
+     "And so, a simple disagreement over five pakoras became one of the funniest stories in the village.",
+     "Moral: Love and consideration are wonderful, but excessive hesitation can turn even a simple decision into a complicated affair."
+    ],
+    "hi": [
+     "हिमाचल के रामोलीहाट नाम के एक छोटे-से गाँव में एक बुज़ुर्ग दंपती रहता था, जिसने लगभग पूरी ज़िंदगी साथ बिताई थी। वे करीब सत्तर साल के थे, पर एक-दूसरे के लिए उनका प्यार ज़रा भी कम नहीं हुआ था। उन्हें बातें करना, साथ खाना खाना और पूरा दिन एक-दूसरे के साथ बिताना अच्छा लगता था।",
+     "एक बहुत ठंडी और बरसात वाली शाम को बूढ़े ने पत्नी से पूछा कि घर में बेसन बचा है या नहीं। बुढ़िया ने रसोई देखी और पाया कि डिब्बे की तली में बस थोड़ा-सा बेसन बचा है।",
+     "“आज मेरा गरम पकौड़े खाने का मन कर रहा है,” बूढ़े ने कहा। पत्नी खुशी से राज़ी हो गई और बचे हुए बेसन से उसने पाँच स्वादिष्ट पकौड़े बना दिए।",
+     "जब पकौड़े तैयार हो गए, तो बूढ़े को अचानक गाँव की एक पुरानी रीत याद आई। उसने कहा, “जब भी हम कुछ स्वादिष्ट बनाएँ, तो उसे दूसरे परिवारों के साथ बाँटना चाहिए।”",
+     "बुढ़िया ने इस बारे में सोचा। उनके छोटे-से गाँव में छह परिवार थे, पर पकौड़े सिर्फ़ पाँच। उसने पूछा, “पाँच पकौड़े सबमें कैसे बाँटें?” बूढ़े ने भी माना कि सबको बराबर बाँटना नामुमकिन है।",
+     "बुढ़िया ने पति की थाली में तीन पकौड़े रखे और अपने लिए दो। पर दोनों में से कोई नहीं चाहता था कि दूसरे को कम मिले। बूढ़े ने एक पकौड़े को आधा काटने की बात कही, पर पत्नी को इतने स्वादिष्ट पकौड़े को तोड़ने का ख़याल पसंद नहीं आया।",
+     "आख़िर उन्होंने एक हल निकाला। अगली सुबह जो पहले जागेगा, उसे तीन पकौड़े मिलेंगे और दूसरे को दो। उस रात दोनों इस पक्के इरादे से सोए कि दूसरे से पहले नहीं जागना है।",
+     "अगली सुबह हुई, पर कोई नहीं हिला। घंटे बीतते गए।",
+     "गाँव वाले चिंतित हो उठे, क्योंकि बूढ़ा-बूढ़ी अपने घर से बाहर नहीं निकले थे। वे सोचने लगे कि कहीं कुछ बुरा तो नहीं हो गया। आख़िरकार उन्होंने दरवाज़ा तोड़ने का फ़ैसला किया।",
+     "अंदर पहुँचकर वे आपस में बात करने लगे कि दोनों के शरीरों को श्मशान तक कैसे ले जाया जाए।",
+     "बूढ़ा, जो बड़ी मुश्किल से चुप रहने की कोशिश कर रहा था, अचानक और नहीं सह पाया। वह चिल्लाया, “ठीक है! तुम दो खा लो और मैं तीन खाऊँगा!”",
+     "गाँव वाले डर के मारे काँप उठे। उन्हें लगा कि मरा हुआ जोड़ा भूत बनकर लौट आया है और बात कर रहा है कि गाँव के किस-किसको खाया जाए! सब घबराकर घर से बाहर भाग गए।",
+     "इधर बूढ़ा-बूढ़ी आख़िरकार बिस्तर से उठे और खुशी-खुशी अपने पाँचों पकौड़े खाए। जब गाँव वालों को असली बात पता चली, तो वे ठहाके मारकर हँस पड़े।",
+     "इस तरह पाँच पकौड़ों पर हुई एक छोटी-सी बहस गाँव की सबसे मज़ेदार कहानियों में से एक बन गई।",
+     "सीख: प्यार और परवाह बहुत अच्छी बातें हैं, पर बहुत ज़्यादा झिझक एक साधारण फ़ैसले को भी उलझा सकती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "affection",
+     "en": "a warm feeling of love",
+     "hi": "स्नेह, प्यार"
+    },
+    {
+     "w": "diminished",
+     "en": "became smaller or weaker",
+     "hi": "कम हो गया"
+    },
+    {
+     "w": "custom",
+     "en": "a tradition that people follow",
+     "hi": "रीत, परंपरा"
+    },
+    {
+     "w": "solution",
+     "en": "an answer to a problem",
+     "hi": "हल"
+    },
+    {
+     "w": "determined",
+     "en": "having made a firm decision",
+     "hi": "पक्के इरादे वाले"
+    },
+    {
+     "w": "emerged",
+     "en": "came out",
+     "hi": "बाहर निकले"
+    },
+    {
+     "w": "terrified",
+     "en": "very, very frightened",
+     "hi": "बहुत डरे हुए"
+    },
+    {
+     "w": "panic",
+     "en": "sudden, wild fear",
+     "hi": "घबराहट"
+    },
+    {
+     "w": "disagreement",
+     "en": "a small argument when people do not agree",
+     "hi": "मतभेद, बहस"
+    },
+    {
+     "w": "hesitation",
+     "en": "waiting because you are not sure",
+     "hi": "झिझक"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did the old man want to share the pakoras with the other families?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why did the couple not just cut a pakora in half, as the old man suggested?"
+    },
+    {
+     "k": "Decisions",
+     "q": "What did the couple decide, and why did that decision lead to trouble?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "Why do you think the old man finally shouted? What does this tell you about him?"
+    },
+    {
+     "k": "Message",
+     "q": "The moral says too much hesitation can complicate a simple decision. When might that happen in your own life?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In a tiny hamlet of Himachal Pradesh called Ramolihat lived an elderly couple who had spent nearly all of their long lives side by side. Though they were close to seventy, the warmth between them had not faded in the slightest. They delighted in conversation, in shared meals, and simply in each other’s company.",
+     "One bitterly cold and rainy evening, the old man wondered aloud whether any gram flour remained in the house. His wife searched the kitchen and found only a thin layer clinging to the bottom of the container.",
+     "“I am longing for some hot pakoras tonight,” the old man sighed. His wife gladly agreed, and from the last of the flour she fried five golden, delicious pakoras.",
+     "Just as they were ready, the old man recalled an old custom of the village. “Whenever we prepare something delicious, we ought to share it with our neighbours,” he declared.",
+     "The old woman considered this carefully. The village had six families, yet there were only five pakoras. “How can we possibly divide five pakoras among everyone?” she asked. Her husband admitted that sharing them equally was out of the question.",
+     "She set three pakoras on his plate and kept two for herself, but neither could bear the thought of the other receiving less. He proposed cutting one pakora in half, yet she hated the idea of tearing apart such a lovely treat.",
+     "At last they settled on a bargain. Whoever woke first the next morning would be rewarded with three pakoras, and the other would have two. That night they lay down to sleep, each one stubbornly resolved not to stir before the other.",
+     "Morning came, but neither of them moved. One hour slipped into another, and the house remained utterly still.",
+     "Outside, the villagers grew anxious when the elderly couple did not appear. They whispered that something terrible might have happened. In the end, they agreed to force open the door.",
+     "Stepping inside, they saw the still figures and began to discuss, in low and solemn voices, how the couple’s bodies should be carried to the cremation ground.",
+     "The old man, who had been struggling heroically to keep silent, could bear it no longer. “All right! You eat two, and I shall eat three!” he bellowed.",
+     "The villagers froze in terror. They were certain that the dead couple had come back as ghosts and were deciding which of them to eat! Screaming, everyone fled from the house in a panic.",
+     "Meanwhile, the old couple climbed out of bed at last and happily ate their five pakoras. When the villagers finally learned what had truly happened, they dissolved into laughter.",
+     "And so a gentle quarrel over five pakoras became one of the funniest tales ever told in that village.",
+     "Moral: Love and consideration are precious things, but too much hesitation can turn even a small decision into a tangled affair."
+    ],
+    "hi": [
+     "हिमाचल प्रदेश की एक छोटी-सी बस्ती रामोलीहाट में एक बुज़ुर्ग दंपती रहता था, जिसने अपनी लंबी ज़िंदगी का लगभग पूरा हिस्सा एक-दूसरे के साथ बिताया था। सत्तर के करीब होकर भी उनके बीच की गर्मजोशी ज़रा भी फीकी नहीं पड़ी थी। उन्हें बातचीत में, साथ भोजन करने में और बस एक-दूसरे के साथ रहने में ही सबसे ज़्यादा आनंद मिलता था।",
+     "एक कड़कड़ाती ठंड और बरसात वाली शाम को बूढ़े ने ज़ोर से सोचते हुए पूछा कि घर में कहीं थोड़ा बेसन बचा भी है या नहीं। पत्नी ने रसोई छान मारी और डिब्बे की तली से चिपकी बस एक पतली-सी परत पाई।",
+     "“आज रात गरम पकौड़े खाने को बड़ा जी कर रहा है,” बूढ़े ने आह भरकर कहा। पत्नी खुशी-खुशी मान गई और बचे हुए आख़िरी बेसन से उसने पाँच सुनहरे, स्वादिष्ट पकौड़े तल दिए।",
+     "पकौड़े तैयार होते ही बूढ़े को गाँव की एक पुरानी रीत याद आ गई। उसने कहा, “जब भी हम कुछ स्वादिष्ट बनाएँ, तो हमें उसे पड़ोसियों के साथ बाँटना चाहिए।”",
+     "बुढ़िया ने इस पर ध्यान से सोचा। गाँव में छह परिवार थे, जबकि पकौड़े सिर्फ़ पाँच। उसने पूछा, “भला पाँच पकौड़े सबमें कैसे बाँटे जा सकते हैं?” पति ने मान लिया कि उन्हें बराबर बाँटना तो हो ही नहीं सकता।",
+     "उसने पति की थाली में तीन पकौड़े रखे और अपने लिए दो, पर दोनों में से किसी से यह सोचा भी नहीं जाता था कि दूसरे को कम मिले। पति ने एक पकौड़े को आधा काटने का सुझाव दिया, मगर इतने प्यारे पकौड़े को चीरने का ख़याल पत्नी को बिलकुल नहीं भाया।",
+     "आख़िरकार दोनों में एक समझौता हो गया। अगली सुबह जो पहले जागेगा, उसे तीन पकौड़े इनाम में मिलेंगे और दूसरे को दो। उस रात दोनों सोने लेटे, और हर कोई अड़ियल इरादे के साथ तय कर चुका था कि दूसरे से पहले नहीं हिलना है।",
+     "सुबह हुई, पर दोनों में से कोई नहीं हिला। एक घंटा दूसरे में बदलता गया और घर में पूरी तरह सन्नाटा छाया रहा।",
+     "बाहर गाँव वाले बेचैन हो उठे, क्योंकि बुज़ुर्ग दंपती कहीं दिखाई नहीं दिया। वे फुसफुसाने लगे कि ज़रूर कुछ भयानक हो गया होगा। आख़िर में उन्होंने दरवाज़ा तोड़ने का फ़ैसला किया।",
+     "अंदर कदम रखते ही उन्होंने दोनों को निश्चल पड़े देखा और धीमी, गंभीर आवाज़ों में बात करने लगे कि इन दोनों के शरीरों को श्मशान तक कैसे ले जाया जाए।",
+     "बूढ़ा, जो बड़ी बहादुरी से चुप रहने की जद्दोजहद कर रहा था, अब और बर्दाश्त नहीं कर पाया। वह गरज उठा, “ठीक है! तुम दो खा लो, और मैं तीन खाऊँगा!”",
+     "गाँव वाले डर के मारे जड़ हो गए। उन्हें पूरा यक़ीन हो गया कि मरा हुआ जोड़ा भूत बनकर लौट आया है और तय कर रहा है कि उनमें से किसे खाया जाए! चीखते हुए सब घबराहट में घर से भाग खड़े हुए।",
+     "इधर बूढ़ा-बूढ़ी आख़िर बिस्तर से उठे और खुशी-खुशी अपने पाँचों पकौड़े खाए। जब गाँव वालों को सचमुच की बात पता चली, तो वे हँसी से लोटपोट हो गए।",
+     "और इस तरह पाँच पकौड़ों पर हुई एक मीठी-सी बहस उस गाँव में सुनाई जाने वाली सबसे मज़ेदार कहानियों में से एक बन गई।",
+     "सीख: प्यार और परवाह अनमोल चीज़ें हैं, पर बहुत ज़्यादा झिझक एक छोटे-से फ़ैसले को भी उलझी हुई गुत्थी बना सकती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "hamlet",
+     "en": "a very small village",
+     "hi": "छोटी बस्ती"
+    },
+    {
+     "w": "delighted",
+     "en": "found great joy",
+     "hi": "आनंद पाया"
+    },
+    {
+     "w": "custom",
+     "en": "a long-held tradition",
+     "hi": "रीत, परंपरा"
+    },
+    {
+     "w": "bargain",
+     "en": "an agreement where each side accepts something",
+     "hi": "समझौता"
+    },
+    {
+     "w": "stubbornly",
+     "en": "in a way that refuses to give in",
+     "hi": "अड़ियलपन से"
+    },
+    {
+     "w": "anxious",
+     "en": "worried and uneasy",
+     "hi": "बेचैन"
+    },
+    {
+     "w": "solemn",
+     "en": "serious and quiet, as at a sad event",
+     "hi": "गंभीर"
+    },
+    {
+     "w": "bellowed",
+     "en": "shouted in a loud, deep voice",
+     "hi": "गरज उठा"
+    },
+    {
+     "w": "froze",
+     "en": "stopped moving suddenly, usually from fear",
+     "hi": "जड़ हो गए"
+    },
+    {
+     "w": "hesitation",
+     "en": "a pause or delay because of doubt",
+     "hi": "झिझक"
+    },
+    {
+     "w": "tangled",
+     "en": "twisted up and hard to sort out",
+     "hi": "उलझा हुआ"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethical question",
+     "q": "The couple each wanted the other to have more. Is it kind, or is it foolish, to refuse a bigger share? Explain your view."
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine you are one of the villagers who broke down the door. How would the morning have looked and felt to you?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "The old man remembers a village custom of sharing tasty food with other families. What do customs like this do for a community?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says that love and consideration can become a complicated affair through hesitation. Do you agree, or does the story say something more?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do people today get stuck in polite hesitation, such as ‘you choose’ or ‘no, you decide’? How could they get unstuck without hurting anyone’s feelings?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5,
+   6
+  ],
+  [
+   7,
+   8,
+   9
+  ],
+  [
+   10,
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "An elderly couple in Ramolihat",
+   "th": "रामोलीहाट का बुज़ुर्ग दंपती",
+   "p": "Interior of a modest village kitchen in the hills of Himachal Pradesh on a cold rainy evening. A kindly old man with a woollen cap and shawl sits near the hearth while his wife, in a simple cotton salwar-kameez with a dupatta, looks into a nearly empty tin of gram flour. Rain on the slate roof, warm firelight, gentle smiling mood. Soft storybook illustration, consistent character look."
+  },
+  {
+   "t": "Five hot pakoras are made",
+   "th": "पाँच गरम पकौड़े बने",
+   "p": "The same old woman frying five golden pakoras in an iron pan over a wood fire while the old man leans in, smiling, and raises a finger as he remembers the village custom. Steam rising, warm glowing kitchen, rain outside the window. Same characters, gentle humorous mood."
+  },
+  {
+   "t": "Six families, only five pakoras",
+   "th": "छह परिवार, सिर्फ़ पाँच पकौड़े",
+   "p": "The old couple sit facing each other on the floor mat with a plate holding five pakoras between them, both looking puzzled and tender, each pushing the plate slightly toward the other. Small thought bubbles or soft background hints of six small village houses. Same characters, warm, comic mood, evening light."
+  },
+  {
+   "t": "Neither of them moves",
+   "th": "कोई नहीं हिलता",
+   "p": "The old couple lie in bed under a thick quilt with eyes tightly shut, pretending to sleep, a hint of a smile on the old man's lips. Through the window, morning light and several worried villagers in woollen clothes peeping in. Same characters, gentle humour, no real sadness."
+  },
+  {
+   "t": "Ghosts! The villagers flee",
+   "th": "भूत! गाँव वाले भागे",
+   "p": "Comic scene: the old man sits bolt upright in bed, mouth open, shouting, while his wife giggles beside him; villagers in the doorway have wide-eyed faces, arms flung up, and are scrambling out of the door. Bright morning light, exaggerated but friendly cartoon-like emotions, nothing frightening."
+  },
+  {
+   "t": "The best laugh in the village",
+   "th": "गाँव की सबसे मज़ेदार हँसी",
+   "p": "The old couple sit happily eating their five pakoras on a plate between them, while villagers gather at the door laughing, hands on stomachs, bright sunny morning after the rain, green hills visible. Same characters, warm joyful mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Himachal Pradesh (Western Himalayas, Pahari region)",
+  "verified": true,
+  "tradition": "Pahari miniature painting and Chamba Rumal embroidery",
+  "note": "Sahapedia describes Chamba Rumal as embroidery from Chamba, Himachal Pradesh, worked in silk floss on unbleached cotton or muslin, with miniature-style pieces modelled on Pahari painting and a softer, muted palette; folk-style pieces by hill women are bolder in colour. For this story a gentle storybook style with soft outlines, flat colour areas and muted earthy hill colours inspired by that tradition may be used, but we have not verified any specific tradition tied to this particular tale or to the village of Ramolihat. Keep village details (slate or wooden roofs, woollen shawls, caps) simple and avoid claims of authenticity.",
+  "characters": [
+   {
+    "name": "The old man",
+    "look": "Thin elderly man in his seventies with a white moustache, a woollen cap, a grey woollen shawl over a cream kurta, kind crinkled eyes."
+   },
+   {
+    "name": "The old woman",
+    "look": "Elderly woman with grey hair in a bun covered by a soft dupatta, a plain cotton salwar-kameez in muted rust and cream, warm smile."
+   },
+   {
+    "name": "The villagers",
+    "look": "A small crowd of men and women in simple woollen and cotton clothes, some with caps, expressive faces, same muted palette."
+   }
+  ],
+  "sources": [
+   [
+    "Chamba Rumal: An Interplay of Literature and Paintings (Sahapedia)",
+    "https://www.sahapedia.org/chamba-rumal-interplay-literature-and-paintings"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are hiding under the quilt next to the old man or woman, trying hard not to move. What do you smell from the kitchen, what do you hear outside, and how hard is it to stay quiet?",
+ "create": "Draw the villagers’ faces at the moment the old man shouts, or write a short ending where the villagers tell the story the next day to a neighbouring village.",
+ "about": {
+  "where": "Himachal Pradesh is a mountain state in the Western Himalayas of northern India. The story is set in a small village called Ramolihat. We could not confirm from the sources we have exactly which Ramolihat is meant, so please treat it as a village name from the story.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. They only tell us it is a folk tale from Himachal Pradesh, sourced to K. A. Seethalakshmi’s book Folktales of Himachal Pradesh.",
+  "tradition": "Funny tales about foolish, stubborn or overly polite people are told in many parts of India and the world. This one is a gentle humorous tale about a loving old couple, and it is told to make listeners laugh as well as think. The project repository places it with Pahari (hill) storytelling traditions.",
+  "shared": "The story shows a village custom of sharing tasty food with neighbours. The old man remembers it just when the pakoras are ready, and the sharing question is what starts the whole funny muddle.",
+  "matters": "It reminds us that kindness and consideration are lovely, but that talking openly and deciding together matters too. It is also just a good laugh. This is one version from one source and not the only way the tale is told.",
+  "links": [
+   [
+    "Chamba Rumal: An Interplay of Literature and Paintings (Sahapedia)",
+    "https://www.sahapedia.org/chamba-rumal-interplay-literature-and-paintings"
+   ],
+   [
+    "Folk Tales of Himachal Pradesh, K. A. Seethalakshmi (catalogue record)",
+    "https://krishi.icar.gov.in/ohs-2.3.1/index.php/record/view/465569"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "K. A. Seethalakshmi, Folktales of Himachal Pradesh (Sterling Publishers, New Delhi, 1971), as cited by the repository",
+   "url": "https://krishi.icar.gov.in/ohs-2.3.1/index.php/record/view/465569",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1); the repository credits the Centre for Contemporary Folklore (CCF)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Check the exact wording against Seethalakshmi’s book and whether the repository text is a retelling or an exact reproduction.",
+  "Permission and licence for the book and the repository text are unconfirmed.",
+  "Which Ramolihat the story means is unconfirmed.",
+  "The story jokes about death and cremation as a misunderstanding; confirm it is suitable for the youngest readers.",
+  "Art tradition (Pahari miniature / Chamba Rumal) is a regional reference only, not tied to this tale.",
+  "Hindi texts (especially the Level 3 register) need a fluent reader’s review.",
+  "Level 2 supplied text contains some Level 3 words (diminished, emerged); level choice is a judgement call."
+ ]
+}

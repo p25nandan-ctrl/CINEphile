@@ -1,0 +1,257 @@
+{
+ "id": "bonobibi-and-shah-jangali",
+ "state": "wb",
+ "title": "Bonobibi and Shah Jangali — The Guardians of the Sundarbans",
+ "titleHi": "बोनबिबी, जंगल की रक्षक",
+ "genre": "Origin legend",
+ "levelTitles": {
+  "1": {
+   "en": "Bonobibi, Friend of the Forest",
+   "hi": "बोनबिबी, जंगल की रक्षक"
+  },
+  "2": {
+   "en": "Bonobibi and the Pride of Dakshin Rai",
+   "hi": "बोनबिबी और दक्षिण राय का अहंकार"
+  },
+  "3": {
+   "en": "Bonobibi, Shah Jangali and the Forest That Belongs to All",
+   "hi": "बोनबिबी, शाह जंगाली और सबका जंगल"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the great mangrove forests of the Sundarbans, people lived by gathering honey, catching fish and collecting wood. The forest gave them food and helped them earn a living. But it was also a dangerous place. Tigers roamed among the trees, and the rivers changed their paths with the tides.",
+     "Some powerful people began taking more than their share of the forest's gifts. They frightened poor villagers and took away the honey and fish they had gathered.",
+     "The people prayed for someone who would protect them.",
+     "Far away, a kind and powerful woman named Bonobibi heard their prayers. She and her brother, Shah Jangali, were sent to the earth to protect those who were poor and helpless.",
+     "When Bonobibi arrived in the Sundarbans, she saw how beautiful the forest was. She also saw how frightened the villagers were. She promised to protect them and asked them to remember that the forest belonged to all living beings.",
+     "But the forest was ruled by Dakshin Rai, a powerful being who did not want anyone to challenge him. He believed that the forest and everything in it belonged to him.",
+     "Bonobibi stood firm. She told him that the forest was not meant for one person alone. The villagers needed its gifts to survive, and the animals needed it as their home.",
+     "With Shah Jangali beside her, Bonobibi protected the people from Dakshin Rai's cruelty. She taught them to take only what they needed and never to be greedy.",
+     "Even today, people in the Sundarbans remember Bonobibi before entering the forest. They pray for her protection and promise to respect the trees, rivers and animals.",
+     "Her story reminds us that the forest is not ours to own. We are only one part of it, and we must learn to live alongside everything that calls it home."
+    ],
+    "hi": [
+     "बहुत समय पहले सुंदरबन के विशाल मैंग्रोव जंगलों में लोग रहते थे। वे शहद इकट्ठा करते, मछलियाँ पकड़ते और लकड़ियाँ चुनते थे। जंगल उन्हें भोजन देता था और रोज़गार का साधन भी था। लेकिन जंगल में ख़तरे भी थे। पेड़ों के बीच बाघ घूमते थे और ज्वार-भाटा आने पर नदियों का रूप बदल जाता था।",
+     "कुछ ताकतवर लोग जंगल से ज़रूरत से ज़्यादा चीज़ें लेने लगे। वे गरीब गाँववालों को डराते और उनसे इकट्ठा किया हुआ शहद और मछलियाँ छीन लेते।",
+     "लोगों ने प्रार्थना की कि कोई उनकी रक्षा करे।",
+     "दूर एक दयालु और शक्तिशाली स्त्री थीं—बोनबिबी। उन्होंने लोगों की पुकार सुनी। उन्हें और उनके भाई शाह जंगाली को धरती पर भेजा गया ताकि वे गरीब और असहाय लोगों की रक्षा कर सकें।",
+     "जब बोनबिबी सुंदरबन पहुँचीं, तो उन्होंने जंगल की सुंदरता देखी। उन्होंने यह भी देखा कि गाँववाले कितने डरे हुए थे। उन्होंने उनकी रक्षा करने का वादा किया और कहा कि जंगल सभी जीवों का घर है।",
+     "लेकिन जंगल पर दक्षिण राय का अधिकार था। वह एक शक्तिशाली सत्ता था और नहीं चाहता था कि कोई उसे चुनौती दे। उसका मानना था कि जंगल और उसमें मौजूद हर चीज़ उसी की है।",
+     "बोनबिबी उसके सामने डटकर खड़ी हुईं। उन्होंने कहा कि जंगल किसी एक का नहीं है। गाँववालों को जीने के लिए जंगल की ज़रूरत है और जानवरों का भी यही घर है।",
+     "अपने भाई शाह जंगाली के साथ मिलकर बोनबिबी ने लोगों को दक्षिण राय के अत्याचारों से बचाया। उन्होंने लोगों को सिखाया कि जंगल से उतना ही लेना चाहिए जितनी ज़रूरत हो और कभी लालच नहीं करना चाहिए।",
+     "आज भी सुंदरबन के कई लोग जंगल में जाने से पहले बोनबिबी को याद करते हैं। वे उनकी रक्षा की प्रार्थना करते हैं और पेड़ों, नदियों तथा जानवरों का सम्मान करने का वादा करते हैं।",
+     "उनकी कहानी हमें याद दिलाती है कि जंगल पर हमारा अकेले का अधिकार नहीं है। हम भी उसका एक छोटा-सा हिस्सा हैं और हमें वहाँ रहने वाले सभी जीवों के साथ मिलकर रहना सीखना चाहिए।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "The Sundarbans is a vast forest of mangroves, rivers and shifting islands. For generations, people have entered its waters and woods to gather honey, catch fish, collect crabs and find wood. The forest sustains their families, but it is never entirely safe. Its tides are unpredictable, and tigers move silently through the mangroves.",
+     "Long ago, the people of the forest suffered under the greed of powerful beings who claimed its resources for themselves. The poor were frightened and exploited. They could not gather what they needed without fearing that someone stronger would take it away.",
+     "Their prayers reached Bonobibi, a powerful protector who was sent to the earth with her brother, Shah Jangali. Their task was to defend the poor and prevent the forest from becoming the possession of the greedy.",
+     "When Bonobibi and Shah Jangali arrived, they saw the suffering of the people. They also understood that the forest was not an empty place waiting to be claimed. It was a living world, full of animals, plants, rivers and people whose lives depended on it.",
+     "But Dakshin Rai, a powerful ruler of the forest, opposed them. He wanted to control its riches and frighten anyone who challenged his authority. In many tellings, he is associated with the tiger, the animal that people of the Sundarbans fear and respect.",
+     "Bonobibi refused to let Dakshin Rai's power decide who could live from the forest. She stood up for those who had little and reminded everyone that the forest's gifts were not meant to be seized by one ruler.",
+     "With Shah Jangali's help, she protected the people and established a moral order: those who entered the forest must do so with humility. They should take only what they needed and must not mistake the forest's generosity for permission to be greedy.",
+     "The people remembered her as Bonobibi, the lady of the forest. Even today, honey collectors, fishers and others who depend on the Sundarbans may offer prayers before entering the mangroves.",
+     "Her story is not only about a struggle between good and evil. It is also about the delicate balance between human need and the natural world. The forest can sustain people, but it cannot be treated as an endless storehouse."
+    ],
+    "hi": [
+     "सुंदरबन मैंग्रोव के जंगलों, नदियों और बदलते द्वीपों का विशाल क्षेत्र है। पीढ़ियों से लोग यहाँ शहद इकट्ठा करने, मछलियाँ और केकड़े पकड़ने तथा लकड़ियाँ चुनने आते रहे हैं। यह जंगल उनके परिवारों का पालन करता है, लेकिन यहाँ जीवन कभी पूरी तरह सुरक्षित नहीं होता। ज्वार-भाटा अनिश्चित है और बाघ मैंग्रोव के बीच चुपचाप घूमते हैं।",
+     "बहुत समय पहले जंगल के लोगों को कुछ शक्तिशाली और लालची सत्ताओं के अत्याचार का सामना करना पड़ा। वे जंगल के संसाधनों पर अपना अधिकार जताते थे। गरीब लोगों को डराया और उनका शोषण किया जाता था। वे अपनी ज़रूरत की चीज़ें इकट्ठा करने भी जाते, तो उन्हें डर रहता कि कोई ताकतवर व्यक्ति उनसे सब कुछ छीन लेगा।",
+     "उनकी प्रार्थना बोनबिबी तक पहुँचीं। उन्हें अपने भाई शाह जंगाली के साथ धरती पर भेजा गया। उनका काम गरीबों की रक्षा करना और जंगल को लालची लोगों की निजी संपत्ति बनने से रोकना था।",
+     "जब बोनबिबी और शाह जंगाली सुंदरबन पहुँचे, तो उन्होंने लोगों का दुख देखा। उन्होंने यह भी समझा कि जंगल कोई खाली जगह नहीं है जिस पर कोई भी अधिकार जमा ले। वह एक जीवित संसार है, जिसमें जानवर, पौधे, नदियाँ और वे लोग रहते हैं जिनका जीवन उस पर निर्भर है।",
+     "लेकिन जंगल का एक शक्तिशाली शासक दक्षिण राय उनका विरोध करता था। वह जंगल की संपदा पर नियंत्रण रखना चाहता था और अपनी सत्ता को चुनौती देने वालों को डराता था। कई कथाओं में उसका संबंध बाघ से जोड़ा जाता है—उस जानवर से जिससे सुंदरबन के लोग डरते भी हैं और जिसका सम्मान भी करते हैं।",
+     "बोनबिबी ने दक्षिण राय को यह तय नहीं करने दिया कि जंगल से कौन अपनी आजीविका चला सकता है। उन्होंने गरीबों का पक्ष लिया और सबको याद दिलाया कि जंगल की संपदा किसी एक शासक के लिए नहीं है।",
+     "शाह जंगाली की मदद से उन्होंने लोगों की रक्षा की और एक नैतिक नियम स्थापित किया: जंगल में जाने वाले हर व्यक्ति को विनम्रता के साथ जाना चाहिए। उसे उतना ही लेना चाहिए जितनी ज़रूरत हो और जंगल की उदारता को लालच करने की अनुमति नहीं समझना चाहिए।",
+     "लोग उन्हें बोनबिबी, यानी जंगल की देवी और रक्षक, के रूप में याद करने लगे। आज भी सुंदरबन के शहद इकट्ठा करने वाले, मछुआरे और जंगल पर निर्भर अन्य लोग मैंग्रोव में प्रवेश करने से पहले उनसे प्रार्थना करते हैं।",
+     "यह कहानी केवल अच्छाई और बुराई के संघर्ष की कथा नहीं है। यह मनुष्य की ज़रूरतों और प्रकृति के बीच नाज़ुक संतुलन की कहानी भी है। जंगल लोगों का पालन कर सकता है, लेकिन उसे कभी ऐसा भंडार नहीं समझना चाहिए जो कभी समाप्त ही नहीं होगा।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The Sundarbans is a landscape unlike any other. Its mangrove forests rise from a shifting network of rivers and tidal channels. The ground is shaped by water, the trees grow in salt and mud, and the boundary between land and river is never fixed. For the people who live around it, the forest is both a source of livelihood and a place of danger.",
+     "Honey collectors, fishers, crab gatherers and woodcutters enter the mangroves knowing that the forest can provide what their families need, but that it can also take a life. The tiger is a constant presence in the imagination of the region, as are the tides, storms and unseen dangers of the water.",
+     "The Bonobibi tradition gives this difficult relationship a moral and spiritual language. In the account recorded by the Centre for Contemporary Folklore, Bonobibi and her brother Shah Jangali are sent to the earth to protect the poor from exploitation. The Sundarbans is under the influence of Dandroksh Muni and his son Dakshin Rai, whose greed and cruelty threaten those who depend on the forest.",
+     "Bonobibi's arrival is a promise of protection. She does not come to claim the forest as her own or to replace one ruler with another. Her purpose is to defend those who are vulnerable and to challenge the idea that power gives someone the right to take everything.",
+     "Dakshin Rai resists her authority. In many popular tellings, he is linked to the tiger, a figure that embodies the forest's formidable power. The conflict between Bonobibi and Dakshin Rai is therefore more than a contest between two supernatural beings. It expresses a question that remains important to the people of the delta: how can human beings enter a dangerous ecosystem, use its resources and still respect the life that exists there?",
+     "Bonobibi's protection is not an invitation to take without limit. The tradition asks people to enter the forest with humility, to recognise that they are not its masters, and to remember that the forest is home to many forms of life. Shah Jangali stands beside his sister in this work of protection.",
+     "Over generations, Bonobibi has become a shared figure of devotion across religious and social boundaries in the Sundarbans. Hindu and Muslim communities, Adivasi people and forest workers may all invoke her protection. Her story is carried through local performances, songs, ritual texts and oral retellings.",
+     "For a child reading this story today, Bonobibi's message is both simple and profound: a forest is not merely a collection of resources. It is a home, a livelihood, a source of danger and a shared responsibility. To enter it is to become part of a relationship that demands respect."
+    ],
+    "hi": [
+     "सुंदरबन एक अनोखा भू-दृश्य है। यहाँ मैंग्रोव के जंगल नदियों और ज्वारीय धाराओं के बदलते जाल के बीच उगते हैं। ज़मीन का आकार पानी से बदलता रहता है, पेड़ खारे पानी और कीचड़ में पनपते हैं और नदी तथा धरती के बीच की सीमा कभी स्थिर नहीं रहती। यहाँ रहने वाले लोगों के लिए जंगल आजीविका का साधन भी है और ख़तरे की जगह भी।",
+     "शहद इकट्ठा करने वाले, मछुआरे, केकड़े पकड़ने वाले और लकड़ियाँ चुनने वाले लोग यह जानते हुए मैंग्रोव में प्रवेश करते हैं कि जंगल उनके परिवार की ज़रूरतें पूरी कर सकता है, लेकिन उनकी जान भी ले सकता है। बाघ, ज्वार-भाटा, तूफ़ान और पानी में छिपे ख़तरे इस क्षेत्र की सामूहिक कल्पना का हिस्सा हैं।",
+     "बोनबिबी की परंपरा मनुष्य और इस कठिन प्राकृतिक संसार के रिश्ते को नैतिक और आध्यात्मिक अर्थ देती है। Centre for Contemporary Folklore में दर्ज एक कथा के अनुसार, बोनबिबी और उनके भाई शाह जंगाली को गरीब लोगों को शोषण से बचाने के लिए धरती पर भेजा गया था। सुंदरबन में दंडरक्ष मुनि और उनके पुत्र दक्षिण राय का प्रभाव था। उनकी लालच और क्रूरता उन लोगों के जीवन को संकट में डालती थी जो जंगल पर निर्भर थे।",
+     "बोनबिबी का आगमन सुरक्षा का वादा था। वे जंगल पर अपना अधिकार जमाने या एक शासक की जगह दूसरा शासक बैठाने नहीं आई थीं। उनका उद्देश्य असहाय लोगों की रक्षा करना और इस विचार को चुनौती देना था कि ताकतवर होने से किसी को सब कुछ छीन लेने का अधिकार मिल जाता है।",
+     "दक्षिण राय ने उनकी सत्ता का विरोध किया। कई प्रचलित कथाओं में उसका संबंध बाघ से जोड़ा जाता है—ऐसा जीव जो जंगल की अपार शक्ति का प्रतीक है। इसलिए बोनबिबी और दक्षिण राय का संघर्ष केवल दो अलौकिक शक्तियों की लड़ाई नहीं है। यह उस प्रश्न को सामने लाता है जो डेल्टा के लोगों के लिए आज भी महत्वपूर्ण है: मनुष्य एक ख़तरनाक प्राकृतिक संसार में प्रवेश करके उसके संसाधनों का उपयोग कैसे करे, और साथ ही वहाँ मौजूद जीवन का सम्मान कैसे बनाए रखे?",
+     "बोनबिबी की रक्षा का अर्थ यह नहीं है कि मनुष्य जंगल से असीमित चीज़ें ले सकता है। यह परंपरा लोगों से विनम्रता के साथ जंगल में प्रवेश करने को कहती है। वह याद दिलाती है कि मनुष्य जंगल का मालिक नहीं है और जंगल कई प्रकार के जीवों का घर है। शाह जंगाली इस रक्षा के कार्य में अपनी बहन के साथ खड़े रहते हैं।",
+     "पीढ़ियों से बोनबिबी सुंदरबन के अलग-अलग धार्मिक और सामाजिक समुदायों के लिए आस्था का साझा प्रतीक बनी हुई हैं। हिंदू और मुस्लिम समुदाय, आदिवासी लोग और जंगल पर निर्भर श्रमिक—सभी उनकी रक्षा की प्रार्थना कर सकते हैं। उनकी कहानी स्थानीय नाट्य-प्रदर्शनों, गीतों, धार्मिक पुस्तिकाओं और मौखिक कथाओं के माध्यम से आगे बढ़ती रही है।",
+     "आज यह कहानी पढ़ने वाले बच्चे के लिए बोनबिबी का संदेश सरल भी है और गहरा भी: जंगल केवल संसाधनों का समूह नहीं है। वह घर है, आजीविका है, ख़तरे का स्थान है और सबकी साझा ज़िम्मेदारी है। उसमें प्रवेश करने का अर्थ है ऐसे रिश्ते का हिस्सा बनना जिसमें सम्मान और संयम आवश्यक हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "The Sundarbans, West Bengal",
+  "community": "Revered by Hindu and Muslim communities, Adivasi people and forest-dependent workers",
+  "tradition": "Origin legend of the Sundarbans."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Sundarbans tradition. The Centre for Contemporary Folklore (CCF) records a version told by Niranjan Mondal, collected by Niladri Mondal and translated by Sharanya.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-201-024",
+ "meta": [
+  "Sundarbans tradition · Origin legend · Themes: protection, justice, coexistence, respect for the forest",
+  "Source and cultural attribution",
+  "This story is associated with the Sundarbans, the vast mangrove delta shared by India and Bangladesh. Bonobibi is revered by many Hindu and Muslim communities, as well as Adivasi people and forest-dependent workers. The Centre for Contemporary Folklore records a version told by Niranjan Mondal, collected by Niladri Mondal and translated by Sharanya.",
+  "Centre for Contemporary Folklore (CCF)",
+  "In this tradition, Bonobibi and her brother Shah Jangali are sent to protect the poor from exploitation in the forest. Their adversary is Dakshin Rai, a powerful figure associated with the forest and often represented as a tiger. Different versions of the Bonobibi narrative circulate in the Sundarbans, so the adaptations below follow the published account's central conflict rather than claiming to represent every version.",
+  "Cultural note: Bonobibi is not simply a fairy or forest spirit. For many people in the Sundarbans, she is a protector whose story expresses the need to enter the forest with humility and respect. The forest provides honey, fish, crabs, wood and other resources, but it is also home to powerful and unpredictable forces."
+ ]
+}

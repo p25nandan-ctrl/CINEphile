@@ -1,0 +1,373 @@
+{
+ "id": "the-monkey-and-the-fox",
+ "state": "as",
+ "title": "The Monkey and the Fox",
+ "titleHi": "बंदर और लोमड़ी",
+ "genre": "Trickster tale",
+ "levelTitles": {
+  "1": {
+   "en": "The Monkey and the Fox",
+   "hi": "बंदर और लोमड़ी"
+  },
+  "2": {
+   "en": "The Monkey and the Fox",
+   "hi": "बंदर और लोमड़ी"
+  },
+  "3": {
+   "en": "The Monkey and the Fox",
+   "hi": "बंदर और लोमड़ी"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "A monkey and a fox were the best of friends. One morning they sat by a woodland road, wondering where to find a feast. Then they spotted men carrying baskets of bananas, milk, treacle, sugarcane and sweets for a wedding.",
+     "\"I have a plan,\" said the fox. \"You hide under that tree and I will hide over here. When the men come close, I will yell howa! and you yell khowa! Make it loud!\"",
+     "The men came nearer. \"Howa!\" \"Khowa!\" \"Howa! Khowa!\" The forest shook with the noise. The men thought tigers were coming. They dropped everything and ran.",
+     "The friends cheered and dragged the food into the jungle. \"You cannot climb,\" said the monkey, \"so I will go up the tree and toss your share down.\"",
+     "The fox passed the food up. But the monkey ate it all himself. For the fox he threw a banana peel, an empty milk can and some sugarcane fibre. \"Catch, friend!\"",
+     "The fox said nothing, but he was fuming.",
+     "Days later, the monkey found the fox sitting by a hornets' nest. \"I am guarding the king's drum,\" said the fox. \"Do not touch it!\"",
+     "\"Just one little beat?\" begged the monkey.",
+     "\"Well... gently.\" The fox crept away. The monkey thumped the nest. Out buzzed the hornets, stinging him from head to toe! \"Help, friend!\"",
+     "\"That is for the banana peel,\" called the fox.",
+     "Another day, the fox stood among leafy plants. \"The king's sugarcane,\" he said. \"Do not eat any!\" The monkey sneaked a bite. Ow! It was a poisonous arum plant, and his mouth burned. \"That is for the milk can,\" said the fox.",
+     "At last the monkey saw the fox beside an old well covered with cobwebs. \"That is the princess's seat,\" said the fox. \"Never sit on it!\"",
+     "The greedy monkey hopped on top. The cobwebs ripped, and splash! Down he fell into the well, and that was the end of him."
+    ],
+    "hi": [
+     "एक बंदर और एक लोमड़ी पक्के दोस्त थे। एक सुबह वे जंगल की सड़क के किनारे बैठे सोच रहे थे कि दावत कहाँ से मिले। तभी उन्हें कुछ आदमी आते दिखे, जो ब्याह की दावत के लिए केले, दूध, राब, गन्ने और मिठाइयाँ लिए जा रहे थे।",
+     "\"मेरे पास एक तरकीब है,\" लोमड़ी बोली। \"तुम उस पेड़ के नीचे छिप जाओ, मैं यहाँ छिपती हूँ। जब आदमी पास आएँगे, मैं चिल्लाऊँगी होआ! और तुम चिल्लाना खोआ! ज़ोर से चिल्लाना!\"",
+     "आदमी पास आए। \"होआ!\" \"खोआ!\" \"होआ! खोआ!\" पूरा जंगल गूँज उठा। आदमियों को लगा कि बाघ आ रहे हैं। वे सारा सामान छोड़कर भाग खड़े हुए।",
+     "दोनों दोस्त सामान घसीटकर जंगल में ले गए। \"तुम पेड़ पर चढ़ नहीं सकती,\" बंदर बोला, \"इसलिए मैं ऊपर जाकर तुम्हारा हिस्सा नीचे फेंकूँगा।\"",
+     "लोमड़ी ने सामान ऊपर पहुँचाया। पर बंदर सब ख़ुद ही खा गया। लोमड़ी के लिए उसने केले का छिलका, दूध का ख़ाली डिब्बा और गन्ने का सिट्ठा फेंक दिया। \"पकड़ो, दोस्त!\"",
+     "लोमड़ी चुप रही, पर ग़ुस्से में थी।",
+     "कुछ दिन बाद बंदर ने लोमड़ी को एक बर्र के छत्ते के पास बैठे देखा। \"मैं राजा के ढोल की रखवाली कर रही हूँ,\" लोमड़ी बोली। \"इसे छूना मत!\"",
+     "\"बस एक बार बजाने दो न?\" बंदर गिड़गिड़ाया।",
+     "\"अच्छा... धीरे से।\" लोमड़ी चुपके से खिसक गई। बंदर ने छत्ते पर थाप मारी। बर्र भिनभिनाती निकलीं और उसे सिर से पाँव तक डंक मार दिए! \"दोस्त, बचाओ!\"",
+     "\"यह केले के छिलके का बदला है,\" दूर से लोमड़ी बोली।",
+     "एक और दिन लोमड़ी हरे-भरे पौधों के बीच खड़ी थी। \"राजा का गन्ना है,\" उसने कहा। \"इसे मत खाना!\" बंदर ने चुपके से एक टुकड़ा चबा लिया। वह ज़हरीला अरुम का पौधा था और उसका मुँह जलने लगा। \"यह दूध के डिब्बे का बदला है,\" लोमड़ी बोली।",
+     "आख़िर बंदर को लोमड़ी एक पुराने कुएँ के पास दिखी, जिस पर मकड़ी के जाले बिछे थे। \"यह राजकुमारी की पालकी है,\" लोमड़ी बोली। \"इस पर कभी मत बैठना!\"",
+     "लालची बंदर झट उस पर चढ़ बैठा। जाले फट गए और छपाक! वह कुएँ में जा गिरा। बस, लालची बंदर का क़िस्सा ख़त्म हो गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "A monkey and a fox were such good friends that they spent their days thinking up ways to find food. One morning they sat beside a forest road when a crowd of men passed by, carrying bananas, milk, treacle, sugarcane and sweets for a wedding feast. The smell of sweet treacle drifted down the road and made both their noses twitch.",
+     "\"Look at all that!\" said the fox, his eyes shining. \"We must get it. Here is my plan. You hide under that tree down the road. I will hide close to this spot. When the men reach me, I will shout howa! Then you shout khowa! If we are loud enough, they will think something terrible is coming.\"",
+     "The men drew near. \"Howa!\" roared the fox. \"Khowa!\" echoed the monkey from his tree. Back and forth the shouts went until the whole forest seemed to bellow. The men were sure that tigers or bears were about to attack. They flung down their loads and ran for their lives. Birds shot out of the trees, and a lone sandal lay forgotten in the dust.",
+     "The friends laughed and hauled the treasure into the jungle. Then the monkey frowned thoughtfully. \"If we eat here, the men may creep back and catch us. Let me climb this tree and eat up there. You wait below, since you cannot climb, and I will throw your share down.\"",
+     "The trusting fox passed up the loads. But once the monkey was settled, he began to feast, and he did not stop.",
+     "\"Where is my share?\" called the fox.",
+     "\"Coming, friend!\" Down fell a banana peel. Then an empty milk can. Then a clump of sugarcane fibre. \"Catch it!\" The fox clawed the ground and gnawed the bark in fury. Then he walked away.",
+     "Some days later, the monkey found him beside a hornets' nest. \"What are you doing?\"",
+     "\"The king has made me keeper of his drum,\" sighed the fox. \"I must not leave it.\"",
+     "\"Let me play it just once!\"",
+     "\"Impossible! The king would have me cut in two.\" The fox pretended to think. \"Well... only a gentle tap.\" Then he slipped into the bushes.",
+     "The monkey tapped, and the hornets poured out. They stung his hands, his feet and his mouth. Rolling on the ground, he screamed, \"Friend, save me! I am dying!\"",
+     "\"Do you remember the banana peel?\" the fox called from a safe distance.",
+     "Weeks later the monkey found the fox guarding a patch of green plants. \"The king's sugarcane,\" said the fox solemnly. \"Ripe, but forbidden.\"",
+     "The monkey's mouth watered. \"Just one stalk, on the sly?\" The fox sighed, then agreed. The monkey bit in. The plants were poisonous arum, and his mouth burned and itched. \"I am dying!\" he wailed. \"That is for the milk can,\" said the fox.",
+     "Finally the monkey spotted the fox by an old well covered in cobwebs. \"That is the princess's sedan-chair,\" said the fox. \"If you used it, I would lose my job.\"",
+     "The monkey climbed on proudly. He sat up straight like a prince and waved at no one in particular. The cobwebs snapped, and down he went into the well. He never came out."
+    ],
+    "hi": [
+     "एक बंदर और एक लोमड़ी में इतनी गहरी दोस्ती थी कि दिन भर वे खाने का जुगाड़ सोचते रहते थे। एक सुबह वे जंगल की सड़क के किनारे बैठे थे कि आदमियों की एक टोली गुज़री, जो ब्याह की दावत के लिए केले, दूध, राब, गन्ने और मिठाइयाँ लिए जा रही थी। राब की मीठी महक सड़क पर तैर आई और दोनों की नाक फड़क उठी।",
+     "\"ज़रा देखो तो!\" लोमड़ी की आँखें चमक उठीं। \"यह सब हमें चाहिए। मेरी तरकीब सुनो। तुम सड़क के आगे उस पेड़ के नीचे छिप जाओ। मैं यहीं पास छिपती हूँ। जब आदमी मेरे पास पहुँचेंगे, मैं चिल्लाऊँगी होआ! तब तुम चिल्लाना खोआ! हम ज़ोर से चिल्लाए तो वे समझेंगे कि कोई भयानक चीज़ आ रही है।\"",
+     "आदमी पास आए। \"होआ!\" लोमड़ी दहाड़ी। \"खोआ!\" पेड़ से बंदर ने जवाब दिया। इधर से उधर आवाज़ें गूँजती रहीं, पूरा जंगल मानो चीख उठा। आदमियों को पक्का लगा कि बाघ या भालू हमला करने वाले हैं। वे बोझ पटककर जान बचाकर भागे। पेड़ों से चिड़ियाँ फड़फड़ाकर उड़ीं और धूल में एक अकेली चप्पल छूट गई।",
+     "दोस्त हँसते हुए माल को जंगल में घसीट ले गए। फिर बंदर ने सोचने का नाटक किया। \"यहाँ खाएँगे तो वे लौटकर हमें पकड़ लेंगे। मैं इस पेड़ पर चढ़कर ऊपर खाता हूँ। तुम चढ़ नहीं सकती, इसलिए नीचे रहो, मैं तुम्हारा हिस्सा नीचे फेंकूँगा।\"",
+     "भोली लोमड़ी ने सामान ऊपर पहुँचा दिया। पर बंदर आराम से बैठा और खाता ही गया।",
+     "\"मेरा हिस्सा कहाँ है?\" लोमड़ी ने पुकारा।",
+     "\"आया, दोस्त!\" नीचे आया केले का छिलका। फिर दूध का ख़ाली डिब्बा। फिर गन्ने का सूखा सिट्ठा। \"पकड़ना!\" लोमड़ी ने ग़ुस्से में ज़मीन खरोंची, पेड़ की छाल चबाई और चली गई।",
+     "कुछ दिन बाद बंदर ने उसे बर्र के छत्ते के पास बैठे देखा। \"यहाँ क्या कर रही हो?\"",
+     "\"राजा ने मुझे अपने ढोल का रखवाला बनाया है,\" लोमड़ी ने आह भरी। \"मैं इसे छोड़कर नहीं जा सकती।\"",
+     "\"बस एक बार बजाने दो!\"",
+     "\"नामुमकिन! राजा मुझे दो टुकड़े कर देगा।\" लोमड़ी ने सोचने का दिखावा किया। \"अच्छा... बस हल्की-सी थाप।\" फिर वह झाड़ियों में सरक गई।",
+     "बंदर ने थाप मारी और बर्र बाहर उमड़ पड़ीं। उन्होंने उसके हाथ, पाँव और मुँह पर डंक मारे। ज़मीन पर लोटते हुए वह चीखा, \"दोस्त, बचाओ! मैं मर रहा हूँ!\"",
+     "\"केले का छिलका याद है?\" लोमड़ी ने दूर से पुकारा।",
+     "हफ़्तों बाद बंदर ने लोमड़ी को हरे पौधों के एक खेत की रखवाली करते देखा। \"राजा का गन्ना है,\" लोमड़ी ने गंभीरता से कहा। \"पका हुआ, पर वर्जित।\"",
+     "बंदर के मुँह में पानी भर आया। \"बस एक डंडी, चुपके से?\" लोमड़ी ने आह भरी और मान गई। बंदर ने काट खाया। वे ज़हरीले अरुम के पौधे थे। उसका मुँह जलने और खुजलाने लगा। \"मैं मर रहा हूँ!\" वह चिल्लाया। \"यह दूध के डिब्बे का बदला है,\" लोमड़ी बोली।",
+     "आख़िर बंदर ने लोमड़ी को एक पुराने कुएँ के पास देखा, जिस पर मकड़ी के जाले बिछे थे। \"यह राजकुमारी की पालकी है,\" लोमड़ी बोली। \"तुम इस पर बैठे तो मेरी नौकरी चली जाएगी।\"",
+     "बंदर अकड़कर पालकी पर चढ़ बैठा। वह राजकुमार की तरह तनकर बैठा और हवा में हाथ हिलाने लगा। जाले टूट गए और वह कुएँ में जा गिरा। फिर कभी बाहर नहीं निकला।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the tales that Assamese grandmothers tell, a monkey and a fox once lived as inseparable friends, forever scheming to fill their bellies without working for it. One day, as they plotted beside a woodland road, they spotted men coming toward them, loaded with bananas, milk, treacle, sugarcane and sweets for a wedding feast.",
+     "The fox's eyes lit up. \"We must have all of that, whatever it takes. Hide beneath a tree a little way along. I will crouch near here. When the men draw level with me, I will cry howa! and you must answer khowa! If we shout loudly and without warning, they will bolt.\"",
+     "The ruse worked perfectly. The forest echoed with howa and khowa until it sounded as if a whole pack of beasts was closing in. Convinced that tigers or bears were about to spring, the men flung down their burdens and fled. The two friends whooped with delight and dragged the spoils into the jungle.",
+     "It was then that the monkey's friendship wore thin. \"If we feast here and the men return, we are finished,\" he said gravely. \"Let me carry everything up this tree. You are no climber, so wait below, and once I have taken my share I will drop yours.\"",
+     "The fox, who trusted him, handed things up one by one. The monkey settled on a high branch, content as a king, and ate.",
+     "\"Friend, where is my share?\" called the fox.",
+     "\"Here you are! Catch!\" A banana peel came spiralling down. After draining the milk, the monkey sent the empty can after it. When he had sucked the sweetness from the sugarcane, he tossed down the dry fibre. The fox understood that he had been cheated. He clawed the earth, chewed the bark in helpless fury, and walked off in silence.",
+     "But the fox had a patient mind. One day he sat beside a hornets' nest, and soon the monkey wandered past. \"What are you doing, friend?\"",
+     "\"Just my luck,\" said the fox wearily. \"The king has made me guardian of one of his royal drums, and I cannot leave my post.\"",
+     "\"Let me beat it just once. Be a sport!\"",
+     "\"Out of the question. The king would cut me in two.\" The monkey begged until the fox relented. \"A gentle tap only. Mind that.\" And he slipped away.",
+     "The monkey struck the nest. Hundreds of furious hornets burst out and stung him from head to foot. Writhing on the ground, he screamed, \"Help, friend, I am dying!\"",
+     "From a safe distance the fox answered calmly, \"You threw me a banana peel, did you not? I am only returning the favour.\"",
+     "A long time passed, and the monkey forgot his lesson. He found the fox watching over a field of green plants. \"These are the king's sugarcane. Every stalk is ripe, but royal orders must be obeyed.\"",
+     "The monkey's mouth watered. \"Surely one stalk, on the sly?\" The fox pretended to wrestle with his conscience. \"Only one,\" he said at last, \"and I shall take the blame.\" The monkey bit into a stem. The plants were poisonous arum, and soon his mouth was itching and burning. \"Save me, friend!\" \"That is for the milk can you threw,\" said the fox, and left him to his misery.",
+     "The last revenge came beside an old well whose mouth was draped in cobwebs. \"This is the princess's sedan-chair,\" said the fox, \"and I am responsible for it.\"",
+     "\"What fun it must be to ride in a royal chair! Let me try.\"",
+     "\"Absolutely not. If the king saw the slightest sign of it being used, I would lose my post.\"",
+     "\"I will leave no trace.\"",
+     "\"Then do it now, before anyone sees.\" The monkey climbed on, puffed up like royalty. The cobwebs gave way beneath him, and he fell into the well and drowned."
+    ],
+    "hi": [
+     "असम की दादी-नानियों की कहानियों में एक बंदर और एक लोमड़ी रहते थे, जो पक्के दोस्त थे और हमेशा यही जुगत भिड़ाते कि बिना मेहनत के पेट कैसे भरा जाए। एक दिन जंगल की सड़क के किनारे बैठे वे योजना बना रहे थे कि उन्हें कुछ आदमी आते दिखे, जो ब्याह की दावत के लिए केले, दूध, राब, गन्ने और मिठाइयाँ लादे चले आ रहे थे।",
+     "लोमड़ी की आँखें चमक उठीं। \"यह सब हमें चाहिए, कुछ भी करके। तुम थोड़ी दूर एक पेड़ के नीचे छिप जाओ। मैं यहीं पास दुबकती हूँ। जब आदमी मेरे बराबर पहुँचेंगे, मैं चिल्लाऊँगी होआ! और तुम जवाब देना खोआ! अचानक और ज़ोर से चिल्लाएँगे तो वे भाग खड़े होंगे।\"",
+     "चाल कामयाब रही। जंगल होआ और खोआ से ऐसा गूँज उठा, मानो जानवरों का पूरा झुंड टूट पड़ा हो। बाघ या भालू के हमले का यक़ीन करके आदमी अपने बोझ पटककर भाग गए। दोनों दोस्त ख़ुशी से झूमते हुए लूट का माल घसीटकर जंगल में ले गए।",
+     "तभी बंदर की दोस्ती कमज़ोर पड़ने लगी। \"यहाँ दावत उड़ाएँ और आदमी लौट आए, तो हम गए,\" उसने गंभीरता से कहा। \"सब कुछ इस पेड़ पर चढ़ा दो। तुम चढ़ नहीं सकती, इसलिए नीचे इंतज़ार करो। मैं अपना हिस्सा लेकर तुम्हारा नीचे गिरा दूँगा।\"",
+     "भरोसा करने वाली लोमड़ी ने चीज़ें एक-एक करके ऊपर पहुँचा दीं। बंदर ऊँची डाल पर राजा की तरह संतुष्ट बैठा और खाने लगा।",
+     "\"दोस्त, मेरा हिस्सा कहाँ है?\" लोमड़ी ने पुकारा।",
+     "\"यह लो! पकड़ो!\" केले का छिलका चक्कर खाता नीचे आया। दूध पीकर बंदर ने ख़ाली डिब्बा भी उसके पीछे फेंक दिया। गन्ने का रस चूसकर उसने सूखा सिट्ठा नीचे गिरा दिया। लोमड़ी समझ गई कि उसके साथ धोखा हुआ है। उसने बेबसी में ज़मीन खरोंची, पेड़ की छाल चबाई और चुपचाप चली गई।",
+     "पर लोमड़ी धैर्यवान थी। एक दिन वह बर्र के छत्ते के पास बैठ गई और जल्द ही बंदर वहाँ से गुज़रा। \"यहाँ क्या कर रही हो, दोस्त?\"",
+     "\"क़िस्मत की बात है,\" लोमड़ी ने थके स्वर में कहा। \"राजा ने मुझे अपने शाही ढोलों में से एक का रखवाला बनाया है और मैं यह जगह छोड़ नहीं सकती।\"",
+     "\"बस एक बार बजाने दो। दोस्ती निभाओ!\"",
+     "\"असंभव। राजा मुझे दो टुकड़े कर देगा।\" बंदर गिड़गिड़ाता रहा, तब जाकर लोमड़ी पिघली। \"बस हल्की-सी थाप। याद रखना।\" और वह खिसक गई।",
+     "बंदर ने छत्ते पर चोट की। सैकड़ों ग़ुस्साई बर्र निकलीं और उसे सिर से पाँव तक डंक मारने लगीं। ज़मीन पर तड़पते हुए वह चीखा, \"बचाओ, दोस्त, मैं मर रहा हूँ!\"",
+     "सुरति दूरी से लोमड़ी ने शांति से कहा, \"तुमने मुझे केले का छिलका फेंका था न? मैं बस एहसान लौटा रही हूँ।\"",
+     "बहुत दिन बीत गए और बंदर अपना सबक़ भूल गया। उसे लोमड़ी हरे पौधों के एक खेत की रखवाली करती मिली। \"ये राजा का गन्ना है। हर डंडी पकी है, पर शाही हुक्म मानना पड़ता है।\"",
+     "बंदर के मुँह में पानी आ गया। \"एक डंडी तो चलेगी, चुपके से?\" लोमड़ी ने अपने ज़मीर से जूझने का नाटक किया। \"सिर्फ़ एक,\" आख़िर बोली, \"और इल्ज़ाम मैं ले लूँगी।\" बंदर ने एक डंठल चबाया। वे ज़हरीले अरुम के पौधे थे और जल्द ही उसका मुँह खुजलाने और जलने लगा। \"दोस्त, बचाओ!\" \"यह तुम्हारे फेंके दूध के डिब्बे का बदला है,\" लोमड़ी ने कहा और उसे उसकी तकलीफ़ में छोड़कर चली गई।",
+     "आख़िरी बदला एक पुराने कुएँ के पास मिला, जिसका मुँह मकड़ी के जालों से ढका था। \"यह राजकुमारी की पालकी है,\" लोमड़ी बोली, \"और इसकी ज़िम्मेदारी मुझ पर है।\"",
+     "\"शाही पालकी में सैर का मज़ा ही कुछ और होगा! मुझे भी बैठने दो।\"",
+     "\"बिल्कुल नहीं। राजा को ज़रा-सा भी निशान दिख गया तो मेरी नौकरी गई।\"",
+     "\"मैं कोई निशान नहीं छोड़ूँगा।\"",
+     "\"तो अभी कर लो, जब तक कोई देख नहीं रहा।\" बंदर राजा की तरह अकड़कर उस पर चढ़ बैठा। जाले उसके नीचे टूट गए और वह कुएँ में गिरकर डूब गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ],
+     [
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13
+     ],
+     [
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Assam and the Brahmaputra valley",
+  "community": "Assamese",
+  "tradition": "Animal trickster tale about a greedy monkey and a fox who pays him back."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Assamese oral tradition in Burhi Aair Sadhu (Grandmother’s Tales), Assamese title “Bandor aru Xial”, in the English edition titled Folk Tales of Assam.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "scenes7": [
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-1.webp",
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-2.webp",
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-3.webp",
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-4.webp",
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-5.webp",
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-6.webp",
+  "assets/stories/the-monkey-and-the-fox/the-monkey-and-the-fox-scene-7.webp"
+ ],
+ "meta": [
+  "● Themes: cheating a friend, tit for tat, greed, cleverness over strength. ● Glossary: howa and khowa (the two shouts that scare the men), treacle (a thick sugar syrup, rab in Hindi), arum (a plant whose juice makes the mouth itch and burn), sedan-chair (a covered seat carried by bearers, like a palanquin). ● Educator note: the monkey drowns at the end, as in the source tale. The Grades 4 to 5 version only says he \"fell into the well\". ● Discussion questions: Why did the fox wait before taking revenge? Which of the three revenges do you think fits best? How could the monkey have kept his friend?"
+ ],
+ "tails": []
+}

@@ -1,0 +1,661 @@
+{
+ "id": "abo-tani-and-the-gift-of-agriculture",
+ "state": "ar",
+ "title": "Abo Tani and the Gift of Agriculture",
+ "titleHi": "अबो तानी और खेती का वरदान",
+ "summary": "In this Galo-linked origin myth, Abo Tani, who knows nothing of farming, is helped by the goddess Mopin. Through lost magic, hunger and patient work, he learns to grow food.",
+ "summarySource": "written for this site",
+ "genre": "Origin myth",
+ "from": "Galo origin myth, Arunachal Pradesh (abridged retelling of the Abo Tani and Mopin mythology)",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses abstract and formal vocabulary (devised, persuaded, prosperity, intervened, consequences, perseverance) and longer, multi-clause sentences of about 14 words on average, with a reflective closing moral. This matches Level 3 (Mighty Tree, grades 8-10).",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, when the world was new, there lived a man named Abo Tani. He is called the first ancestor of the Tani people.",
+     "Abo Tani did not know how to farm. He did not know how to grow food. Life was hard.",
+     "One day, he met a little river bird named Tode-Rene. The bird told him about a big party. The beings called Takar-Taji were planning a wedding feast. They wanted to sacrifice some mithuns.",
+     "Abo Tani thought the mithuns were really his. He decided to go to the party and get them back.",
+     "He made a clever plan. He put an image of his mother on a raft in the river. Then he got the hosts to send a messenger to invite her to the party.",
+     "The messenger went to the raft. He did what Abo Tani told him. By accident, the image fell into the water.",
+     "Abo Tani pretended to be very sad and angry. The hosts were scared. They agreed to give him nine mithuns.",
+     "At the party, Abo Tani learned something. The world beyond his own was full of riches and food.",
+     "Later, he travelled to Digo Pine, a land in the heavens. There he met Mopin. She is the goddess of farming, growing things and good fortune. Mopin and her daughters welcomed him.",
+     "Mopin saw that Abo Tani did not know how to farm. She felt sorry for him. She gave him seeds of paddy and maize. Now he could grow food for himself and his people.",
+     "Abo Tani went back to Earth. He hid the precious seeds in the ears of his dog, Kipu. He planted the seeds, but wild birds ate them.",
+     "He was sad. He went back to Mopin and told her. This time she gave him a knife. She taught him how to clear the jungle and get the soil ready.",
+     "But more trouble came. Animals bothered his work. The forest gods Yapom and Yaji did not want the woodland cleared. Abo Tani asked Mopin for help again.",
+     "Mopin stepped in. She planned a contest to decide who would rule the forest. They would have to face a great fire. She knew Abo Tani could not live through the flames alone. So she secretly told him to dig a pit and hide in it.",
+     "The fire was lit. Yapom and Yaji ran away into the forest. Abo Tani came out of his pit safe and sound. Mopin said he was the master of the land. Now he could farm the soil.",
+     "With Mopin’s help, Abo Tani learned more about farming. Soon he was growing crops.",
+     "Later, he married Mopin’s daughter, Diyi Tami. She had a special gift. She could cook a whole pot of rice from just one grain.",
+     "For a time, they had plenty to eat. They did not need big fields. Her magic gift gave them all the food they needed.",
+     "But Abo Tani later married another woman, Rosi Tami. She was the daughter of famine. Diyi Tami was unhappy. In the end, she went back to her mother’s home in the heavens.",
+     "While Diyi Tami was away, Rosi Tami tried to cook rice the magic way. She used two grains, not one. The rice grew and grew.",
+     "Rosi Tami could not eat it all. She called a hungry dog named Dire Kibo to eat the rest. The dog ate the rice. He also ate the magic power that made it grow.",
+     "After that, people could not get lots of food from one grain. Famine came to Abo Tani’s world.",
+     "Abo Tani knew what he had lost. He asked Mopin for help once more. He found Diyi Tami again. But the magic of endless rice did not come back.",
+     "Instead, Mopin gave him tools, seeds and the knowledge to farm big fields. Now Abo Tani had to dig the soil, sow seeds and care for his crops.",
+     "He was patient and worked hard. Slowly, he did well.",
+     "Abo Tani was thankful to Mopin. Each year in the farming season, he held a celebration to honour her. These celebrations are linked with Mopin, the festival of the Galo community.",
+     "So, says the myth, farming became part of human life. Mopin guided Abo Tani, and he worked hard and never gave up.",
+     "Moral: Nature gives us what we need to live. But we must respect nature, learn how it works, and work with patience."
+    ],
+    "hi": [
+     "बहुत पहले, जब दुनिया नई थी, अबो तानी नाम का एक आदमी रहता था। उसे तानी लोगों का पहला पूर्वज कहा जाता है।",
+     "अबो तानी को खेती करना नहीं आता था। उसे अन्न उगाना भी नहीं आता था। जीवन कठिन था।",
+     "एक दिन उसे तोदे-रेने नाम की एक छोटी नदी की चिड़िया मिली। चिड़िया ने उसे एक बड़े उत्सव के बारे में बताया। ताकर-ताजी नाम के जीव शादी की दावत की तैयारी कर रहे थे। वे कई मिथुनों की बलि देना चाहते थे।",
+     "अबो तानी को लगता था कि वे मिथुन असल में उसके हैं। उसने उत्सव में जाकर उन्हें वापस लेने का फ़ैसला किया।",
+     "उसने एक चतुर योजना बनाई। उसने अपनी माँ की एक आकृति नदी में एक बेड़े पर रख दी। फिर उसने मेज़बानों को मनाया कि वे उसे बुलाने के लिए एक दूत भेजें।",
+     "दूत बेड़े के पास गया। उसने वही किया जो अबो तानी ने कहा था। अनजाने में आकृति पानी में गिर गई।",
+     "अबो तानी ने बहुत दुखी और गुस्से का नाटक किया। मेज़बान डर गए। वे उसे नौ मिथुन लौटाने को मान गए।",
+     "उत्सव में अबो तानी ने एक बात जानी। उसकी दुनिया के बाहर की दुनिया धन और अन्न से भरी थी।",
+     "बाद में वह स्वर्ग के एक देश दीगो पाइन गया। वहाँ उसे मोपिन मिलीं। वे खेती, उपज और खुशहाली की देवी हैं। मोपिन और उनकी बेटियों ने उसका स्वागत किया।",
+     "मोपिन ने देखा कि अबो तानी को खेती करना नहीं आता। उन्हें उस पर दया आई। उन्होंने उसे धान और मक्के के बीज दिए। अब वह अपने और अपने लोगों के लिए अन्न उगा सकता था।",
+     "अबो तानी धरती पर लौटा। उसने कीमती बीज अपने कुत्ते किपू के कानों में छिपा लिए थे। उसने बीज बोए, पर जंगली चिड़ियाँ उन्हें खा गईं।",
+     "वह उदास हो गया। वह मोपिन के पास लौटा और उन्हें सब बताया। इस बार उन्होंने उसे एक चाकू दिया। उन्होंने उसे जंगल साफ़ करना और मिट्टी तैयार करना सिखाया।",
+     "पर और मुश्किलें आ गईं। जानवर उसके काम में रुकावट डालते थे। जंगल के देवता यापोम और याजी नहीं चाहते थे कि उनका जंगल काटा जाए। अबो तानी फिर मोपिन से मदद माँगने गया।",
+     "मोपिन बीच में आईं। उन्होंने तय किया कि एक मुक़ाबला होगा, जिससे पता चले कि जंगल पर किसका राज होगा। उन्हें एक भयानक आग का सामना करना था। मोपिन जानती थीं कि अबो तानी अकेले आग में नहीं बच सकता। इसलिए उन्होंने चुपके से उसे गड्ढा खोदकर उसमें छिप जाने को कहा।",
+     "आग जलाई गई। यापोम और याजी भागकर जंगल में चले गए। अबो तानी अपने गड्ढे से सही-सलामत निकल आया। मोपिन ने कहा कि वही इस ज़मीन का मालिक है। अब वह मिट्टी में खेती कर सकता था।",
+     "मोपिन की मदद से अबो तानी ने खेती के बारे में और सीखा। जल्दी ही वह फ़सलें उगाने लगा।",
+     "बाद में उसने मोपिन की बेटी दियी तामी से विवाह किया। उसके पास एक खास वरदान था। वह सिर्फ़ एक दाने से चावल की पूरी हाँडी पका सकती थी।",
+     "कुछ समय तक उनके पास खूब खाना रहा। उन्हें बड़े खेतों की ज़रूरत नहीं थी। उसके जादुई वरदान से उन्हें सारा खाना मिल जाता था।",
+     "पर अबो तानी ने बाद में एक और औरत रोसी तामी से विवाह किया। वह अकाल की बेटी थी। दियी तामी दुखी हो गई। आख़िर वह स्वर्ग में अपनी माँ के घर लौट गई।",
+     "दियी तामी के जाने के बाद रोसी तामी ने उसके जादुई तरीक़े से चावल पकाने की कोशिश की। उसने एक की जगह दो दाने लिए। चावल बढ़ता ही गया।",
+     "रोसी तामी उसे पूरा खा नहीं पाई। उसने दिरे किबो नाम के एक भूखे कुत्ते को बचा हुआ खाने बुलाया। कुत्ते ने चावल खा लिए। साथ ही उसने वह जादुई शक्ति भी खा ली जिससे चावल बढ़ता था।",
+     "उसके बाद लोगों को एक दाने से ढेर सारा खाना नहीं मिल पाया। अबो तानी की दुनिया में अकाल आ गया।",
+     "अबो तानी समझ गया कि उसने क्या खो दिया है। उसने एक बार फिर मोपिन से मदद माँगी। उसे दियी तामी फिर मिल गई। पर कभी न ख़त्म होने वाले चावल का जादू वापस नहीं आया।",
+     "इसके बदले मोपिन ने उसे औज़ार, बीज और बड़े खेतों में खेती करने का ज्ञान दिया। अब अबो तानी को मिट्टी खोदनी थी, बीज बोने थे और फ़सलों की देखभाल करनी थी।",
+     "वह धैर्य से और मेहनत से काम करता रहा। धीरे-धीरे उसकी हालत अच्छी हो गई।",
+     "अबो तानी मोपिन का आभारी था। हर साल खेती के मौसम में वह देवी का सम्मान करने के लिए उत्सव मनाने लगा। ये उत्सव मोपिन से जुड़े हैं, जो गालो समुदाय का पर्व है।",
+     "तो इस मिथक के अनुसार, खेती इंसान के जीवन का हिस्सा बन गई। मोपिन ने अबो तानी को राह दिखाई, और उसने मेहनत करना कभी नहीं छोड़ा।",
+     "सीख: प्रकृति हमें जीने के लिए ज़रूरी चीज़ें देती है। पर हमें प्रकृति का सम्मान करना, उसके तरीक़े सीखना और धैर्य से काम करना चाहिए।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "ancestor",
+     "en": "a person in your family who lived long before you",
+     "hi": "पूर्वज"
+    },
+    {
+     "w": "feast",
+     "en": "a big meal for a celebration",
+     "hi": "दावत"
+    },
+    {
+     "w": "clever",
+     "en": "smart at thinking of ideas",
+     "hi": "चतुर"
+    },
+    {
+     "w": "raft",
+     "en": "a flat boat made of logs or bamboo that floats on water",
+     "hi": "बेड़ा"
+    },
+    {
+     "w": "messenger",
+     "en": "a person who carries a message",
+     "hi": "दूत, संदेशवाहक"
+    },
+    {
+     "w": "goddess",
+     "en": "a female god",
+     "hi": "देवी"
+    },
+    {
+     "w": "precious",
+     "en": "very special and valuable",
+     "hi": "कीमती"
+    },
+    {
+     "w": "famine",
+     "en": "a time when there is not enough food and people go hungry",
+     "hi": "अकाल"
+    },
+    {
+     "w": "patient",
+     "en": "able to wait and keep going without getting upset",
+     "hi": "धैर्यवान"
+    },
+    {
+     "w": "thankful",
+     "en": "feeling glad and grateful for what was given",
+     "hi": "आभारी"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Characters",
+     "q": "Who gave Abo Tani the seeds of paddy and maize?"
+    },
+    {
+     "k": "Events",
+     "q": "What happened to the first seeds that Abo Tani planted?"
+    },
+    {
+     "k": "Events",
+     "q": "What special gift did Diyi Tami have?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think Abo Tani felt when famine came to his world?"
+    },
+    {
+     "k": "Me",
+     "q": "Think about the food you eat. Who works hard so that it can reach you, and how could you thank them?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, when the world was young, there lived a man named Abo Tani. People think of him as the first human ancestor of the Tani people.",
+     "Abo Tani did not know how to farm. He did not know how to grow food from the land, and life was hard.",
+     "One day he met a small river bird named Tode-Rene. The bird told him about a big celebration that the beings called Takar-Taji were planning. They were preparing a wedding feast and meant to sacrifice several mithuns.",
+     "Abo Tani believed that these animals really belonged to him. He decided to go to the celebration and find a way to get them back.",
+     "He thought of a clever trick that used an image of his mother. He put the image on a raft in the river. Then he convinced the hosts to send a messenger to invite her to their celebration.",
+     "When the messenger came near the raft, he did as Abo Tani had told him, and by accident made the image fall into the water.",
+     "Abo Tani pretended to be heartbroken. The hosts were frightened by his anger and agreed to give nine of the mithuns back to him.",
+     "At the celebration, Abo Tani learned that the world beyond his own was full of wealth and plenty.",
+     "In time he travelled to the heavenly land of Digo Pine. There he met Mopin, the goddess of farming, fertility and prosperity. Mopin and her daughters welcomed him.",
+     "Mopin saw that Abo Tani did not know how to farm his land, and she felt sorry for him. She gave him seeds of paddy and maize so that he could grow food for himself and his people.",
+     "Abo Tani went back to Earth with the precious seeds hidden in the ears of his dog, Kipu. He planted them, but wild birds ate the seeds.",
+     "Disappointed, he returned to Mopin and told her what had happened. This time she gave him a knife and taught him how to clear the jungle and get the soil ready for farming.",
+     "But new problems came. Animals disturbed his work, and the forest gods Yapom and Yaji did not want their woodland cleared. Abo Tani went to Mopin for help again.",
+     "Mopin stepped in and suggested a contest to decide who would control the forest. The contestants would have to survive a great fire. She knew Abo Tani could not survive the flames alone, so she secretly told him to dig a pit and hide inside it.",
+     "When the fire was lit, Yapom and Yaji ran away into the forest. Abo Tani came out of his hiding place safely. Mopin declared him master of the land, so he could farm the soil.",
+     "With her guidance, Abo Tani learned more about farming and began to grow crops.",
+     "In time he married Mopin’s daughter, Diyi Tami, who had a wonderful gift: she could cook a whole pot of rice from just one grain.",
+     "For a while, Abo Tani and Diyi Tami lived in plenty. They did not need to farm large fields, because her magical gift gave them all the food they needed.",
+     "But later Abo Tani married another woman, Rosi Tami, the daughter of famine. Diyi Tami was unhappy about this and finally went back to her mother’s heavenly home.",
+     "While Diyi Tami was away, Rosi Tami tried to cook rice the magical way. She used two grains instead of one, and the rice grew and grew.",
+     "She could not eat all the food, so she called a hungry dog named Dire Kibo to eat what was left. The dog ate the rice and also the magical power that made it multiply.",
+     "From then on, people could no longer get plenty of food from a single grain. Famine came into Abo Tani’s world.",
+     "Abo Tani understood what he had lost with Diyi Tami’s gift, and he asked Mopin for help once more. In the end he was reunited with Diyi Tami, but the magical power of endless rice did not come back.",
+     "Instead, Mopin gave him farming tools, seeds and the knowledge to farm large areas of land. Abo Tani now had to work the soil, sow seeds and look after his crops.",
+     "With patience and hard work, he slowly prospered.",
+     "To thank Mopin for her gifts, Abo Tani began to honour the goddess with yearly celebrations in the farming season. These celebrations became linked with Mopin, the festival kept by the Galo community.",
+     "And so, according to this myth, farming became an important part of human life through Mopin’s guidance and Abo Tani’s hard work.",
+     "Moral: Nature gives the foundations of life, but people can survive only if they respect the natural world, learn its ways and work with patience."
+    ],
+    "hi": [
+     "बहुत पहले, जब दुनिया नई थी, अबो तानी नाम का एक आदमी रहता था। उसे तानी लोगों का पहला मानव पूर्वज माना जाता है।",
+     "अबो तानी को खेती करना नहीं आता था। उसे ज़मीन से अन्न उगाना नहीं आता था, और जीवन कठिन था।",
+     "एक दिन उसे तोदे-रेने नाम की एक छोटी नदी-चिड़िया मिली। चिड़िया ने उसे एक बड़े उत्सव के बारे में बताया, जिसकी तैयारी ताकर-ताजी नाम के जीव कर रहे थे। वे शादी की दावत तैयार कर रहे थे और कई मिथुनों की बलि देना चाहते थे।",
+     "अबो तानी मानता था कि वे जानवर सचमुच उसके हैं। उसने उत्सव में जाने और उन्हें वापस पाने का कोई तरीक़ा ढूँढ़ने का फ़ैसला किया।",
+     "उसने एक चतुर चाल सोची, जिसमें उसकी माँ की एक आकृति थी। उसने उसे नदी में एक बेड़े पर रख दिया। फिर उसने मेज़बानों को मना लिया कि वे उसे उत्सव में बुलाने के लिए एक दूत भेजें।",
+     "जब दूत बेड़े के पास आया, तो उसने अबो तानी के कहे अनुसार किया और अनजाने में आकृति को पानी में गिरा दिया।",
+     "अबो तानी ने टूटे दिल का दिखावा किया। मेज़बान उसके गुस्से से डर गए और नौ मिथुन उसे लौटाने को राज़ी हो गए।",
+     "उत्सव में अबो तानी ने जाना कि उसकी दुनिया से परे की दुनिया धन और भरपूर अन्न से भरी है।",
+     "समय आने पर वह स्वर्ग के देश दीगो पाइन पहुँचा। वहाँ उसकी भेंट मोपिन से हुई, जो खेती, उपज और खुशहाली की देवी हैं। मोपिन और उनकी बेटियों ने उसका स्वागत किया।",
+     "मोपिन ने देखा कि अबो तानी को अपनी ज़मीन पर खेती करना नहीं आता, और उन्हें उस पर तरस आया। उन्होंने उसे धान और मक्के के बीज दिए, ताकि वह अपने और अपने लोगों के लिए अन्न उगा सके।",
+     "अबो तानी कीमती बीजों को अपने कुत्ते किपू के कानों में छिपाकर धरती पर लौटा। उसने उन्हें बोया, पर जंगली चिड़ियाँ बीज खा गईं।",
+     "निराश होकर वह मोपिन के पास लौटा और उन्हें सब बताया। इस बार उन्होंने उसे एक चाकू दिया और सिखाया कि जंगल कैसे साफ़ करें और खेती के लिए मिट्टी कैसे तैयार करें।",
+     "लेकिन नई मुश्किलें आ गईं। जानवर उसके काम में बाधा डालते थे, और जंगल के देवता यापोम और याजी नहीं चाहते थे कि उनका जंगल साफ़ किया जाए। अबो तानी फिर मदद के लिए मोपिन के पास गया।",
+     "मोपिन ने बीच में पड़कर एक मुक़ाबला सुझाया, जिससे तय होना था कि जंगल पर किसका अधिकार होगा। प्रतियोगियों को एक भीषण आग सहनी थी। वे जानती थीं कि अबो तानी अकेले ज्वालाओं में नहीं बच सकता, इसलिए उन्होंने चुपके से उसे गड्ढा खोदकर उसमें छिप जाने को कहा।",
+     "आग जलाई गई तो यापोम और याजी भागकर जंगल में चले गए। अबो तानी अपनी छिपने की जगह से सही-सलामत निकल आया। मोपिन ने उसे ज़मीन का स्वामी घोषित किया, जिससे वह मिट्टी में खेती कर सकता था।",
+     "मोपिन के मार्गदर्शन से अबो तानी ने खेती के बारे में और सीखा और फ़सलें उगाने लगा।",
+     "समय के साथ उसने मोपिन की बेटी दियी तामी से विवाह किया, जिसके पास एक अनोखा वरदान था: वह सिर्फ़ एक दाने से चावल की पूरी हाँडी पका सकती थी।",
+     "कुछ समय तक अबो तानी और दियी तामी खूब भरपूर जीवन जीते रहे। उन्हें बड़े खेत जोतने की ज़रूरत नहीं थी, क्योंकि उसके जादुई वरदान से उन्हें सारा खाना मिल जाता था।",
+     "लेकिन बाद में अबो तानी ने एक और औरत रोसी तामी से विवाह किया, जो अकाल की बेटी थी। दियी तामी इस बात से दुखी थी और आख़िरकार अपनी माँ के स्वर्गीय घर लौट गई।",
+     "दियी तामी की अनुपस्थिति में रोसी तामी ने उसके जादुई तरीक़े से चावल पकाने की कोशिश की। उसने एक की जगह दो दाने लिए, और चावल बढ़ता ही चला गया।",
+     "वह सारा खाना खा नहीं सकी, तो उसने दिरे किबो नाम के एक भूखे कुत्ते को बुलाया कि वह बचा हुआ खा ले। कुत्ते ने चावल खा लिया, और साथ ही उस जादुई शक्ति को भी जिससे चावल बढ़ता था।",
+     "उस दिन के बाद लोग एक दाने से भरपूर अन्न नहीं पा सके। अबो तानी की दुनिया में अकाल आ गया।",
+     "अबो तानी समझ गया कि दियी तामी का वरदान खोकर उसने क्या गँवाया है, और उसने एक बार फिर मोपिन से मदद माँगी। आख़िर उसका दियी तामी से फिर मिलन हुआ, पर कभी न ख़त्म होने वाले चावल की जादुई शक्ति वापस नहीं आई।",
+     "इसके बदले मोपिन ने उसे खेती के औज़ार, बीज और बड़े इलाक़े में खेती करने का ज्ञान दिया। अब अबो तानी को मिट्टी जोतनी थी, बीज बोने थे और फ़सलों की देखभाल करनी थी।",
+     "धैर्य और मेहनत से वह धीरे-धीरे समृद्ध होता गया।",
+     "मोपिन के वरदानों के प्रति आभार में अबो तानी खेती के मौसम में हर साल देवी का सम्मान करने के लिए उत्सव मनाने लगा। ये उत्सव मोपिन से जुड़ गए, जो गालो समुदाय का पर्व है।",
+     "और इस तरह, इस मिथक के अनुसार, मोपिन के मार्गदर्शन और अबो तानी की मेहनत से खेती इंसान के जीवन का ज़रूरी हिस्सा बन गई।",
+     "सीख: प्रकृति जीवन की नींव देती है, पर इंसान तभी बचा रह सकता है जब वह प्रकृति का सम्मान करे, उसके तौर-तरीक़े सीखे और धैर्य से काम करे।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "ancestor",
+     "en": "a family member from long ago, such as a great-great-grandparent",
+     "hi": "पूर्वज"
+    },
+    {
+     "w": "sacrifice",
+     "en": "to offer an animal or something valuable as part of a ritual or ceremony",
+     "hi": "बलि देना"
+    },
+    {
+     "w": "pretended",
+     "en": "acted as if something were true when it was not",
+     "hi": "दिखावा किया, नाटक किया"
+    },
+    {
+     "w": "prosperity",
+     "en": "having plenty of food, wealth and good fortune",
+     "hi": "खुशहाली, समृद्धि"
+    },
+    {
+     "w": "precious",
+     "en": "very valuable or special",
+     "hi": "कीमती"
+    },
+    {
+     "w": "disappointed",
+     "en": "sad because something did not turn out as hoped",
+     "hi": "निराश"
+    },
+    {
+     "w": "contest",
+     "en": "a competition to see who wins",
+     "hi": "मुक़ाबला, प्रतियोगिता"
+    },
+    {
+     "w": "famine",
+     "en": "a time when there is very little food and many people go hungry",
+     "hi": "अकाल"
+    },
+    {
+     "w": "reunited",
+     "en": "brought together again after being apart",
+     "hi": "फिर से मिल गया"
+    },
+    {
+     "w": "prospered",
+     "en": "became successful and had plenty",
+     "hi": "समृद्ध हुआ"
+    },
+    {
+     "w": "foundations",
+     "en": "the basic things that everything else is built on",
+     "hi": "नींव, आधार"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why do you think Mopin helped Abo Tani again and again, even after the first seeds were lost?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "What caused famine to enter Abo Tani’s world? Follow the steps from Rosi Tami’s two grains to the hungry dog."
+    },
+    {
+     "k": "Decision",
+     "q": "Abo Tani used a trick to get the mithuns back. What do you think about his choice? What else might he have done?"
+    },
+    {
+     "k": "Consequence",
+     "q": "Abo Tani lost the magic of endless rice. What did he gain instead, and why might that be a lasting gift?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "Why do you think the myth says Abo Tani held celebrations to honour Mopin every year?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, when the world was young, there lived a man named Abo Tani. He was regarded as the first human ancestor of the Tani people.",
+     "Abo Tani lived without the knowledge of agriculture. He did not know how to cultivate the land or grow food, and life was difficult.",
+     "One day, he encountered a small river bird named Tode-Rene. The bird told him about a great celebration being organised by the beings known as Takar-Taji. They were preparing a wedding feast and intended to sacrifice several mithuns.",
+     "Abo Tani believed that these animals rightfully belonged to him. He decided to visit the celebration and find a way to recover them.",
+     "He devised a clever trick involving an image of his mother, which he placed on a raft in the river. He then persuaded the hosts to send a messenger to invite her to their celebration.",
+     "When the messenger approached the raft, he followed Abo Tani’s instructions and accidentally caused the image to fall into the water.",
+     "Abo Tani pretended to be devastated by the incident. The hosts became frightened by his anger and agreed to return nine of the mithuns to him.",
+     "During the celebration, Abo Tani learned that the world beyond his own was filled with prosperity and abundance.",
+     "He eventually travelled to the heavenly land of Digo Pine, where he encountered Mopin, the goddess associated with agriculture, fertility and prosperity. Mopin and her daughters welcomed him.",
+     "Seeing that Abo Tani lacked the knowledge to cultivate his land, Mopin took pity on him. She gave him seeds of paddy and maize so that he could grow food for himself and his people.",
+     "Abo Tani returned to Earth with the precious seeds hidden in the ears of his dog, Kipu. He planted them, but wild birds ate the seeds.",
+     "Disappointed, he returned to Mopin and explained what had happened. This time, she gave him a knife and taught him how to clear the jungle and prepare the soil for cultivation.",
+     "But new difficulties appeared. Animals disturbed his work, and the forest deities Yapom and Yaji objected to the clearing of their woodland. Abo Tani returned to Mopin for help.",
+     "Mopin intervened and proposed a contest to decide who would control the forest. The contestants would have to withstand a great fire. Knowing that Abo Tani could not survive the flames unaided, she secretly instructed him to dig a pit and hide inside it.",
+     "When the fire was lit, Yapom and Yaji fled into the forest. Abo Tani emerged safely from his hiding place. Mopin declared him the master of the land, allowing him to cultivate the soil.",
+     "With her guidance, Abo Tani learned more about farming and began producing crops.",
+     "He eventually married Mopin’s daughter, Diyi Tami, who possessed a remarkable gift: she could prepare an entire pot of rice from a single grain.",
+     "For a time, Abo Tani and Diyi Tami lived in great abundance. They did not need to cultivate large fields because her magical gift provided all the food they required.",
+     "But Abo Tani later married another woman, Rosi Tami, the daughter of famine. Diyi Tami was unhappy with this arrangement and eventually returned to her mother’s heavenly home.",
+     "During her absence, Rosi Tami attempted to prepare rice using Diyi Tami’s magical method. She used two grains instead of one, and the rice multiplied enormously.",
+     "Unable to consume all the food, she called a hungry dog named Dire Kibo to eat the leftovers. The dog consumed the rice, along with the magical power that had made it multiply.",
+     "From that moment onwards, the people could no longer obtain abundant food from a single grain. Famine entered Abo Tani’s world.",
+     "Realising the consequences of losing Diyi Tami’s gift, Abo Tani sought Mopin’s help once again. He was eventually reunited with Diyi Tami, but the magical power of unlimited rice was not restored.",
+     "Instead, Mopin provided him with agricultural tools, seeds and the knowledge needed to cultivate large areas of land. Abo Tani now had to work the soil, sow seeds and care for his crops.",
+     "With patience and hard work, he gradually prospered.",
+     "In gratitude for Mopin’s gifts, Abo Tani began honouring the goddess through annual celebrations during the agricultural season. These celebrations became associated with Mopin, the festival observed by the Galo community.",
+     "And so, according to this myth, agriculture became an essential part of human life through the guidance of Mopin and the perseverance of Abo Tani.",
+     "Moral: Nature provides the foundations of life, but human survival depends on respecting the natural world, learning its ways and working with patience."
+    ],
+    "hi": [
+     "बहुत पहले, जब संसार नया-नया था, अबो तानी नाम का एक पुरुष रहता था। उसे तानी लोगों का प्रथम मानव पूर्वज माना जाता था।",
+     "अबो तानी खेती के ज्ञान से अनजान था। उसे न भूमि जोतना आता था, न अन्न उगाना, और जीवन कठिन था।",
+     "एक दिन उसकी भेंट तोदे-रेने नाम की एक छोटी नदी-चिड़िया से हुई। चिड़िया ने उसे ताकर-ताजी नामक प्राणियों द्वारा आयोजित एक भव्य उत्सव के बारे में बताया। वे विवाह-भोज की तैयारी कर रहे थे और कई मिथुनों की बलि देने वाले थे।",
+     "अबो तानी का विश्वास था कि वे पशु वास्तव में उसी के हैं। उसने उत्सव में जाने और उन्हें वापस पाने का उपाय खोजने का निश्चय किया।",
+     "उसने अपनी माँ की एक आकृति से जुड़ी एक चतुर युक्ति रची और उसे नदी में एक बेड़े पर रख दिया। फिर उसने मेज़बानों को राज़ी कर लिया कि वे उसे उत्सव में आमंत्रित करने के लिए एक दूत भेजें।",
+     "जब दूत बेड़े के पास पहुँचा, तो उसने अबो तानी के निर्देशानुसार काम किया और अनजाने में आकृति को पानी में गिरा बैठा।",
+     "अबो तानी ने गहरे सदमे का स्वाँग रचा। उसके क्रोध से मेज़बान भयभीत हो गए और नौ मिथुन उसे लौटाने को तैयार हो गए।",
+     "उत्सव के दौरान अबो तानी ने जाना कि उसके अपने संसार से परे की दुनिया समृद्धि और प्रचुरता से भरी है।",
+     "आगे चलकर वह दिव्य लोक दीगो पाइन पहुँचा, जहाँ उसकी भेंट मोपिन से हुई, जो कृषि, उर्वरता और समृद्धि की देवी मानी जाती हैं। मोपिन और उनकी पुत्रियों ने उसका स्वागत किया।",
+     "यह देखकर कि अबो तानी में अपनी भूमि पर खेती करने का ज्ञान नहीं है, मोपिन को उस पर दया आ गई। उन्होंने उसे धान और मक्के के बीज दिए, ताकि वह अपने और अपने लोगों के लिए अन्न उगा सके।",
+     "अबो तानी उन अनमोल बीजों को अपने कुत्ते किपू के कानों में छिपाकर धरती पर लौटा। उसने उन्हें बोया, पर जंगली चिड़ियाँ बीज चुग गईं।",
+     "हताश होकर वह मोपिन के पास लौटा और उन्हें सारी बात बताई। इस बार उन्होंने उसे एक चाकू दिया और सिखाया कि जंगल कैसे साफ़ किया जाए और खेती के लिए मिट्टी कैसे तैयार की जाए।",
+     "पर नई कठिनाइयाँ खड़ी हो गईं। जानवर उसके काम में विघ्न डालते थे, और वन-देवता यापोम और याजी को अपने वन के साफ़ किए जाने पर आपत्ति थी। अबो तानी सहायता के लिए फिर मोपिन के पास गया।",
+     "मोपिन ने हस्तक्षेप किया और प्रस्ताव रखा कि एक प्रतियोगिता से तय हो कि वन पर किसका नियंत्रण होगा। प्रतियोगियों को एक भीषण अग्नि का सामना करना था। यह जानकर कि अबो तानी बिना सहायता के ज्वालाओं में नहीं बच पाएगा, उन्होंने चुपके से उसे गड्ढा खोदकर उसमें छिप जाने को कहा।",
+     "अग्नि प्रज्वलित हुई तो यापोम और याजी भागकर वन में चले गए। अबो तानी अपने छिपने के स्थान से सकुशल बाहर निकल आया। मोपिन ने उसे भूमि का स्वामी घोषित किया और उसे मिट्टी में खेती करने की अनुमति मिल गई।",
+     "मोपिन के मार्गदर्शन में अबो तानी ने खेती के बारे में और जाना और फ़सलें उपजाने लगा।",
+     "आगे चलकर उसने मोपिन की पुत्री दियी तामी से विवाह किया, जिसके पास एक अद्भुत वरदान था: वह केवल एक दाने से चावल की पूरी हाँडी पका सकती थी।",
+     "कुछ समय तक अबो तानी और दियी तामी प्रचुरता में जीते रहे। उन्हें बड़े खेत जोतने की आवश्यकता नहीं थी, क्योंकि उसका जादुई वरदान उनकी ज़रूरत का सारा भोजन जुटा देता था।",
+     "किंतु कुछ समय बाद अबो तानी ने एक और स्त्री रोसी तामी से विवाह कर लिया, जो अकाल की पुत्री थी। दियी तामी इस व्यवस्था से अप्रसन्न थी और अंततः अपनी माँ के दिव्य घर लौट गई।",
+     "उसकी अनुपस्थिति में रोसी तामी ने दियी तामी की जादुई विधि से चावल पकाने का प्रयास किया। उसने एक के बजाय दो दाने लिए, और चावल कई गुना बढ़ गया।",
+     "सारा भोजन खा न पाने पर उसने बचा हुआ खाने के लिए दिरे किबो नामक एक भूखे कुत्ते को बुलाया। कुत्ते ने चावल के साथ-साथ उस जादुई शक्ति को भी खा लिया जिससे चावल बढ़ता था।",
+     "उसी क्षण से लोग एक दाने से भरपूर भोजन नहीं पा सके। अबो तानी के संसार में अकाल ने प्रवेश कर लिया।",
+     "दियी तामी के वरदान के खो जाने के परिणामों को समझकर अबो तानी ने एक बार फिर मोपिन से सहायता माँगी। अंततः उसका दियी तामी से पुनर्मिलन हुआ, पर असीमित चावल की जादुई शक्ति लौटाई नहीं गई।",
+     "इसके बजाय मोपिन ने उसे कृषि के औज़ार, बीज और बड़े भूभाग पर खेती करने का आवश्यक ज्ञान दिया। अब अबो तानी को मिट्टी जोतनी थी, बीज बोने थे और अपनी फ़सलों की देखभाल करनी थी।",
+     "धैर्य और परिश्रम से वह धीरे-धीरे समृद्ध होता गया।",
+     "मोपिन के उपहारों के प्रति कृतज्ञता में अबो तानी कृषि-ऋतु में हर वर्ष उत्सव मनाकर देवी का सम्मान करने लगा। ये उत्सव मोपिन से जुड़ गए, जो गालो समुदाय द्वारा मनाया जाने वाला पर्व है।",
+     "और इस प्रकार, इस मिथक के अनुसार, मोपिन के मार्गदर्शन और अबो तानी की दृढ़ता से कृषि मानव-जीवन का अनिवार्य अंग बन गई।",
+     "सीख: प्रकृति जीवन की नींव देती है, पर मानव का अस्तित्व प्रकृति का सम्मान करने, उसके तौर-तरीक़ों को सीखने और धैर्य के साथ परिश्रम करने पर निर्भर करता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "ancestor",
+     "en": "a person from whom a family or people are descended",
+     "hi": "पूर्वज"
+    },
+    {
+     "w": "devised",
+     "en": "thought up and planned carefully",
+     "hi": "रचा, युक्ति से सोचा"
+    },
+    {
+     "w": "persuaded",
+     "en": "convinced someone to do something",
+     "hi": "राज़ी किया"
+    },
+    {
+     "w": "abundance",
+     "en": "a very large amount; plenty",
+     "hi": "प्रचुरता"
+    },
+    {
+     "w": "intervened",
+     "en": "stepped into a situation to change what would happen",
+     "hi": "हस्तक्षेप किया"
+    },
+    {
+     "w": "secretly",
+     "en": "in a way that others are not told",
+     "hi": "चुपके से, गुप्त रूप से"
+    },
+    {
+     "w": "famine",
+     "en": "a serious, widespread shortage of food",
+     "hi": "अकाल"
+    },
+    {
+     "w": "consequences",
+     "en": "the results that follow from an action",
+     "hi": "परिणाम"
+    },
+    {
+     "w": "honouring",
+     "en": "showing great respect and gratitude to",
+     "hi": "सम्मान करते हुए"
+    },
+    {
+     "w": "perseverance",
+     "en": "continuing to try hard despite difficulties",
+     "hi": "दृढ़ता, लगन"
+    },
+    {
+     "w": "foundations",
+     "en": "the basic parts that everything else depends on",
+     "hi": "नींव, आधार"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "Abo Tani wins back the mithuns with a trick, and Mopin secretly helps him win against the forest deities. How might we judge these actions in a myth? Who might see them differently?"
+    },
+    {
+     "k": "Another view",
+     "q": "Yapom and Yaji object to the clearing of their woodland. How might they describe what happened, and what does their objection say about how people and forests share a place?"
+    },
+    {
+     "k": "Culture",
+     "q": "The source says Abo Tani is shared across several Tani-speaking communities whose narratives and interpretations differ, while Mopin is specifically linked to Galo traditions. Why is it important to remember that this is one retelling and not the only version?"
+    },
+    {
+     "k": "Theme",
+     "q": "Famine enters the world after the magical rice is wasted, yet Abo Tani prospers through patience and work. What does the myth suggest about gifts that come easily and abilities that are earned?"
+    },
+    {
+     "k": "Today",
+     "q": "The moral links human survival to respecting nature, learning its ways and patience. How could this idea apply to the way food is grown and used today?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ],
+  [
+   15,
+   16,
+   17
+  ],
+  [
+   18,
+   19
+  ],
+  [
+   20,
+   21
+  ],
+  [
+   22,
+   23,
+   24
+  ],
+  [
+   25,
+   26,
+   27
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Abo Tani, a man without seeds",
+   "th": "अबो तानी, जिसके पास बीज नहीं थे",
+   "p": "Storybook illustration of a young world: green forested hills with bare ground. Abo Tani, a lean man in simple plain clothes, stands in an empty clearing with open hands, looking uncertain and hungry. Soft dawn light, a gentle and slightly lonely mood."
+  },
+  {
+   "t": "The river bird brings news",
+   "th": "नदी की चिड़िया खबर लाती है",
+   "p": "By a river, a small bird (Tode-Rene) perches near Abo Tani and seems to be telling him something. In the misty distance, beings called Takar-Taji prepare a wedding feast with several mithuns tethered nearby. Curious, attentive mood."
+  },
+  {
+   "t": "The clever raft trick",
+   "th": "बेड़े वाली चतुर चाल",
+   "p": "A wooden raft floats on a river with a simple figure of Abo Tani’s mother upon it. A messenger reaches towards it and the figure tips into the water as Abo Tani watches from the bank, acting upset, while worried hosts gather behind. Dramatic but child-friendly."
+  },
+  {
+   "t": "Meeting goddess Mopin",
+   "th": "देवी मोपिन से भेंट",
+   "p": "In the heavenly land of Digo Pine, glowing golden-green fields and soft clouds. Mopin, a graceful goddess, and her daughters welcome Abo Tani, who looks in awe at fields of paddy and maize. Warm, gentle, abundant mood."
+  },
+  {
+   "t": "Seeds hidden in Kipu’s ears",
+   "th": "किपू के कानों में छिपे बीज",
+   "p": "Abo Tani walks back to Earth with his dog Kipu, tiny seeds tucked inside the dog’s ears. Next scene detail: flocks of wild birds pecking at newly sown seeds while Abo Tani looks dismayed. Soft morning colours, hopeful then sad."
+  },
+  {
+   "t": "A knife and new trouble",
+   "th": "चाकू और नई मुश्किल",
+   "p": "Mopin gently hands Abo Tani a knife and shows him how to clear the jungle. Then forest deities Yapom and Yaji, tall leaf-and-moss-robed spirits, stand among the trees looking displeased as animals crowd the edge of the clearing. Serious but not frightening."
+  },
+  {
+   "t": "The pit and the great fire",
+   "th": "गड्ढा और बड़ी आग",
+   "p": "A large bonfire in a forest clearing. Yapom and Yaji run into the forest, while Abo Tani, who has secretly dug a pit, climbs out unharmed. Mopin watches with a calm smile and declares him master of the land. Orange firelight, tense then relieved mood."
+  },
+  {
+   "t": "Crops and Diyi Tami’s gift",
+   "th": "फ़सलें और दियी तामी का वरदान",
+   "p": "A cosy home beside a small field of growing crops. Abo Tani with his wife Diyi Tami, who lifts a pot of cooked rice made from a single grain. Warm, rich, happy colours, a table full of food."
+  },
+  {
+   "t": "Rosi Tami uses two grains",
+   "th": "रोसी तामी दो दाने लेती है",
+   "p": "In the kitchen, Rosi Tami drops two grains into a pot and the rice overflows enormously; Diyi Tami is seen far away in the distance walking toward a bright heavenly home. Slightly worried, surprised mood, no scary imagery."
+  },
+  {
+   "t": "The dog eats the magic",
+   "th": "कुत्ता जादू खा जाता है",
+   "p": "A hungry dog, Dire Kibo, eats mountains of rice while Rosi Tami watches helplessly. In the background, fields turn pale and thin, hinting that famine is arriving; villagers look worried. Muted, sombre palette, child-appropriate."
+  },
+  {
+   "t": "Hard work replaces magic",
+   "th": "जादू की जगह मेहनत",
+   "p": "Abo Tani, reunited with Diyi Tami, receives tools and seeds from Mopin. Then he digs, sows and tends wide fields patiently in sunlight as green shoots rise. Hopeful, steady, warm golden light."
+  },
+  {
+   "t": "Thanking Mopin each year",
+   "th": "हर साल मोपिन का धन्यवाद",
+   "p": "A village gathering during the farming season: people in white clothes share rice, rice-flour marks on their faces, music and dance, honouring Mopin in a circle with fields in the background. Joyful, respectful mood. Details should be checked with Galo community sources."
+  }
+ ],
+ "artStyle": {
+  "region": "Arunachal Pradesh (Galo community, Tani peoples)",
+  "verified": false,
+  "tradition": null,
+  "note": "No specific traditional visual art style was verified for this myth, so a neutral, warm storybook style is proposed: green forests and fields, earthy and golden tones, gentle rounded shapes. For the final scene only, sources say Mopin celebrants wear white traditional clothing and apply rice flour to each other’s faces (Wikipedia: Mopin), and Galo ceremonial dress is white with designs in black thread (Arunachal Living Heritage). Check any other cultural details with Galo community sources. The forest deities and heavenly realm are imagined; no traditional depiction was found.",
+  "characters": [
+   {
+    "name": "Abo Tani",
+    "look": "Lean man, simple plain clothes, determined and curious expression, same look in every scene."
+   },
+   {
+    "name": "Mopin",
+    "look": "Graceful, kind goddess in soft golden-green light, associated with farming and plenty."
+   },
+   {
+    "name": "Diyi Tami",
+    "look": "Gentle young woman, Mopin’s daughter, who cooks a whole pot of rice from one grain."
+   },
+   {
+    "name": "Rosi Tami",
+    "look": "Young woman, second wife, shown with a worried, surprised expression, not villainous."
+   },
+   {
+    "name": "Kipu and Dire Kibo",
+    "look": "Kipu is Abo Tani’s loyal dog; Dire Kibo is a different, hungry dog. Give them clearly different looks."
+   },
+   {
+    "name": "Yapom and Yaji",
+    "look": "Tall forest deities in leaf-and-moss robes, serious but not scary."
+   }
+  ],
+  "sources": [
+   [
+    "Wikipedia: Mopin",
+    "https://en.wikipedia.org/wiki/Mopin"
+   ],
+   [
+    "Arunachal Living Heritage: Life style of Galos",
+    "https://arunachallivingheritage.com/life-style-of-galos"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are standing beside Abo Tani as he steps out of the pit after the great fire. What do you see, hear and smell, and what would you say to him?",
+ "create": "Draw a picture of Diyi Tami’s pot of rice from a single grain, or write a short diary entry from Abo Tani after the first harvest grows.",
+ "about": {
+  "where": "This story comes from Arunachal Pradesh in far north-eastern India. Mopin is a festival of the Galo community, who live mainly in the East Siang and West Siang districts, according to Wikipedia.",
+  "community": "The repository names this as a Galo-origin myth based on Galo Mopin mythology. It also notes that the Abo Tani figure is shared across several Tani-speaking communities, including Adi, Galo, Nyishi and Apatani groups, although their narratives and interpretations differ. Mopin is specifically associated with Galo cultural and agricultural traditions.",
+  "tradition": "Mopin is the Galos’ annual harvest festival, held in the spring, around April. Sources describe people wearing white clothes, sharing rice and a fermented rice drink, dancing the Popir dance, and putting rice flour on each other’s faces as a sign of unity, purity and love. Mopin Ane, the goddess, is believed to bring fertility and prosperity.",
+  "shared": "The repository says this is an abridged literary retelling of a much longer mythological narrative, based on writing by Dr T. Padu in The Arunachal Times (6 April 2022). The festival description above gives only a few details, and other Galo people and families may mark Mopin in different ways.",
+  "matters": "This is one version from one source, not the only one. It is an origin myth, which means it tells how a community understands the beginnings of farming and its relationship with nature. We share it with respect, and we do not claim that it speaks for all communities in Arunachal Pradesh.",
+  "links": [
+   [
+    "Mopin (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Mopin"
+   ],
+   [
+    "Life style of Galos (Arunachal Living Heritage)",
+    "https://arunachallivingheritage.com/life-style-of-galos"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Based on the Galo community’s Mopin mythology, documented by Dr T. Padu in The Story of Abo Tani and Mopin Mythology, The Arunachal Times, 6 April 2022, as credited in the repository. The repository calls this an abridged literary retelling of a much longer narrative.",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Context: Mopin festival",
+   "v": "Wikipedia, Mopin (festival details, Galo location)",
+   "url": "https://en.wikipedia.org/wiki/Mopin",
+   "s": "ok"
+  },
+  {
+   "l": "Context: Galo life",
+   "v": "Arunachal Living Heritage, Life style of Galos (dress, Mopin)",
+   "url": "https://arunachallivingheritage.com/life-style-of-galos",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Origin-myth and religious content (Mopin, Donyi-Polo context): have a Galo reader or community member review wording, names and tone before launch. The repository warns these stories are not representative of every community in Arunachal Pradesh.",
+  "Mixed attribution: Abo Tani is shared across Adi, Galo, Nyishi and Apatani (Tani) communities with differing narratives; Mopin is specifically Galo. The text says it is an abridged retelling of a much longer myth, so details may differ from Galo tellings.",
+  "Original article (Dr T. Padu, The Arunachal Times, 6 April 2022) could not be opened; verify author name and details. The web search showed an author byline of Dr Tejum Padu on that newspaper but this was not matched to the article.",
+  "Sensitive content: sacrifice of mithuns, deception (the raft trick), polygamous marriage, and the dog eating the rice. All kept as supplied; check suitability for the age group.",
+  "Spelling of names (Tode-Rene, Takar-Taji, Digo Pine, Kipu, Dire Kibo, Yapom, Yaji, Diyi Tami, Rosi Tami) and the Hindi renderings are approximate; check with a Galo speaker.",
+  "The festival link in the story’s last paragraphs reads as the retelling’s framing; confirm how Galo people connect the myth to Mopin celebrations.",
+  "Hindi translations are by an AI and need review by a fluent Hindi reader.",
+  "The scene prompts about forest deities and Digo Pine are imagined; no traditional visual depiction was verified.",
+  "Licence and permission status of the retelling are unknown.",
+  "Level 2 averages about 14.4 words per sentence, the same as Level 3 (above the 9-12 target); an educator should consider shortening Level 2 sentences."
+ ]
+}

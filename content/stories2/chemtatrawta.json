@@ -1,0 +1,539 @@
+{
+ "id": "chemtatrawta",
+ "state": "mz",
+ "title": "Chemtatrawta: The Chain of Trouble",
+ "titleHi": "चेमतात्रावता: मुसीबतों की एक लंबी कड़ी",
+ "genre": "Cumulative folktale",
+ "levelTitles": {
+  "1": {
+   "en": "Chemtatrawta: The Chain of Trouble",
+   "hi": "चेमतात्रावता: मुसीबतों की एक लंबी कड़ी"
+  },
+  "2": {
+   "en": "Chemtatrawta: The Chain of Trouble",
+   "hi": "चेमतात्रावता: मुसीबतों की एक लंबी कड़ी"
+  },
+  "3": {
+   "en": "Chemtatrawta: The Chain of Trouble",
+   "hi": "चेमतात्रावता: मुसीबतों की एक लंबी कड़ी"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived a man named Chemtatrawta. One day, he went into the forest to hunt. When he reached a little stream, he found a smooth stone and decided to sharpen his dao on it.",
+     "As he worked, a little prawn came swimming by and gave him a sharp pinch on his finger!",
+     "\"Ouch!\" cried Chemtatrawta.",
+     "He became so angry that he picked up his dao and chopped down a nearby bamboo. A climbing vine called khaum was growing on it.",
+     "The bamboo fell, and the vine came crashing down onto a jungle fowl that was resting underneath.",
+     "\"Why did you fall on me?\" cried the jungle fowl.",
+     "Angry and frightened, the bird began scratching around and scattered a large ant's nest.",
+     "The ants were furious! One of them ran away and bit a wild boar.",
+     "The boar jumped in pain and ran wildly through the forest. As it rushed past, it knocked down a bunch of wild bananas where a bat was sleeping.",
+     "The poor bat had nowhere to hang upside down. It flew around in a panic and accidentally flew straight into an elephant's trunk!",
+     "The elephant was startled and became angry. He rushed through the village and knocked down an old woman's little house.",
+     "The old woman was very upset. In her anger, she dirtied the village well, and soon everyone was worried that their drinking water would become unsafe.",
+     "The villagers gathered to find out what had happened.",
+     "\"Why did you do this?\" they asked the old woman.",
+     "\"Because the elephant destroyed my house!\" she replied.",
+     "They questioned the elephant.",
+     "\"Because the bat flew into my trunk!\" he said.",
+     "The villagers questioned the bat, the boar, the ant, the jungle fowl and the vine. Each one blamed someone else.",
+     "Finally, they reached Chemtatrawta.",
+     "\"Why did you cut down the bamboo?\" they asked.",
+     "\"Because a prawn pinched my finger!\" he replied.",
+     "The villagers found the little prawn and asked why it had done so. The prawn had no good answer and tried to escape into a cave.",
+     "The villagers chased it, but it hid deep inside.",
+     "And that, the story says, is why a prawn has the unusual shape of its mouth!",
+     "The villagers finally understood that one small incident had started a very big chain of trouble."
+    ],
+    "hi": [
+     "बहुत समय पहले चेमतात्रावता नाम का एक आदमी रहता था। एक दिन वह शिकार करने जंगल गया। वहाँ एक छोटी नदी के पास उसे एक चिकना पत्थर मिला। उसने उस पत्थर पर अपनी दाओ (पारंपरिक धारदार हथियार) तेज़ करने का निश्चय किया।",
+     "जब वह अपना काम कर रहा था, तभी एक छोटा-सा झींगा वहाँ से तैरता हुआ आया और उसने उसकी उँगली पर ज़ोर से चुटकी काट ली!",
+     "\"आह!\" चेमतात्रावता चिल्लाया।",
+     "उसे बहुत गुस्सा आया। उसने अपनी दाओ उठाई और पास में खड़े एक बाँस को काट दिया। उस बाँस पर एक बेल चढ़ी हुई थी, जिसे खाउम कहा जाता था।",
+     "बाँस गिरा तो बेल भी नीचे आ गिरी और उसके नीचे आराम कर रहे एक जंगली मुर्गे पर जा गिरी।",
+     "\"तुम मेरे ऊपर क्यों गिरे?\" मुर्गा चिल्लाया।",
+     "गुस्से और डर में मुर्गे ने अपने पैरों से ज़मीन कुरेदनी शुरू कर दी। ऐसा करते हुए उसने चींटियों का एक बड़ा बिल बिखेर दिया।",
+     "चींटियाँ बहुत नाराज़ हो गईं! उनमें से एक चींटी वहाँ से भागी और उसने एक जंगली सूअर को काट लिया।",
+     "सूअर दर्द से उछल पड़ा और जंगल में तेज़ी से भागने लगा। भागते हुए उसने जंगली केले के एक पेड़ को गिरा दिया, जिस पर एक चमगादड़ आराम कर रहा था।",
+     "बेचारे चमगादड़ के पास अब उल्टा लटकने की कोई जगह नहीं बची थी। वह घबराकर उड़ने लगा और गलती से एक हाथी की सूँड़ में जा घुसा!",
+     "हाथी अचानक घबरा गया और गुस्से में गाँव की ओर दौड़ पड़ा। रास्ते में उसने एक बूढ़ी औरत का छोटा-सा घर गिरा दिया।",
+     "बूढ़ी औरत बहुत दुखी हुई। गुस्से में उसने गाँव के कुएँ के पानी को गंदा कर दिया। अब गाँव के लोग चिंतित हो गए कि उनका पीने का पानी सुरक्षित नहीं रहा।",
+     "सभी गाँववाले इकट्ठा हुए और उन्होंने पता लगाने का फैसला किया कि यह सब कैसे हुआ।",
+     "उन्होंने बूढ़ी औरत से पूछा, \"तुमने ऐसा क्यों किया?\"",
+     "उसने उत्तर दिया, \"क्योंकि हाथी ने मेरा घर तोड़ दिया!\"",
+     "गाँववालों ने हाथी से पूछा।",
+     "\"क्योंकि चमगादड़ मेरी सूँड़ में घुस गया था!\" हाथी बोला।",
+     "उन्होंने चमगादड़, सूअर, चींटी, जंगली मुर्गे और बेल से भी सवाल किए। हर कोई अपनी मुसीबत का दोष किसी दूसरे पर डाल रहा था।",
+     "आखिरकार गाँववाले चेमतात्रावता के पास पहुँचे।",
+     "\"तुमने बाँस क्यों काटा?\" उन्होंने पूछा।",
+     "\"क्योंकि एक झींगे ने मेरी उँगली काट ली थी!\" उसने उत्तर दिया।",
+     "गाँववालों ने उस छोटे झींगे को ढूँढ़ निकाला और उससे पूछा कि उसने ऐसा क्यों किया। झींगे के पास कोई अच्छा उत्तर नहीं था। वह भागकर एक गुफा में छिप गया।",
+     "गाँववालों ने उसका पीछा किया, लेकिन वह गुफा के अंदर बहुत दूर चला गया।",
+     "कहानी कहती है कि इसी कारण झींगे के मुँह का आकार ऐसा होता है!",
+     "गाँववालों को आखिरकार समझ आ गया कि एक छोटी-सी घटना ने कितनी बड़ी मुसीबतों की कड़ी शुरू कर दी थी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived a man named Chemtatrawta. One morning, he set out into the forest with his dao, a traditional blade, hoping to find something to hunt. After walking for some time, he reached a little stream. There, he found a smooth stone that seemed perfect for sharpening his blade.",
+     "As Chemtatrawta worked, a little prawn swimming in the stream suddenly pinched his finger.",
+     "\"Ouch!\" he cried, dropping his dao.",
+     "He was so annoyed that he picked up the blade and chopped down a nearby bamboo. Unfortunately, a khaum creeper was growing along the bamboo. When the bamboo fell, the creeper came crashing down on a jungle fowl resting beneath it.",
+     "The jungle fowl was startled and furious. In its anger, it began scratching the ground and scattered a large ant's nest.",
+     "The ants rushed out of their damaged home. One particularly angry ant ran towards a wild boar and bit it.",
+     "The boar jumped in pain and charged wildly through the forest. In its path stood a cluster of wild banana plants where a bat had made its resting place. The boar knocked the plants down, leaving the bat without a place to hang upside down.",
+     "Confused and frightened, the bat flew away. It happened to fly straight into the trunk of a passing elephant!",
+     "The elephant was terribly startled. He shook his trunk and charged through the forest, eventually reaching a village. In his confusion, he trampled the small house of an old woman.",
+     "The old woman was devastated. Her home had been destroyed, and she had nowhere to go. In her anger, she went to the village's common water source and deliberately dirtied it.",
+     "The villagers were horrified. Their drinking water was now contaminated, and they demanded to know why she had done such a thing.",
+     "\"Why have you dirtied our water?\" they asked.",
+     "\"Because the elephant destroyed my house!\" she replied.",
+     "The villagers immediately questioned the elephant.",
+     "\"Why did you destroy her house?\"",
+     "\"Because a bat flew into my trunk!\" the elephant explained.",
+     "They went to the bat.",
+     "\"Why did you fly into the elephant's trunk?\"",
+     "\"Because the wild boar destroyed the banana plants where I lived!\"",
+     "The villagers questioned the boar, the ant, the jungle fowl and the khaum creeper. Each one explained that it had acted because something else had happened first.",
+     "Finally, they reached Chemtatrawta.",
+     "\"Why did you cut down the bamboo?\" they asked.",
+     "\"Because a prawn pinched my finger while I was sharpening my dao!\" he replied.",
+     "The villagers now understood how the entire chain had begun. They went to the stream and found the little prawn.",
+     "\"Why did you pinch Chemtatrawta?\" they demanded.",
+     "The prawn had no convincing answer. Instead, it boasted that it could change colour. It claimed that when roasted over a fire, it turned bright red, and when placed in water, it became pale.",
+     "The villagers decided to test its claim. They heated it over a fire, and it turned red. Then they placed it in water, where it became pale again.",
+     "While everyone was distracted, the prawn regained its strength and escaped into a nearby cave.",
+     "The villagers followed it and tried to reach it with the leaves of a plant called hnahthial. But the prawn hid deep inside the cave.",
+     "According to the folktale, the repeated attempts to pull it out gave the prawn its rough, uneven mouth.",
+     "And so, what began with one careless pinch ended in a village-wide disaster. The villagers learnt that anger, when passed from one creature to another without thought, can create trouble far greater than the original offence."
+    ],
+    "hi": [
+     "बहुत समय पहले चेमतात्रावता नाम का एक आदमी रहता था। एक सुबह वह अपनी दाओ (पारंपरिक धारदार हथियार) लेकर शिकार करने जंगल की ओर निकला। कुछ दूर चलने के बाद वह एक छोटी नदी के पास पहुँचा। वहाँ उसे एक चिकना पत्थर दिखाई दिया, जो उसकी दाओ की धार तेज़ करने के लिए बिल्कुल उपयुक्त था।",
+     "जब चेमतात्रावता अपना काम कर रहा था, तभी नदी में तैरते हुए एक छोटे झींगे ने अचानक उसकी उँगली पर चुटकी काट ली।",
+     "\"आह!\" वह चिल्लाया और उसके हाथ से दाओ छूट गई।",
+     "उसे इतना गुस्सा आया कि उसने अपनी दाओ उठाई और पास में खड़े एक बाँस को काट दिया। दुर्भाग्य से उस बाँस पर खाउम नाम की एक बेल चढ़ी हुई थी। जैसे ही बाँस नीचे गिरा, बेल भी उसके साथ गिर पड़ी और नीचे आराम कर रहे एक जंगली मुर्गे पर जा गिरी।",
+     "जंगली मुर्गा अचानक हुए इस हादसे से बहुत परेशान और नाराज़ हो गया। उसने गुस्से में ज़मीन कुरेदनी शुरू कर दी और ऐसा करते हुए चींटियों का एक बड़ा बिल बिखेर दिया।",
+     "चींटियाँ अपने टूटे हुए घर से बाहर निकल आईं। उनमें से एक बहुत गुस्से में पास के जंगली सूअर के पास पहुँची और उसे काट लिया।",
+     "सूअर दर्द से उछल पड़ा और जंगल में तेज़ी से भागने लगा। उसके रास्ते में जंगली केले के पौधों का एक झुरमुट था, जहाँ एक चमगादड़ आराम कर रहा था। सूअर ने भागते हुए सारे पौधे गिरा दिए। अब चमगादड़ के पास उल्टा लटककर आराम करने की कोई जगह नहीं बची थी।",
+     "घबराया हुआ चमगादड़ उड़कर दूर जाने लगा। उड़ते-उड़ते वह गलती से एक हाथी की सूँड़ में जा घुसा!",
+     "हाथी बुरी तरह घबरा गया। उसने अपनी सूँड़ हिलाई और जंगल में तेज़ी से दौड़ने लगा। भागते-भागते वह एक गाँव में पहुँच गया। वहाँ उसने एक बूढ़ी औरत का छोटा-सा घर कुचल दिया।",
+     "बूढ़ी औरत बहुत दुखी हुई। उसका घर नष्ट हो चुका था और उसके पास रहने की कोई जगह नहीं बची थी। गुस्से में उसने गाँव के सामूहिक जलस्रोत को गंदा कर दिया।",
+     "गाँववाले यह देखकर घबरा गए। अब उनका पीने का पानी दूषित हो चुका था। उन्होंने बूढ़ी औरत से पूछा कि उसने ऐसा क्यों किया।",
+     "\"तुमने हमारे पानी को गंदा क्यों किया?\" उन्होंने पूछा।",
+     "\"क्योंकि हाथी ने मेरा घर तोड़ दिया!\" उसने उत्तर दिया।",
+     "गाँववालों ने तुरंत हाथी से सवाल किया।",
+     "\"तुमने उसका घर क्यों तोड़ा?\"",
+     "\"क्योंकि एक चमगादड़ मेरी सूँड़ में घुस गया था!\" हाथी ने समझाया।",
+     "वे चमगादड़ के पास गए।",
+     "\"तुम हाथी की सूँड़ में क्यों घुसे?\"",
+     "\"क्योंकि जंगली सूअर ने मेरे केले के पौधे गिरा दिए थे, जहाँ मैं रहता था!\"",
+     "गाँववालों ने सूअर, चींटी, जंगली मुर्गे और खाउम की बेल से भी सवाल किए। हर कोई बता रहा था कि उसने ऐसा क्यों किया था और उससे पहले क्या हुआ था।",
+     "आखिरकार वे चेमतात्रावता के पास पहुँचे।",
+     "\"तुमने बाँस क्यों काटा?\" उन्होंने पूछा।",
+     "\"क्योंकि जब मैं अपनी दाओ तेज़ कर रहा था, तब एक झींगे ने मेरी उँगली काट ली थी!\" उसने उत्तर दिया।",
+     "अब गाँववालों को समझ आ गया कि इस पूरी घटना की शुरुआत कहाँ से हुई थी। वे नदी के पास गए और उस छोटे झींगे को ढूँढ़ निकाला।",
+     "\"तुमने चेमतात्रावता को क्यों काटा?\" उन्होंने पूछा।",
+     "झींगे के पास कोई संतोषजनक उत्तर नहीं था। इसके बजाय वह अपनी विशेषता बताने लगा। उसने दावा किया कि वह अपना रंग बदल सकता है। आग पर रखने से वह लाल हो जाता है और पानी में डालने पर उसका रंग हल्का पड़ जाता है।",
+     "गाँववालों ने उसकी बात परखने का निश्चय किया। उन्होंने उसे आग पर रखा और वह सचमुच लाल हो गया। फिर उसे पानी में डाला, तो उसका रंग फिर से हल्का पड़ गया।",
+     "जब सभी लोग यह देखने में व्यस्त थे, तब झींगे में फिर से ताकत लौट आई और वह भागकर पास की एक गुफा में छिप गया।",
+     "गाँववालों ने उसका पीछा किया। उन्होंने हनहतियाल नाम के पौधे की पत्तियों से उसे बाहर निकालने की कोशिश की, लेकिन झींगा गुफा के भीतर छिपा रहा।",
+     "लोककथा के अनुसार, उसे बार-बार बाहर निकालने की कोशिश के कारण उसके मुँह का आकार खुरदरा और असमान हो गया।",
+     "इस तरह एक छोटी-सी चुटकी से शुरू हुई घटना पूरे गाँव की मुसीबत बन गई। गाँववालों ने समझ लिया कि जब क्रोध बिना सोचे-समझे एक जीव से दूसरे जीव तक पहुँचता है, तो वह एक छोटी समस्या को बहुत बड़ी मुसीबत में बदल सकता है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26,
+      27
+     ],
+     [
+      28,
+      29,
+      30
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26,
+      27
+     ],
+     [
+      28,
+      29,
+      30
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived a man named Chemtatrawta. One day, he ventured into the forest with his dao, a traditional blade, intending to hunt. Along the way, he came upon a small stream and found a smooth stone that was ideal for sharpening his weapon. He sat beside the water and began working carefully along the length of the blade.",
+     "As he sharpened it, a small prawn suddenly emerged from the stream and pinched his finger.",
+     "Chemtatrawta cried out in pain. Irritated by the unexpected interruption, he struck at the creature with his hand, but the prawn escaped into the water. His anger, however, did not subside. He picked up his dao and cut down a nearby bamboo pole, without noticing that a khaum creeper was growing along it.",
+     "When the bamboo fell, the creeper collapsed with it and struck a jungle fowl resting beneath the plant. The startled bird flapped its wings and, in its agitation, began scratching at the ground. In doing so, it scattered a large ant's nest.",
+     "The ants poured out of their damaged home. One of them, furious at the destruction, ran towards a wild boar and bit it. The boar, startled by the sharp pain, charged wildly through the forest. In its path stood a cluster of wild banana plants where a bat had made its resting place. The boar knocked the plants down, leaving the bat without its familiar shelter.",
+     "Unable to find another place to hang upside down, the bat took flight in panic. It flew through the trees and, by misfortune, entered the trunk of an elephant passing nearby.",
+     "The elephant was startled and became uncontrollable. It rushed through the forest and into a village, where it trampled the small house of an old woman.",
+     "The woman returned to find her home destroyed. Overcome by anger and despair, she went to the village's common water source and deliberately polluted it.",
+     "The villagers were alarmed. The water source was essential to the entire community, and its contamination threatened everyone's well-being. They gathered around the old woman and demanded an explanation.",
+     "\"Why have you polluted the water that we all depend upon?\" they asked.",
+     "\"Because the elephant destroyed my house!\" she replied.",
+     "The villagers turned to the elephant.",
+     "\"Why did you destroy the woman's house?\"",
+     "\"Because a bat flew into my trunk!\" answered the elephant.",
+     "They questioned the bat.",
+     "\"Why did you fly into the elephant's trunk?\"",
+     "\"Because the wild boar destroyed the banana plants where I lived.\"",
+     "The villagers then approached the boar.",
+     "\"Why did you destroy the bat's shelter?\"",
+     "\"Because an ant bit me!\" replied the boar.",
+     "The ant explained that the jungle fowl had scattered its nest. The jungle fowl blamed the khaum creeper for falling on it. The creeper, in turn, explained that it had been brought down when Chemtatrawta cut the bamboo.",
+     "The villagers had now traced the trouble almost to its beginning.",
+     "They went to Chemtatrawta and asked him why he had cut down the bamboo.",
+     "\"Because a prawn pinched my finger while I was sharpening my dao by the stream!\" he answered.",
+     "The villagers returned to the stream and found the prawn.",
+     "\"Why did you pinch Chemtatrawta?\" they demanded.",
+     "The prawn could offer no convincing explanation. Instead, it began boasting about its ability to change colour. It claimed that it would turn bright red if roasted over a fire and become pale when placed in water.",
+     "The villagers decided to test its claim. They roasted the prawn, and it turned a brilliant red. They then placed it in water, where its colour became pale once again.",
+     "While the villagers were occupied with this strange demonstration, the prawn regained its strength and slipped into a nearby cave.",
+     "The villagers followed it, but it disappeared deep inside. They repeatedly tried to reach it using the leaves of a plant known as hnahthial. Despite their efforts, the prawn remained hidden.",
+     "According to the traditional tale, this repeated prodding gave the prawn its rough and uneven mouth, which it has retained ever since.",
+     "The villagers had set out to identify the culprit behind the pollution of their water source. What they discovered instead was a long chain of reactions, each one arising from an earlier act of anger.",
+     "The story of Chemtatrawta is remembered as a humorous tale, but beneath its amusing sequence lies an important observation: events are rarely isolated. A careless action can affect someone far removed from the original incident, and anger passed from one person or creature to another can create consequences that no one intended."
+    ],
+    "hi": [
+     "बहुत समय पहले चेमतात्रावता नाम का एक आदमी रहता था। एक दिन वह अपनी दाओ, यानी पारंपरिक धारदार हथियार, लेकर शिकार करने जंगल की ओर निकला। रास्ते में उसे एक छोटी नदी दिखाई दी। वहाँ उसे एक चिकना पत्थर मिला जो उसकी दाओ की धार तेज़ करने के लिए बिल्कुल उपयुक्त था। वह नदी के किनारे बैठ गया और सावधानी से अपनी दाओ को पत्थर पर रगड़ने लगा।",
+     "तभी अचानक नदी से एक छोटा झींगा बाहर आया और उसने उसकी उँगली पर चुटकी काट ली।",
+     "चेमतात्रावता दर्द से चिल्लाया। इस अप्रत्याशित घटना से वह इतना नाराज़ हुआ कि उसने हाथ से झींगे को पकड़ने की कोशिश की, लेकिन वह पानी में भाग गया। उसका गुस्सा फिर भी शांत नहीं हुआ। उसने अपनी दाओ उठाई और पास में खड़े एक बाँस को काट दिया। उसने यह ध्यान नहीं दिया कि उस बाँस पर खाउम नाम की एक बेल चढ़ी हुई थी।",
+     "जैसे ही बाँस नीचे गिरा, बेल भी उसके साथ गिर पड़ी और नीचे आराम कर रहे एक जंगली मुर्गे पर जा गिरी। अचानक हुए इस हादसे से मुर्गा घबरा गया। उसने अपने पंख फड़फड़ाए और गुस्से में ज़मीन कुरेदने लगा। ऐसा करते हुए उसने चींटियों का एक बड़ा बिल बिखेर दिया।",
+     "अपने घर को नष्ट हुआ देखकर चींटियाँ बाहर निकल आईं। उनमें से एक बहुत गुस्से में पास के जंगली सूअर की ओर दौड़ी और उसे काट लिया। अचानक हुए दर्द से सूअर घबरा गया और जंगल में तेज़ी से भागने लगा। उसके रास्ते में जंगली केले के पौधों का एक झुरमुट था, जहाँ एक चमगादड़ आराम कर रहा था। सूअर ने सारे पौधे गिरा दिए और चमगादड़ का आश्रय नष्ट हो गया।",
+     "अब चमगादड़ के पास उल्टा लटकने की कोई जगह नहीं बची थी। घबराकर वह उड़ने लगा। वह पेड़ों के बीच से निकलता हुआ दुर्भाग्य से वहाँ से गुजर रहे एक हाथी की सूँड़ में जा घुसा।",
+     "हाथी अचानक घबरा गया और उस पर अपना नियंत्रण खो बैठा। वह जंगल से होता हुआ एक गाँव में पहुँच गया। वहाँ उसने एक बूढ़ी औरत का छोटा-सा घर कुचल दिया।",
+     "जब बूढ़ी औरत वापस लौटी, तो उसने अपना घर पूरी तरह नष्ट पाया। दुख और क्रोध से भरकर उसने गाँव के सामूहिक जलस्रोत को जानबूझकर गंदा कर दिया।",
+     "गाँववाले यह देखकर घबरा गए। यह जलस्रोत पूरे समुदाय के लिए बहुत महत्वपूर्ण था और इसके दूषित होने से सभी के स्वास्थ्य और जीवन पर खतरा आ सकता था। वे बूढ़ी औरत के पास इकट्ठा हुए और उससे जवाब माँगने लगे।",
+     "\"तुमने उस पानी को गंदा क्यों किया जिस पर हम सभी निर्भर हैं?\" उन्होंने पूछा।",
+     "\"क्योंकि हाथी ने मेरा घर नष्ट कर दिया!\" उसने उत्तर दिया।",
+     "गाँववालों ने हाथी से पूछा।",
+     "\"तुमने बूढ़ी औरत का घर क्यों तोड़ा?\"",
+     "\"क्योंकि एक चमगादड़ मेरी सूँड़ में घुस गया था!\" हाथी ने जवाब दिया।",
+     "अब उन्होंने चमगादड़ से सवाल किया।",
+     "\"तुम हाथी की सूँड़ में क्यों घुसे?\"",
+     "\"क्योंकि जंगली सूअर ने उन केले के पौधों को गिरा दिया था जहाँ मैं रहता था।\"",
+     "गाँववाले सूअर के पास पहुँचे।",
+     "\"तुमने चमगादड़ का आश्रय क्यों नष्ट किया?\"",
+     "\"क्योंकि एक चींटी ने मुझे काट लिया था!\" सूअर ने उत्तर दिया।",
+     "चींटी ने बताया कि जंगली मुर्गे ने उसका घर बिखेर दिया था। जंगली मुर्गे ने खाउम की बेल को दोष दिया, जो उस पर आ गिरी थी। बेल ने समझाया कि चेमतात्रावता द्वारा बाँस काटे जाने के कारण वह नीचे गिरी थी।",
+     "अब गाँववाले मुसीबत की शुरुआत तक पहुँच चुके थे।",
+     "वे चेमतात्रावता के पास गए और उससे पूछा कि उसने बाँस क्यों काटा था।",
+     "\"क्योंकि जब मैं नदी के किनारे अपनी दाओ तेज़ कर रहा था, तब एक झींगे ने मेरी उँगली काट ली थी!\" उसने उत्तर दिया।",
+     "गाँववाले नदी के पास लौटे और उस झींगे को ढूँढ़ निकाला।",
+     "\"तुमने चेमतात्रावता को क्यों काटा?\" उन्होंने पूछा।",
+     "झींगे के पास कोई संतोषजनक उत्तर नहीं था। इसके बजाय वह अपनी रंग बदलने की क्षमता का बखान करने लगा। उसने दावा किया कि यदि उसे आग पर रखा जाए तो वह चमकीला लाल हो जाएगा और पानी में डालने पर उसका रंग फिर हल्का पड़ जाएगा।",
+     "गाँववालों ने उसकी बात परखने का फैसला किया। उन्होंने झींगे को आग पर रखा और वह सचमुच चमकीले लाल रंग का हो गया। फिर उन्होंने उसे पानी में डाला, जहाँ उसका रंग फिर हल्का पड़ गया।",
+     "जब गाँववाले इस अनोखे प्रदर्शन को देखने में व्यस्त थे, तब झींगे में फिर से ताकत लौट आई और वह फिसलकर पास की एक गुफा में जा छिपा।",
+     "गाँववालों ने उसका पीछा किया, लेकिन वह गुफा के भीतर बहुत दूर चला गया। उन्होंने हनहतियाल नाम के पौधे की पत्तियों की सहायता से उसे बाहर निकालने की कई बार कोशिश की। इसके बावजूद झींगा छिपा रहा।",
+     "पारंपरिक कहानी के अनुसार, उसे बार-बार बाहर निकालने की कोशिश के कारण उसके मुँह का आकार खुरदरा और असमान हो गया, जो आज भी वैसा ही है।",
+     "गाँववाले अपने जलस्रोत को दूषित करने वाले दोषी का पता लगाने निकले थे। लेकिन इस पूरी घटना में उन्होंने जो देखा, वह एक लंबी कड़ी थी, जिसमें हर नई घटना के पीछे पहले हुई किसी दूसरी घटना का हाथ था।",
+     "चेमतात्रावता की कहानी एक मनोरंजक लोककथा के रूप में याद की जाती है। लेकिन इसके हास्य के पीछे एक महत्वपूर्ण विचार छिपा है—घटनाएँ हमेशा एक-दूसरे से अलग नहीं होतीं। हमारी एक लापरवाह कार्रवाई किसी ऐसे व्यक्ति को भी प्रभावित कर सकती है जिसका उस घटना से कोई सीधा संबंध नहीं था। जब क्रोध बिना सोचे-समझे एक से दूसरे तक पहुँचता है, तो उसके परिणाम किसी के अनुमान से कहीं अधिक बड़े हो सकते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ],
+     [
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26,
+      27
+     ],
+     [
+      28,
+      29,
+      30
+     ],
+     [
+      31,
+      32
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24
+     ],
+     [
+      25,
+      26,
+      27
+     ],
+     [
+      28,
+      29,
+      30
+     ],
+     [
+      31,
+      32
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Mizoram",
+  "community": "Mizo",
+  "tradition": "A cumulative Mizo folktale, in which events build on one another through repetition."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Mizo oral storytelling. Tribal Research Institute, Mizoram; also documented by Luke Sangkima in the North East Catholic Research Forum and by the Centre for Contemporary Folklore (CCF).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-063-005",
+ "meta": [
+  "The Man, the Prawn and the Chain of Trouble",
+  "Mizoram Cumulative Mizo folktale",
+  "Story origins",
+  "● Original tradition: Mizo oral storytelling. ● Name: Chemtatrawta. ● Meaning: Chem means dao (a traditional blade), and tat means to sharpen. The name refers to someone who sharpens a dao. ● Published source: Tribal Research Institute, Mizoram; also documented by Luke Sangkima in the North East Catholic Research Forum and the Centre for Contemporary Folklore. ● Genre: Cumulative tale (a chain story).",
+  "● Themes: Anger, consequences, interconnectedness and tracing the causes of a problem.",
+  "This is one of the most recognisable Mizo folktales. It follows a chain of events in which one creature's anger affects another, until an entire village is caught up in the trouble.",
+  "A Mizo Folktale+1",
+  "Adaptation note: The original versions contain some crude bodily humour. I've softened those incidents for a children's reading repository while retaining the cumulative structure and the traditional ending explaining the prawn's mouth."
+ ]
+}

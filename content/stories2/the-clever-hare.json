@@ -1,0 +1,510 @@
+{
+ "id": "the-clever-hare",
+ "state": "mn",
+ "title": "The Clever Hare",
+ "titleHi": "चतुर खरगोश",
+ "genre": "Animal folktale",
+ "levelTitles": {
+  "1": {
+   "en": "The Clever Hare",
+   "hi": "चतुर खरगोश"
+  },
+  "2": {
+   "en": "The Clever Hare",
+   "hi": "चतुर खरगोश"
+  },
+  "3": {
+   "en": "The Clever Hare",
+   "hi": "चतुर खरगोश"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once upon a time, on a green hill in Manipur, there lived a little hare. He loved fresh vegetables and spent his days hopping between the bushes and trees, looking for something delicious to eat.",
+     "One morning, while he was happily munching on some fresh vegetables, a tiger came walking through the hill.",
+     "The tiger spotted the hare and thought, \"What a tasty little meal! I shall catch him.\"",
+     "He walked closer and roared, \"Hey, little hare! What are you doing?\"",
+     "The hare jumped in fright. But he quickly replied, \"Good morning, sir! I am eating these delicious vegetables. Would you like some?\"",
+     "The tiger was pleased. \"Yes! Bring me some.\"",
+     "The hare hurried to pick the vegetables. The tiger sat down to wait. Before long, he grew sleepy and fell fast asleep.",
+     "The clever hare quietly slipped away and ran to a nearby field.",
+     "The next day, the tiger found him again.",
+     "\"Ha! You little rascal! Yesterday you escaped, but today I shall catch you!\"",
+     "The hare did not panic.",
+     "\"Oh, great tiger,\" he said calmly. \"You must have met my twin brother yesterday. He looks just like me, but I am a different kind of hare!\"",
+     "The tiger was curious. \"A different kind? What makes you special?\"",
+     "\"I can swing on tree branches better than anyone!\" replied the hare.",
+     "The tiger wanted to try. The hare led him to a tree and gently rocked a branch until the tiger grew sleepy. Soon, the tiger was fast asleep. The hare tied the tiger's long fur to the branches and ran away.",
+     "When the tiger woke up, he struggled to free himself. His fur got caught and tore as he pulled.",
+     "The tiger was furious!",
+     "The following day, he found the hare beside a stream, catching fish.",
+     "\"This time you cannot escape!\" growled the tiger.",
+     "The hare pretended to cry. \"Please, great tiger! I am not the hare you met before. I am a special hare who catches fish. You can eat all my fish!\"",
+     "The tiger gobbled up the fish and soon fell asleep.",
+     "The hare realised that the tiger would never stop hunting him. He went to a nearby hut and found an axe. He heated it over the fire and used it to defeat the sleeping tiger.",
+     "At last, the hare was free!",
+     "From then on, he lived peacefully among the green hills.",
+     "He had proved that being small did not mean being helpless. Sometimes, a clever mind is stronger than great strength."
+    ],
+    "hi": [
+     "बहुत समय पहले मणिपुर की हरी-भरी पहाड़ियों पर एक छोटा-सा खरगोश रहता था। उसे ताज़ी सब्ज़ियाँ खाना बहुत पसंद था। वह दिनभर झाड़ियों और पेड़ों के बीच उछलता-कूदता और अपने लिए स्वादिष्ट भोजन खोजता रहता था।",
+     "एक सुबह वह मज़े से ताज़ी सब्ज़ियाँ खा रहा था। तभी वहाँ एक बाघ आ पहुँचा।",
+     "बाघ की नज़र खरगोश पर पड़ी। उसने सोचा, \"वाह! आज तो मुझे स्वादिष्ट भोजन मिल गया। मैं इसे पकड़कर खाऊँगा।\"",
+     "वह खरगोश के पास आया और ज़ोर से बोला, \"अरे छोटे खरगोश! तुम क्या कर रहे हो?\"",
+     "खरगोश डरकर उछल पड़ा। लेकिन उसने तुरंत खुद को सँभाला और कहा, \"नमस्ते, महाराज! मैं ये स्वादिष्ट सब्ज़ियाँ खा रहा हूँ। क्या आप भी खाना चाहेंगे?\"",
+     "बाघ खुश हो गया। \"हाँ! मेरे लिए भी कुछ तोड़कर लाओ।\"",
+     "खरगोश जल्दी-जल्दी सब्ज़ियाँ इकट्ठा करने लगा। बाघ वहीं बैठकर इंतज़ार करने लगा। कुछ देर बाद उसे नींद आने लगी और वह गहरी नींद में सो गया।",
+     "खरगोश चुपचाप वहाँ से निकला और पास के खेत में भाग गया।",
+     "अगले दिन बाघ ने उसे फिर देख लिया।",
+     "\"अरे शरारती खरगोश! कल तो तुम बच निकले थे, लेकिन आज मैं तुम्हें नहीं छोड़ूँगा!\"",
+     "खरगोश घबराया नहीं।",
+     "\"अरे महान बाघ महाराज!\" उसने शांति से कहा। \"कल आपने मेरे जुड़वाँ भाई को देखा होगा। वह बिल्कुल मेरे जैसा दिखता है, लेकिन मैं एक अलग तरह का खरगोश हूँ!\"",
+     "बाघ हैरान हुआ। \"अलग तरह का? तुममें ऐसी क्या खास बात है?\"",
+     "खरगोश बोला, \"मैं पेड़ों की डालियों पर सबसे अच्छी तरह झूल सकता हूँ!\"",
+     "बाघ भी यह करना चाहता था। खरगोश उसे एक पेड़ के पास ले गया। उसने एक डाल को धीरे-धीरे हिलाया। थोड़ी ही देर में बाघ को नींद आने लगी और वह सो गया। खरगोश ने उसकी लंबी खाल को डालियों से बाँधा और वहाँ से भाग निकला।",
+     "जब बाघ जागा, तो उसने खुद को छुड़ाने की कोशिश की। लेकिन उसकी खाल डालियों में उलझ गई और खिंचकर फट गई।",
+     "बाघ बहुत गुस्सा हुआ!",
+     "अगले दिन उसने खरगोश को एक छोटी नदी के पास मछलियाँ पकड़ते देखा।",
+     "\"इस बार तुम मुझसे बच नहीं पाओगे!\" बाघ गरजा।",
+     "खरगोश रोने का नाटक करने लगा।",
+     "\"कृपया मुझे मत खाइए, महाराज! मैं वह खरगोश नहीं हूँ जिससे आप पहले मिले थे। मैं एक खास तरह का खरगोश हूँ, जो मछलियाँ पकड़ता है। आप चाहें तो मेरी सारी मछलियाँ खा सकते हैं!\"",
+     "बाघ ने सारी मछलियाँ खा लीं और फिर सो गया।",
+     "खरगोश समझ गया कि बाघ उसका पीछा करना कभी बंद नहीं करेगा। वह पास की एक झोपड़ी में गया और वहाँ उसे एक कुल्हाड़ी मिली। उसने उसे आग में गर्म किया और सोते हुए बाघ को हमेशा के लिए हरा दिया।",
+     "आखिरकार खरगोश आज़ाद हो गया!",
+     "अब वह हरी-भरी पहाड़ियों में शांति से रहने लगा।",
+     "उसने साबित कर दिया कि छोटा होने का मतलब कमज़ोर होना नहीं है। कई बार बुद्धि, बड़ी से बड़ी ताकत पर भी भारी पड़ सकती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the green hills of Manipur, where streams wound their way through the fields and trees swayed gently in the breeze, there lived a little hare. Every morning, he hopped up to the hilltop to gather fresh vegetables. He enjoyed the quiet of the hills and had learnt to find food in the most unexpected places.",
+     "One day, while he was enjoying his breakfast, a tiger emerged from the nearby forest. The tiger had been searching for food and was delighted to discover the little hare.",
+     "\"Well, well! What have we here?\" the tiger growled. \"What are you doing all alone?\"",
+     "The hare froze for a moment. He knew that he could never outrun the tiger for long, so he decided to be polite and clever.",
+     "\"Good morning, great sir!\" he said. \"I am having some delicious vegetables. Would you care to try them?\"",
+     "The tiger liked the sound of that. \"Bring me some. I am hungry.\"",
+     "\"Of course!\" replied the hare.",
+     "He hopped away to collect the vegetables. The tiger settled down beneath a tree and waited. The warm afternoon breeze soon made him drowsy. Before long, his eyes closed and he fell into a deep sleep.",
+     "The hare glanced back, realised his opportunity and escaped.",
+     "The following day, the hare was playing in a field, hopping from one tree to another. The tiger spotted him and charged towards him.",
+     "\"You little trickster!\" he roared. \"Yesterday you escaped from me. Today there will be no escaping!\"",
+     "The hare looked at him calmly.",
+     "\"Oh, great tiger! I think you must have met my twin yesterday. We look exactly alike, but we belong to different kinds of hares.\"",
+     "The tiger was puzzled. \"Different kinds? Explain yourself!\"",
+     "\"Why, I am a special kind of hare. I can swing on branches like a monkey. Would you like to see?\"",
+     "The tiger, who was easily impressed by anything unusual, agreed immediately.",
+     "The hare led him to a tree and showed him how to swing from one branch to another. The tiger climbed onto a sturdy branch and began rocking himself back and forth. The movement made him sleepy, and soon he fell asleep.",
+     "The hare seized the opportunity. He tied the tiger's long fur to the branches, securing him tightly, and ran away.",
+     "When the tiger awoke, he struggled furiously. The more he pulled, the more tightly he became entangled. Eventually, he managed to break free, but much of his beautiful fur was torn.",
+     "He roared with anger and promised to find the hare again.",
+     "On the third day, the tiger discovered the hare beside a stream, catching fish.",
+     "\"Enough of your tricks!\" he shouted. \"Today I shall eat you!\"",
+     "The hare pretended to be frightened.",
+     "\"Please, great sir! I am not the hare you have been chasing. I am a different kind. I live by catching fish. Look at all the fish I have collected. You may eat them instead!\"",
+     "The tiger, whose hunger was greater than his suspicion, devoured the fish. Soon he was full and fell asleep once again.",
+     "This time, the hare understood that the tiger would continue hunting him as long as he remained alive. He could not spend every day inventing another trick.",
+     "He went to a nearby hut, found an axe and heated it over a fire. Returning quietly, he used the hot axe against the sleeping tiger, ending the danger that had threatened him for so long.",
+     "At last, the hare could wander freely through the hills and fields without fear.",
+     "He had survived not because he was stronger or faster than his enemy, but because he understood how to use his intelligence when faced with danger."
+    ],
+    "hi": [
+     "मणिपुर की हरी-भरी पहाड़ियों में, जहाँ छोटी-छोटी नदियाँ खेतों के बीच से बहती थीं और पेड़ हवा में धीरे-धीरे झूमते थे, एक छोटा-सा खरगोश रहता था। हर सुबह वह ताज़ी सब्ज़ियाँ इकट्ठा करने पहाड़ी की चोटी पर जाता था। उसे पहाड़ियों की शांति बहुत पसंद थी और वह जानता था कि सबसे स्वादिष्ट भोजन कहाँ मिल सकता है।",
+     "एक दिन, जब वह अपना नाश्ता कर रहा था, तभी पास के जंगल से एक बाघ बाहर आया। बाघ कई घंटों से भोजन की तलाश में था और छोटे खरगोश को देखकर बहुत खुश हुआ।",
+     "\"अरे वाह! यहाँ कौन है?\" बाघ ने गरजकर पूछा। \"तुम यहाँ अकेले क्या कर रहे हो?\"",
+     "खरगोश एक पल के लिए घबरा गया। वह जानता था कि बाघ से अधिक देर तक भाग पाना उसके लिए मुश्किल होगा। इसलिए उसने विनम्रता और बुद्धिमानी से काम लेने का निश्चय किया।",
+     "\"नमस्कार, महान महाराज!\" उसने कहा। \"मैं स्वादिष्ट सब्ज़ियाँ खा रहा हूँ। क्या आप भी चखना चाहेंगे?\"",
+     "बाघ को यह बात अच्छी लगी। \"मेरे लिए भी कुछ लाओ। मुझे बहुत भूख लगी है।\"",
+     "\"अवश्य, महाराज!\" खरगोश बोला।",
+     "वह सब्ज़ियाँ इकट्ठा करने के बहाने दूर चला गया। बाघ एक पेड़ के नीचे बैठकर इंतज़ार करने लगा। दोपहर की हल्की हवा चल रही थी। धीरे-धीरे बाघ को नींद आने लगी और वह गहरी नींद में सो गया।",
+     "खरगोश ने पीछे मुड़कर देखा। मौका मिलते ही वह वहाँ से भाग निकला।",
+     "अगले दिन खरगोश एक खेत में उछल-कूद कर रहा था। तभी बाघ की नज़र उस पर पड़ गई और वह उसकी ओर दौड़ा।",
+     "\"अरे छोटे धोखेबाज़!\" बाघ गरजा। \"कल तुम मुझसे बच निकले थे, लेकिन आज तुम्हारी कोई चाल काम नहीं आएगी!\"",
+     "खरगोश ने शांति से उसकी ओर देखा।",
+     "\"अरे महान बाघ महाराज! लगता है कल आपकी मुलाकात मेरे जुड़वाँ भाई से हुई थी। हम दोनों बिल्कुल एक जैसे दिखते हैं, लेकिन हमारी नस्ल अलग-अलग है।\"",
+     "बाघ हैरान रह गया। \"अलग नस्ल? यह कैसे हो सकता है?\"",
+     "खरगोश बोला, \"मैं एक विशेष प्रकार का खरगोश हूँ। मैं बंदरों की तरह पेड़ों की डालियों पर झूल सकता हूँ। क्या आप देखना चाहेंगे?\"",
+     "बाघ ऐसी अनोखी बात सुनकर तुरंत तैयार हो गया।",
+     "खरगोश उसे एक पेड़ के पास ले गया और डालियों पर झूलकर दिखाने लगा। बाघ भी एक मजबूत डाल पर चढ़ गया और आगे-पीछे झूलने लगा। थोड़ी ही देर में उसे नींद आने लगी और वह सो गया।",
+     "खरगोश ने तुरंत मौका देखा। उसने बाघ की लंबी खाल को पेड़ की डालियों से बाँध दिया और वहाँ से भाग गया।",
+     "जब बाघ की नींद खुली, तो उसने खुद को छुड़ाने की बहुत कोशिश की। जितना वह ज़ोर लगाता, उतना ही उलझता जाता। आखिरकार वह किसी तरह आज़ाद हुआ, लेकिन उसकी सुंदर खाल का काफी हिस्सा फट चुका था।",
+     "वह गुस्से से दहाड़ा और उसने खरगोश को दोबारा ढूँढ़ने की कसम खाई।",
+     "तीसरे दिन बाघ ने खरगोश को एक छोटी नदी के किनारे मछलियाँ पकड़ते हुए देखा।",
+     "\"अब बहुत हो गया तुम्हारा खेल!\" वह चिल्लाया। \"आज मैं तुम्हें खाकर ही रहूँगा!\"",
+     "खरगोश ने डरने का नाटक किया।",
+     "\"कृपया मुझे मत खाइए, महाराज! मैं वह खरगोश नहीं हूँ जिसका आप पीछा कर रहे हैं। मैं एक अलग तरह का खरगोश हूँ। मैं मछलियाँ पकड़कर अपना जीवन बिताता हूँ। देखिए, मैंने कितनी मछलियाँ इकट्ठी की हैं। आप इन्हें खा सकते हैं!\"",
+     "बाघ अपनी भूख के आगे सावधानी भूल गया। उसने सारी मछलियाँ खा लीं। पेट भरते ही उसे फिर से नींद आ गई।",
+     "इस बार खरगोश समझ गया कि जब तक बाघ जीवित रहेगा, उसका पीछा करना बंद नहीं करेगा। वह हर दिन नई चालें नहीं सोच सकता था।",
+     "वह पास की एक झोपड़ी में गया। वहाँ उसे एक कुल्हाड़ी मिली। उसने उसे आग में गर्म किया और चुपचाप लौटकर सोते हुए बाघ पर वार किया। इस तरह उसने उस खतरे का अंत कर दिया जो लंबे समय से उसकी जान के पीछे पड़ा था।",
+     "आखिरकार खरगोश बिना किसी डर के पहाड़ियों और खेतों में घूमने लगा।",
+     "वह अपने शत्रु से अधिक ताकतवर या तेज़ नहीं था। लेकिन कठिन परिस्थिति में अपनी बुद्धि का सही उपयोग करना जानता था। यही उसकी सबसे बड़ी ताकत थी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22,
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22,
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the hills of Manipur, where the morning mist lingered over the fields and little streams wound between the trees, there lived a hare who was known for his quick movements and sharper mind. He was a small creature, but he had learnt to survive by observing the world around him. Every morning, he climbed to the hilltop to gather fresh vegetables, returning home before the day grew too hot.",
+     "One morning, as he was enjoying his meal, a tiger emerged from the nearby forest. The tiger had been wandering in search of food when he spotted the hare.",
+     "\"Well, well! What have we here?\" he growled. \"What are you doing on my hill?\"",
+     "The hare was startled. He knew that a direct confrontation would be foolish. So, gathering his courage, he replied politely, \"I am simply enjoying some fresh vegetables, great sir. Would you care to join me?\"",
+     "The tiger, pleased by the offer, agreed. \"Bring me some. I am hungry.\"",
+     "The hare hopped away to gather the vegetables, while the tiger settled beneath a tree. The gentle breeze and the warmth of the afternoon soon made the tiger drowsy. His eyes grew heavy, and before long he was fast asleep.",
+     "The hare waited until he was certain the tiger was sleeping soundly. Then, without making a sound, he slipped away and escaped to a nearby field.",
+     "The next day, the hare was playing among the trees when he heard a furious roar.",
+     "\"You! You little trickster!\" shouted the tiger. \"Yesterday you escaped from me. Today you shall not get away!\"",
+     "The hare remained surprisingly calm. \"Great tiger, I believe you have mistaken me for someone else. The hare you met yesterday was my twin. We look alike, but we belong to different kinds of hares.\"",
+     "The tiger narrowed his eyes. \"Different kinds? What makes you so special?\"",
+     "The hare thought quickly. \"I can swing from tree branches like a monkey. Perhaps you would like to try it yourself?\"",
+     "The tiger, whose pride made him eager to demonstrate his abilities, accepted the challenge. The hare led him to a tree and showed him how to swing from a branch. The tiger climbed up and began rocking himself back and forth. The movement, combined with the warmth of the day, soon lulled him to sleep.",
+     "The hare seized the opportunity. He tied the tiger's long fur firmly to the branches and escaped.",
+     "When the tiger awoke, he struggled violently to free himself. His efforts only made the knots tighter, and as he pulled, his fur became badly torn. Eventually, he managed to break loose, but his anger was greater than ever.",
+     "The following day, he searched the fields and forest until he found the hare beside a stream, catching fish.",
+     "\"Today there will be no excuses!\" the tiger roared. \"I have had enough of your tricks. I am going to eat you!\"",
+     "The hare pretended to be overcome with fear.",
+     "\"Please, great tiger! I beg you to spare me. I am not the hare who deceived you before. I belong to another kind altogether. I catch fish for a living. Look at the fish I have gathered. You may have every one of them.\"",
+     "The tiger, driven by hunger, was persuaded. He devoured the fish one after another until he was completely satisfied. Soon, just as the hare had expected, sleep overcame him.",
+     "The hare watched him carefully. He had escaped twice by making the tiger fall asleep, but he understood that the danger would return as soon as the tiger awoke. The tiger was determined to hunt him, and another temporary escape would not solve the problem.",
+     "The hare decided that he had to put an end to the threat.",
+     "He went to a nearby hut and found an axe. He heated it over the fire until it was extremely hot. Then he returned to the stream, approached the sleeping tiger and used the heated axe to kill him.",
+     "The forest fell quiet once more.",
+     "From that day onwards, the hare wandered freely through the hills, fields and streams. He no longer had to spend his days looking over his shoulder or inventing new ways to escape.",
+     "The story of the little hare reminds us that intelligence is not measured by size or strength. In moments of danger, the ability to observe, remain calm and think clearly can be more valuable than physical power."
+    ],
+    "hi": [
+     "मणिपुर की पहाड़ियों में, जहाँ सुबह की धुंध खेतों पर छाई रहती थी और छोटी-छोटी नदियाँ पेड़ों के बीच से बहती थीं, एक खरगोश रहता था। वह अपनी तेज़ चाल और उससे भी तेज़ बुद्धि के लिए जाना जाता था। उसका शरीर छोटा था, लेकिन उसने अपने आसपास की दुनिया को ध्यान से देखकर जीना सीख लिया था। हर सुबह वह पहाड़ी की चोटी पर जाता, ताज़ी सब्ज़ियाँ इकट्ठी करता और दिन अधिक गर्म होने से पहले अपने घर लौट आता।",
+     "एक सुबह, जब वह आराम से अपना भोजन कर रहा था, तभी पास के जंगल से एक बाघ बाहर आया। बाघ भोजन की तलाश में भटक रहा था और उसकी नज़र खरगोश पर पड़ गई।",
+     "\"अरे वाह! यहाँ कौन है?\" उसने गरजकर पूछा। \"मेरी पहाड़ी पर तुम क्या कर रहे हो?\"",
+     "खरगोश अचानक घबरा गया। वह जानता था कि बाघ से सीधे मुकाबला करना मूर्खता होगी। इसलिए उसने हिम्मत जुटाकर विनम्रता से उत्तर दिया, \"मैं बस कुछ ताज़ी सब्ज़ियों का आनंद ले रहा हूँ, महाराज। क्या आप भी मेरे साथ खाना चाहेंगे?\"",
+     "बाघ को यह प्रस्ताव अच्छा लगा। \"मेरे लिए भी कुछ लेकर आओ। मुझे भूख लगी है।\"",
+     "खरगोश सब्ज़ियाँ इकट्ठी करने के बहाने वहाँ से चला गया। बाघ एक पेड़ के नीचे बैठ गया। दोपहर की हल्की हवा और गर्म के कारण उसे धीरे-धीरे नींद आने लगी। उसकी आँखें भारी हो गईं और कुछ ही देर में वह गहरी नींद में सो गया।",
+     "खरगोश ने तब तक इंतज़ार किया जब तक उसे विश्वास नहीं हो गया कि बाघ अच्छी तरह सो चुका है। फिर वह बिना कोई आवाज़ किए वहाँ से निकल गया और पास के खेत में जा पहुँचा।",
+     "अगले दिन खरगोश पेड़ों के बीच खेल रहा था, तभी उसे एक ज़ोरदार दहाड़ सुनाई दी।",
+     "\"तुम! छोटे धोखेबाज़!\" बाघ चिल्लाया। \"कल तुम मुझसे बच निकले थे। आज तुम्हें नहीं छोड़ूँगा!\"",
+     "खरगोश आश्चर्यजनक रूप से शांत रहा।",
+     "\"महान बाघ महाराज, लगता है आपने मुझे किसी और के साथ समझ लिया है। कल जिस खरगोश से आपकी मुलाकात हुई थी, वह मेरा जुड़वाँ भाई था। हम दोनों एक जैसे दिखते हैं, लेकिन हमारी नस्ल अलग-अलग है।\"",
+     "बाघ ने आँखें सिकोड़कर पूछा, \"अलग-अलग नस्ल? तुममें ऐसी क्या विशेषता है?\"",
+     "खरगोश ने तुरंत उत्तर दिया, \"मैं बंदर की तरह पेड़ों की डालियों पर झूल सकता हूँ। आप चाहें तो स्वयं भी ऐसा करके देख सकते हैं!\"",
+     "बाघ को अपनी ताकत पर बहुत घमंड था। वह यह चुनौती स्वीकार करने के लिए तुरंत तैयार हो गया। खरगोश उसे एक पेड़ के पास ले गया और डालियों पर झूलकर दिखाने लगा। बाघ भी एक मजबूत डाल पर चढ़ गया और आगे-पीछे झूलने लगा। थोड़ी ही देर में उसकी आँखें बंद होने लगीं और वह सो गया।",
+     "खरगोश ने इस अवसर का लाभ उठाया। उसने बाघ की लंबी खाल को पेड़ की डालियों से मजबूती से बाँध दिया और वहाँ से भाग निकला।",
+     "जब बाघ जागा, तो उसने खुद को छुड़ाने के लिए बहुत संघर्ष किया। जितना वह ज़ोर लगाता, गाँठें उतनी ही कसती जातीं। आखिरकार वह किसी तरह आज़ाद हुआ, लेकिन उसकी खाल बुरी तरह फट चुकी थी। अब उसका गुस्सा पहले से भी अधिक बढ़ गया था।",
+     "अगले दिन उसने खेतों और जंगल में खरगोश को ढूँढ़ना शुरू किया। आखिरकार उसे वह एक नदी के किनारे मछलियाँ पकड़ता हुआ दिखाई दिया।",
+     "\"आज कोई बहाना काम नहीं आएगा!\" बाघ गरजा। \"तुम्हारी चालों से मैं तंग आ चुका हूँ। आज मैं तुम्हें खाकर ही रहूँगा!\"",
+     "खरगोश ने डर से काँपने का नाटक किया।",
+     "\"कृपया महान बाघ महाराज! मुझे छोड़ दीजिए। मैं वह खरगोश नहीं हूँ जिसने आपको पहले धोखा दिया था। मैं तो एक अलग तरह का खरगोश हूँ। मैं मछलियाँ पकड़कर अपना जीवन बिताता हूँ। देखिए, मैंने कितनी मछलियाँ इकट्ठी की हैं। आप चाहें तो ये सभी खा सकते हैं।\"",
+     "बाघ अपनी भूख के आगे सब कुछ भूल गया। उसने एक के बाद एक सारी मछलियाँ खा लीं। पेट भरते ही उसे नींद आने लगी और वह फिर सो गया।",
+     "खरगोश उसे ध्यान से देखता रहा। वह दो बार बाघ को सुलाकर बच चुका था, लेकिन उसे समझ आ गया था कि बाघ के जागते ही खतरा फिर लौट आएगा। बाघ उसका शिकार करने के लिए दृढ़ था। केवल कुछ समय के लिए बच निकलना समस्या का स्थायी समाधान नहीं था।",
+     "खरगोश ने निश्चय किया कि अब उसे इस खतरे का अंत करना होगा।",
+     "वह पास की एक झोपड़ी में गया और वहाँ उसे एक कुल्हाड़ी मिली। उसने कुल्हाड़ी को आग में तब तक गर्म किया जब तक वह बहुत गर्म नहीं हो गई। फिर वह नदी के पास लौटा, सोते हुए बाघ के करीब पहुँचा और गर्म कुल्हाड़ी से उसका अंत कर दिया।",
+     "जंगल में एक बार फिर शांति छा गई।",
+     "उस दिन के बाद खरगोश बिना किसी डर के पहाड़ियों, खेतों और नदियों के किनारे घूमने लगा। अब उसे हर समय पीछे मुड़कर देखने या बचने के लिए नई तरकीबें सोचने की आवश्यकता नहीं थी।",
+     "छोटे-से खरगोश की यह कहानी याद दिलाती है कि बुद्धिमत्ता का संबंध शरीर के आकार या शारीरिक शक्ति से नहीं होता। संकट के समय ध्यान से देखना, शांत रहना और सही निर्णय लेना कई बार सबसे बड़ी ताकत साबित हो सकता है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22
+     ],
+     [
+      23,
+      24,
+      25
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Manipur",
+  "community": "Manipuri",
+  "tradition": "Animal folktale: a hare meets a tiger three times and uses a different trick each time."
+ },
+ "sources": [
+  {
+   "l": "Source collection",
+   "v": "Fungawari Singbul, compiled by B. Jayantakumar Sharma. English translation by Bidyarani Thingujam, published on E-Pao (e-pao.net).",
+   "s": "ok"
+  },
+  {
+   "l": "Original title",
+   "v": "Theba Lousingba (Manipuri).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-028-002",
+ "meta": [
+  "থবা লৗিসংবা (Theba Lousingba)",
+  "Manipur Manipuri animal folktale",
+  "Story origins",
+  "● Source collection: Fungawari Singbul ● Author/compiler: B. Jayantakumar Sharma ● English translator: Bidyarani Thingujam ● Original setting: A hilltop, fields, trees and a stream ● Themes: Intelligence, courage, survival and quick thinking",
+  "The original tale follows a hare who encounters a tiger three times. Each time, the hare uses a different trick to escape. The final encounter is more serious: the hare realises that simply escaping will not keep him safe forever.",
+  "e-pao.net"
+ ]
+}

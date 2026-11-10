@@ -1,0 +1,267 @@
+{
+ "id": "ghughutiya",
+ "state": "ut",
+ "title": "Ghughutiya — The Child and the Crow",
+ "titleHi": "राजकुमार को खोजने वाला कौआ",
+ "genre": "Festival legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Crow Who Found the Prince",
+   "hi": "राजकुमार को खोजने वाला कौआ"
+  },
+  "2": {
+   "en": "Ghughuti and the Crow’s Secret",
+   "hi": "घुघुति और कौए का रहस्य"
+  },
+  "3": {
+   "en": "The Necklace That Led the Way Home",
+   "hi": "वह माला जिसने घर का रास्ता दिखाया"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the Kumaon hills, there lived a king named Kalyan Chand. For many years, he and the queen wished for a child. At last, they were blessed with a baby boy. They named him Nirbhay, but his mother lovingly called him Ghughuti.",
+     "The little prince loved playing in the palace garden. He wore a beautiful necklace with shiny beads. His mother often sang to him:",
+     "“Come, black crow, come, Eat the sweet from Ghughuti’s garland!”",
+     "A crow that lived near the palace began to recognise the little prince. It would sit on the branches and watch him play.",
+     "But one of the king’s ministers wanted to take the throne for himself. He made a secret plan and kidnapped the little prince while the palace was busy.",
+     "The minister took Ghughuti far away and hid him. During the journey, the crow followed them. It saw the prince’s shiny necklace and flew down to take it in its beak.",
+     "The crow carried the necklace back towards the palace. The king’s guards noticed it and recognised the beads. They wondered where the necklace had come from. They followed the crow and soon found the place where the prince was being kept.",
+     "The guards rescued Ghughuti and brought him safely home. The king was overjoyed. He thanked the crow for helping them find his son.",
+     "To celebrate the prince’s return, the king asked everyone to prepare special sweet treats for the birds. People made little flour sweets and offered them to crows.",
+     "Over time, this became part of the Ghughutiya festival in Kumaon. Even today, children make sweet treats, string them into garlands and call the crows to come and eat."
+    ],
+    "hi": [
+     "बहुत समय पहले कुमाऊँ की पहाड़ियों में कल्याण चंद नाम के एक राजा रहते थे। राजा और रानी कई वर्ष से संतान की इच्छा रखते थे। आखिरकार उनके घर एक बेटा पैदा हुआ। उन्होंने उसका नाम निर्भय रखा, लेकिन उसकी माँ प्यार से उसे घुघुति बुलाती थी।",
+     "छोटे राजकुमार को महल के बगीचे में खेलना बहुत पसंद था। वह मोतियों की एक सुंदर माला पहनता था। उसकी माँ अक्सर उसके लिए गाती थी—",
+     "“काले कौआ, काले, घुघुति की माला खा ले!”",
+     "महल के पास एक कौआ रहता था। वह धीरे-धीरे छोटे राजकुमार को पहचानने लगा। वह पेड़ की डाल पर बैठकर उसे खेलते हुए देखता।",
+     "लेकिन राजा का एक मंत्री स्वयं राजा बनना चाहता था। उसने चुपके से एक योजना बनाई। एक दिन जब महल में सब लोग व्यस्त थे, तो उसने छोटे राजकुमार का अपहरण कर लिया।",
+     "मंत्री घुघुति को बहुत दूर ले गया और एक जगह छिपा दिया। यात्रा के दौरान कौआ उनके पीछे-पीछे उड़ता रहा। उसने राजकुमार के गले में चमकती हुई माला देखी। वह नीचे आया और अपनी चोंच में माला लेकर उड़ गया।",
+     "कौआ माला लेकर महल की ओर लौट आया। राजा के पहरेदारों ने उसे देखा और माला को पहचान लिया। वे सोचने लगे कि राजकुमार की माला यहाँ कैसे पहुँची। वे कौए के पीछे-पीछे चल पड़े और जल्द ही उस जगह पहुँच गए जहाँ राजकुमार को छिपाकर रखा गया था।",
+     "पहरेदारों ने घुघुति को सुरक्षित बचा लिया और उसे महल वापस ले आए। राजा अपने बेटे को देखकर बहुत खुश हुए। उन्होंने कौए को धन्यवाद दिया, क्योंकि उसी की मदद से उनका बेटा मिल पाया था।",
+     "राजकुमार के लौटने की खुशी में राजा ने सबको पक्षियों के लिए मीठे पकवान बनाने को कहा। लोगों ने आटे से छोटी-छोटी मिठाइयाँ बनाईं और कौओं को खिलाईं।",
+     "धीरे-धीरे यह परंपरा कुमाऊँ के घुघुतिया त्योहार का हिस्सा बन गई। आज भी बच्चे मीठे घुघुते बनाते हैं, उनकी मालाएँ पहनते हैं और कौओं को बुलाकर खिलाते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the Kumaon hills, there once ruled a king named Kalyan Chand. He and his queen had waited many years for a child. When a son was finally born, they named him Nirbhay Chand. The queen, however, called him Ghughuti, a name that became dear to everyone in the palace.",
+     "Ghughuti was a cheerful child. He loved the palace gardens and often played outside wearing a necklace of shining beads. His mother had a special way of calming him whenever he cried. She would sing a little rhyme inviting a black crow to come and eat from Ghughuti’s necklace.",
+     "A crow that lived near the palace grew familiar with the child. It often perched on a tree and watched him play. Over time, it seemed to recognise the queen’s voice and the little prince’s movements.",
+     "Meanwhile, one of the king’s ministers had begun to dream of taking the throne. He believed that if the prince disappeared, he might gain control of the kingdom. He therefore planned to kidnap Ghughuti.",
+     "One day, when the palace was distracted, the minister’s men carried the child away. They travelled beyond the town and hid him in a distant place. But the crow had noticed the child being taken and followed them through the air.",
+     "As Ghughuti sat in hiding, the crow spotted the shining necklace around his neck. It swooped down, picked up the necklace and flew away with it.",
+     "The crow returned towards the palace, where the guards noticed the familiar beads in its beak. They remembered that the prince always wore that necklace. Realising that something was wrong, they followed the bird.",
+     "The crow led them along the route taken by the kidnappers. At last, the guards found the place where Ghughuti was being held. They rescued him and brought him safely back to the palace.",
+     "The king was filled with relief and gratitude. The minister’s plot was uncovered, and he was punished for his betrayal. The king also ordered that special sweets be prepared and offered to crows in celebration of his son’s return.",
+     "The story is remembered in connection with the Kumaoni festival of Ghughutiya. On this day, children wear garlands of sweet flour treats and call the crows to come and eat. The crow is welcomed as a guest and remembered as the bird that helped bring Ghughuti home."
+    ],
+    "hi": [
+     "कुमाऊँ की पहाड़ियों में कभी कल्याण चंद नाम के राजा का शासन था। राजा और रानी ने कई वर्ष तक संतान की प्रतीक्षा की। जब उनके घर बेटा पैदा हुआ, तो उसका नाम निर्भय चंद रखा गया। लेकिन रानी उसे प्यार से घुघुति कहकर बुलाती थीं। धीरे-धीरे यह नाम पूरे महल में लोकप्रिय हो गया।",
+     "घुघुति एक चंचल और हँसमुख बच्चा था। उसे महल के बगीचे में खेलना बहुत पसंद था। वह अक्सर चमकते मोतियों की माला पहनकर बाहर खेलता। जब भी वह रोता, उसकी माँ एक प्यारी-सी तुकबंदी गातीं और काले कौए को बुलातीं कि वह घुघुति की माला से मिठाई खा ले।",
+     "महल के पास रहने वाला एक कौआ उस बच्चे से परिचित हो गया था। वह अक्सर पेड़ पर बैठकर उसे खेलते हुए देखता। समय के साथ वह रानी की आवाज़ और राजकुमार की गतिविधियों को पहचानने लगा।",
+     "इसी बीच राजा का एक मंत्री सिंहासन पाने का सपना देखने लगा। उसे लगा कि यदि राजकुमार गायब हो जाए, तो वह राज्य पर अधिकार कर सकता है। इसलिए उसने घुघुति के अपहरण की योजना बनाई।",
+     "एक दिन जब महल में सभी लोग व्यस्त थे, मंत्री के लोगों ने बच्चे को चुपचाप उठा लिया। वे उसे नगर से दूर एक जगह ले गए और वहाँ छिपा दिया। लेकिन कौए ने बच्चे को ले जाते हुए देख लिया था। वह आसमान में उड़ता हुआ उनके पीछे-पीछे गया।",
+     "घुघुति जिस जगह छिपा था, वहाँ कौए ने उसके गले में चमकती हुई माला देखी। वह झपट्टा मारकर नीचे आया, माला अपनी चोंच में दबाई और उड़ गया।",
+     "कौआ महल की ओर लौटा। पहरेदारों ने उसकी चोंच में वही माला देखी जिसे राजकुमार हमेशा पहना करता था। उन्हें याद था कि वह माला घुघुति के गले में थी। उन्हें संदेह हुआ कि कोई अनहोनी हुई है, इसलिए वे कौए के पीछे चल पड़े।",
+     "कौआ उन्हें उसी रास्ते पर ले गया जिस रास्ते से अपहरण करने वाले लोग गए थे। आखिरकार पहरेदार उस जगह पहुँच गए जहाँ घुघुति को छिपाकर रखा गया था। उन्होंने उसे बचाया और सुरक्षित महल वापस ले आए।",
+     "राजा ने राहत की साँस ली। मंत्री की साज़िश का पर्दाफाश हो गया और उसे उसके विश्वासघात की सज़ा मिली। अपने बेटे की वापसी की खुशी में राजा ने विशेष मिठाइयाँ बनवाने और कौओं को खिलाने का आदेश दिया।",
+     "यह कहानी कुमाऊँ के घुघुतिया त्योहार से जुड़ी हुई है। इस दिन बच्चे मीठे आटे के पकवानों की मालाएँ पहनते हैं और कौओं को बुलाकर खिलाते हैं। कौए का स्वागत एक अतिथि की तरह किया जाता है, क्योंकि लोककथा में उसी पक्षी ने घुघुति को उसके घर वापस पहुँचाने में मदद की थी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in the Kumaon region, King Kalyan Chand and his queen ruled a prosperous kingdom. They had long hoped for a child, and when a son was finally born, the palace celebrated. The prince was named Nirbhay Chand, but his mother called him Ghughuti, a name she used with affection.",
+     "Ghughuti grew up surrounded by care. He loved the gardens and often played outdoors, wearing a necklace of shining beads. Whenever he became restless or began to cry, his mother sang a familiar rhyme calling a black crow to come and eat from his necklace. A crow that lived near the palace gradually became accustomed to the child and the queen’s song.",
+     "The kingdom, however, was not free from ambition. One of the king’s ministers wanted the throne for himself. He believed that the disappearance of the young prince would weaken the royal family and create an opportunity for him to seize power. He secretly arranged for Ghughuti to be abducted.",
+     "The child was carried away from the palace and hidden at a distant place. The crow witnessed the abduction and followed the men from above. When it found Ghughuti, it noticed the familiar necklace around his neck. The bird swooped down, seized the necklace in its beak and flew back towards the palace.",
+     "The guards recognised the necklace. They knew that it belonged to the prince and understood that the bird might have returned from the place where he was being held. Rather than dismissing the sight as a coincidence, they followed the crow.",
+     "The bird led them beyond the palace grounds and towards the place where the child had been hidden. The guards searched the area and found Ghughuti. They rescued him and returned him to his parents.",
+     "The king was overjoyed. The minister’s conspiracy was exposed, and the king ordered that he be punished. To celebrate the prince’s safe return, the king asked the people to prepare special sweet offerings for the crows. The bird that had helped recover Ghughuti was to be remembered with gratitude.",
+     "The legend is associated with the Kumaoni festival of Ghughutiya, celebrated around Makar Sankranti and Uttarayani. Children prepare small sweet flour treats called ghughute, string them into garlands and wear them around their necks. They then call the crows with a traditional rhyme and offer them the sweets.",
+     "The festival custom gives the story a life beyond the page. Each year, the call to the crow recalls a tale in which a small bird played a decisive role in reuniting a family. The story invites us to notice the value of creatures often overlooked and to remember that help may come from the most unexpected places."
+    ],
+    "hi": [
+     "बहुत समय पहले कुमाऊँ क्षेत्र में राजा कल्याण चंद और रानी का शासन था। वे लंबे समय से संतान की कामना कर रहे थे। जब उनके घर पुत्र पैदा हुआ, तो पूरे महल में उत्सव मनाया गया। राजकुमार का नाम निर्भय चंद रखा गया, लेकिन उसकी माँ प्यार से उसे घुघुति कहती थीं।",
+     "घुघुति का बचपन स्नेह और देखभाल के बीच बीता। उसे महल के बगीचे में खेलना बहुत पसंद था। वह अक्सर चमकते मोतियों की माला पहनकर बाहर खेलता। जब भी वह बेचैन होता या रोने लगता, उसकी माँ एक परिचित तुकबंदी गातीं और काले कौए को बुलातीं कि वह उसकी माला से मिठाई खा ले। महल के पास रहने वाला एक कौआ धीरे-धीरे बच्चे और रानी के गीत से परिचित हो गया।",
+     "लेकिन राज्य महत्वाकांक्षा से मुक्त नहीं था। राजा का एक मंत्री स्वयं सिंहासन पर बैठना चाहता था। उसे लगा कि यदि छोटा राजकुमार गायब हो जाए, तो राजपरिवार कमज़ोर पड़ जाएगा और उसे सत्ता हथियाने का अवसर मिल जाएगा। उसने गुप्त रूप से घुघुति के अपहरण की योजना बनाई।",
+     "बच्चे को महल से दूर ले जाकर एक सुनसान जगह पर छिपा दिया गया। कौए ने अपहरण होते देखा और आसमान से उन लोगों का पीछा किया। जब उसे घुघुति मिला, तो उसने उसके गले में वही परिचित माला देखी। वह झपट्टा मारकर नीचे आया, माला अपनी चोंच में दबाई और महल की ओर उड़ गया।",
+     "पहरेदारों ने माला को पहचान लिया। वे जानते थे कि वह राजकुमार की है। उन्हें लगा कि शायद कौआ उसी जगह से लौटा है जहाँ बच्चे को रखा गया है। उन्होंने इस घटना को संयोग समझकर अनदेखा नहीं किया और उसके पीछे चल पड़े।",
+     "कौआ महल की सीमा से बाहर उड़ता हुआ उन्हें उस स्थान तक ले गया जहाँ बच्चे को छिपाया गया था। पहरेदारों ने वहाँ खोज की और घुघुति को ढूँढ़ निकाला। वे उसे बचाकर उसके माता-पिता के पास वापस ले आए।",
+     "राजा की खुशी का ठिकाना नहीं रहा। मंत्री की साज़िश का पर्दाफाश हुआ और राजा ने उसे दंड देने का आदेश दिया। अपने पुत्र की सुरक्षित वापसी के उत्सव में राजा ने लोगों से कौओं के लिए विशेष मीठे पकवान बनाने को कहा। घुघुति को खोजने में मदद करने वाले पक्षी को कृतज्ञता के साथ याद किया जाना था।",
+     "यह लोकगाथा कुमाऊँ के घुघुतिया त्योहार से जुड़ी हुई है, जिसे मकर संक्रांति और उत्तरायणी के आसपास मनाया जाता है। बच्चे आटे से छोटी-छोटी मीठी आकृतियाँ बनाते हैं, जिन्हें घुघुते कहा जाता है। उन्हें माला में पिरोकर बच्चे अपने गले में पहनते हैं। फिर वे पारंपरिक तुकबंदी गाकर कौओं को बुलाते हैं और उन्हें घुघुते खिलाते हैं।",
+     "इस तरह त्योहार की परंपरा कहानी को किताब के पन्नों से बाहर जीवित रखती है। हर साल कौए को बुलाने की आवाज़ उस कथा की याद दिलाती है जिसमें एक छोटे-से पक्षी ने एक परिवार को फिर से मिलाने में महत्वपूर्ण भूमिका निभाई थी। यह कहानी हमें उन जीवों का महत्व समझने का अवसर देती है जिन्हें हम अक्सर अनदेखा कर देते हैं, और याद दिलाती है कि सहायता कभी-कभी सबसे अनपेक्षित जगह से आती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Kumaon, Uttarakhand",
+  "community": "Kumaoni",
+  "tradition": "Kumaoni festival legend linked to the winter festival of Uttarayani (Ghughutiya)."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "The eKumaun account of a Kumaoni legend associated with the Uttarayani (Ghughutiya) festival. The legend does not establish the festival’s historical origin.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-194-023",
+ "meta": [
+  "Kumaoni festival legend · Themes: kindness to animals, loyalty, gratitude, community and tradition",
+  "Source and cultural attribution",
+  "This story is associated with the Kumaon region and the winter festival of Uttarayani, also called Ghughutiya. The eKumaun account records a local legend about King Kalyan Chand’s",
+  "son, Nirbhay Chand, affectionately called Ghughuti by his mother. A crow helps expose the minister’s kidnapping plot by carrying away the child’s necklace.",
+  "Ghughutiya Festival Story+1",
+  "During the festival, children wear garlands of ghughute—sweet fried or baked flour treats—and call crows to eat them. The familiar call includes “Kaale kauwa kaale, ghughuti mala kha le” (“Come, black crow, come; eat the ghughuti from my garland”). The precise historical origins of the festival are not established by the legend; it is best presented as an explanation traditionally associated with the custom, not as verified history.",
+  "Ghughutiya Festival Story+1",
+  "Adaptation note: The source legend ends with a violent punishment for the minister. I have replaced this with a non-graphic ending in which the minister is captured and punished by the king. The central plot—the child’s abduction, the crow taking the necklace, and the necklace leading the search party to the child—is retained."
+ ]
+}

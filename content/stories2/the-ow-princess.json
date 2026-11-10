@@ -1,0 +1,290 @@
+{
+ "id": "the-ow-princess",
+ "state": "as",
+ "title": "The Ow Princess",
+ "titleHi": "ओउ राजकुमारी",
+ "genre": "Fruit-bride tale",
+ "levelTitles": {
+  "1": {
+   "en": "The Ow Princess",
+   "hi": "ओउ राजकुमारी"
+  },
+  "2": {
+   "en": "The Ow Princess",
+   "hi": "ओउ राजकुमारी"
+  },
+  "3": {
+   "en": "The Ow Princess",
+   "hi": "ओउ राजकुमारी"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "A king once had two queens. On the same day, the older queen had a baby boy, but the younger queen had a strange round fruit called an ow. She cried and threw it onto the rubbish heap. But every time she looked up, the ow rolled back to her side!",
+     "One noon, the ow rolled down to the river steps. A young prince was fishing nearby. Out of the fruit stepped a beautiful girl, who bathed in the river. She shone so brightly that the whole bank lit up. Then she dried her hair, slipped back into the ow, and rolled home.",
+     "The prince dropped his rod and ran to the palace. He shut himself in the sulking room. \"I will marry the ow,\" he said.",
+     "\"Impossible!\" said his parents. But he would not change his mind. At last the king sent a proposal. The ow's mother wept, thinking they were making fun of her. But the king asked again, so she washed the ow and gave it in marriage.",
+     "That night the prince left some dinner beside the bed. While he slept, the girl crept out of the ow, ate it, and went back in. In the morning the plate was empty! The prince could not guess why, and he grew sad.",
+     "One day a beggar woman came for rice. \"Why so sad, child?\" He told her everything.",
+     "\"The girl in the ow is your princess,\" she said. \"Tonight, light a bright fire of rice husk. Put rice, banana and curd by your bed. Snore as if you are asleep. When she steps out to eat, throw the ow into the fire. She will faint. Rub a paste of rice, banana and curd on her head, and she will wake.\"",
+     "The prince gave the old woman a gift and did as she said. The ow burned. The girl woke up, safe and well, and stayed with him.",
+     "The king and queen were overjoyed. Both families celebrated, and the prince and princess were married again with great pomp."
+    ],
+    "hi": [
+     "एक राजा की दो रानियाँ थीं। एक ही दिन बड़ी रानी ने एक बेटे को जन्म दिया, पर छोटी रानी को \"ओउ\" नाम का एक अजीब गोल फल हुआ। वह रोई और उसे कूड़े के ढेर पर फेंक आई। पर जब भी वह नज़र उठाती, ओउ लुढ़ककर उसके पास आ जाता!",
+     "एक दोपहर ओउ लुढ़कता हुआ नदी के घाट पर पहुँचा। पास ही एक राजकुमार मछली पकड़ रहा था। फल से एक सुंदर लड़की निकली और नदी में नहाने लगी। वह इतना चमक रही थी कि सारा किनारा जगमगा उठा। फिर उसने धूप में बाल सुखाए, ओउ में लौट गई और लुढ़ककर घर चली गई।",
+     "राजकुमार ने बंसी फेंकी और भागकर महल पहुँचा। उसने ख़ुद को रूठने वाले कमरे में बंद कर लिया। \"मैं ओउ से ब्याह करूँगा,\" वह बोला।",
+     "\"असंभव!\" माता-पिता ने कहा। पर वह नहीं माना। आख़िर राजा ने रिश्ता भिजवाया। ओउ की माँ रो पड़ी, उसे लगा कि उसका मज़ाक उड़ाया जा रहा है। पर राजा ने फिर कहा, तो उसने ओउ को धोकर ब्याह में दे दिया।",
+     "उस रात राजकुमार ने अपने खाने में से कुछ बिस्तर के पास छोड़ दिया। जब वह सो गया, लड़की ओउ से चुपके से निकली, खाना खा गई और फिर भीतर चली गई। सुबह थाली ख़ाली मिली! राजकुमार कारण न जान पाया और उदास रहने लगा।",
+     "एक दिन एक भिखारिन चावल माँगने आई। \"बेटा, इतने उदास क्यों हो?\" उसने सारी बात बता दी।",
+     "\"ओउ में तुम्हारी राजकुमारी है,\" वह बोली। \"आज रात धान की भूसी की तेज़ आग जलाओ। बिस्तर के पास चावल, केला और दही रखो। ऐसे खर्राटे लो जैसे सो रहे हो। जब वह खाने निकले, ओउ को आग में डाल दो। वह बेहोश हो जाएगी। चावल, केले और दही की लुगदी उसके सिर पर लगा दो, वह जाग जाएगी।\"",
+     "राजकुमार ने भिखारिन को इनाम दिया और वैसा ही किया। ओउ जल गया। लड़की जागी, सही-सलामत, और उसके साथ रही।",
+     "राजा-रानी ख़ुशी से फूले न समाए। दोनों परिवारों ने जश्न मनाया और राजकुमार-राजकुमारी का ब्याह धूमधाम से फिर हुआ।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, a king had two queens, and both were expecting. On the same day, the older queen gave birth to a baby boy. The younger queen's baby was not a baby at all but a small, round, sour fruit called an ow. She wept, and flung it onto the rubbish heap. Yet whenever she turned her back, the ow came rolling after her, and no amount of throwing could keep it away. The servants whispered about it in the corridors, and the queen began to feel both shame and a strange, stubborn love.",
+     "One noon, with the palace quiet, the ow rolled down to the river steps. A prince was fishing close by, and he saw something astonishing. A beautiful girl climbed out of the fruit and bathed in the river. Her beauty seemed to light up the whole bank. When she had dried her hair in the sun, she slipped back inside and rolled away. A ripple of light seemed to linger on the water where she had stood.",
+     "The prince could think of nothing else. He dropped his rod, hurried home, and locked himself in the sulking room, where royal children went when they were upset. His worried parents hunted for him everywhere before they found him there, lying in misery.",
+     "\"What is wrong?\" they asked.",
+     "\"I want to marry the ow from that king's palace,\" he said.",
+     "They laughed, then begged, then argued. The queen stroked his hair, but he only stared at the floor. But he would not budge. At last, very unwillingly, the king sent a proposal. The ow's mother cried, certain they were laughing at her, but the king asked again and again. In the end she washed the fruit with care and sent it to the wedding.",
+     "At night, the prince shared his room with the ow. Each evening he left a few mouthfuls of his dinner beside him. As soon as he slept, the girl slipped out, ate them, and slipped back. By morning the plate was always clean. The prince could not guess why, and he grew quiet and sad. He picked at his food and stared at the sulking-room door as if it held an answer.",
+     "One day a beggar woman came to the door for rice. \"Why such a long face, child?\" she asked. He told her the whole story.",
+     "\"The girl you want is inside that fruit,\" she said. \"Tonight, build a blazing fire of rice husk in your room. Put a bowl of rice, banana and curd beside your bed. Then lie down and snore loudly, as if you were asleep. When she steps out to eat, leap up and throw the fruit into the fire. She will faint. Then spread a paste of that rice, banana and curd on her head, and she will wake.\"",
+     "The prince thanked her with a handsome gift and did exactly as she said. The ow crackled in the flames. The girl fell, still and pale, and he gently tended her. Soon she opened her eyes, free of the fruit forever.",
+     "The king and queen were wild with joy. They sent word to the girl's parents, who rejoiced too. Then the prince and the princess were married all over again, in grand style."
+    ],
+    "hi": [
+     "बहुत पहले एक राजा की दो रानियाँ थीं और दोनों गर्भवती थीं। एक ही दिन बड़ी रानी ने बेटे को जन्म दिया। छोटी रानी का बच्चा बच्चा नहीं, बल्कि \"ओउ\" नाम का एक छोटा, गोल, खट्टा फल था। वह रोई और उसे कूड़े के ढेर पर फेंक दिया। पर जब भी वह पीठ फेरती, ओउ लुढ़कता हुआ उसके पीछे आ जाता, और कितना भी फेंको, दूर न रहता। दासियाँ गलियारों में इसकी चर्चा करतीं, और रानी के मन में शर्म के साथ एक अजीब, ज़िद्दी ममता भी जागने लगी।",
+     "एक दोपहर, जब महल शांत था, ओउ लुढ़कता हुआ नदी के घाट पर पहुँचा। पास ही एक राजकुमार मछली पकड़ रहा था और उसने कुछ अद्भुत देखा। फल से एक सुंदर लड़की निकली और नदी में नहाई। उसकी सुंदरता से सारा किनारा जगमगा उठा। धूप में बाल सुखाकर वह भीतर लौट गई और लुढ़क गई। जहाँ वह खड़ी थी, वहाँ पानी पर रोशनी की एक लहर देर तक ठहरी रही।",
+     "राजकुमार को और कुछ सूझता ही न था। उसने बंसी फेंकी, महल भागा और ख़ुद को रूठने वाले कमरे में बंद कर लिया, जहाँ राजघराने के बच्चे दुखी या नाराज़ होने पर जाते थे। उसके चिंतित माता-पिता ने सब जगह ढूँढ़ा और आख़िर उसे वहीं पड़ा पाया।",
+     "\"क्या बात है?\" उन्होंने पूछा।",
+     "\"मैं उस राजा के महल वाले ओउ से ब्याह करूँगा,\" वह बोला।",
+     "वे हँसे, फिर गिड़गिड़ाए, फिर समझाया। रानी माँ ने उसके सिर पर हाथ फेरा, पर वह चुप रहा। पर वह टस से मस न हुआ। आख़िर बड़ी अनिच्छा से राजा ने रिश्ता भिजवाया। ओउ की माँ रो पड़ी, उसे पक्का लगा कि उसका मज़ाक बनाया जा रहा है। पर राजा बार-बार कहता रहा। आख़िर उसने फल को बड़े जतन से धोया और ब्याह के लिए भेज दिया।",
+     "रात को राजकुमार ने ओउ के साथ कमरा बाँटा। हर शाम वह अपने खाने के कुछ कौर पास छोड़ देता। उसके सोते ही लड़की निकलती, उन्हें खाती और भीतर लौट जाती। सुबह थाली साफ़ मिलती। राजकुमार कारण न समझ पाया और चुप और उदास रहने लगा। वह खाने को कुरेदता रहता और रूठने वाले कमरे के दरवाज़े को यूँ ताकता, मानो जवाब वहीं छिपा हो।",
+     "एक दिन एक भिखारिन चावल माँगने द्वार पर आई। \"इतना लंबा मुँह क्यों, बेटा?\" उसने पूछा। उसने सारी कहानी सुना दी।",
+     "\"जिसे तुम चाहते हो, वह उसी फल के भीतर है,\" वह बोली। \"आज रात कमरे में धान की भूसी की धधकती आग जलाओ। बिस्तर के पास चावल, केला और दही का कटोरा रखो। फिर लेटकर ज़ोर-ज़ोर से खर्राटे लो, जैसे सो रहे हो। जब वह खाने निकले, उछलकर फल को आग में फेंक दो। वह बेहोश हो जाएगी। फिर उसी चावल, केले और दही की लुगदी उसके सिर पर लगा देना, वह होश में आ जाएगी।\"",
+     "राजकुमार ने उसे बढ़िया तोहफ़ा दिया और ठीक वैसा ही किया। ओउ आग में चटका। लड़की निढाल, पीली-सी गिर पड़ी और उसने उसकी सेवा की। जल्द ही उसने आँखें खोलीं, फल से हमेशा के लिए आज़ाद।",
+     "राजा-रानी की ख़ुशी का ठिकाना न रहा। उन्होंने लड़की के माता-पिता को ख़बर भेजी, जो भी ख़ुश हुए। फिर राजकुमार और राजकुमारी का ब्याह दोबारा बड़ी शान से हुआ।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In an Assamese grandmother's tale, a king had two queens, both with child. They gave birth on the same day. The elder queen had a healthy son. The younger, to her shame and sorrow, had a round, sour fruit called an ow, the kind some call the elephant apple. In",
+     "despair she threw it onto the rubbish heap. But when she went about her work or lay down to sleep, the fruit rolled back to her side, and however far she hurled it, it always came home.",
+     "One noon, when nobody was about, the ow trundled down to the bathing steps on the river. A prince was fishing close by. He looked up and saw a young woman step out of the fruit and wade into the water. She was so beautiful that the whole riverbank seemed to glow. After drying her long hair in the sun, she climbed back inside the ow and rolled away to her mother.",
+     "The prince was lost. He threw down his rod, hurried to the palace, and shut himself in the roh-ghar, the sulking room where a member of a royal family retreated in grief or temper. His parents searched everywhere and found him lying there in despair. At last he told them: he must marry the rolling ow of such-and-such a king's household.",
+     "They tried to console him, and then to scold him. Marrying a fruit was absurd. But the prince was obstinate, and his father, reluctantly, sent a formal proposal. The fruit's mother wept bitterly, sure that she was being mocked. Yet the king would not stop asking, and eventually she washed the ow with care and gave it away. The wedding followed royal custom, and the prince took his strange bride home.",
+     "That night, after dinner, the prince shared his bedroom with the ow. He had a habit of leaving some of the food his mother sent him. While he slept, the maiden crept out of her shell, ate what he had left, and slipped back. At dawn the plate was always bare, and the prince, baffled, grew silent and withdrawn.",
+     "One day a beggar woman came for a handful of rice. Seeing his face, she said, \"Child, what is weighing on you? You have a bride, yet nobody in this house has ever seen her.\" Her kindness opened his heart, and he told her everything.",
+     "\"The princess you want lives inside the ow,\" she said. \"Hear my plan. Tonight, light a roaring fire of rice husk in your room. Beside you, put a bowl of rice with banana and curd. Lie down and snore, as if you had fallen into a deep sleep. When she comes out to eat, leap up and push the fruit into the flames. She will faint and fall to the floor. Make a paste of that rice, banana and curd, and bind it round her head. In no time she will be well again.\"",
+     "The prince gave her a generous reward and carried out her instructions that same night. The shell burned away. The maiden collapsed, and he bound her head as he had been told. Soon she woke, and the fruit that had hidden her was gone for good.",
+     "At daybreak the king and queen heard what had happened, and were overjoyed. Messengers hurried to the other royal couple, who shared their delight that this strange match had ended so well. And the prince and his princess, now truly wife and husband, were married all over again, with music, feasting and every grand ceremony the court could offer."
+    ],
+    "hi": [
+     "असम की दादी-नानी की एक कहानी में एक राजा की दो रानियाँ थीं, दोनों गर्भवती। दोनों ने एक ही दिन संतान को जन्म दिया। बड़ी रानी को स्वस्थ बेटा हुआ। छोटी रानी को, अपनी लज्जा और दुख के साथ, \"ओउ\" नाम का एक गोल, खट्टा फल हुआ, जिसे कुछ लोग हाथी-सेब भी कहते हैं। निराशा में उसने उसे कूड़े के ढेर पर फेंक",
+     "दिया। पर जब वह काम में लगती या सोने जाती, फल लुढ़ककर उसके पास लौट आता, और वह उसे कितनी भी दूर फेंके, वह घर ही आ जाता।",
+     "एक दोपहर, जब कोई आसपास न था, ओउ लुढ़कता हुआ नदी के स्नान-घाट पर पहुँचा। पास ही एक राजकुमार मछली पकड़ रहा था। उसने ऊपर देखा तो एक युवती फल से निकलकर पानी में उतर रही थी। वह इतनी सुंदर थी कि पूरा किनारा दमक उठा। लंबे बाल धूप में सुखाकर वह ओउ के भीतर लौट गई और लुढ़ककर अपनी माँ के पास चली गई।",
+     "राजकुमार मोहित हो गया। उसने बंसी पटकी, महल दौड़ा और ख़ुद को \"रोह-घर\" में बंद कर लिया, वह रूठने का कमरा, जहाँ राजपरिवार का कोई सदस्य दुख या क्रोध में जा बैठता था। माता-पिता ने हर जगह खोजा और उसे वहाँ निराश पड़ा पाया। आख़िर उसने बताया कि उसे फलाँ राजा के घर के लुढ़कते ओउ से ही ब्याह करना है।",
+     "उन्होंने पहले समझाया, फिर डाँटा। फल से ब्याह एक बेतुकी बात थी। पर राजकुमार अड़ा रहा, और उसके पिता ने बेमन से औपचारिक प्रस्ताव भिजवा दिया। फल की माँ फूट-फूटकर रोई, उसे विश्वास था कि उसकी हँसी उड़ाई जा रही है। पर राजा बार-बार कहता रहा, और आख़िर उसने ओउ को जतन से धोकर विदा कर दिया। ब्याह राजसी रीति से हुआ और राजकुमार अपनी अनोखी दुल्हन को घर ले आया।",
+     "उस रात खाने के बाद राजकुमार ने अपना कमरा ओउ के साथ बाँटा। उसे आदत थी कि माँ का भेजा खाना कुछ छोड़ देता था। सोने पर युवती अपने खोल से निकलती, बचा खाना खाती और भीतर लौट जाती। सुबह थाली ख़ाली मिलती, और राजकुमार, हैरान, चुप और उदास रहने लगा।",
+     "एक दिन एक भिखारिन मुट्ठी भर चावल माँगने आई। उसका चेहरा देखकर वह बोली, \"बेटा, किस बात का बोझ है? तुम बहू तो लाए हो, पर इस घर में किसी ने उसे देखा तक नहीं।\" उसकी ममता से उसका मन खुल गया और उसने सब कुछ बता दिया।",
+     "\"जिस राजकुमारी को तुम चाहते हो, वह ओउ के भीतर रहती है,\" वह बोली। \"मेरी योजना सुनो। आज रात अपने कमरे में धान की भूसी की धधकती आग जलाओ। पास में चावल, केले और दही का कटोरा रख लो। लेटकर ऐसे खर्राटे लो, जैसे गहरी नींद में हो। जब वह खाने निकले, उछलकर फल को लपटों में झोंक दो। वह बेहोश होकर फ़र्श पर गिर पड़ेगी। उसी चावल, केले और दही की लुगदी बनाकर उसके सिर पर बाँध दो। जल्द ही वह ठीक हो जाएगी।\"",
+     "राजकुमार ने उसे उदारता से इनाम दिया और उसी रात उसकी बात पर अमल किया। खोल जलकर राख हो गया। युवती गिर पड़ी, उसने उसका सिर बाँध दिया, और जल्द ही वह जाग उठी। जिस फल ने उसे छिपा रखा था, वह हमेशा के लिए चला गया।",
+     "भोर में राजा-रानी को सब पता चला और वे आनंद से भर उठे। दूत दौड़कर दूसरे राजा-रानी के पास पहुँचे, जो इस अनोखे रिश्ते के सुखद अंत से उतने ही ख़ुश हुए। और राजकुमार और उसकी राजकुमारी, अब सच्चे पति-पत्नी, संगीत, भोज और हर शाही रस्म के साथ एक बार फिर ब्याहे गए।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Assam and the Brahmaputra valley",
+  "community": "Assamese",
+  "tradition": "Fruit-bride tale: a princess born from an ow (elephant apple) fruit."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Assamese oral tradition in Burhi Aair Sadhu (Grandmother’s Tales), Assamese title “Ou Kuwori”, in the English edition titled Folk Tales of Assam.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "scenes7": [
+  "assets/stories/the-ow-princess/the-ow-princess-scene-1.webp",
+  "assets/stories/the-ow-princess/the-ow-princess-scene-2.webp",
+  "assets/stories/the-ow-princess/the-ow-princess-scene-3.webp",
+  "assets/stories/the-ow-princess/the-ow-princess-scene-4.webp",
+  "assets/stories/the-ow-princess/the-ow-princess-scene-5.webp",
+  "assets/stories/the-ow-princess/the-ow-princess-scene-6.webp",
+  "assets/stories/the-ow-princess/the-ow-princess-scene-7.webp"
+ ],
+ "meta": [
+  "Glossary",
+  "● Ow (ओउ): a sour fruit (Dillenia indica), also called elephant apple. ● Ghat (घाट): steps leading down to a river, used for bathing and fishing. ● Roh-ghar (रोह-घर): the \"sulking room\" in a royal household where an upset member withdrew. ● Rice husk (धान की भूसी): farm by-product that burns with a strong, steady flame."
+ ],
+ "tails": []
+}

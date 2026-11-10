@@ -1,0 +1,559 @@
+{
+ "id": "the-flowering-tree",
+ "state": "ka",
+ "title": "The Flowering Tree",
+ "titleHi": "फूलों वाला पेड़",
+ "summary": "Two sisters sell the blossoms of a magical flowering tree to help their poor family. When a prince’s carelessness harms the elder sister, love, patience and gentle care help her heal.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Kannada women’s folktale, Karnataka",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses abstract and formal words (prosperity, livelihood, extraordinary, transformation, carelessness, compassion), long sentences that join several ideas, and themes of consequence and responsibility, which matches Level 3 more than the simpler Level 2.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a poor widow lived with her two daughters. The older girl was kind and worked hard. The younger girl loved her family very much.",
+     "One day, the older girl found she had a magic gift. Her younger sister poured water on her. She turned into a beautiful tree with flowers.",
+     "The tree had small white flowers. They smelled very sweet. The younger sister picked them gently. She never broke a branch. Then she poured water again, and her sister became a girl once more.",
+     "The sisters sold the flowers in the market. The money bought food for their mother. Their home became happier and more comfortable.",
+     "One day, Mother wondered about the money. “Girls, where does it come from?” she asked. “Are you doing something wrong?”",
+     "The older girl felt nervous. Then she told her secret. Mother could hardly believe it.",
+     "So the sisters went outside. The younger girl poured water. The older girl turned into a tree! Mother stared in wonder. Then she felt glad. The secret could help their family.",
+     "A prince heard about the lovely flowers. He wanted to know where they came from. One day he hid and watched the sisters. He saw the girl turn into a tree. He loved her and wanted to marry her.",
+     "The prince asked the family. Mother said yes. The girl became a princess. She was happy in the palace for a while. Sometimes she still turned into a tree to give flowers.",
+     "One day, the prince asked her to become a tree for him. She said yes. But she gave a warning. “Be gentle. My branches are soft and weak. If they break, I will be badly hurt.” The prince promised to be gentle.",
+     "But he forgot his promise. He pulled the branches hard. Some branches broke. The princess was badly hurt.",
+     "The prince poured water on the tree. The princess became a girl again, but she was badly hurt. She could not move or speak as before.",
+     "The prince was shocked and sorry. He had been careless. He had hurt the one he loved.",
+     "The princess went back to her mother’s house. Her younger sister looked after her with love. She knew the secret of the tree. She knew the broken branches needed great care. She tended her sister gently, and the princess got better.",
+     "After some time, the prince came looking for her. He felt very ashamed. He begged her to forgive him. The younger sister helped them come together again.",
+     "Together they did the magic once more. They were careful with every branch. Slowly, the princess grew strong again.",
+     "The prince and princess were together again. He learned that love needs respect, patience and care. The two sisters stayed close, closer than ever.",
+     "Moral: Love needs respect and care. A lovely thing can be ruined by carelessness. But patience and kindness can heal it."
+    ],
+    "hi": [
+     "बहुत पहले एक गरीब विधवा अपनी दो बेटियों के साथ रहती थी। बड़ी बेटी दयालु थी और मेहनत करती थी। छोटी बेटी अपने परिवार से बहुत प्यार करती थी।",
+     "एक दिन बड़ी लड़की को पता चला कि उसके पास जादू है। उसकी छोटी बहन उस पर पानी डालती थी। तब वह फूलों वाला सुंदर पेड़ बन जाती थी।",
+     "पेड़ पर छोटे सफ़ेद फूल थे। वे बहुत मीठी खुशबू देते थे। छोटी बहन उन्हें धीरे से तोड़ती थी। वह कभी कोई डाली नहीं तोड़ती थी। फिर वह दोबारा पानी डालती, और उसकी बहन फिर से लड़की बन जाती।",
+     "बहनें फूल बाज़ार में बेचती थीं। पैसों से माँ के लिए खाना आता था। उनका घर और खुशहाल और आरामदायक हो गया।",
+     "एक दिन माँ ने पैसों के बारे में सोचा। “बेटियो, ये पैसे कहाँ से आते हैं?” उसने पूछा। “क्या तुम कुछ गलत कर रही हो?”",
+     "बड़ी लड़की घबरा गई। फिर उसने अपना राज़ बता दिया। माँ को यकीन नहीं हुआ।",
+     "तो बहनें बाहर गईं। छोटी ने पानी डाला। बड़ी लड़की पेड़ बन गई! माँ हैरान होकर देखती रही। फिर वह खुश हुई। यह राज़ उनके परिवार की मदद कर सकता था।",
+     "एक राजकुमार ने सुंदर फूलों के बारे में सुना। वह जानना चाहता था कि वे कहाँ से आते हैं। एक दिन उसने छिपकर बहनों को देखा। उसने लड़की को पेड़ बनते देखा। वह उसे चाहने लगा और उससे विवाह करना चाहता था।",
+     "राजकुमार ने परिवार से पूछा। माँ ने हाँ कह दी। लड़की राजकुमारी बन गई। वह कुछ समय महल में खुश रही। कभी-कभी वह अब भी पेड़ बनकर फूल देती थी।",
+     "एक दिन राजकुमार ने उससे कहा कि वह उसके लिए पेड़ बन जाए। उसने हाँ कहा। पर उसने चेतावनी दी। “धीरे से छूना। मेरी डालियाँ कोमल और कमज़ोर हैं। अगर वे टूटीं, तो मुझे बहुत चोट लगेगी।” राजकुमार ने धीरे से छूने का वादा किया।",
+     "पर वह अपना वादा भूल गया। उसने डालियाँ ज़ोर से खींचीं। कुछ डालियाँ टूट गईं। राजकुमारी को बहुत चोट लगी।",
+     "राजकुमार ने पेड़ पर पानी डाला। राजकुमारी फिर लड़की बन गई, पर उसे बहुत चोट लगी थी। वह पहले की तरह चल या बोल नहीं सकती थी।",
+     "राजकुमार सन्न रह गया और उसे बहुत दुख हुआ। उसने लापरवाही की थी। उसने उसी को चोट पहुँचाई थी जिससे वह प्यार करता था।",
+     "राजकुमारी अपनी माँ के घर लौट गई। उसकी छोटी बहन ने प्यार से उसकी देखभाल की। वह पेड़ का राज़ जानती थी। वह जानती थी कि टूटी डालियों को बहुत देखभाल चाहिए। उसने बहन की धीरे से सेवा की, और राजकुमारी ठीक होने लगी।",
+     "कुछ समय बाद राजकुमार उसे ढूँढता हुआ आया। उसे बहुत शर्म आ रही थी। उसने माफ़ी माँगी। छोटी बहन ने उन्हें फिर से मिलाने में मदद की।",
+     "साथ मिलकर उन्होंने फिर जादू किया। उन्होंने हर डाली का ध्यान रखा। धीरे-धीरे राजकुमारी फिर से मज़बूत हो गई।",
+     "राजकुमार और राजकुमारी फिर साथ थे। राजकुमार ने सीखा कि प्रेम में सम्मान, धैर्य और देखभाल चाहिए। दोनों बहनें पास-पास रहीं, पहले से भी ज़्यादा।",
+     "सीख: प्रेम में सम्मान और देखभाल चाहिए। प्यारी चीज़ लापरवाही से बिगड़ सकती है। पर धैर्य और दया उसे ठीक कर सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "widow",
+     "en": "a woman whose husband has died",
+     "hi": "विधवा"
+    },
+    {
+     "w": "gift",
+     "en": "a special power or talent you are given",
+     "hi": "वरदान"
+    },
+    {
+     "w": "branch",
+     "en": "an arm of a tree",
+     "hi": "डाली"
+    },
+    {
+     "w": "market",
+     "en": "a place where people buy and sell",
+     "hi": "बाज़ार"
+    },
+    {
+     "w": "secret",
+     "en": "something you keep hidden",
+     "hi": "राज़"
+    },
+    {
+     "w": "prince",
+     "en": "a king’s son",
+     "hi": "राजकुमार"
+    },
+    {
+     "w": "gentle",
+     "en": "soft and careful, not rough",
+     "hi": "कोमल"
+    },
+    {
+     "w": "careless",
+     "en": "not paying enough attention",
+     "hi": "लापरवाह"
+    },
+    {
+     "w": "ashamed",
+     "en": "feeling bad about something you did",
+     "hi": "शर्मिंदा"
+    },
+    {
+     "w": "forgive",
+     "en": "to stop being angry with someone",
+     "hi": "माफ़ करना"
+    },
+    {
+     "w": "patience",
+     "en": "staying calm while you wait",
+     "hi": "धैर्य"
+    },
+    {
+     "w": "heal",
+     "en": "to get well again",
+     "hi": "ठीक करना"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who",
+     "q": "Who are the people in this story?"
+    },
+    {
+     "k": "Magic",
+     "q": "What happens when the younger sister pours water on her sister?"
+    },
+    {
+     "k": "Mistake",
+     "q": "What did the prince do that hurt the princess?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the prince feel after he hurt her? How do you know?"
+    },
+    {
+     "k": "My life",
+     "q": "Think of a time you had to be gentle with someone or something. What did you do?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once there lived a poor widow with her two daughters. The elder daughter was kind and hardworking, and the younger sister was loving and devoted to the family.",
+     "One day, the elder girl found out that she had a magical gift. When her younger sister poured water over her, she could change into a beautiful flowering tree.",
+     "The tree gave delicate white flowers with a lovely fragrance. The younger sister collected them carefully, without breaking any branches. Then she poured water over the tree again, and her elder sister turned back into a girl.",
+     "The sisters began to sell the flowers in the marketplace. The money helped their mother buy food and other things they needed, and their little home slowly became more comfortable.",
+     "Soon their mother grew curious about all this money. “My daughters, where do you get it?” she asked. “Are you doing something you should not?”",
+     "The elder daughter hesitated, but in the end she explained her secret. Her mother could hardly believe it.",
+     "To show her, the sisters went outside. The younger girl poured water over the elder, and before her mother’s astonished eyes the girl became a magnificent flowering tree. The mother was delighted, because the secret was now a way for the family to earn a living.",
+     "News of the beautiful flowers reached a prince. He wanted to know where they came from, so he secretly watched the sisters one day and saw the amazing change. He fell in love with the elder girl at once and decided to marry her.",
+     "The prince went to the family and asked for her hand. The mother agreed, and the young woman became a princess. For a while she was happy in the palace, and sometimes she still turned into a flowering tree to give her blossoms.",
+     "One day her husband asked her to become the tree so that he could enjoy the flowers. She agreed, but she warned him to be careful. Her branches were delicate, and if they were broken she might suffer terribly. The prince promised to be gentle.",
+     "But as he began picking the flowers, he grew careless. He pulled at the branches and broke several of them. The princess was badly hurt.",
+     "The prince poured water over the tree to bring her back, and she returned with serious injuries. She could no longer move or speak as she had before.",
+     "The prince was horrified at what he had done. He understood that his curiosity and carelessness had caused great suffering to the woman he loved.",
+     "In time the princess went back to her mother’s home, where her younger sister cared for her lovingly. The younger sister knew the secret of the change and knew that the broken branches needed very special care. She tended her elder sister gently and helped her get well.",
+     "After some time the prince came looking for her. He was deeply ashamed and begged her to forgive him. The younger sister helped the two of them come together again.",
+     "Together they carefully did the change once more, making sure every branch was handled gently. Little by little, the princess grew strong again.",
+     "The couple were united, and the prince learned that love needs respect, patience and care. The two sisters stayed devoted to each other, closer than ever.",
+     "Moral: Love must come with respect and care. Something beautiful can be destroyed by carelessness, but patience and kindness can help heal what has been hurt."
+    ],
+    "hi": [
+     "एक बार एक गरीब विधवा अपनी दो बेटियों के साथ रहती थी। बड़ी बेटी दयालु और मेहनती थी, और छोटी बहन प्यारी थी और परिवार के लिए समर्पित थी।",
+     "एक दिन बड़ी लड़की को पता चला कि उसके पास जादुई शक्ति है। जब उसकी छोटी बहन उस पर पानी डालती, तो वह एक सुंदर फूलों वाले पेड़ में बदल जाती थी।",
+     "पेड़ पर नाज़ुक सफ़ेद फूल खिलते थे, जिनकी खुशबू बहुत प्यारी थी। छोटी बहन किसी डाली को तोड़े बिना सावधानी से फूल चुनती। फिर वह पेड़ पर दोबारा पानी डालती और उसकी बड़ी बहन फिर से लड़की बन जाती।",
+     "बहनें फूलों को बाज़ार में बेचने लगीं। उन पैसों से माँ को खाना और ज़रूरी चीज़ें खरीदने में मदद मिली, और उनका छोटा-सा घर धीरे-धीरे ज़्यादा आरामदायक होता गया।",
+     "जल्द ही माँ को इतने पैसों पर जिज्ञासा हुई। “मेरी बेटियो, यह पैसा तुम्हें कहाँ से मिलता है?” उसने पूछा। “क्या तुम कुछ गलत कर रही हो?”",
+     "बड़ी बेटी हिचकिचाई, पर आख़िर में उसने अपना रहस्य बता दिया। माँ को मुश्किल से यकीन हुआ।",
+     "उसे दिखाने के लिए बहनें बाहर गईं। छोटी ने बड़ी पर पानी डाला, और माँ की हैरान आँखों के सामने वह लड़की एक शानदार फूलों वाला पेड़ बन गई। माँ खुश हो गई, क्योंकि यह रहस्य अब परिवार की कमाई का रास्ता बन गया था।",
+     "सुंदर फूलों की खबर एक राजकुमार तक पहुँची। वह जानना चाहता था कि फूल कहाँ से आते हैं, इसलिए एक दिन उसने छिपकर बहनों को देखा और वह अद्भुत बदलाव देख लिया। उसे बड़ी लड़की से तुरंत प्रेम हो गया और उसने उससे विवाह करने की ठान ली।",
+     "राजकुमार परिवार के पास गया और लड़की का हाथ माँगा। माँ मान गई और वह युवती राजकुमारी बन गई। कुछ समय वह महल में खुश रही, और कभी-कभी अब भी फूल देने के लिए फूलों वाला पेड़ बन जाती थी।",
+     "एक दिन उसके पति ने कहा कि वह पेड़ बन जाए, ताकि वह फूलों का आनंद ले सके। वह मान गई, पर उसने उसे सावधान रहने को कहा। उसकी डालियाँ नाज़ुक थीं, और टूट जाएँ तो उसे बहुत कष्ट हो सकता था। राजकुमार ने कोमल रहने का वादा किया।",
+     "पर जब वह फूल तोड़ने लगा, तो लापरवाह हो गया। उसने डालियाँ खींचीं और कई तोड़ दीं। राजकुमारी बुरी तरह घायल हो गई।",
+     "राजकुमार ने उसे वापस लाने के लिए पेड़ पर पानी डाला, और वह गंभीर चोटों के साथ लौटी। अब वह पहले की तरह न चल-फिर सकती थी, न बोल सकती थी।",
+     "राजकुमार अपने किए पर सहम गया। वह समझ गया कि उसकी जिज्ञासा और लापरवाही ने उस स्त्री को बहुत दुख दिया है जिससे वह प्रेम करता था।",
+     "कुछ समय बाद राजकुमारी अपनी माँ के घर लौट आई, जहाँ उसकी छोटी बहन ने प्यार से उसकी देखभाल की। छोटी बहन इस बदलाव का रहस्य जानती थी और जानती थी कि टूटी डालियों को बहुत खास देखभाल चाहिए। उसने कोमलता से बड़ी बहन की सेवा की और उसे ठीक होने में मदद की।",
+     "कुछ समय बाद राजकुमार उसे खोजता हुआ आया। वह बहुत शर्मिंदा था और उसने माफ़ी माँगी। छोटी बहन ने दोनों को फिर से मिलाने में मदद की।",
+     "साथ मिलकर उन्होंने सावधानी से वह बदलाव फिर किया और ध्यान रखा कि हर डाली को कोमलता से सँभाला जाए। धीरे-धीरे राजकुमारी फिर से ताकतवर हो गई।",
+     "दोनों फिर साथ हो गए, और राजकुमार ने सीखा कि प्रेम में सम्मान, धैर्य और देखभाल चाहिए। दोनों बहनें एक-दूसरे के लिए समर्पित रहीं, पहले से भी ज़्यादा करीब।",
+     "सीख: प्रेम के साथ सम्मान और देखभाल ज़रूरी है। कोई सुंदर चीज़ लापरवाही से नष्ट हो सकती है, पर धैर्य और दया से जो चोट पहुँची है उसे ठीक किया जा सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "devoted",
+     "en": "very loving and loyal",
+     "hi": "समर्पित"
+    },
+    {
+     "w": "fragrance",
+     "en": "a sweet smell",
+     "hi": "खुशबू"
+    },
+    {
+     "w": "delicate",
+     "en": "easily broken or hurt",
+     "hi": "नाज़ुक"
+    },
+    {
+     "w": "hesitated",
+     "en": "paused because you were unsure",
+     "hi": "हिचकिचाई"
+    },
+    {
+     "w": "astonished",
+     "en": "very surprised",
+     "hi": "हैरान"
+    },
+    {
+     "w": "magnificent",
+     "en": "very grand and beautiful",
+     "hi": "शानदार"
+    },
+    {
+     "w": "curious",
+     "en": "wanting to know more",
+     "hi": "जिज्ञासु"
+    },
+    {
+     "w": "careless",
+     "en": "not careful",
+     "hi": "लापरवाह"
+    },
+    {
+     "w": "injuries",
+     "en": "hurts to the body",
+     "hi": "चोटें"
+    },
+    {
+     "w": "tended",
+     "en": "took care of",
+     "hi": "देखभाल की"
+    },
+    {
+     "w": "ashamed",
+     "en": "feeling bad about what you did",
+     "hi": "शर्मिंदा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motive",
+     "q": "Why do you think the elder sister hesitated before telling her mother the secret, and why did she tell in the end?"
+    },
+    {
+     "k": "Cause",
+     "q": "What caused the princess to be hurt? What could the prince have done differently?"
+    },
+    {
+     "k": "Choice",
+     "q": "Why do you think the younger sister knew how to help? What did her choices show about her?"
+    },
+    {
+     "k": "Change",
+     "q": "How did the prince change by the end? What shows it?"
+    },
+    {
+     "k": "Meaning",
+     "q": "What does the story say about what real care looks like?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived a poor widow with her two daughters. The elder daughter was kind and hardworking, while the younger sister was equally loving and devoted to her family.",
+     "One day, the elder girl discovered that she possessed a magical gift. When her younger sister poured water over her, she could transform into a beautiful flowering tree.",
+     "The tree produced delicate white flowers that filled the air with a wonderful fragrance. Her younger sister would carefully collect the flowers without breaking any branches. When the flowers had been gathered, she would pour water over the tree again, and her elder sister would return to human form.",
+     "The two sisters began taking the flowers to the marketplace and selling them. The money they earned helped their mother buy food and other necessities. Their little household slowly became more comfortable.",
+     "One day, their mother became curious about their sudden prosperity. “My daughters, where do you get all this money?” she asked. “Are you doing something you should not be doing?”",
+     "The elder daughter hesitated, but eventually explained her secret. Her mother could hardly believe it.",
+     "To demonstrate, the sisters went outside. The younger girl poured water over her elder sister, and before their mother’s astonished eyes, the girl transformed into a magnificent flowering tree. The mother was delighted. Their secret had become a source of livelihood for the family.",
+     "News of the beautiful flowers eventually reached a prince. Curious about their origin, he secretly watched the sisters one day and witnessed the extraordinary transformation. He immediately fell in love with the elder girl and decided to marry her.",
+     "The prince approached the family and asked for her hand in marriage. The mother agreed, and the young woman became a princess. For a while, the princess lived happily in the palace. However, she continued to practise her magical transformation, sometimes turning into a flowering tree to provide beautiful blossoms.",
+     "One day, her husband asked her to transform into the tree so that he could enjoy its flowers. She agreed but warned him that he must handle her carefully. Her branches were delicate, and if they were broken, she might suffer terribly. The prince promised to be gentle.",
+     "But when he began plucking the flowers, he became careless. He pulled at the branches and broke several of them. The princess was badly hurt.",
+     "When the prince poured water over the tree to bring her back to human form, she returned with serious injuries. She could no longer move or speak as she had before.",
+     "The prince was horrified by what he had done. He realised that his curiosity and carelessness had caused great suffering to the woman he loved.",
+     "The princess eventually returned to her mother’s home, where her younger sister cared for her lovingly. The younger sister knew the secret of the transformation and understood that the broken branches had to be treated with extraordinary care. She gently tended to her elder sister and helped her recover.",
+     "After some time, the princess’s husband came searching for her. He was deeply ashamed of his actions and begged her forgiveness. The younger sister helped the couple reunite.",
+     "Together, they carefully repeated the transformation, making sure that every branch was handled gently. Gradually, the princess regained her strength.",
+     "The couple were reunited, and the prince learned that love requires respect, patience and care. The two sisters remained devoted to one another, their bond stronger than ever.",
+     "Moral: Love must be accompanied by respect and care. Something beautiful and precious can be destroyed through carelessness, but patience and compassion can help heal what has been damaged."
+    ],
+    "hi": [
+     "एक समय की बात है, एक गरीब विधवा अपनी दो बेटियों के साथ रहती थी। बड़ी बेटी दयालु और मेहनती थी, और छोटी बहन भी उतनी ही स्नेही थी और अपने परिवार के प्रति समर्पित थी।",
+     "एक दिन बड़ी लड़की को पता चला कि उसके पास एक जादुई शक्ति है। जब उसकी छोटी बहन उस पर पानी डालती, तो वह एक सुंदर फूलों वाले पेड़ में बदल जाती थी।",
+     "उस पेड़ पर नाज़ुक सफ़ेद फूल खिलते थे, जिनकी मनमोहक सुगंध हवा में फैल जाती थी। छोटी बहन किसी भी डाली को तोड़े बिना बड़ी सावधानी से फूल इकट्ठे करती। जब फूल चुन लिए जाते, तो वह पेड़ पर फिर से पानी डालती और उसकी बड़ी बहन अपने इंसानी रूप में लौट आती।",
+     "दोनों बहनें फूलों को बाज़ार ले जाकर बेचने लगीं। जो पैसे मिलते, उनसे माँ को खाना और ज़रूरत की चीज़ें खरीदने में मदद मिलती। उनका छोटा-सा घर धीरे-धीरे अधिक आरामदायक होता गया।",
+     "एक दिन माँ को उनकी अचानक बढ़ी खुशहाली पर जिज्ञासा हुई। “मेरी बेटियो, यह सारा पैसा तुम्हें कहाँ से मिलता है?” उसने पूछा। “क्या तुम कुछ ऐसा कर रही हो जो तुम्हें नहीं करना चाहिए?”",
+     "बड़ी बेटी हिचकिचाई, पर आख़िरकार उसने अपना रहस्य बता दिया। माँ को इस पर मुश्किल से विश्वास हुआ।",
+     "उसे दिखाने के लिए दोनों बहनें बाहर गईं। छोटी ने बड़ी बहन पर पानी डाला और माँ की चकित आँखों के सामने वह लड़की एक शानदार फूलों वाले पेड़ में बदल गई। माँ बहुत खुश हुई। उनका रहस्य अब परिवार की रोज़ी-रोटी का साधन बन गया था।",
+     "सुंदर फूलों की खबर आख़िरकार एक राजकुमार तक पहुँची। उनके स्रोत के बारे में उत्सुक होकर उसने एक दिन छिपकर बहनों को देखा और वह अद्भुत परिवर्तन अपनी आँखों से देखा। उसे उसी क्षण बड़ी लड़की से प्रेम हो गया और उसने उससे विवाह करने का निश्चय किया।",
+     "राजकुमार परिवार के पास गया और उसने लड़की का हाथ माँगा। माँ ने हामी भर दी और वह युवती राजकुमारी बन गई। कुछ समय तक राजकुमारी महल में खुशी से रही। फिर भी वह अपना जादुई परिवर्तन करती रही और कभी-कभी सुंदर फूल देने के लिए फूलों वाला पेड़ बन जाती थी।",
+     "एक दिन उसके पति ने कहा कि वह पेड़ बन जाए, ताकि वह उसके फूलों का आनंद ले सके। वह मान गई, पर उसने उसे चेताया कि उसे बहुत सँभलकर छूना होगा। उसकी डालियाँ नाज़ुक थीं, और अगर वे टूट गईं तो उसे भयंकर कष्ट हो सकता था। राजकुमार ने कोमलता से पेश आने का वादा किया।",
+     "लेकिन जब वह फूल तोड़ने लगा, तो वह लापरवाह हो गया। उसने डालियाँ खींचीं और कई डालियाँ तोड़ दीं। राजकुमारी बुरी तरह घायल हो गई।",
+     "जब राजकुमार ने उसे इंसानी रूप में वापस लाने के लिए पेड़ पर पानी डाला, तो वह गंभीर चोटों के साथ लौटी। अब वह पहले की तरह न चल-फिर सकती थी, न बोल सकती थी।",
+     "राजकुमार अपने किए पर सन्न रह गया। उसे एहसास हुआ कि उसकी जिज्ञासा और लापरवाही ने उस स्त्री को भारी पीड़ा दी है जिससे वह प्रेम करता था।",
+     "राजकुमारी आख़िरकार अपनी माँ के घर लौट आई, जहाँ उसकी छोटी बहन ने प्यार से उसकी देखभाल की। छोटी बहन इस परिवर्तन का रहस्य जानती थी और समझती थी कि टूटी डालियों का इलाज बहुत विशेष देखभाल से करना होगा। उसने कोमलता से अपनी बड़ी बहन की सेवा की और उसे ठीक होने में मदद की।",
+     "कुछ समय बाद राजकुमारी का पति उसे खोजता हुआ आया। वह अपने किए पर बहुत शर्मिंदा था और उसने क्षमा माँगी। छोटी बहन ने उन दोनों को फिर से मिलाने में मदद की।",
+     "साथ मिलकर उन्होंने सावधानी से वह परिवर्तन फिर किया और ध्यान रखा कि हर डाली को कोमलता से सँभाला जाए। धीरे-धीरे राजकुमारी की ताकत लौट आई।",
+     "दोनों फिर एक हो गए, और राजकुमार ने सीखा कि प्रेम के साथ सम्मान, धैर्य और देखभाल ज़रूरी हैं। दोनों बहनें एक-दूसरे के प्रति समर्पित रहीं, और उनका बंधन पहले से भी मज़बूत हो गया।",
+     "सीख: प्रेम के साथ सम्मान और देखभाल ज़रूरी है। कोई सुंदर और अनमोल चीज़ लापरवाही से नष्ट हो सकती है, पर धैर्य और करुणा से जो टूट गया है उसे ठीक किया जा सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "devoted",
+     "en": "deeply loyal and loving",
+     "hi": "समर्पित"
+    },
+    {
+     "w": "fragrance",
+     "en": "a pleasant smell",
+     "hi": "सुगंध"
+    },
+    {
+     "w": "prosperity",
+     "en": "having enough money and comfort",
+     "hi": "खुशहाली"
+    },
+    {
+     "w": "astonished",
+     "en": "greatly surprised",
+     "hi": "चकित"
+    },
+    {
+     "w": "livelihood",
+     "en": "a way of earning a living",
+     "hi": "रोज़ी-रोटी"
+    },
+    {
+     "w": "delicate",
+     "en": "fragile and easily damaged",
+     "hi": "नाज़ुक"
+    },
+    {
+     "w": "horrified",
+     "en": "filled with shock and fear",
+     "hi": "सन्न"
+    },
+    {
+     "w": "ashamed",
+     "en": "deeply sorry and embarrassed",
+     "hi": "शर्मिंदा"
+    },
+    {
+     "w": "reunite",
+     "en": "to come together again",
+     "hi": "फिर मिलना"
+    },
+    {
+     "w": "extraordinary",
+     "en": "very unusual and remarkable",
+     "hi": "असाधारण"
+    },
+    {
+     "w": "compassion",
+     "en": "kindness towards someone who is hurt",
+     "hi": "करुणा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The prince promised to be gentle but still caused harm. What is the difference between meaning well and acting with care? How can someone make amends?"
+    },
+    {
+     "k": "Another view",
+     "q": "How might the story look different if told by the elder sister, or by the younger sister? Whose voice do we hear least?"
+    },
+    {
+     "k": "Culture",
+     "q": "This is a Kannada tale told by women, and sisters are central to it. What might it say about bonds between women in a family?"
+    },
+    {
+     "k": "Theme",
+     "q": "The tree is both a gift and something that can be hurt. What do you think the transformation stands for?"
+    },
+    {
+     "k": "Today",
+     "q": "In your own life or in the news, when do people need to ask for permission and treat others’ boundaries with care?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   16,
+   17
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "A poor family’s secret",
+   "th": "एक गरीब परिवार का राज़",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. A modest village courtyard at morning. The younger sister gently pours water from a clay pot over the elder sister, who is shifting into a slim flowering tree with white blossoms. Warm, hopeful mood."
+  },
+  {
+   "t": "Flowers for the market",
+   "th": "बाज़ार के लिए फूल",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. The younger sister carefully picks white flowers from the tree without touching the branches, then sells them from a basket at a busy market stall; the mother receives food in a cloth bundle. Gentle, bright mood."
+  },
+  {
+   "t": "Mother learns the secret",
+   "th": "माँ को पता चला राज़",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. The mother stands amazed at the doorway as the elder sister becomes a flowering tree in the yard while the younger sister holds the pot. Wonder and delight."
+  },
+  {
+   "t": "The prince falls in love",
+   "th": "राजकुमार को प्रेम हुआ",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. The prince hides behind a wall and watches the flowering tree; then a scene at the family’s door as he politely asks the mother. Soft evening light, curiosity and admiration."
+  },
+  {
+   "t": "A careless hand",
+   "th": "एक लापरवाह हाथ",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. In a palace garden the flowering tree stands in dusk light with a few broken twigs on the ground; the prince reaches towards the branches, looking hurried. Show concern, no injury shown, quiet and serious mood."
+  },
+  {
+   "t": "The prince is sorry",
+   "th": "राजकुमार को पछतावा हुआ",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. The prince kneels beside the pale princess, who sits wrapped in a shawl, resting. His face is shocked and sorrowful. Soft lamplight, a calm room."
+  },
+  {
+   "t": "The younger sister’s care",
+   "th": "छोटी बहन की देखभाल",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. In the mother’s small home, the younger sister tenderly tends her resting elder sister with a bowl of water and a cloth; the mother watches nearby. Warm, caring mood."
+  },
+  {
+   "t": "Healing together",
+   "th": "साथ मिलकर उपचार",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. The prince, humbly dressed, and the younger sister together pour water slowly over the gently handled flowering tree in the courtyard; the princess’s strength returning. Hopeful golden light."
+  },
+  {
+   "t": "Love with care",
+   "th": "प्रेम और देखभाल",
+   "p": "Elder sister/princess: a young woman with a long black braid, a plain saffron-yellow sari with a green border, small gold earrings; as a tree she is slim with dark branches and clusters of small white five-petalled flowers. Younger sister: a slightly shorter girl with a short braid, a simple blue cotton sari. Mother: an older woman with grey-streaked hair in a bun and a faded cream sari. Prince: a young man with a moustache, a deep red turban with a small gold ornament, a cream tunic and shawl. The couple stand together under the blooming tree with the two sisters beside them, smiling, with the mother nearby. Peaceful, joyful, full of white petals."
+  }
+ ],
+ "artStyle": {
+  "region": "Karnataka (Mysuru court tradition)",
+  "verified": true,
+  "tradition": "Mysore painting",
+  "note": "Karnataka Tourism describes Mysore painting as a style from the Wodeyar courts, with fine delicate lines, natural mineral colours, gold-leaf highlights, and figures framed by arches and gardens; it looks calmer than Tanjore painting. We suggest borrowing only this soft palette, fine outlines and a touch of gold for the flowers and borders. This is a suggestion, not a claim that this story was ever illustrated this way. Keep all injury non-graphic.",
+  "characters": [
+   {
+    "name": "Elder sister / princess",
+    "look": "Young woman, long black braid, saffron-yellow sari with green border, small gold earrings; as a tree: slim, dark branches, clusters of small white flowers."
+   },
+   {
+    "name": "Younger sister",
+    "look": "Slightly shorter girl, short braid, simple blue cotton sari."
+   },
+   {
+    "name": "Mother",
+    "look": "Older woman, grey-streaked hair in a bun, faded cream sari."
+   },
+   {
+    "name": "Prince",
+    "look": "Young man with moustache, deep red turban with small gold ornament, cream tunic and shawl."
+   }
+  ],
+  "sources": [
+   [
+    "Mysore painting, Karnataka Tourism",
+    "https://karnatakatourism.org/en/experiences/mysore-painting"
+   ],
+   [
+    "Mysore painting, Wikipedia (background)",
+    "https://en.wikipedia.org/wiki/Mysore_painting"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the younger sister walking back from the market with a basket of flowers. What do you see, hear and smell, and what are you thinking about your sister?",
+ "create": "Draw the flowering tree at three moments: when it is happy and in bloom, when it is hurt, and when it has healed. Write one sentence under each picture about how it feels.",
+ "about": {
+  "where": "Karnataka is a state in southern India where Kannada is the main language. The story is described as a Kannada tale from southern India.",
+  "community": "The repository says this is a tale told by women in Kannada-speaking southern India. The sources we have do not say which particular community first told this version, so we are not guessing.",
+  "tradition": "A. K. Ramanujan collected and wrote about oral tales in Kannada. He paid special attention to women’s tales, which the book’s editors say can offer different views from tales told by men. Women’s storytelling like this has often been passed down by speaking and listening rather than writing.",
+  "shared": "Stories of people who change shape into trees, flowers or animals are told in many parts of India. In this telling, the younger sister’s gentle knowledge is what makes healing possible, and the two sisters stay close at the end.",
+  "matters": "This story reminds us that people can be easily hurt in ways we do not see, and that being sorry must be followed by gentle, patient care. It is one version from one source, not the only way this tale is told; other tellings may differ.",
+  "links": [
+   [
+    "A Flowering Tree and Other Oral Tales from India, UC Press E-Books",
+    "https://publishing.cdlib.org/ucpressebooks/public/book/a-flowering-tree-and-other-oral-tales-from-india.html"
+   ],
+   [
+    "Mysore painting, Karnataka Tourism",
+    "https://karnatakatourism.org/en/experiences/mysore-painting"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (per repository)",
+   "v": "A Kannada women’s oral tale documented by A. K. Ramanujan in A Flowering Tree and Other Oral Tales from India (University of California Press, 1997), edited by Stuart Blackburn and Alan Dundes.",
+   "url": "https://publishing.cdlib.org/ucpressebooks/public/book/a-flowering-tree-and-other-oral-tales-from-india.html",
+   "s": "ok"
+  },
+  {
+   "l": "Text supplied by",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Sensitive content: a woman is physically harmed by her husband and later heals; the supplied events are kept in gentle, non-graphic words. An educator should confirm this suits ages 9-10 (Level 1) and consider adult guidance.",
+  "The supplied version may be a retelling and may differ from Ramanujan’s published tale; check against the book before attributing wording or plot to him.",
+  "The repository shows a stray Tamil news-site caption (frontmedia.in) under this story; unclear whether it is a source. Treat as a PDF artefact.",
+  "Ramanujan’s editors note the book’s tellers were mostly Brahmin and upper-caste; the community of this version is not stated.",
+  "Moral is in the supplied text, not stated by the original teller.",
+  "Level 3 Hindi and the Hindi vocabulary have not been checked by a fluent Hindi reader.",
+  "Mysore painting is suggested as a regional style only; it is not tied to this story by any source.",
+  "Licence for the supplied text is unconfirmed."
+ ]
+}

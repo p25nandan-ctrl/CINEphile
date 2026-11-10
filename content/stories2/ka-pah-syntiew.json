@@ -1,0 +1,286 @@
+{
+ "id": "ka-pah-syntiew",
+ "state": "ml",
+ "title": "Ka Pah Syntiew — The Girl Lured by Flowers",
+ "titleHi": "फूलों के पीछे चलने वाली लड़की",
+ "genre": "Khasi legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Girl Who Followed the Flowers",
+   "hi": "फूलों के पीछे चलने वाली लड़की"
+  },
+  "2": {
+   "en": "Ka Pah Syntiew and the Secret of Her Birth",
+   "hi": "का पाह सिंत्यू और उसके जन्म का रहस्य"
+  },
+  "3": {
+   "en": "The Ancestress of the Khasi Chiefs",
+   "hi": "खासी मुखियाओं की पूर्वज"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, near the hills of Shillong, a little girl lived alone in a cave. Nobody knew where she had come from or who her parents were. The people who lived nearby wondered about her, but the girl was shy and did not speak to strangers.",
+     "One day, a man named U Mylliem Ngap came near the cave. He saw the little girl sitting on a high rock. He called out to her, but she did not come down.",
+     "He tried speaking gently, but the girl remained where she was. Then he noticed some beautiful wild flowers growing nearby. He picked a bunch of them and held them out to her.",
+     "The girl loved flowers. Slowly, she reached out to take them. U Mylliem Ngap lowered the flowers a little at a time, and the girl carefully climbed down from the rock.",
+     "He took her home and cared for her as his own daughter. Since she had followed the flowers out of the cave, he called her Ka Pah Syntiew.",
+     "As she grew older, Ka Pah Syntiew became kind, wise and thoughtful. Her foster father often asked her for advice. When people in the village had arguments, she listened to both sides and helped them find fair solutions.",
+     "Soon, people from other villages also began coming to her for help. They admired her wisdom and began calling her Ka Siem, which means a chief or queen.",
+     "When she grew older, she married a good and respected man named U Kongor Nongjri. They had children and lived happily.",
+     "One day, Ka Pah Syntiew gathered her children and told them a secret. She explained that she was the daughter of U Lei Shillong, the god of the mountain. She had come to live among people for a time, but now she had to return.",
+     "Her children were sad and begged her to stay. But Ka Pah Syntiew knew that it was time to go.",
+     "The next morning, she walked towards the Cave of Marai and disappeared into the mist.",
+     "Her children and their descendants remained in the Khasi Hills. The people remembered Ka Pah Syntiew as a wise woman who had once lived among them and whose family became connected with the chiefs of the region."
+    ],
+    "hi": [
+     "बहुत समय पहले शिलांग की पहाड़ियों के पास एक छोटी-सी लड़की एक गुफा में अकेली रहती थी। किसी को नहीं पता था कि वह कहाँ से आई थी और उसके माता-पिता कौन थे। आसपास रहने वाले लोग उसके बारे में सोचते रहते, लेकिन लड़की शर्मली थी और अजनबियों से बात नहीं करती थी।",
+     "एक दिन मायलियम ङाप नाम का एक व्यक्ति उस गुफा के पास आया। उसने एक ऊँची चट्टान पर बैठी हुई लड़की को देखा। उसने उसे आवाज़ दी, लेकिन वह नीचे नहीं आई।",
+     "उसने प्यार से समझाने की कोशिश की, फिर भी लड़की वहीं बैठी रही। तभी उसकी नज़र पास में खिले सुंदर जंगली फूलों पर पड़ी। उसने फूलों का एक गुच्छा तोड़ा और लड़की की ओर बढ़ाया।",
+     "लड़की को फूल बहुत पसंद थे। वह धीरे-धीरे उन्हें लेने के लिए आगे बढ़ी। मायलियम ङाप ने फूलों को थोड़ा-थोड़ा नीचे किया और लड़की सावधानी से चट्टान से उतर आई।",
+     "वह उसे अपने घर ले गया और अपनी बेटी की तरह उसकी देखभाल करने लगा। चूँकि वह फूलों के पीछे-पीछे गुफा से बाहर आई थी, इसलिए उसने उसका नाम का पाह सिंत्यू रखा।",
+     "बड़ी होने पर पाह सिंत्यू दयालु, समझदार और विचारशील बन गई। उसके पालक पिता अक्सर उससे सलाह लेते थे। जब गाँव में किसी का झगड़ा होता, तो वह दोनों पक्षों की बात सुनती और उन्हें न्यायपूर्ण समाधान खोजने में मदद करती।",
+     "जल्द ही दूसरे गाँवों के लोग भी उससे सलाह लेने आने लगे। सभी उसकी बुद्धिमत्ता की प्रशंसा करते और उसे का सिएम कहने लगे। इसका अर्थ है मुखिया या रानी।",
+     "बड़ी होने पर उसकी शादी उ कोंगोर नोंगरी नाम के एक अच्छे और सम्मानित व्यक्ति से हुई। उनके बच्चे हुए और वे खुशी से रहने लगे।",
+     "एक दिन पाह सिंत्यू ने अपने बच्चों को पास बुलाया और उन्हें एक रहस्य बताया। उसने समझाया कि वह उ लेई शिलांग, यानी पहाड़ के देवता, की बेटी है। वह कुछ समय के लिए मनुष्यों के बीच रहने आई थी, लेकिन अब उसे वापस लौटना था।",
+     "उसके बच्चे दुखी हो गए और उससे रुकने की विनती करने लगे। लेकिन पाह सिंत्यू जानती थी कि अब जाने का समय आ गया है।",
+     "अगली सुबह वह मराई की गुफा की ओर चली और धुंध में कहीं ओझल हो गई।",
+     "उसके बच्चे और उनके वंशज खासी पहाड़ियों में ही रहे। लोगों ने पाह सिंत्यू को एक ऐसी बुद्धिमान स्त्री के रूप में याद रखा जो कभी उनके बीच रहती थी और जिसका परिवार इस क्षेत्र के मुखियाओं से जुड़ गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the hills near Shillong, there was once a mysterious girl who lived alone in a cave. No one knew her family or where she had come from. The villagers often wondered about her, but she remained in the cave and rarely spoke to anyone.",
+     "One day, a man from the Mylliem Ngap clan named U Mylliem Ngap discovered her sitting on a high rock near the cave. He called to her and asked her to come down, but she did not respond. He tried again, yet she remained still.",
+     "Then he noticed a bunch of wild flowers growing nearby. He picked them and held them out towards the girl. At the sight of the flowers, she became curious. She reached out, but the flowers were just beyond her grasp. U Mylliem Ngap slowly lowered them, and the girl began to climb down, step by step, until she reached the ground safely.",
+     "He took her to his home and raised her as his own daughter. Since she had been brought out of the cave by the flowers, he named her Ka Pah Syntiew.",
+     "As she grew older, Ka Pah Syntiew became known for her wisdom and good judgement. Her foster father often consulted her on matters concerning the village. She listened patiently, considered different sides of a disagreement and tried to find a fair answer.",
+     "People from neighbouring villages soon began seeking her advice as well. They respected her so much that they called her Ka Siem—the chiefess or queen.",
+     "When she came of age, she married U Kongor Nongjri, a respected man. They had children, and their household became well known.",
+     "Years later, Ka Pah Syntiew gathered her children and revealed the truth about her origins. She told them that she was the daughter of U Lei Shillong, the deity of the mountain. She had been allowed to live among human beings for a time, but the moment had come for her to return.",
+     "Her children were distressed. They asked how they could live without her. Ka Pah Syntiew comforted them, but she did not change her decision.",
+     "The following morning, she walked towards the Cave of Marai and disappeared. No one followed her. The family understood that she had returned to the mountain from which she had come.",
+     "Her descendants remained among the Khasis. The legend connects her lineage with the traditional chieftainships of Khyrim and Mylliem, and remembers her as a woman whose wisdom and fairness earned her the respect of many villages."
+    ],
+    "hi": [
+     "शिलांग के पास की पहाड़ियों में कभी एक रहस्यमयी लड़की एक गुफा में अकेली रहती थी। किसी को उसके परिवार या उसके वहाँ आने का कारण नहीं पता था। गाँववाले अक्सर उसके बारे में सोचते, लेकिन वह गुफा में ही रहती और किसी से बहुत कम बात करती थी।",
+     "एक दिन मायलियम ङाप कुल के उ मायलियम ङाप नाम के व्यक्ति ने उसे गुफा के पास एक ऊँची चट्टान पर बैठे देखा। उसने उसे नीचे आने के लिए पुकारा, लेकिन लड़की ने कोई उत्तर नहीं दिया। उसने फिर कोशिश की, फिर भी वह वहीं बैठी रही।",
+     "तभी उसकी नज़र पास उगे जंगली फूलों के एक गुच्छे पर पड़ी। उसने फूल तोड़े और लड़की की ओर बढ़ाए। फूलों को देखकर लड़की उत्सुक हो गई। उसने उन्हें लेने के लिए हाथ बढ़ाया, लेकिन फूल उसकी पहुँच से थोड़ा दूर थे। उ मायलियम ङाप ने फूलों को धीरे-धीरे नीचे किया। लड़की भी एक-एक कदम करके चट्टान से उतरने लगी और सुरक्षित ज़मीन पर पहुँच गई।",
+     "वह उसे अपने घर ले गया और अपनी बेटी की तरह पाला। फूलों के सहारे गुफा से बाहर आने के कारण उसने उसका नाम का पाह सिंत्यू रखा।",
+     "बड़ी होने पर पाह सिंत्यू अपनी बुद्धिमत्ता और अच्छे निर्णयों के लिए जानी जाने लगी। उसके पालक पिता गाँव के मामलों में अक्सर उससे सलाह लेते। वह धैर्य से सबकी बातें सुनती, विवाद के अलग-अलग पक्षों पर विचार करती और न्यायपूर्ण समाधान खोजने की कोशिश करती।",
+     "जल्द ही पड़ोसी गाँवों के लोग भी उससे सलाह लेने आने लगे। वे उसका इतना सम्मान करते थे कि उसे का सिएम—मुखिया या रानी—कहने लगे।",
+     "वयस्क होने पर उसकी शादी उ कोंगोर नोंगरी नाम के एक सम्मानित व्यक्ति से हुई। उनके बच्चे हुए और उनका परिवार प्रसिद्ध हो गया।",
+     "कई वर्ष बाद पाह सिंत्यू ने अपने बच्चों को पास बुलाया और उन्हें अपने जन्म का सच बताया। उसने कहा कि वह उ लेई शिलांग, यानी पहाड़ के देवता, की बेटी है। उसे कुछ समय तक मनुष्यों के बीच रहने की अनुमति मिली थी, लेकिन अब वापस लौटने का समय आ गया था।",
+     "उसके बच्चे बहुत दुखी हुए। उन्होंने पूछा कि वे उसके बिना कैसे रहेंगे। पाह सिंत्यू ने उन्हें समझाया, लेकिन अपना निर्णय नहीं बदला।",
+     "अगली सुबह वह मराई की गुफा की ओर चली गई और फिर कभी दिखाई नहीं दी। कोई उसके पीछे नहीं गया। परिवार समझ गया कि वह उसी पहाड़ पर लौट गई है जहाँ से उसका आगमन हुआ था।",
+     "उसके वंशज खासी समुदाय के बीच ही रहे। यह लोककथा उसके वंश को खिरिम और मायलियम के पारंपरिक मुखियातंत्रों से जोड़ती है। लोग उसे ऐसी स्त्री के रूप में याद करते हैं जिसकी बुद्धिमत्ता और न्यायप्रियता ने अनेक गाँवों का सम्मान जीता।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "A long time ago, near the sacred hills of Shillong, a young girl was found living alone in a cave. Her origins were unknown. She did not explain who she was or how she had come to live there, and the people who discovered her could not persuade her to leave.",
+     "U Mylliem Ngap, a man from the Mylliem Ngap clan, noticed her sitting on a rock above the cave. He called to her, but she remained where she was. He tried to approach her, but she would not come down.",
+     "Then he noticed a cluster of wild flowers growing nearby. He tied the flowers to the end of a long pole and held them out towards her. The girl reached for them. As he slowly lowered the flowers, she moved closer and eventually climbed down from the rock.",
+     "U Mylliem Ngap took her into his household and raised her as his daughter. Since she had been lured out of the cave by flowers, he called her Ka Pah Syntiew.",
+     "The girl grew into a woman of remarkable judgement. She was thoughtful, fair and attentive to the problems of others. Her foster father often sought her counsel, and people from neighbouring settlements began to bring their disputes to her. She listened to both sides and was widely respected for her ability to resolve disagreements. In time, she came to be known as Ka Siem—the chiefess.",
+     "She married U Kongor Nongjri, a man of standing, and they had children. Their family became associated with the leadership of the region.",
+     "But Ka Pah Syntiew carried a secret. After her children had grown, she called them together and revealed that she was not born among ordinary human beings. She was the daughter of U Lei Shillong, the deity of the mountain, and had been permitted to live among mankind for a limited time. That period had now ended.",
+     "Her children were distressed by the revelation and pleaded with her to remain. But Ka Pah Syntiew knew that she had to return. The next morning, she walked towards the Cave of Marai and vanished from human sight.",
+     "Her descendants continued to live in the Khasi Hills. In the tradition recorded by Rafy, they are connected with the Khyrim and Mylliem Syiem families. The story thus serves not only as a tale of divine ancestry, but also as an explanation of the authority and legitimacy associated with certain traditional Khasi chieftainships.",
+     "The legend invites us to think about how communities understand leadership. Ka Pah Syntiew is remembered not merely because of her divine origin, but because she was wise, fair and trusted by people beyond her own household. Her story links ancestry with responsibility: a respected leader is one whose judgement serves the community."
+    ],
+    "hi": [
+     "बहुत समय पहले शिलांग की पवित्र पहाड़ियों के पास एक युवती एक गुफा में अकेली रहती हुई मिली। उसके जन्म और परिवार के बारे में किसी को कुछ पता नहीं था। उसने यह नहीं बताया कि वह कौन है या वहाँ कैसे पहुँची। उसे खोजने वाले लोग भी उसे गुफा से बाहर आने के लिए मना नहीं पाए।",
+     "मायलियम ङाप कुल के उ मायलियम ङाप नाम के व्यक्ति ने उसे गुफा के ऊपर एक चट्टान पर बैठे देखा। उसने उसे आवाज़ दी, लेकिन वह वहीं बैठी रही। उसने पास जाने की कोशिश की, फिर भी लड़की नीचे आने को तैयार नहीं हुई।",
+     "तभी उसकी नज़र पास उगे जंगली फूलों के एक गुच्छे पर पड़ी। उसने उन फूलों को एक लंबे डंडे के सिरे पर बाँधा और लड़की की ओर बढ़ाया। लड़की उन्हें लेने के लिए आगे झुकी। जैसे-जैसे वह फूलों को नीचे करता गया, लड़की भी आगे बढ़ती गई और अंततः चट्टान से नीचे उतर आई।",
+     "उ मायलियम ङाप उसे अपने घर ले गया और अपनी बेटी की तरह पालने लगा। चूँकि फूलों के सहारे उसे गुफा से बाहर लाया गया था, इसलिए उसका नाम का पाह सिंत्यू रखा गया।",
+     "वह बड़ी होकर असाधारण समझ-बूझ वाली स्त्री बनी। वह विचारशील, न्यायप्रिय और दूसरों की समस्याओं के प्रति संवेदनशील थी। उसके पालक पिता अक्सर उससे सलाह लेते। पड़ोसी बस्तियों के लोग भी अपने विवाद उसके पास लेकर आने लगे। वह दोनों पक्षों की बातें सुनती और झगड़ों का समाधान खोजने की कोशिश करती। धीरे-धीरे लोग उसका बहुत सम्मान करने लगे और उसे का सिएम—मुखिया या रानी—कहने लगे।",
+     "उसकी शादी उ कोंगोर नोंगरी नाम के एक प्रतिष्ठित व्यक्ति से हुई और उनके बच्चे हुए। उनका परिवार क्षेत्र के नेतृत्व से जुड़ गया।",
+     "लेकिन पाह सिंत्यू के पास एक रहस्य था। जब उसके बच्चे बड़े हो गए, तो उसने उन्हें एक साथ बुलाकर बताया कि उसका जन्म सामान्य मनुष्यों के बीच नहीं हुआ था। वह पहाड़ के देवता उ लेई शिलांग की बेटी थी और उसे कुछ समय के लिए मनुष्यों के बीच रहने की अनुमति मिली थी। अब वह अवधि समाप्त हो चुकी थी।",
+     "यह जानकर उसके बच्चे बहुत दुखी हुए और उससे रुकने की विनती करने लगे। लेकिन पाह सिंत्यू जानती थी कि उसे लौटना होगा। अगली सुबह वह मराई की गुफा की ओर चली गई और फिर मनुष्यों की दृष्टि से ओझल हो गई।",
+     "उसके वंशज खासी पहाड़ियों में ही रहे। रफी द्वारा दर्ज परंपरा में उन्हें खिरिम और मायलियम के सिएम परिवारों से जोड़ा गया है। इस प्रकार यह कथा केवल दिव्य वंश की कहानी नहीं है, बल्कि कुछ पारंपरिक खासी मुखियातंत्रों की सत्ता और वैधता की व्याख्या भी करती है।",
+     "यह कथा हमें सोचने का अवसर देती है कि समुदाय नेतृत्व को किस तरह समझते हैं। पाह सिंत्यू को केवल उसके दिव्य जन्म के कारण याद नहीं किया जाता, बल्कि इसलिए भी कि वह बुद्धिमान, न्यायप्रिय थी और अपने परिवार से बाहर के लोगों का भी विश्वास जीतती थी। उसकी कहानी वंश और ज़िम्मेदारी को जोड़ती है: एक सम्मानित नेता वही है जिसके निर्णय पूरे समुदाय के हित में हों।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Shillong Peak, Meghalaya",
+  "community": "Khasi",
+  "tradition": "Khasi legend, associated with the origins of the Khyrim and Mylliem Syiem families."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Mrs. K. U. Rafy, Folk-Tales of the Khasis (Macmillan, 1920), “The Goddess Who Came to Live with Mankind”, a colonial-era English retelling of Khasi tradition.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-216-026",
+ "meta": [
+  "Khasi legend · Themes: belonging, identity, wisdom, ancestry, leadership",
+  "Source and cultural attribution",
+  "The story appears in Mrs. K. U. Rafy’s Folk-Tales of the Khasis (Macmillan, 1920), under the title “The Goddess Who Came to Live with Mankind.” Rafy identifies it as a legend of Shillong Peak. The story is also associated with the origins of the Khyrim and Mylliem Syiem families.",
+  "Project Gutenberg+2",
+  "The name Pah Syntiew is commonly explained as “lured by flowers”: pah refers to luring, and syntiew means flower. There are several versions of the story. In one, a girl is discovered in a cave and coaxed down with flowers; in another, she is identified as the daughter of U Lei Shillong, the mountain deity. The versions below follow Rafy’s published narrative, while acknowledging that it is a colonial-era English retelling of Khasi tradition.",
+  "IJTSRD+1",
+  "Adaptation note: The story contains an unusual encounter in which a girl is persuaded to leave a cave by a stranger. For younger readers, I have kept the rescue gentle and avoided framing the act as a romantic courtship. The supernatural ancestry and her later role as a wise leader remain central."
+ ]
+}

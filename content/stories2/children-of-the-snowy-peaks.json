@@ -1,0 +1,245 @@
+{
+ "id": "children-of-the-snowy-peaks",
+ "state": "sk",
+ "title": "Children of the Snowy Peaks — The Creation of the Lepcha People",
+ "titleHi": "बर्फ़ले पहाड़ों की संतान",
+ "genre": "Creation myth",
+ "levelTitles": {
+  "1": {
+   "en": "The Children of the Snowy Mountains",
+   "hi": "बर्फ़ले पहाड़ों की संतान"
+  },
+  "2": {
+   "en": "Itbu-moo and the First People",
+   "hi": "इत्बू-मू और पहले मनुष्य"
+  },
+  "3": {
+   "en": "Children of the Snowy Peaks: A Lepcha Creation Story",
+   "hi": "बर्फ़ले पर्वतों की संतान: लेपचा सृष्टि-कथा"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long, long ago, when the earth and sky were empty, there lived a great Mother Creator called Itbu-moo.",
+     "She looked around and decided to make the world beautiful. First, she created the mighty mountains. Then she filled the land with lakes and rivers. The mountains rose towards the sky, and the rivers flowed through the valleys.",
+     "But Itbu-moo felt that something was missing. The mountains and rivers were beautiful, but there was no one to enjoy them.",
+     "So she took a handful of fresh snow from the great mountain of Khangchendzonga and shaped it into the first man, Fudongthing.",
+     "Soon, she created a companion for him, a woman named Nazong Nyu. She gave them a home among the mountains and asked them to live wisely and care for the world around them.",
+     "At first, they lived happily. But after some time, they became lonely. They wished to have a family and children of their own.",
+     "They eventually left their heavenly home and came down to the foothills. There, they began a new life together. Their children grew up among the mountains, forests and rivers.",
+     "Over time, their family became large. They learned to grow food, build homes and live with the animals and plants around them.",
+     "The Lepcha people remember this story as part of their beginning. They call their homeland Mayel Lyang, the mythical land of the Lepchas.",
+     "And so, the people became known as the Children of the Snowy Peaks."
+    ],
+    "hi": [
+     "बहुत, बहुत समय पहले, जब धरती और आकाश खाली थे, तब इत्बू-मू नाम की एक महान सृष्टिकर्ता माता रहती थीं।",
+     "उन्होंने चारों ओर देखा और दुनिया को सुंदर बनाने का निश्चय किया। सबसे पहले उन्होंने ऊँचे-ऊँचे पहाड़ बनाए। फिर धरती पर झीलें और नदियाँ बनाईं। पहाड़ आकाश की ओर उठे और नदियाँ घाटियों से होकर बहने लगीं।",
+     "लेकिन इत्बू-मू को लगा कि कुछ कमी है। पहाड़ और नदियाँ सुंदर तो थे, पर उन्हें देखने और उनका आनंद लेने वाला कोई नहीं था।",
+     "तब उन्होंने महान पर्वत कंचनजंघा की चोटी से थोड़ी-सी ताज़ी बर्फ़ ली और उससे पहला पुरुष बनाया। उसका नाम फुदोंगथिंग रखा गया।",
+     "फिर उन्होंने उसके लिए एक साथी बनाया। उसका नाम नाज़ोंग न्यु था। उन्होंने दोनों को पहाड़ों के बीच रहने के लिए जगह दी और कहा कि वे समझदारी से रहें और अपने आसपास की दुनिया का ध्यान रखें।",
+     "शुरुआत में दोनों खुश थे। लेकिन कुछ समय बाद उन्हें अकेलापन महसूस होने लगा। वे अपना परिवार और बच्चे चाहते थे।",
+     "आखिरकार वे अपने स्वर्ग जैसे घर से नीचे पहाड़ों की तलहटी में आ गए। वहाँ उन्होंने साथ मिलकर नया जीवन शुरू किया। उनके बच्चे पहाड़ों, जंगलों और नदियों के बीच बड़े हुए।",
+     "समय के साथ उनका परिवार बढ़ता गया। उन्होंने भोजन उगाना, घर बनाना और अपने आसपास के पेड़-पौधों तथा जानवरों के साथ रहना सीखा।",
+     "लेपचा लोग इस कहानी को अपनी उत्पत्ति की कथा के रूप में याद करते हैं। वे अपनी मातृभूमि को मायेल ल्यांग कहते हैं, जिसका अर्थ है लेपचा लोगों की पौराणिक भूमि।",
+     "इसी तरह पहाड़ों के बीच रहने वाले ये लोग बर्फ़ले पर्वतों की संतान कहलाए।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the beginning, the earth was empty. There were no people, no villages and no voices echoing through the valleys.",
+     "Itbu-moo, the Mother Creator, decided to bring life to the world. She began by shaping the great mountains. Among them was Khangchendzonga, rising high above the surrounding landscape. She then created lakes to hold the mountain waters and rivers to carry them through the valleys.",
+     "But the Mother Creator was not satisfied. She wanted beings who could live in this beautiful world.",
+     "Taking fresh snow from the summit of Khangchendzonga, she shaped the first man, Fudongthing. She then created the first woman, Nazong Nyu, to be his companion.",
+     "Itbu-moo gave them a home in the heavenly mountains. She also gave them a warning: they must respect the order of the world and live according to her instructions.",
+     "For a while, Fudongthing and Nazong Nyu lived happily. But the world was lonely. They longed for companionship and a family. Eventually, they disobeyed the Mother Creator's instructions and were sent down from their heavenly home to the foothills.",
+     "There, they began life as ordinary human beings. Their first children were born, and their family gradually grew. The children learned to live on the land, surrounded by the mountains, forests, rivers and animals.",
+     "In time, their descendants populated the beautiful region they called Mayel Lyang.",
+     "The Lepcha creation story connects human life directly to the natural world. The first man is made from the snow of a sacred mountain, while lakes and rivers are among the earliest creations. The mountains are not simply a backdrop to human life; they are part of the people's origin and identity."
+    ],
+    "hi": [
+     "शुरुआत में धरती खाली थी। वहाँ न मनुष्य थे, न गाँव और न ही घाटियों में गूँजने वाली कोई आवाज़।",
+     "सृष्टिकर्ता माता इत्बू-मू ने दुनिया में जीवन लाने का निश्चय किया। उन्होंने सबसे पहले विशाल पहाड़ बनाए। उनमें कंचनजंघा भी था, जो आसपास की धरती से बहुत ऊँचा उठता था। इसके बाद उन्होंने झीलें बनाईं, जिनमें पहाड़ों का पानी जमा हो सके, और नदियाँ बनाईं, जो उस पानी को घाटियों तक ले जाएँ।",
+     "लेकिन सृष्टिकर्ता माता अभी संतुष्ट नहीं थीं। वे चाहती थीं कि इस सुंदर दुनिया में रहने वाले जीव भी हों।",
+     "उन्होंने कंचनजंघा की चोटी से ताज़ी बर्फ़ ली और उससे पहला पुरुष बनाया। उसका नाम फुदोंगथिंग रखा। फिर उन्होंने पहली स्त्री नाज़ोंग न्यु को बनाया, जो उसकी साथी बनीं।",
+     "इत्बू-मू ने दोनों को स्वर्ग जैसे पहाड़ों में रहने के लिए स्थान दिया। साथ ही उन्होंने उन्हें चेतावनी दी कि वे संसार के नियमों का सम्मान करें और उनके निर्देशों के अनुसार जीवन बिताएँ।",
+     "कुछ समय तक फुदोंगथिंग और नाज़ोंग न्यु खुशी से रहे। लेकिन उनकी दुनिया में अकेलापन था। वे साथ और परिवार चाहते थे। अंततः उन्होंने सृष्टिकर्ता माता के निर्देशों का उल्लंघन किया और उन्हें अपने स्वर्गय निवास से नीचे पहाड़ों की तलहटी में भेज दिया गया।",
+     "वहाँ उन्होंने साधारण मनुष्यों की तरह जीवन शुरू किया। उनके पहले बच्चे पैदा हुए और धीरे-धीरे उनका परिवार बढ़ने लगा। बच्चों ने पहाड़ों, जंगलों, नदियों और जानवरों से घिरी धरती पर रहना सीखा।",
+     "समय के साथ उनके वंशज उस सुंदर क्षेत्र में फैल गए, जिसे वे मायेल ल्यांग कहते थे।",
+     "लेपचा समुदाय की यह सृष्टि-कथा मानव जीवन को सीधे प्राकृतिक संसार से जोड़ती है। पहला पुरुष एक पवित्र पर्वत की बर्फ़ से बनाया गया है, जबकि झीलें और नदियाँ सृष्टि की शुरुआती रचनाओं में शामिल हैं। पहाड़ केवल मनुष्य के जीवन की पृष्ठभूमि नहीं हैं; वे उसकी उत्पत्ति और पहचान का हिस्सा हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the beginning, according to a Lepcha creation narrative, the world was an immense emptiness. There were no human settlements, no cultivated fields and no communities to inhabit the mountains and valleys.",
+     "Itbu-moo, the Mother Creator, began shaping the world. She created the great mountains, including Khangchendzonga, and then formed the lakes and rivers that would give life to the land.",
+     "Yet the world seemed incomplete. Itbu-moo wanted to create beings who could inhabit the landscape and become part of its living order.",
+     "From the fresh snow of Khangchendzonga, she formed Fudongthing, the first man. She later created Nazong Nyu, the first woman. In the story, they become the ancestral figures of the Lepcha people and are associated with the sacred geography of the mountains.",
+     "The Mother Creator gave them a place to live and instructed them to respect the boundaries she had established. But Fudongthing and Nazong Nyu eventually chose companionship over the solitary lives assigned to them. Their disobedience led to their descent from the divine realm to the foothills, where they began to live as ordinary human beings.",
+     "There, they raised a family. Their descendants grew in number and gradually inhabited the region known as Mayel Lyang. The story also connects the ancestors of the Lepcha people with the spiritual world, explaining the origins of certain guardian figures and rituals.",
+     "What makes this creation narrative particularly significant is its understanding of the relationship between people and place. Khangchendzonga is not simply a mountain that can be admired from a distance. It is central to the story of human origins and to the spiritual identity of the community.",
+     "The title Children of the Snowy Peaks captures this relationship. It expresses a sense of belonging in which people, mountains, rivers and living beings are connected. For the Lepcha community, the natural world is not separate from cultural identity; it is one of the foundations on which that identity rests."
+    ],
+    "hi": [
+     "लेपचा सृष्टि-कथा के अनुसार, शुरुआत में संसार एक विशाल शून्य था। वहाँ न मनुष्यों की बस्तियाँ थीं, न खेती के मैदान और न ही पहाड़ों तथा घाटियों में रहने वाले समुदाय।",
+     "सृष्टिकर्ता माता इत्बू-मू ने संसार को आकार देना शुरू किया। उन्होंने कंचनजंघा सहित विशाल पर्वत बनाए। इसके बाद उन्होंने झीलें और नदियाँ बनाईं, जो धरती को जीवन देने वाली थीं।",
+     "फिर भी संसार अधूरा लग रहा था। इत्बू-मू ऐसे जीव बनाना चाहती थीं जो इस धरती पर रह सकें और इसके प्राकृतिक संतुलन का हिस्सा बनें।",
+     "उन्होंने कंचनजंघा की ताज़ी बर्फ़ से पहला पुरुष फुदोंगथिंग बनाया। बाद में उन्होंने पहली स्त्री नाज़ोंग न्यु को रचा। इस कथा में दोनों लेपचा समुदाय के पूर्वज माने जाते हैं और पवित्र पर्वतीय भूगोल से जुड़े हैं।",
+     "सृष्टिकर्ता माता ने उन्हें रहने के लिए स्थान दिया और उन सीमाओं का सम्मान करने को कहा जिन्हें उन्होंने निर्धारित किया था। लेकिन फुदोंगथिंग और नाज़ोंग न्यु ने अंततः अकेले रहने के बजाय एक-दूसरे का साथ चुन लिया। उनके इस निर्णय के कारण उन्हें दिव्य संसार से नीचे पहाड़ों की तलहटी में आना पड़ा, जहाँ उन्होंने साधारण मनुष्यों की तरह जीवन शुरू किया।",
+     "वहाँ उन्होंने परिवार बसाया। उनके वंशजों की संख्या बढ़ी और वे धीरे-धीरे उस क्षेत्र में फैल गए जिसे मायेल ल्यांग कहा जाता है। यह कथा लेपचा पूर्वजों को आध्यात्मिक संसार से भी जोड़ती है और कुछ संरक्षक देवताओं तथा अनुष्ठानों की उत्पत्ति का वर्णन करती है।",
+     "इस सृष्टि-कथा की विशेषता मनुष्य और उसके स्थान के बीच संबंध की इसकी समझ है। कंचनजंघा केवल दूर से दिखाई देने वाला एक सुंदर पर्वत नहीं है। वह मानव उत्पत्ति की कथा और समुदाय की आध्यात्मिक पहचान के केंद्र में है।",
+     "बर्फ़ले पर्वतों की संतान शीर्षक इसी संबंध को व्यक्त करता है। यह ऐसी आत्मीयता की भावना है जिसमें मनुष्य, पहाड़, नदियाँ और दूसरे जीव एक-दूसरे से जुड़े हुए हैं। लेपचा समुदाय के लिए प्राकृतिक संसार सांस्कृतिक पहचान से अलग नहीं है; वही उस पहचान की बुनियादों में से एक है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Sikkim and the eastern Himalayas",
+  "community": "Lepcha / Rong",
+  "tradition": "Lepcha creation tradition."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Yishey Doma, Legends of the Lepchas: Folk Tales from Sikkim (Tranquebar Press, 2010; Ebury Press, 2023), “Children of the Snowy Peaks”.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-136-014",
+ "meta": [
+  "Community: Lepcha / Rong · Region: Sikkim and the eastern Himalayas · Genre: Creation myth · Themes: Origins, nature, belonging, responsibility",
+  "About the story and its origins",
+  "This story comes from the Lepcha creation tradition. It begins with Itbu-moo, the Mother Creator, who shapes the mountains, lakes and rivers. She then creates the first man, Fudongthing, from snow taken from Mount Khangchendzonga, and the first woman, Nazong Nyu.",
+  "The narrative describes their lives in the mountains, their eventual descent to the foothills and the emergence of the first human children. It also explains the special relationship between the Lepcha people, the mountains and the natural world.",
+  "Source: Yishey Doma, Legends of the Lepchas: Folk Tales from Sikkim (first published by Tranquebar Press in 2010; republished by Ebury Press in 2023), “Children of the Snowy Peaks.” The author acknowledges the Lepcha scholars and community members who helped her understand and verify elements of the stories.",
+  "CUS DSpace+1"
+ ]
+}

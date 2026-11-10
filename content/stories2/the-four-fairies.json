@@ -1,0 +1,290 @@
+{
+ "id": "the-four-fairies",
+ "state": "up",
+ "title": "The Four Fairies",
+ "titleHi": "कुएँ से मिले जादुई उपहार",
+ "genre": "Magical folktale",
+ "levelTitles": {
+  "1": {
+   "en": "The Gifts from the Well",
+   "hi": "कुएँ से मिले जादुई उपहार"
+  },
+  "2": {
+   "en": "The Four Fairies and the Stolen Gifts",
+   "hi": "चार परियाँ और चुराए गए उपहार"
+  },
+  "3": {
+   "en": "The Bargain at the Old Well",
+   "hi": "पुराने कुएँ का सौदा"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived a man in a small village. He did not like working and often spent his days doing nothing. His family had very little food, and his wife was worried about how they would manage.",
+     "One morning, she packed four chapatis for him and asked him to go out and find some work. The man tied the chapatis into his scarf and walked along the village road.",
+     "By evening, he was tired and hungry. He sat beside an old well and took out his chapatis. Looking at them, he wondered aloud, “Should I eat one, two, three, or all four?”",
+     "Four fairies lived inside the well. When they heard him, they thought a giant had come to eat them! Frightened, they hurried out and begged him to spare them. In return, they offered him two magical gifts.",
+     "The first was a bowl. It could produce any food he wished for. The second was a little puppet that could do any task he asked it to do.",
+     "The man was delighted. He thanked the fairies and began his journey home. But night fell before he could reach his village. He asked a family in a nearby village if he could stay the night.",
+     "To thank them for their kindness, he used his magic bowl to prepare a delicious meal. Then he asked the puppet to wash the dishes. The family was amazed. But while the man slept, the woman of the house secretly exchanged the magical bowl and puppet for ordinary ones.",
+     "The next morning, the man returned home and told his wife everything. But when he tried to use the bowl, no food appeared. The puppet did not move either. His wife was disappointed, and the man realised that someone had tricked him.",
+     "He hurried back to the well and called for the fairies. They listened to his story and gave him two more gifts: a magical rope and a magical stick. The rope could tie up anyone he named, and the stick would move and act whenever he commanded it.",
+     "The man returned to the house where his gifts had been stolen. He asked the rope to catch the dishonest family and the stick to frighten them into returning the bowl and puppet. The family quickly gave everything back.",
+     "At last, the man returned home with all four magical gifts. His family never had to worry about food again, and the gifts helped protect them from anyone who wished to harm them."
+    ],
+    "hi": [
+     "एक छोटे-से गाँव में एक आदमी रहता था। उसे काम करना बिल्कुल पसंद नहीं था। वह अपना ज़्यादातर समय यूँ ही बिताता और अक्सर उसके घर में खाने की कमी रहती। उसकी पत्नी इस बात से बहुत परेशान थी।",
+     "एक सुबह पत्नी ने उसके लिए चार रोटियाँ बाँधीं और कहा, “आज घर से बाहर जाओ और कोई काम ढूँढ़ो। हमें घर चलाने के लिए कुछ कमाना होगा।”",
+     "आदमी रोटियाँ अपने गमछे में बाँधकर चल पड़ा। शाम होते-होते वह थक गया और उसे भूख लगने लगी। वह रास्ते में एक पुराने कुएँ के पास बैठ गया। उसने अपनी रोटियाँ निकालीं और उन्हें देखकर बुदबुदाया, “एक खाऊँ, दो खाऊँ, तीन खाऊँ या चारों खा जाऊँ?”",
+     "उस कुएँ में चार परियाँ रहती थीं। आदमी की बात सुनकर वे डर गईं। उन्हें लगा कि कोई राक्षस उन्हें खाने आया है! वे जल्दी से कुएँ से बाहर निकलीं और बोलीं, “कृपया हमें मत खाइए। हम आपको दो अनमोल उपहार देंगी।”",
+     "उन्होंने उसे एक जादुई कटोरा दिया, जिससे माँगने पर मनपसंद भोजन मिल सकता था। दूसरा उपहार था एक छोटी-सी कठपुतली, जो कहने पर कोई भी काम कर सकती थी।",
+     "आदमी बहुत खुश हुआ। वह उपहार लेकर घर की ओर चल पड़ा। लेकिन रात हो गई और वह अपने गाँव नहीं पहुँच सका। इसलिए उसने पास के एक गाँव में एक घर के मालिक से रात बिताने की अनुमति माँगी।",
+     "उस परिवार को धन्यवाद देने के लिए उसने जादुई कटोरे से स्वादिष्ट भोजन बनवाया। फिर उसने कठपुतली से बर्तन साफ़ करने को कहा। घर के मालिक की पत्नी यह सब देखकर हैरान रह गई। उसने सोचा कि इन जादुई चीज़ों को चुरा लेना चाहिए।",
+     "जब आदमी सो गया, तो उसने असली कटोरे और कठपुतली की जगह साधारण चीज़ें रख दीं।",
+     "अगली सुबह आदमी घर पहुँचा और अपनी पत्नी को सारी कहानी सुनाई। लेकिन जब उसने कटोरे से भोजन माँगा, तो कुछ नहीं हुआ। कठपुतली भी हिली तक नहीं। आदमी समझ गया कि किसी ने उसके साथ धोखा किया है।",
+     "वह तुरंत कुएँ के पास गया और परियों को पुकारा। परियों ने उसकी बात सुनी और उसे दो नए उपहार दिए—एक जादुई रस्सी और एक जादुई छड़ी। रस्सी उसके कहने पर किसी को भी बाँध सकती थी और छड़ी उसके आदेश पर चलने लगती थी।",
+     "आदमी उस घर में वापस गया जहाँ उसके उपहार चुराए गए थे। उसने रस्सी और छड़ी से उस परिवार को डराया और उनसे अपनी जादुई चीज़ें वापस माँगीं। परिवार ने तुरंत वे चीज़ें लौटा दीं।",
+     "आख़िरकार आदमी अपने चारों उपहार लेकर घर लौट आया। अब उसके परिवार को खाने की चिंता नहीं रही। जादुई उपहारों ने उन्हें मुसीबतों से बचाने में भी मदद की।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In a village surrounded by fields and dusty roads, there lived a man who had grown used to avoiding work. His family struggled to make ends meet, and his wife had become increasingly anxious about their future.",
+     "One morning, she prepared four chapatis for him and urged him to go out and earn something. The man tied the food into his scarf and set off, though he had no particular idea where he was going or what he would do.",
+     "After walking for many hours, he stopped beside an old well. He was hungry, but he did not want to finish all his food at once. Looking at the four chapatis, he began to count them aloud: “Should I eat one, two, three, or all four?”",
+     "The words reached four fairies who lived inside the well. They imagined that a terrifying creature had arrived and was deciding which of them to eat. They rushed out and pleaded with the stranger to spare them. In exchange, they offered him two extraordinary gifts.",
+     "One was a bowl that could provide whatever food its owner desired. The other was a puppet that could perform any task it was commanded to do. The man accepted the gifts gratefully and continued towards home.",
+     "Darkness fell before he could reach his village. He therefore asked a family in a neighbouring village to give him shelter for the night. Wishing to repay their hospitality, he summoned a splendid meal from the bowl and ordered the puppet to clean the dishes afterwards.",
+     "The family was astonished by what they had witnessed. The woman of the house, however, was overcome by greed. While the traveller slept, she replaced the enchanted objects with ordinary imitations.",
+     "The next morning, the man returned home and proudly told his wife about his good fortune. But when he tried to summon food, the bowl remained empty. The puppet stood motionless. His wife, who had hoped that their troubles were finally over, became angry and refused to believe his story.",
+     "The man realised that he had been cheated. He returned to the well and called out to the fairies. When they heard what had happened, they gave him another pair of magical objects: a rope that could bind anyone he named, and a stick that would act whenever he commanded it.",
+     "Armed with these gifts, the man returned to the neighbouring village and stayed once again in the same house. This time, when the household was asleep, he ordered the rope to catch the dishonest hosts and the stick to punish them until they agreed to return what they had stolen.",
+     "The frightened family gave back the original bowl and puppet. The man returned home with all four gifts, and his family was no longer left helpless or hungry."
+    ],
+    "hi": [
+     "खेतों और धूल भरी पगडंडियों से घिरे एक गाँव में एक आदमी रहता था। उसे काम से बचने की आदत पड़ गई थी। उसका परिवार बड़ी मुश्किल से गुज़ारा करता था और उसकी पत्नी उनके भविष्य को लेकर चिंतित रहती थी।",
+     "एक सुबह पत्नी ने उसके लिए चार रोटियाँ बनाईं और उसे कुछ कमाने के लिए घर से बाहर जाने को कहा। आदमी ने रोटियाँ अपने गमछे में बाँधीं और चल पड़ा। हालाँकि उसे खुद भी नहीं पता था कि वह कहाँ जाएगा या क्या काम करेगा।",
+     "कई घंटे चलने के बाद वह एक पुराने कुएँ के पास बैठ गया। उसे भूख लगी थी, लेकिन वह सारा खाना एक साथ नहीं खाना चाहता था। चारों रोटियों को देखते हुए वह ज़ोर से गिनने लगा, “एक खाऊँ, दो खाऊँ, तीन खाऊँ या चारों खा जाऊँ?”",
+     "उसकी आवाज़ कुएँ के भीतर रहने वाली चार परियों तक पहुँची। उन्हें लगा कि कोई भयानक राक्षस आया है और सोच रहा है कि उनमें से किसे खाए! वे घबराकर बाहर निकलीं और उस आदमी से अपनी जान बख्शने की विनती करने लगीं। बदले में उन्होंने उसे दो अद्भुत उपहार देने का वादा किया।",
+     "पहला उपहार एक ऐसा कटोरा था जिसमें से माँगने पर मनचाहा भोजन निकल आता था। दूसरा एक कठपुतली थी जो आदेश मिलते ही कोई भी काम कर सकती थी। आदमी ने खुशी-खुशी दोनों उपहार स्वीकार किए और घर की ओर चल पड़ा।",
+     "घर पहुँचने से पहले ही अँधेरा हो गया। इसलिए उसने पास के गाँव में एक परिवार से रात बिताने के लिए जगह माँगी। उनके आतिथ्य का धन्यवाद करने के लिए उसने जादुई कटोरे से स्वादिष्ट भोजन मँगवाया और कठपुतली को बर्तन साफ़ करने का आदेश दिया।",
+     "परिवार यह सब देखकर दंग रह गया। लेकिन घर की मालकिन के मन में लालच आ गया। जब यात्री सो गया, तो उसने जादुई कटोरे और कठपुतली की जगह वैसी ही दिखने वाली साधारण चीज़ें रख दीं।",
+     "अगली सुबह आदमी घर पहुँचा और गर्व से अपनी पत्नी को अपने सौभाग्य की कहानी सुनाई। लेकिन जब उसने कटोरे से भोजन माँगा, तो वह खाली रहा। कठपुतली भी बिल्कुल नहीं हिली। उसकी पत्नी, जिसे लगा था कि अब उनकी परेशानियाँ समाप्त हो जाएँगी, क्रोधित हो गई और उसे झूठा समझने लगी।",
+     "आदमी समझ गया कि उसके साथ धोखा हुआ है। वह कुएँ के पास लौटकर परियों को पुकारने लगा। परियों ने उसकी बात सुनी और उसे दो और जादुई चीज़ें दीं—एक ऐसी रस्सी जो उसके आदेश पर किसी को भी बाँध सकती थी, और एक ऐसी छड़ी जो उसके कहने पर चलने लगती थी।",
+     "इन उपहारों के साथ वह फिर उसी गाँव और उसी घर पहुँचा। इस बार उसने रस्सी और छड़ी को आदेश दिया कि वे धोखेबाज़ परिवार को पकड़ें और तब तक सबक सिखाएँ, जब तक वे चोरी की हुई चीज़ें वापस न कर दें।",
+     "डरे हुए परिवार ने कटोरा और कठपुतली लौटा दी। आदमी चारों जादुई उपहार लेकर अपने घर लौट आया। अब उसका परिवार भूखा और असहाय नहीं था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "There was once a villager who had become so accustomed to idleness that he rarely thought about how his family would survive. His wife carried the burden of their household worries. One morning, after another argument about their lack of money, she packed four chapatis for him and insisted that he leave the house in search of work.",
+     "The man walked along the main road without any clear plan. By evening, he had travelled a considerable distance and was exhausted. He sat on the stone platform of an old well and took out his food. Uncertain whether to save some for later or satisfy his hunger immediately, he began to mutter, “Shall I eat one, two, three, or all four?”",
+     "The well was home to four fairies. Hearing the stranger's words, they imagined that a dangerous being had come to devour them. They emerged in great alarm and begged him to spare their lives. In return, they offered him two remarkable objects: a bowl that could produce any food he asked for, and a puppet capable of carrying out any command.",
+     "The man accepted the gifts and continued his journey. When night overtook him, he sought shelter in a neighbouring village. He promised his host that he would provide a fine meal for the household. With the magic bowl he summoned food, and with the puppet he had the dishes cleaned. The household watched in amazement.",
+     "But wonder soon gave way to envy. The woman of the house decided that such objects would be better in her possession. While the traveller slept, she exchanged the enchanted bowl and puppet for ordinary substitutes.",
+     "The next morning, the man returned home and recounted his extraordinary encounter. His wife, naturally, expected the gifts to work. But the bowl produced nothing, and the puppet remained lifeless. His story sounded like an elaborate invention, and the household's disappointment turned against him.",
+     "Realising that he had been robbed, the man returned to the well. The fairies listened to his account and gave him two further objects: a rope that could bind anyone he named, and a stick that would obey his instructions. They advised him to return to the house where he had spent the night and recover his stolen property.",
+     "The man followed their advice. He returned to the neighbouring village and confronted the family that had deceived him. At his command, the rope seized the household, while the stick moved against them. Unable to resist the magical objects, the family begged him to stop. He agreed only when they returned the original bowl and puppet.",
+     "The man went home with all four gifts. His family now possessed a seemingly inexhaustible source of food, a servant that could perform their work, and two objects that could protect them from danger.",
+     "The tale ends with the family's good fortune. Yet it leaves a question for the reader: did the man become wiser through his encounter, or did he simply exchange one kind of dependence for another? The magic solves his immediate problems, but the story also invites us to think about trust, greed and the responsibilities that come with power."
+    ],
+    "hi": [
+     "एक गाँव में एक आदमी रहता था जिसे खाली बैठने की इतनी आदत हो गई थी कि वह शायद ही कभी सोचता कि उसके परिवार का गुज़ारा कैसे होगा। घर की सारी चिंताएँ उसकी पत्नी उठाती थी। एक सुबह पैसों की कमी को लेकर फिर बहस हुई। पत्नी ने उसके लिए चार रोटियाँ बाँधीं और ज़ोर देकर कहा कि वह काम की तलाश में घर से बाहर निकले।",
+     "आदमी बिना किसी स्पष्ट योजना के मुख्य सड़क पर चल पड़ा। शाम तक वह काफी दूर आ चुका था और थककर चूर हो गया था। वह एक पुराने कुएँ की पत्थर की जगत पर बैठ गया और अपना खाना निकाला। यह सोचकर कि कुछ रोटियाँ बाद के लिए बचाए या अभी ही भूख मिटा ले, वह बुदबुदाने लगा, “एक खाऊँ, दो खाऊँ, तीन खाऊँ या चारों खा जाऊँ?”",
+     "उस कुएँ में चार परियाँ रहती थीं। अजनबी की आवाज़ सुनकर उन्हें लगा कि कोई खतरनाक प्राणी उन्हें निगलने आया है। वे घबराकर बाहर निकलीं और उससे अपनी जान बख्शने की विनती करने लगीं। बदले में उन्होंने उसे दो अद्भुत वस्तुएँ देने का प्रस्ताव रखा—एक ऐसा कटोरा जिसमें से माँगने पर कोई भी भोजन निकल सकता था, और एक कठपुतली जो हर आदेश का पालन कर सकती थी।",
+     "आदमी ने उपहार स्वीकार किए और आगे चल पड़ा। रात होने पर उसने पास के गाँव में एक परिवार से आश्रय माँगा। उसने मेज़बानों से वादा किया कि वह उनके लिए अच्छा भोजन तैयार करेगा। जादुई कटोरे से उसने भोजन मँगवाया और कठपुतली से बर्तन साफ़ करवाए। पूरा परिवार यह देखकर हैरान रह गया।",
+     "लेकिन आश्चर्य जल्द ही ईर्ष्या में बदल गया। घर की मालकिन ने सोचा कि ऐसी अनमोल चीज़ें उसके पास होनी चाहिए। जब यात्री सो गया, तो उसने जादुई कटोरे और कठपुतली की जगह साधारण चीज़ें रख दीं।",
+     "अगली सुबह आदमी घर पहुँचा और अपनी असाधारण मुलाक़ात की कहानी सुनाई। उसकी पत्नी को स्वाभाविक रूप से उम्मीद थी कि उपहार काम करेंगे। लेकिन कटोरे से कुछ नहीं निकला और कठपुतली बेजान पड़ी रही। उसकी कहानी एक मनगढ़ंत किस्से जैसी लगी और घरवालों की निराशा उसी पर उतर आई।",
+     "यह समझकर कि उसके साथ चोरी हुई है, आदमी वापस कुएँ के पास गया। परियों ने उसकी बात सुनी और उसे दो और वस्तुएँ दीं—एक ऐसी रस्सी जो उसके कहने पर किसी को भी बाँध सकती थी, और एक ऐसी छड़ी जो उसके निर्देशों का पालन करती थी। उन्होंने उसे सलाह दी कि वह उस घर में लौटे जहाँ उसने रात बिताई थी और अपनी चोरी हुई चीज़ें वापस ले आए।",
+     "आदमी ने उनकी सलाह मानी। वह पड़ोसी गाँव लौटा और उस परिवार का सामना किया जिसने उसे धोखा दिया था। उसके आदेश पर रस्सी ने घरवालों को बाँध लिया और छड़ी उनकी ओर बढ़ी। जादुई वस्तुओं का सामना न कर पाने पर परिवार ने उससे रुकने की विनती की। आदमी ने तभी उन्हें छोड़ा जब उन्होंने असली कटोरा और कठपुतली लौटा दी।",
+     "आदमी चारों उपहार लेकर घर लौट आया। अब उसके परिवार के पास भोजन का कभी समाप्त न होने वाला स्रोत, काम करने वाली एक सेविका और संकट से बचाने वाली दो जादुई वस्तुएँ थीं।",
+     "कहानी परिवार की खुशहाली पर समाप्त होती है। लेकिन पाठक के मन में एक प्रश्न छोड़ जाती है: क्या इस अनुभव से आदमी सचमुच समझदार बना, या उसने बस अपनी एक निर्भरता की जगह दूसरी निर्भरता अपना ली? जादू उसकी तत्काल समस्याएँ हल कर देता है, पर कहानी हमें विश्वास, लालच और शक्ति के साथ आने वाली ज़िम्मेदारियों पर सोचने का अवसर भी देती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7
+     ],
+     [
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Uttar Pradesh",
+  "community": "Not attributed to a specific district or community",
+  "tradition": "Magical folktale."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "K. P. Bahadur, Folk Tales of Uttar Pradesh (Sterling Publishers, 1972), as reproduced by the Centre for Contemporary Folklore (CCF).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-173-020",
+ "meta": [
+  "Genre: Magical folktale · Themes: generosity, trust, resourcefulness, consequences of greed",
+  "Source and cultural attribution",
+  "The story is recorded as a Uttar Pradesh folktale in K. P. Bahadur’s Folk Tales of Uttar Pradesh (Sterling Publishers, 1972). The Centre for Contemporary Folklore reproduces the narrative and credits Bahadur’s collection. The accessible record does not identify a specific district, language community or oral storyteller, so the attribution should remain broad.",
+  "Centre for Contemporary Folklore (CCF)+1",
+  "Narrative note: The published version includes a lazy husband, a distressed wife, magical gifts, theft by a host, and the fairies’ eventual help. The adaptations below retain those central events while softening the wife’s threat and the punishment scene for younger readers. The story’s original ending rewards the villager with magical protection; it does not explicitly say that he learns to work hard."
+ ]
+}

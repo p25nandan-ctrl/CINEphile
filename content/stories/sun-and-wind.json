@@ -1,0 +1,536 @@
+{
+ "id": "sun-and-wind",
+ "state": "gj",
+ "title": "Sun and Wind",
+ "titleHi": "सूरज और हवा",
+ "summary": "The Sun and the Wind argue about who is stronger and test themselves on a traveller in a warm shawl. A Rathwa tale about how gentleness and patience can succeed where force fails.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Rathwi (Rathwa) Adivasi folktale, Gujarat",
+ "origLevel": 2,
+ "levelReason": "Sentences are mostly short to medium (about 11 words on average) with clear connectors such as “until”, “while” and “at first”, and a moderate vocabulary (boasted, withstand, perspire, exhausted) that suits Growing Sapling readers. There is little figurative or complex writing, so it is not Level 3, and the vocabulary is beyond Level 1.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, the Sun and the Wind had a big talk. Each one said, “I am stronger!”",
+     "The Sun said, “My hot rays can beat anything.” The Wind said, “No! Nobody can stand against my strong push.”",
+     "They talked and talked. Then they said, “Let us have a contest.”",
+     "Just then, they saw a man walking on a village road. He wore a warm shawl.",
+     "The Wind said, “Let us see who can make him take off his shawl.”",
+     "The Sun said yes. The Wind went first.",
+     "The Wind blew with all its strength. At first it blew softly. The man kept walking, so the Wind blew harder.",
+     "It shook the trees and the branches. Dust flew up all over the road.",
+     "But the man held his shawl tight. The harder the Wind blew, the tighter he held it.",
+     "The Wind tried and tried. The shawl stayed on. At last the Wind was tired and said, “I lose.”",
+     "Now it was the Sun’s turn. The Sun shone softly on the man.",
+     "At first the warmth felt nice. The man made his shawl a little loose and kept walking.",
+     "The Sun made it a little warmer. Soon the man was sweating. The road was hot.",
+     "He could not bear the heat. He stopped and took off his shawl. He put it over his arm. The Sun won!",
+     "The Wind saw that blowing hard did nothing. The Sun’s soft warmth did what strength could not.",
+     "From that day, they both knew that strength is not everything. Being patient and gentle can work much better.",
+     "Moral: Being gentle and patient can win where force and anger cannot."
+    ],
+    "hi": [
+     "बहुत समय पहले सूरज और हवा में बहस हो गई। दोनों कहते थे, “मैं ज़्यादा ताकतवर हूँ!”",
+     "सूरज बोला, “मेरी गरम किरणें सब कुछ हरा सकती हैं।” हवा बोली, “नहीं! मेरे ज़ोर के आगे कोई नहीं टिक सकता।”",
+     "वे बहुत देर तक बहस करते रहे। फिर बोले, “चलो, मुकाबला कर लें।”",
+     "तभी उन्होंने गाँव की सड़क पर एक आदमी को चलते देखा। उसने गरम शॉल ओढ़ रखी थी।",
+     "हवा ने कहा, “देखें, कौन उससे पहले शॉल उतरवाता है।”",
+     "सूरज मान गया। पहले हवा की बारी थी।",
+     "हवा ने पूरे ज़ोर से चलना शुरू किया। पहले वह धीरे चली। आदमी चलता रहा, तो हवा और तेज़ हो गई।",
+     "उसने पेड़ हिला दिए और डालियाँ झकझोर दीं। सड़क पर धूल उड़ने लगी।",
+     "पर आदमी ने शॉल को कसकर पकड़ लिया। हवा जितनी तेज़ चली, उसने शॉल उतना ही कसकर लपेटा।",
+     "हवा ने बार-बार कोशिश की, पर शॉल नहीं उतरी। आखिर थककर हवा बोली, “मैं हार गई।”",
+     "अब सूरज की बारी थी। सूरज ने आदमी पर धीरे-धीरे धूप बरसाई।",
+     "पहले गरमी अच्छी लगी। आदमी ने शॉल थोड़ी ढीली कर ली और चलता रहा।",
+     "सूरज ने गरमी थोड़ी और बढ़ाई। जल्दी ही आदमी को पसीना आने लगा। सड़क तप गई।",
+     "आदमी से गरमी सही नहीं गई। वह रुका और उसने शॉल उतारकर बाँह पर रख ली। सूरज जीत गया!",
+     "हवा समझ गई कि ज़ोर लगाने से कुछ नहीं हुआ। सूरज की हल्की गरमी ने वह कर दिखाया जो ताकत नहीं कर सकी।",
+     "उस दिन से दोनों जान गए कि ताकत ही सब कुछ नहीं होती। धीरज और नरमी कहीं ज़्यादा काम आते हैं।",
+     "सीख: नरमी और धीरज वह कर दिखाते हैं जो ज़ोर-ज़बरदस्ती और गुस्सा नहीं कर पाते।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "contest",
+     "en": "a game to see who is best",
+     "hi": "मुकाबला"
+    },
+    {
+     "w": "shawl",
+     "en": "a warm cloth for your shoulders",
+     "hi": "शॉल"
+    },
+    {
+     "w": "strength",
+     "en": "how strong you are",
+     "hi": "ताकत"
+    },
+    {
+     "w": "softly",
+     "en": "gently, not hard",
+     "hi": "धीरे से"
+    },
+    {
+     "w": "tight",
+     "en": "held close and firm",
+     "hi": "कसकर"
+    },
+    {
+     "w": "tired",
+     "en": "with no energy left",
+     "hi": "थका हुआ"
+    },
+    {
+     "w": "loose",
+     "en": "not tight",
+     "hi": "ढीला"
+    },
+    {
+     "w": "sweating",
+     "en": "wet with sweat from heat",
+     "hi": "पसीना आना"
+    },
+    {
+     "w": "bear",
+     "en": "to put up with something",
+     "hi": "सहना"
+    },
+    {
+     "w": "patient",
+     "en": "able to wait calmly",
+     "hi": "धैर्यवान"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Characters",
+     "q": "Who argued at the start of the story, and what did they argue about?"
+    },
+    {
+     "k": "Events",
+     "q": "What did the traveller do when the Wind blew harder and harder?"
+    },
+    {
+     "k": "Events",
+     "q": "How did the Sun make the traveller take off his shawl?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think the Wind felt at the end of the story? Why?"
+    },
+    {
+     "k": "Me",
+     "q": "Think of a time when being gentle or patient worked better than shouting or pushing. What happened?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, the Sun and the Wind began arguing about which of them was stronger.",
+     "The Sun boasted that his powerful rays could overcome anything in the world. The Wind disagreed, claiming that nobody could withstand its mighty force.",
+     "They argued for a long time until they decided to settle the matter through a contest.",
+     "Just then, they noticed a traveller walking along a village road. He wore a warm shawl around his shoulders.",
+     "The Wind suggested that they compete to see who could make the traveller remove his shawl first.",
+     "The Sun agreed. The Wind would try first.",
+     "It gathered all its strength and began blowing against the traveller. At first, it blew gently, but when the traveller continued walking, the Wind grew stronger.",
+     "It rushed through the trees, shook the branches and sent clouds of dust swirling across the road.",
+     "But the traveller only pulled his shawl closer around himself. The harder the Wind blew, the more tightly the man wrapped his shawl around his body.",
+     "The Wind tried again and again, but it could not make him remove it. At last, exhausted, the Wind admitted defeat.",
+     "Now it was the Sun’s turn. The Sun began shining gently upon the traveller.",
+     "At first, the warmth was pleasant. The traveller loosened his shawl slightly and continued walking.",
+     "The Sun gradually increased its warmth. Soon the traveller began to perspire. The road became hot, and the air grew uncomfortable.",
+     "Unable to bear the heat any longer, the traveller stopped. He removed his shawl and placed it over his arm. The Sun had won the contest.",
+     "The Wind realised that its forceful approach had achieved nothing, while the Sun’s gentle warmth had accomplished what strength could not.",
+     "From that day onwards, the two understood that power does not always lie in force. Sometimes patience and gentleness are far more effective.",
+     "Moral: Gentleness and patience can achieve what force and aggression cannot."
+    ],
+    "hi": [
+     "बहुत समय पहले सूरज और हवा में इस बात पर बहस छिड़ गई कि दोनों में कौन ज़्यादा ताकतवर है।",
+     "सूरज ने घमंड से कहा कि उसकी तेज़ किरणें दुनिया की हर चीज़ को हरा सकती हैं। हवा ने इनकार किया और कहा कि उसके ज़ोर के आगे कोई टिक नहीं सकता।",
+     "वे बहुत देर तक झगड़ते रहे, फिर तय किया कि मुकाबले से फ़ैसला करेंगे।",
+     "तभी उन्हें गाँव की सड़क पर चलता एक राहगीर दिखा। उसके कंधों पर गरम शॉल पड़ी थी।",
+     "हवा ने सुझाव दिया कि देखें, कौन राहगीर से पहले उसकी शॉल उतरवा लेता है।",
+     "सूरज राज़ी हो गया। पहले हवा को कोशिश करनी थी।",
+     "हवा ने अपनी पूरी ताकत जुटाई और राहगीर पर चलने लगी। पहले वह धीरे चली, पर जब राहगीर चलता रहा तो और तेज़ हो गई।",
+     "वह पेड़ों के बीच से सनसनाती निकली, डालियाँ हिला दीं और सड़क पर धूल के बादल उड़ा दिए।",
+     "लेकिन राहगीर ने उलटे अपनी शॉल को और पास खींच लिया। हवा जितना ज़ोर लगाती, वह शॉल को उतने ही कसकर अपने बदन पर लपेट लेता।",
+     "हवा ने बार-बार कोशिश की, पर शॉल नहीं उतरवा सकी। आखिर थककर उसने हार मान ली।",
+     "अब सूरज की बारी थी। उसने राहगीर पर धीरे-धीरे चमकना शुरू किया।",
+     "शुरू में गरमी सुहानी लगी। राहगीर ने शॉल ज़रा ढीली कर ली और चलता रहा।",
+     "सूरज ने गरमी धीरे-धीरे बढ़ाई। जल्द ही राहगीर को पसीना आने लगा, सड़क तपने लगी और माहौल बेचैन करने वाला हो गया।",
+     "जब गरमी सहन नहीं हुई तो राहगीर रुक गया। उसने शॉल उतारकर अपनी बाँह पर डाल ली। सूरज मुकाबला जीत गया था।",
+     "हवा समझ गई कि ज़ोर-ज़बरदस्ती से कुछ नहीं हुआ, जबकि सूरज की नरम गरमी ने वह कर दिखाया जो ताकत नहीं कर सकी।",
+     "उस दिन के बाद दोनों ने जाना कि ताकत हमेशा ज़ोर में नहीं होती। कभी-कभी धीरज और नरमी कहीं ज़्यादा असरदार होते हैं।",
+     "सीख: नरमी और धीरज वह हासिल कर लेते हैं जो ज़ोर-ज़बरदस्ती और आक्रामकता नहीं कर सकती।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "boasted",
+     "en": "bragged; said proudly",
+     "hi": "घमंड से कहा"
+    },
+    {
+     "w": "withstand",
+     "en": "to stand strong against",
+     "hi": "सामना करना"
+    },
+    {
+     "w": "contest",
+     "en": "a competition",
+     "hi": "मुकाबला"
+    },
+    {
+     "w": "shawl",
+     "en": "a warm cloth worn over the shoulders",
+     "hi": "शॉल"
+    },
+    {
+     "w": "exhausted",
+     "en": "very tired",
+     "hi": "थककर चूर"
+    },
+    {
+     "w": "defeat",
+     "en": "losing",
+     "hi": "हार"
+    },
+    {
+     "w": "loosened",
+     "en": "made less tight",
+     "hi": "ढीला किया"
+    },
+    {
+     "w": "gradually",
+     "en": "slowly, little by little",
+     "hi": "धीरे-धीरे"
+    },
+    {
+     "w": "perspire",
+     "en": "to sweat",
+     "hi": "पसीना आना"
+    },
+    {
+     "w": "gentleness",
+     "en": "being soft and kind",
+     "hi": "नरमी"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why do you think the Sun and the Wind each wanted to prove they were stronger?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why did the traveller hold his shawl tighter when the Wind blew harder?"
+    },
+    {
+     "k": "Decision",
+     "q": "The Sun began gently and increased its warmth slowly. Why was this a wise way to go about it?"
+    },
+    {
+     "k": "Consequence",
+     "q": "What did the Wind learn from losing the contest?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The story says power does not always lie in force. What other kinds of power can you think of?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, the Sun and the Wind became locked in a heated argument over which of them possessed greater strength.",
+     "The Sun boasted that his blazing rays could conquer anything on earth, while the Wind disagreed, insisting that nobody could stand against its mighty force.",
+     "Neither would yield, and after arguing for a long while, they agreed to settle the matter with a contest.",
+     "At that very moment, they noticed a traveller making his way along a village road, a warm shawl draped around his shoulders.",
+     "The Wind proposed that they compete to see which of them could make the traveller remove his shawl first.",
+     "The Sun consented, and it was agreed that the Wind would take the first turn.",
+     "Gathering all its strength, the Wind began to blow against the traveller, gently at first, then with growing fury when he walked on regardless.",
+     "It roared through the trees, rattled the branches and sent great clouds of dust swirling across the road.",
+     "Yet the traveller merely drew his shawl closer, and the harder the Wind blew, the more tightly he wrapped it around his body.",
+     "Again and again the Wind tried, but the shawl would not budge, and at last, exhausted, it admitted defeat.",
+     "Now it was the Sun’s turn, and he began to shine gently upon the traveller.",
+     "At first the warmth was pleasant; the traveller loosened his shawl a little and strolled on.",
+     "Slowly the Sun increased his warmth, until the traveller began to perspire, the road grew hot and the air turned stifling.",
+     "Unable to endure the heat any longer, the traveller stopped, slipped off his shawl and draped it over his arm. The Sun had won the contest.",
+     "The Wind realised that its forceful approach had achieved nothing, while the Sun’s gentle warmth had accomplished what strength never could.",
+     "From that day onwards, the two understood that true power does not always lie in force; patience and gentleness can prove far more effective.",
+     "Moral: Gentleness and patience can accomplish what force and aggression never will."
+    ],
+    "hi": [
+     "बहुत पुरानी बात है, सूरज और हवा के बीच इस बात को लेकर गरमागरम बहस छिड़ गई कि दोनों में से किसके पास ज़्यादा शक्ति है।",
+     "सूरज ने गर्व से कहा कि उसकी प्रचंड किरणें धरती की हर चीज़ पर विजय पा सकती हैं, जबकि हवा ने असहमत होकर दावा किया कि उसके प्रबल वेग के सामने कोई नहीं टिक सकता।",
+     "कोई भी झुकने को तैयार न था। देर तक बहस करने के बाद दोनों ने इस विवाद को एक प्रतियोगिता से सुलझाने का निश्चय किया।",
+     "ठीक उसी क्षण उनकी नज़र एक राहगीर पर पड़ी जो गाँव की सड़क पर चला जा रहा था। उसके कंधों पर एक गरम शॉल लिपटी हुई थी।",
+     "हवा ने प्रस्ताव रखा कि देखें, दोनों में से कौन राहगीर से सबसे पहले उसकी शॉल उतरवा पाता है।",
+     "सूरज ने सहमति दे दी और तय हुआ कि पहली बारी हवा की होगी।",
+     "अपनी सारी शक्ति बटोरकर हवा राहगीर के विरुद्ध बहने लगी। आरंभ में वह मंद-मंद चली, पर जब राहगीर बेपरवाह चलता रहा तो उसका वेग बढ़ता गया।",
+     "वह गरजती हुई पेड़ों के बीच से निकली, डालियों को झकझोरा और सड़क पर धूल के घने बादल घुमा दिए।",
+     "फिर भी राहगीर ने केवल अपनी शॉल को और करीब खींच लिया, और हवा जितनी प्रचंड होती गई, उसने शॉल को उतनी ही मज़बूती से अपने बदन पर लपेट लिया।",
+     "हवा ने बार-बार प्रयास किया, पर शॉल टस से मस न हुई, और अंततः थककर चूर होकर उसने पराजय स्वीकार कर ली।",
+     "अब सूरज की बारी थी, और उसने राहगीर पर कोमलता से अपनी किरणें बिखेरनी शुरू कीं।",
+     "आरंभ में गरमाहट सुखद लगी; राहगीर ने शॉल को ज़रा ढीला कर लिया और आगे बढ़ता रहा।",
+     "धीरे-धीरे सूरज ने अपनी गरमाहट बढ़ाई, यहाँ तक कि राहगीर पसीने से तर होने लगा, सड़क तप उठी और वातावरण असहनीय हो गया।",
+     "जब गरमी सहन करना कठिन हो गया तो राहगीर रुक गया, उसने शॉल उतारकर अपनी बाँह पर डाल ली। प्रतियोगिता सूरज ने जीत ली थी।",
+     "हवा को अनुभव हुआ कि उसके बलपूर्वक तरीके से कुछ हासिल नहीं हुआ, जबकि सूरज की कोमल गरमाहट ने वह कर दिखाया जो शक्ति नहीं कर पाई।",
+     "उस दिन के बाद दोनों समझ गए कि सच्ची ताकत हमेशा बल में नहीं बसती। कभी-कभी धैर्य और कोमलता कहीं अधिक कारगर सिद्ध होती है।",
+     "सीख: कोमलता और धैर्य वह पा लेते हैं जो बल और आक्रामकता कभी नहीं पा सकते।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "heated",
+     "en": "angry and full of strong feeling",
+     "hi": "गरमागरम"
+    },
+    {
+     "w": "conquer",
+     "en": "to defeat or overcome",
+     "hi": "जीत लेना"
+    },
+    {
+     "w": "yield",
+     "en": "to give in",
+     "hi": "झुकना"
+    },
+    {
+     "w": "consented",
+     "en": "agreed",
+     "hi": "सहमत हुआ"
+    },
+    {
+     "w": "fury",
+     "en": "wild anger",
+     "hi": "प्रचंड क्रोध"
+    },
+    {
+     "w": "budge",
+     "en": "to move even a little",
+     "hi": "टस से मस होना"
+    },
+    {
+     "w": "exhausted",
+     "en": "completely worn out",
+     "hi": "थककर चूर"
+    },
+    {
+     "w": "perspire",
+     "en": "to sweat",
+     "hi": "पसीना आना"
+    },
+    {
+     "w": "stifling",
+     "en": "so hot you can hardly breathe",
+     "hi": "दम घोंटने वाला"
+    },
+    {
+     "w": "endure",
+     "en": "to put up with something hard",
+     "hi": "सहन करना"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "Is it right to try to change someone’s behaviour by pressure? How is the Sun’s way different from the Wind’s?"
+    },
+    {
+     "k": "Point of view",
+     "q": "Retell the contest from the traveller’s point of view. What did he feel and think in each part?"
+    },
+    {
+     "k": "Culture",
+     "q": "This tale is shared by the Rathwa community of Gujarat, and other communities tell stories with a similar idea. Why might different peoples tell the same kind of story?"
+    },
+    {
+     "k": "Theme",
+     "q": "The Wind was exhausted, but the Sun finished the contest calmly. What does the story suggest about the difference between strength and power?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do you see people using force or loud pressure today, and where do you see gentle persuasion? Which seems to work better, and why?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3,
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15,
+   16
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "The Sun and Wind argue",
+   "th": "सूरज और हवा की बहस",
+   "p": "A bright, warm sky: the Sun as a round golden face with soft straight and wavy rays, and the Wind as a swirl of pale blue-grey ribbons with a face, facing each other over a green hill above a village. Both look proud and stubborn. Wide, sunlit, storybook scene, gentle humour."
+  },
+  {
+   "t": "A traveller on the village road",
+   "th": "गाँव की सड़क पर राहगीर",
+   "p": "A narrow dusty village road lined with trees and low mud-and-tile houses. A middle-aged traveller walks along wrapped in a thick warm shawl (dark red with an ochre border). The Sun and the Wind in the sky above notice him and agree to a contest, the Sun nodding, the Wind pointing. Same character looks as before."
+  },
+  {
+   "t": "The Wind blows with all its might",
+   "th": "हवा पूरे ज़ोर से चली",
+   "p": "The Wind puffed up large, blowing hard along the road: trees bent, branches shaking, dust clouds swirling. The traveller leans forward, pulling his shawl tight. Dynamic diagonal motion, muted dusty colours, no fear or danger, a little comic."
+  },
+  {
+   "t": "The Wind gives up",
+   "th": "हवा ने हार मान ली",
+   "p": "The traveller clutches his shawl tightly around his body as the dust settles. The Wind, small and droopy, sags in the air with a tired, defeated face, ribbons limp. The Sun watches kindly in the background."
+  },
+  {
+   "t": "The Sun shines gently",
+   "th": "सूरज ने धीरे से चमकना शुरू किया",
+   "p": "The Sun, soft and golden, shines gentle rays on the road. The traveller smiles, loosens his shawl a little and keeps walking. Warm pleasant light, calm mood."
+  },
+  {
+   "t": "The shawl comes off",
+   "th": "शॉल उतर गई",
+   "p": "Hotter noon light, the road shimmering. The traveller wipes his forehead, stops, and lifts the shawl off to carry it over his arm. The Sun glows warmly in the sky, quietly pleased."
+  },
+  {
+   "t": "Gentleness wins",
+   "th": "नरमी की जीत",
+   "p": "The Sun and the Wind side by side above the village, the Wind now calm and thoughtful, the Sun smiling; below, the traveller walks on with the shawl over his arm. Peaceful golden-hour mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Gujarat; Rathwa community of Chhota Udaipur area (Pithora tradition)",
+  "verified": true,
+  "tradition": "Pithora wall painting (Rathwa, Bhilala and Nayka communities of eastern Gujarat)",
+  "note": "Pithora, as described by the Gurjari (Gujarat government crafts) site and the Cambridge MAA museum, is a ritual wall painting of the Rathwa and neighbouring communities, made with bright colours and lively, flat figures, including horses, around the horse-riding god Baba Pithora. Because it is sacred, use it only as gentle inspiration (bright flat colours, rhythmic dots and outlines, simple animal and human figures, an open wall-like border) and do not paint Baba Pithora or other deities; ask a Rathwa or Pithora artist or the community to review before public use.",
+  "characters": [
+   {
+    "name": "The Sun",
+    "look": "A round golden-orange face with straight and wavy rays, kind but proud eyes, flat bold colours."
+   },
+   {
+    "name": "The Wind",
+    "look": "A swirl of pale blue and grey curved ribbons with a rounded face and puffed cheeks, bold outlines."
+   },
+   {
+    "name": "The traveller",
+    "look": "A middle-aged man with brown skin, plain cotton clothes, sandals and a thick warm shawl in dark red with an ochre border (clothing is an invented, neutral choice, not a claim about Rathwa dress)."
+   }
+  ],
+  "sources": [
+   [
+    "Pithora paintings (Gurjari, Government of Gujarat)",
+    "https://gurjari.gujarat.gov.in/craft/bird-hangings?lang=Hindi"
+   ],
+   [
+    "Pithora painting object record (MAA, University of Cambridge)",
+    "https://collections.maa.cam.ac.uk/objects/561793"
+   ],
+   [
+    "Rathwa people (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Rathwa_people"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the traveller on the village road. What does the Wind feel like on your skin, and what does the Sun feel like? What are you thinking as you hold your shawl?",
+ "create": "Draw the traveller in two pictures: one when the Wind blows hard, and one when the Sun shines gently. Or write a short conversation between the Sun and the Wind after the contest.",
+ "about": {
+  "where": "This story comes from Gujarat in western India. The sources say it is a Rathwi (Rathwa) folktale. The Rathwa live mainly in east-central Gujarat, especially in the Chhota Udaipur and Vadodara districts.",
+  "community": "The Rathwa are an Adivasi (tribal) community. They speak Rathwi among themselves and often Gujarati with others, and farming is the main way many families earn a living. This is one version of the story from one source, not the only way it is told.",
+  "tradition": "Rathwa homes are known for Pithora, a ritual wall painting made in thanks when a family’s needs have been met. It shows the horse-riding god Baba Pithora with scenes of everyday life. Pithora is sacred, so we only take gentle colour and style ideas from it for the pictures and do not claim it belongs to this particular story.",
+  "shared": "Stories like this were traditionally shared aloud. This one was gathered in a collection of Adivasi stories from Gujarat, which is how it reached readers in print and online. Many peoples around the world tell a tale about a contest between the sun and the wind, so the idea travels widely.",
+  "matters": "It reminds us that kindness and patience can be a kind of strength, and that pushing harder does not always work. Remember that this is an English retelling, so the wording is not the words of the Rathwa storytellers.",
+  "links": [
+   [
+    "Sun and Wind (Rathwi): a story from Gujarat, Tribal Cultural Heritage in India",
+    "https://indiantribalheritage.org/?p=25019"
+   ],
+   [
+    "Pithora paintings, Gurjari (Government of Gujarat)",
+    "https://gurjari.gujarat.gov.in/craft/bird-hangings?lang=Hindi"
+   ],
+   [
+    "Pithora painting, MAA Cambridge",
+    "https://collections.maa.cam.ac.uk/objects/561793"
+   ],
+   [
+    "Rathwa people, Wikipedia",
+    "https://en.wikipedia.org/wiki/Rathwa_people"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (per repository)",
+   "v": "Rathwi Adivasi folktale from Gujarat, listed by the Centre for Contemporary Folklore; also associated with Goth: Adivasi Stories from Gujarat, edited by Kanji Patel. The repository notes the English narrative is a modern retelling.",
+   "s": "ok"
+  },
+  {
+   "l": "Related online version",
+   "v": "“Sun and Wind (Rathwi)”, Tribal Cultural Heritage in India, crediting Bhasha, source book Adivasi Stories from Gujarat, marked © Bhasha",
+   "url": "https://indiantribalheritage.org/?p=25019",
+   "n": "This website’s version is a separate retelling.",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Art context",
+   "v": "Pithora information from Gurjari (Government of Gujarat) and the MAA, University of Cambridge",
+   "url": "https://collections.maa.cam.ac.uk/objects/561793",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Source of the retelling unclear: repository says modern retelling; the Bhasha-credited online text opens differently, and rights (©Bhasha / CCF) must be cleared.",
+  "Very similar to the widely known Sun-and-North-Wind tale; check whether the repository means it as a Rathwa-owned version and avoid claiming origin.",
+  "Pithora is sacred ritual art: have a Rathwa or Pithora community member review before using it for illustrations; never depict Baba Pithora.",
+  "Original level judged as Level 2; educator should confirm.",
+  "Hindi (including सीख for Moral) and Hindi vocabulary not reviewed by a fluent reader; Level 2 repository text kept word for word with only quote and spacing repairs.",
+  "The repository says Rathwi and Rathwa interchangeably; confirm the community spelling to use publicly."
+ ]
+}

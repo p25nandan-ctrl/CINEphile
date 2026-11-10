@@ -1,0 +1,248 @@
+{
+ "id": "sammakka-and-saralamma",
+ "state": "tg",
+ "title": "Sammakka and Saralamma — The Resistance of Medaram",
+ "titleHi": "मेडारम की साहसी माँ और बेटी",
+ "genre": "Heroic folk legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Brave Mother and Daughter of Medaram",
+   "hi": "मेडारम की साहसी माँ और बेटी"
+  },
+  "2": {
+   "en": "The People Who Stood with Sammakka",
+   "hi": "सम्मक्का के साथ खड़े हुए लोग"
+  },
+  "3": {
+   "en": "Sammakka and Saralamma: A Community's Memory of Resistance",
+   "hi": "सम्मक्का और सरलम्मा: प्रतिरोध की सामुदायिक स्मृति"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the forests of Telangana, there lived a Koya community led by a chief named Pagididda Raju. He was married to a brave woman named Sammakka. They had a daughter named Saralamma.",
+     "The family cared deeply for their people. They helped those who were hungry and stood beside anyone who needed support.",
+     "One year, the rains did not come. The fields became dry, the streams grew smaller and the people found it difficult to get enough food.",
+     "The ruler of the Kakatiya kingdom demanded that the Koya people pay a tribute. But the community had suffered from the drought and could not pay.",
+     "Soon, soldiers arrived. A battle began, and the people of Medaram stood together to protect their homes.",
+     "Pagididda Raju and his family joined the fight. Saralamma fought bravely too. Her brother Jampanna also stood with the people.",
+     "The battle was terrible. Jampanna fell near a stream, which later came to be known as Jampanna Vagu. Saralamma also lost her life. Sammakka was badly wounded and disappeared into the forest, according to the traditional story.",
+     "The people never forgot the family who had stood with them.",
+     "Even today, people gather at Medaram to honour Sammakka and Saralamma. They bring offerings and remember their courage.",
+     "Their story reminds us that standing together and caring for one's community are acts of great strength."
+    ],
+    "hi": [
+     "बहुत समय पहले तेलंगाना के जंगलों में कोया समुदाय रहता था। उसका नेतृत्व पगिडिद्दा राजू नाम के एक प्रमुख करते थे। उनका विवाह सम्मक्का नाम की एक साहसी स्त्री से हुआ था। उनकी एक बेटी थी, जिसका नाम सरलम्मा था।",
+     "यह परिवार अपने लोगों की बहुत परवाह करता था। वे भूखे लोगों की सहायता करते और मुसीबत में पड़े लोगों के साथ खड़े रहते थे।",
+     "एक वर्ष बारिश नहीं हुई। खेत सूखने लगे, नदियों और नालों में पानी कम हो गया और लोगों के लिए भोजन जुटाना कठिन हो गया।",
+     "काकतीय राज्य के शासक ने कोया समुदाय से कर माँगा। लेकिन सूखे के कारण समुदाय के पास कर चुकाने के लिए पर्याप्त साधन नहीं थे।",
+     "कुछ समय बाद सैनिक वहाँ पहुँचे। युद्ध शुरू हो गया और मेडारम के लोग अपने घरों की रक्षा के लिए एकजुट हो गए।",
+     "पगिडिद्दा राजू और उनका परिवार भी युद्ध में शामिल हुआ। सरलम्मा ने भी बहादुरी से लड़ाई लड़ी। उसका भाई जंपन्ना भी अपने लोगों के साथ खड़ा रहा।",
+     "युद्ध बहुत भयानक था। जंपन्ना एक जलधारा के पास मारा गया। बाद में उस जलधारा को जंपन्ना वागु कहा जाने लगा। सरलम्मा ने भी युद्ध में अपनी जान गंवा दी। पारंपरिक कथा के अनुसार, सम्मक्का गंभीर रूप से घायल हुईं और जंगल में लुप्त हो गईं।",
+     "लोग उस परिवार को कभी नहीं भूले, जिसने संकट के समय उनका साथ दिया था।",
+     "आज भी लोग सम्मक्का और सरलम्मा को सम्मान देने के लिए मेडारम में इकट्ठा होते हैं। वे प्रसाद चढ़ाते हैं और उनके साहस को याद करते हैं।",
+     "उनकी कहानी हमें याद दिलाती है कि एकजुट रहना और अपने समुदाय की देखभाल करना बहुत बड़ी शक्ति है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Sammakka and Pagididda Raju lived among the Koya people of Medaram. They were respected by their community, and their family was remembered for helping those who were in need.",
+     "They had children, including Saralamma and Jampanna. As the children grew older, they too became closely involved in the life of their community.",
+     "Then a difficult period arrived. The rains failed, and the region suffered a severe drought. Food became scarce, and the people struggled to meet their daily needs.",
+     "The Kakatiya ruler demanded tribute from the Koya chief. Pagididda Raju could not pay what was being demanded because his people were already suffering. Negotiations failed, and the Kakatiya forces marched towards Medaram.",
+     "The Koya people prepared to defend their homes. Sammakka, Pagididda Raju and their family stood with the community. The battle was fierce, and many people lost their lives.",
+     "Jampanna fought bravely but was killed near a stream. The waterway came to be remembered as Jampanna Vagu. Saralamma also died during the fighting. Pagididda Raju was killed, and Sammakka was seriously wounded.",
+     "In one widely told version, Sammakka entered the forest and disappeared. The people searched for her, but she was not found. They remembered her through the sacred objects and symbols associated with her.",
+     "The story did not end with the battle. It became part of the community's living tradition. Every two years, people gather at Medaram for the Sammakka–Saralamma Jatara. They bring offerings of jaggery, which is called bangaram, or gold, and remember the mother and daughter.",
+     "The story is remembered as a tale of courage and resistance. It also reminds us that the history of a region is not only the history of its kings. It is also the history of communities that fought to protect their way of life."
+    ],
+    "hi": [
+     "सम्मक्का और पगिडिद्दा राजू मेडारम के कोया समुदाय के बीच रहते थे। समुदाय में उनका सम्मान था और उनका परिवार ज़रूरतमंद लोगों की सहायता करने के लिए जाना जाता था।",
+     "उनके बच्चों में सरलम्मा और जंपन्ना भी थे। जैसे-जैसे बच्चे बड़े हुए, वे भी अपने समुदाय के जीवन में सक्रिय रूप से शामिल होने लगे।",
+     "फिर एक कठिन समय आया। बारिश नहीं हुई और पूरे क्षेत्र में भयंकर सूखा पड़ गया। भोजन की कमी होने लगी और लोगों के लिए रोज़मर्रा की ज़रूरतें पूरी करना मुश्किल हो गया।",
+     "काकतीय शासक ने कोया प्रमुख से कर माँगा। पगिडिद्दा राजू के लिए यह कर देना संभव नहीं था, क्योंकि उनके लोग पहले से ही कठिनाई में थे। बातचीत सफल नहीं हुई और काकतीय सेना मेडारम की ओर बढ़ने लगी।",
+     "कोया समुदाय ने अपने घरों की रक्षा करने की तैयारी की। सम्मक्का, पगिडिद्दा राजू और उनका परिवार अपने लोगों के साथ खड़े रहे। युद्ध बहुत भयानक था और अनेक लोगों की जान गई।",
+     "जंपन्ना ने बहादुरी से युद्ध किया, लेकिन एक जलधारा के पास उसकी मृत्यु हो गई। बाद में उस जलधारा को जंपन्ना वागु के नाम से याद किया जाने लगा। युद्ध के दौरान सरलम्मा की भी मृत्यु हो गई। पगिडिद्दा राजू मारे गए और सम्मक्का गंभीर रूप से घायल हुईं।",
+     "एक प्रसिद्ध कथा के अनुसार, सम्मक्का जंगल में चली गईं और फिर कभी दिखाई नहीं दीं। लोगों ने उन्हें खोजा, लेकिन वे नहीं मिलीं। समुदाय ने उनसे जुड़े पवित्र प्रतीकों और वस्तुओं के माध्यम से उनकी स्मृति को जीवित रखा।",
+     "युद्ध के साथ यह कहानी समाप्त नहीं हुई। यह समुदाय की जीवित परंपरा का हिस्सा बन गई। हर दो वर्ष में लोग सम्मक्का–सरलम्मा जातरा के लिए मेडारम में इकट्ठा होते हैं। वे गुड़ चढ़ाते हैं, जिसे बंगारम अर्थात सोना कहा जाता है, और माँ-बेटी को याद करते हैं।",
+     "यह कहानी साहस और प्रतिरोध की गाथा के रूप में याद की जाती है। यह हमें यह भी बताती है कि किसी क्षेत्र का इतिहास केवल उसके राजाओं का इतिहास नहीं होता। उसमें उन समुदायों का इतिहास भी शामिल होता है जिन्होंने अपनी जीवन-पद्धति की रक्षा के लिए संघर्ष किया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The story of Sammakka and Saralamma is central to the oral and devotional traditions of the Koya community in Telangana. It is remembered through the Medaram Jatara, one of the most significant gatherings associated with a tribal community in the region.",
+     "Sammakka was married to Pagididda Raju, a Koya chief associated with Medaram. Their family included Saralamma, Nagulamma and Jampanna. The family is remembered as having stood with the Koya people during a period of hardship and conflict.",
+     "According to the traditional account, a severe drought affected the region. The Koya chief was unable to pay the tribute demanded by the Kakatiya ruler. The disagreement escalated into a military confrontation, as the Kakatiya forces moved against the community.",
+     "Sammakka, Pagididda Raju and their family are remembered as having participated in the resistance. The battle resulted in heavy losses. Pagididda Raju and Jampanna were killed, and Saralamma also died. Jampanna's death is associated with the stream that bears his name, Jampanna Vagu.",
+     "The account of Sammakka's fate varies. In one version, she was seriously wounded and disappeared into the forest. In another devotional telling, her presence continued through the sacred symbols and rituals that became associated with Medaram.",
+     "The story has been preserved not simply as a tale of a battle, but as a memory of resistance and community identity. The annual or biennial rituals associated with Sammakka and Saralamma bring together people from different regions and backgrounds. Offerings of jaggery, called bangaram, are made as an expression of devotion.",
+     "The story also invites a wider reading. It is a narrative in which women are remembered as central figures in a community's resistance. It challenges the idea that histories of political power are made only by kings, courts and armies. In this tradition, the people who defend their homes, forests and communities are also worthy of remembrance.",
+     "For children, the story can introduce the values of courage, solidarity and collective responsibility. For older readers, it can open discussions about the relationship between tribal communities and state power, the preservation of oral histories and the ways in which festivals sustain collective memory."
+    ],
+    "hi": [
+     "तेलंगाना के कोया समुदाय की मौखिक और धार्मिक परंपराओं में सम्मक्का और सरलम्मा की कहानी का विशेष स्थान है। इसे मेडारम जातरा के माध्यम से याद किया जाता है, जो इस क्षेत्र के आदिवासी समुदायों से जुड़े सबसे महत्वपूर्ण आयोजनों में से एक है।",
+     "सम्मक्का का विवाह मेडारम से जुड़े कोया प्रमुख पगिडिद्दा राजू से हुआ था। उनके परिवार में सरलम्मा, नागुलम्मा और जंपन्ना शामिल थे। इस परिवार को उस कठिन समय में कोया समुदाय के साथ खड़े रहने के लिए याद किया जाता है।",
+     "पारंपरिक कथा के अनुसार, उस क्षेत्र में भयंकर सूखा पड़ा था। कोया प्रमुख काकतीय शासक द्वारा माँगा गया कर नहीं चुका पाए। यह विवाद धीरे-धीरे सैन्य संघर्ष में बदल गया और काकतीय सेना ने समुदाय के विरुद्ध अभियान शुरू कर दिया।",
+     "सम्मक्का, पगिडिद्दा राजू और उनके परिवार को प्रतिरोध में शामिल होने के लिए याद किया जाता है। युद्ध में भारी नुकसान हुआ। पगिडिद्दा राजू और जंपन्ना मारे गए तथा सरलम्मा की भी मृत्यु हुई। जंपन्ना की मृत्यु उस जलधारा से जुड़ी है, जिसे आज उनके नाम पर जंपन्ना वागु कहा जाता है।",
+     "सम्मक्का के अंत के बारे में अलग-अलग कथाएँ मिलती हैं। एक रूप में वे गंभीर रूप से घायल होकर जंगल में लुप्त हो जाती हैं। दूसरी धार्मिक परंपरा में माना जाता है कि उनकी उपस्थिति उन पवित्र प्रतीकों और अनुष्ठानों के माध्यम से बनी रहती है, जो मेडारम से जुड़े हैं।",
+     "इस कहानी को केवल एक युद्ध की कथा के रूप में नहीं, बल्कि प्रतिरोध और सामुदायिक पहचान की स्मृति के रूप में संरक्षित किया गया है। सम्मक्का और सरलम्मा से जुड़े अनुष्ठान अलग-अलग क्षेत्रों और पृष्ठभूमियों से आने वाले लोगों को एकत्र करते हैं। श्रद्धालु गुड़ चढ़ाते हैं, जिसे बंगारम कहा जाता है। यह भक्ति और सम्मान की अभिव्यक्ति है।",
+     "इस कहानी को व्यापक दृष्टि से भी समझा जा सकता है। इसमें स्त्रियों को समुदाय के संघर्ष के केंद्रीय पात्रों के रूप में याद किया गया है। यह उस धारणा को चुनौती देती है कि इतिहास केवल राजाओं, दरबारों और सेनाओं द्वारा बनाया जाता है। इस परंपरा में अपने घरों, जंगलों और समुदायों की रक्षा करने वाले लोग भी स्मरण के योग्य हैं।",
+     "बच्चों के लिए यह कहानी साहस, एकजुटता और सामूहिक ज़िम्मेदारी जैसे मूल्यों का परिचय दे सकती है। बड़े पाठकों के लिए यह आदिवासी समुदायों और राज्यसत्ता के संबंध, मौखिक इतिहास के संरक्षण और सामूहिक स्मृति को जीवित रखने में त्योहारों की भूमिका पर चर्चा का अवसर देती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Medaram, Mulugu district, Telangana",
+  "community": "Koya",
+  "tradition": "Heroic and devotional folk legend, commemorated through the biennial Medaram Jatara."
+ },
+ "sources": [
+  {
+   "l": "Sources",
+   "v": "Telangana SCERT Class 7 Social Studies textbook; a Tribal Research Institute report; Government of Telangana Endowments Department, Sthala Puranam. These sources differ in details, so this version follows a composite traditional narrative.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-154-017",
+ "meta": [
+  "Community: Koya · Region: Medaram, Mulugu district, Telangana · Genre: Heroic and devotional folk legend · Themes: Resistance, community, courage, justice, remembrance",
+  "About the story and its origins",
+  "The second story is the best-known part of the Sammakka–Saralamma tradition.",
+  "Sammakka married Pagididda Raju, a Koya chief associated with Medaram. Their children are named in different accounts, but the commonly recorded names include Saralamma, Nagulamma and Jampanna.",
+  "According to the traditional account, the region experienced a severe drought. Pagididda Raju was unable to meet the tribute demanded by the Kakatiya ruler. Conflict followed, and the Kakatiya forces attacked the Koya settlement. Pagididda Raju and members of his family and community fought against the invading forces. Jampanna is remembered as having died in the stream now called Jampanna Vagu. Saralamma also died in the fighting, while Sammakka was wounded and disappeared into the forest in some versions.",
+  "The story is commemorated through the biennial Medaram Jatara, during which sacred symbols associated with Sammakka and Saralamma are brought from the forest to the ceremonial platforms. Jaggery, known locally as bangaram or gold, is among the offerings.",
+  "Source and attribution: The Telangana SCERT Class 7 Social Studies textbook includes a version of the story of Medaram. The Tribal Research Institute's report records another version, while the Government of Telangana Endowments Department's Sthala Puranam",
+  "provides a devotional account. These sources differ in details, so the adaptations below follow a composite, clearly attributed traditional narrative.",
+  "SCERT Telangana+2"
+ ]
+}

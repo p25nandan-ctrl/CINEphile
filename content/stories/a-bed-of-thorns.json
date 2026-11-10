@@ -1,0 +1,538 @@
+{
+ "id": "a-bed-of-thorns",
+ "state": "ka",
+ "title": "A Bed of Thorns",
+ "titleHi": "काँटों की सेज",
+ "summary": "A servant naps on the king’s soft bed and gets slapped. He laughs, then cries, saying the bed must bring a king many worries. The king agrees it is a bed of thorns.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Folk tale from Srirangapatnam, Karnataka",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses formal words (luxurious, responsibilities, governing, expedition, privileges), long complex sentences, and an abstract moral about power and responsibility, which matches Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "A king of Srirangapatnam went hunting in the forest. While he was away, his servant Nanjayya came to clean the king’s bedroom.",
+     "Nanjayya saw the king’s big bed. It looked so soft. The sheets were fine. The pillows were the best he had ever seen.",
+     "He wondered how it would feel to sleep there. He looked around. Nobody was watching. “Just for a few minutes,” he thought, and he lay down.",
+     "The pillow was so soft. Nanjayya felt calm and happy. He forgot his work. Soon he was fast asleep.",
+     "Then the king came home from hunting. He walked into his room. He was shocked. Nanjayya was asleep on the royal bed!",
+     "The king was very angry. He went to the servant and shook him awake. Then he slapped him hard.",
+     "Nanjayya opened his eyes. The king was surprised. First the servant laughed. Then he began to cry.",
+     "The king did not understand. “Why did you laugh? And why did you cry right after?” he asked.",
+     "Nanjayya answered with respect. “Your Majesty, I laughed because I got to sleep on your soft bed, even for a few minutes.”",
+     "The king listened. “But why did you cry?” he asked.",
+     "“I cried because this bed must give you many troubles, Your Majesty. I slept here for a few minutes, and I got a painful slap. But you sleep here every night, with all the worries of the whole kingdom.”",
+     "The king said nothing. Nanjayya went on. “A royal bed may look soft, but the one who sleeps on it has many worries. The more duties a person has, the harder it is to enjoy even the best things.”",
+     "The king was moved by these words. Nanjayya understood something many people miss. A king may have gold, palaces and fine things. But he must also look after his people and his land.",
+     "The king smiled. “You are right, Nanjayya. A king’s bed is not a bed of roses. It is a bed of thorns. I sleep on silk, but my mind is always busy with my people.”",
+     "The king forgave Nanjayya and let him go back to work. Nanjayya left with a new understanding of how heavy a leader’s duties are. And the king remembered that even a humble servant can be wise.",
+     "Moral: Money and comfort do not always bring happiness. Big privileges come with big duties."
+    ],
+    "hi": [
+     "श्रीरंगपट्टनम का एक राजा जंगल में शिकार करने गया। उसके पीछे उसका सेवक नंजय्या राजा का शयनकक्ष साफ़ करने आया।",
+     "नंजय्या ने राजा का बड़ा पलंग देखा। वह बहुत नरम लग रहा था। चादरें बढ़िया थीं। तकिए सबसे अच्छे थे जो उसने कभी देखे थे।",
+     "उसने सोचा कि वहाँ सोना कैसा लगेगा। उसने इधर-उधर देखा। कोई नहीं देख रहा था। “बस कुछ मिनट,” उसने सोचा, और लेट गया।",
+     "तकिया बहुत नरम था। नंजय्या को शांति और खुशी हुई। वह अपना काम भूल गया। जल्दी ही वह गहरी नींद में सो गया।",
+     "तभी राजा शिकार से घर लौटा। वह अपने कमरे में गया। वह चौंक गया। नंजय्या शाही पलंग पर सो रहा था!",
+     "राजा को बहुत गुस्सा आया। वह सेवक के पास गया और उसे झकझोरकर जगाया। फिर उसने ज़ोर से थप्पड़ मारा।",
+     "नंजय्या ने आँखें खोलीं। राजा हैरान हुआ। पहले सेवक हँसा। फिर वह रोने लगा।",
+     "राजा को समझ नहीं आया। “तुम हँसे क्यों? और फिर तुरंत रोए क्यों?” उसने पूछा।",
+     "नंजय्या ने आदर से कहा। “महाराज, मैं इसलिए हँसा कि मुझे आपके नरम पलंग पर सोने को मिला, चाहे कुछ ही मिनट।”",
+     "राजा ने सुना। “पर तुम रोए क्यों?” उसने पूछा।",
+     "“मैं इसलिए रोया कि इस पलंग से आपको बहुत परेशानियाँ होती होंगी, महाराज। मैं यहाँ कुछ मिनट सोया और मुझे दर्द देने वाला थप्पड़ मिला। पर आप हर रात यहाँ सोते हैं, पूरे राज्य की चिंताओं के साथ।”",
+     "राजा कुछ नहीं बोला। नंजय्या ने आगे कहा। “शाही पलंग नरम दिखता है, पर उस पर सोने वाले को बहुत चिंताएँ होती हैं। जिसके पास जितने ज़्यादा काम होते हैं, उसके लिए अच्छी चीज़ों का मज़ा लेना उतना ही कठिन होता है।”",
+     "राजा इन बातों से बहुत प्रभावित हुआ। नंजय्या ने वह बात समझी थी जो बहुत लोग नहीं समझते। राजा के पास सोना, महल और सुंदर चीज़ें हो सकती हैं। पर उसे अपनी प्रजा और अपने देश का ध्यान भी रखना होता है।",
+     "राजा मुस्कुराया। “तुम ठीक कहते हो, नंजय्या। राजा का पलंग फूलों की सेज नहीं है। यह काँटों की सेज है। मैं रेशम पर सोता हूँ, पर मेरा मन हमेशा अपनी प्रजा की चिंता में रहता है।”",
+     "राजा ने नंजय्या को माफ़ कर दिया और उसे काम पर लौटने दिया। नंजय्या यह समझकर गया कि नेता की ज़िम्मेदारी कितनी भारी होती है। और राजा को याद आया कि एक साधारण सेवक भी समझदार हो सकता है।",
+     "सीख: पैसा और आराम हमेशा सुख नहीं देते। बड़े अधिकारों के साथ बड़ी ज़िम्मेदारियाँ आती हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "servant",
+     "en": "a person who works in someone’s home",
+     "hi": "सेवक"
+    },
+    {
+     "w": "hunting",
+     "en": "chasing animals to catch them",
+     "hi": "शिकार"
+    },
+    {
+     "w": "sheets",
+     "en": "cloth that covers a bed",
+     "hi": "चादरें"
+    },
+    {
+     "w": "royal",
+     "en": "belonging to a king",
+     "hi": "शाही"
+    },
+    {
+     "w": "shocked",
+     "en": "very surprised",
+     "hi": "चौंक"
+    },
+    {
+     "w": "respect",
+     "en": "showing that you value someone",
+     "hi": "आदर"
+    },
+    {
+     "w": "troubles",
+     "en": "problems",
+     "hi": "परेशानियाँ"
+    },
+    {
+     "w": "worries",
+     "en": "thoughts that make you anxious",
+     "hi": "चिंताओं"
+    },
+    {
+     "w": "kingdom",
+     "en": "the land a king rules",
+     "hi": "राज्य"
+    },
+    {
+     "w": "thorns",
+     "en": "sharp points on a plant",
+     "hi": "काँटों"
+    },
+    {
+     "w": "forgave",
+     "en": "stopped being angry with",
+     "hi": "माफ़ कर दिया"
+    },
+    {
+     "w": "humble",
+     "en": "simple and not proud",
+     "hi": "साधारण"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who",
+     "q": "Who is Nanjayya, and what was his job?"
+    },
+    {
+     "k": "Events",
+     "q": "What did Nanjayya do in the king’s room? What did the king do?"
+    },
+    {
+     "k": "Why",
+     "q": "Why did Nanjayya laugh and then cry?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the king feel at first? How did he feel at the end?"
+    },
+    {
+     "k": "My life",
+     "q": "What is something that looks easy or fun, but may be hard for the person who does it?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once, the king of Srirangapatnam went hunting in the forest. While he was away, his servant Nanjayya went into the royal bedchamber to clean it.",
+     "As he worked, he noticed the king’s magnificent bed. It looked wonderfully soft, with fine sheets and pillows more luxurious than any Nanjayya had ever seen.",
+     "He wondered what it would feel like to sleep on such a bed. After checking that nobody was watching, he decided to lie down for just a few minutes.",
+     "The moment his head touched the soft pillow, he felt completely relaxed. The bed was so comfortable that he forgot his work, and before long he was fast asleep.",
+     "Meanwhile, the king came back from his hunt. When he walked into his bedroom, he was amazed to find Nanjayya sleeping peacefully on the royal bed.",
+     "The king was furious. He walked up to the servant, shook him awake and slapped him hard.",
+     "Nanjayya opened his eyes. To the king’s surprise, the servant first laughed and then began to cry.",
+     "The king was puzzled. “Why did you laugh when I woke you, and why did you start crying right after?” he demanded.",
+     "Nanjayya replied respectfully, “Your Majesty, I laughed because I had the pleasure of sleeping on your wonderfully soft bed, even if only for a few minutes.”",
+     "The king listened. “But why did you cry?” he asked.",
+     "Nanjayya answered, “I cried because I realised that this beautiful bed must bring you many troubles. I enjoyed it for only a few minutes and was punished with a painful slap. But you must spend every night on it, carrying the worries and duties of the whole kingdom.”",
+     "The king stayed silent, and Nanjayya continued. “Your Majesty, a royal bed may look comfortable, but the person sleeping on it must have many worries. The more responsibilities one carries, the harder it is to enjoy even the greatest comforts.”",
+     "The king was deeply impressed. He saw that Nanjayya had understood something many people miss. A king may have great wealth, beautiful palaces and fine things, but he also carries the heavy duty of protecting his people and ruling the kingdom.",
+     "The king smiled and said, “You are right, Nanjayya. A king’s bed is not a bed of roses. It is a bed of thorns. I may sleep on silk, but my mind is always busy with the welfare of my people.”",
+     "He forgave the servant and let him go back to his work. Nanjayya left the room with a new understanding of the burdens of leadership. And the king was reminded that even a humble servant can offer great wisdom.",
+     "Moral: Wealth and luxury do not always bring happiness. Great responsibilities often come with great privileges."
+    ],
+    "hi": [
+     "एक बार श्रीरंगपट्टनम का राजा जंगल में शिकार करने गया। उसके पीछे उसका सेवक नंजय्या शाही शयनकक्ष की सफ़ाई करने गया।",
+     "काम करते हुए उसने राजा का शानदार पलंग देखा। वह बहुत मुलायम लग रहा था, उस पर बढ़िया चादरें थीं और तकिए इतने आलीशान थे जितने नंजय्या ने कभी नहीं देखे थे।",
+     "उसने सोचा कि ऐसे पलंग पर सोना कैसा लगता होगा। यह देखकर कि कोई नहीं देख रहा, उसने बस कुछ मिनट लेटने का फ़ैसला किया।",
+     "जैसे ही उसका सिर नरम तकिए पर टिका, उसे बहुत चैन मिला। पलंग इतना आरामदायक था कि वह अपना काम भूल गया और जल्दी ही गहरी नींद सो गया।",
+     "इसी बीच राजा शिकार से लौट आया। जब वह अपने कमरे में गया, तो नंजय्या को शाही पलंग पर चैन से सोता देखकर हैरान रह गया।",
+     "राजा बहुत गुस्से में आ गया। वह सेवक के पास गया, उसे झकझोरकर जगाया और ज़ोर से थप्पड़ मारा।",
+     "नंजय्या ने आँखें खोलीं। राजा को हैरानी हुई, क्योंकि सेवक पहले हँसा और फिर रोने लगा।",
+     "राजा उलझन में था। “जब मैंने तुम्हें जगाया तो तुम हँसे क्यों, और फिर तुरंत रोने क्यों लगे?” उसने पूछा।",
+     "नंजय्या ने आदर से कहा, “महाराज, मैं इसलिए हँसा कि मुझे आपके बहुत मुलायम पलंग पर सोने का सुख मिला, चाहे कुछ ही मिनट के लिए।”",
+     "राजा ने सुना। “पर तुम रोए क्यों?” उसने पूछा।",
+     "नंजय्या ने जवाब दिया, “मैं इसलिए रोया कि मुझे समझ आया कि यह सुंदर पलंग आपको बहुत परेशानियाँ देता होगा। मैंने इसके आराम का मज़ा बस कुछ मिनट लिया और मुझे दर्दभरे थप्पड़ की सज़ा मिल गई। पर आपको तो हर रात इसी पर सोना है, और पूरे राज्य की चिंताएँ और ज़िम्मेदारियाँ उठानी हैं।”",
+     "राजा चुप रहा, और नंजय्या ने आगे कहा, “महाराज, शाही पलंग आरामदायक दिख सकता है, पर उस पर सोने वाले को बहुत चिंताएँ होती हैं। जितनी ज़्यादा ज़िम्मेदारियाँ कोई उठाता है, उतना ही मुश्किल होता है बड़े से बड़े आराम का मज़ा लेना।”",
+     "राजा गहरे तक प्रभावित हुआ। उसने देखा कि नंजय्या ने वह बात समझ ली है जो बहुत लोग नहीं समझते। एक राजा के पास बहुत धन, सुंदर महल और कीमती चीज़ें हो सकती हैं, पर उस पर अपनी प्रजा की रक्षा करने और राज्य चलाने की भारी ज़िम्मेदारी भी होती है।",
+     "राजा मुस्कुराया और बोला, “तुम ठीक कहते हो, नंजय्या। राजा का पलंग फूलों की सेज नहीं है। यह काँटों की सेज है। मैं रेशम पर सोता हूँ, पर मेरा मन हमेशा अपनी प्रजा की भलाई की चिंता में रहता है।”",
+     "उसने सेवक को माफ़ कर दिया और उसे काम पर लौटने दिया। नंजय्या राजा के बोझ की नई समझ लेकर कमरे से गया। और राजा को याद आया कि एक साधारण सेवक भी बड़ी समझदारी की बात कह सकता है।",
+     "सीख: धन और ऐशो-आराम हमेशा सुख नहीं देते। बड़े अधिकारों के साथ अक्सर बड़ी ज़िम्मेदारियाँ भी होती हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "bedchamber",
+     "en": "a king’s bedroom",
+     "hi": "शयनकक्ष"
+    },
+    {
+     "w": "magnificent",
+     "en": "very grand and beautiful",
+     "hi": "शानदार"
+    },
+    {
+     "w": "luxurious",
+     "en": "very comfortable and expensive",
+     "hi": "आलीशान"
+    },
+    {
+     "w": "furious",
+     "en": "extremely angry",
+     "hi": "गुस्से में"
+    },
+    {
+     "w": "puzzled",
+     "en": "confused",
+     "hi": "उलझन में"
+    },
+    {
+     "w": "respectfully",
+     "en": "in a polite way that shows respect",
+     "hi": "आदर से"
+    },
+    {
+     "w": "responsibilities",
+     "en": "duties you must take care of",
+     "hi": "ज़िम्मेदारियाँ"
+    },
+    {
+     "w": "impressed",
+     "en": "feeling great respect",
+     "hi": "प्रभावित"
+    },
+    {
+     "w": "wealth",
+     "en": "a lot of money and things",
+     "hi": "धन"
+    },
+    {
+     "w": "humble",
+     "en": "simple and not proud",
+     "hi": "साधारण"
+    },
+    {
+     "w": "forgave",
+     "en": "stopped being angry with",
+     "hi": "माफ़ कर दिया"
+    },
+    {
+     "w": "burdens",
+     "en": "heavy loads or duties",
+     "hi": "बोझ"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motive",
+     "q": "Why do you think Nanjayya decided to lie on the bed, and why did he fall asleep?"
+    },
+    {
+     "k": "Cause",
+     "q": "Why did Nanjayya’s answer change the king’s mind?"
+    },
+    {
+     "k": "Decision",
+     "q": "The king could have punished Nanjayya more. Why do you think he forgave him?"
+    },
+    {
+     "k": "Change",
+     "q": "What did Nanjayya and the king each learn?"
+    },
+    {
+     "k": "Meaning",
+     "q": "What does “a bed of thorns” mean? Can you think of another thing that looks comfortable but is hard?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, the king of Srirangapatnam went hunting in the forest. While the king was away, his servant Nanjayya entered the royal bedchamber to clean it.",
+     "As he worked, his eyes fell upon the king’s magnificent bed. It looked incredibly soft and comfortable. The mattress was covered with fine sheets, and the pillows appeared more luxurious than anything Nanjayya had ever seen.",
+     "He wondered what it would feel like to sleep on such a wonderful bed. After looking around to make sure nobody was watching, he decided to lie down for just a few minutes.",
+     "The moment he rested his head on the soft pillow, he felt completely relaxed. The bed was so comfortable that he soon forgot about his work. Before long, he had fallen fast asleep.",
+     "Meanwhile, the king returned from his hunting expedition. When he entered his bedroom, he was astonished to find Nanjayya sleeping peacefully on his royal bed.",
+     "The king was furious. He walked towards the servant, shook him awake and slapped him hard.",
+     "Nanjayya opened his eyes. To the king’s surprise, the servant first laughed and then began to cry.",
+     "The king was puzzled. “Why did you laugh when I woke you, and why did you begin crying immediately afterwards?” he demanded.",
+     "Nanjayya respectfully replied: “Your Majesty, I laughed because I had the pleasure of sleeping on your wonderfully soft bed, even if only for a few minutes.”",
+     "The king listened. “But why did you cry?” he asked.",
+     "Nanjayya answered: “I cried because I realised that this beautiful bed must bring you many troubles. I enjoyed its comfort for only a few minutes and was immediately punished with a painful slap. You, however, must spend every night on this bed, carrying the worries and responsibilities of the entire kingdom.”",
+     "The king remained silent. Nanjayya continued: “Your Majesty, I now understand that a royal bed may look comfortable, but the person sleeping on it must have many worries. The more responsibilities one carries, the more difficult it becomes to enjoy even the greatest comforts.”",
+     "The king was deeply impressed by the servant’s words. He realised that Nanjayya had understood something that many people failed to recognise. A king might possess great wealth, beautiful palaces and luxurious possessions, but he also carried the enormous responsibility of protecting his people and governing the kingdom.",
+     "The king smiled and said: “You are right, Nanjayya. A king’s bed is not a bed of roses. It is a bed of thorns. I may sleep on silk, but my mind is constantly occupied with the welfare of my subjects.”",
+     "He forgave the servant and allowed him to return to his duties. Nanjayya left the chamber with a new understanding of the burdens of leadership. And the king, too, was reminded that even a humble servant could offer great wisdom.",
+     "Moral: Wealth and luxury do not necessarily bring happiness. Great responsibilities often accompany great privileges."
+    ],
+    "hi": [
+     "एक समय की बात है, श्रीरंगपट्टनम का राजा जंगल में शिकार करने गया। राजा के पीछे उसका सेवक नंजय्या शाही शयनकक्ष की सफ़ाई करने अंदर आया।",
+     "काम करते हुए उसकी नज़र राजा के भव्य पलंग पर पड़ी। वह अविश्वसनीय रूप से मुलायम और आरामदायक लग रहा था। गद्दे पर बढ़िया चादरें बिछी थीं, और तकिए उन सबसे अधिक आलीशान थे जो नंजय्या ने कभी देखे थे।",
+     "उसने सोचा कि ऐसे शानदार पलंग पर सोना कैसा लगता होगा। यह देखकर कि कोई देख तो नहीं रहा, उसने बस कुछ मिनट लेट जाने का मन बना लिया।",
+     "जैसे ही उसने नरम तकिए पर सिर रखा, उसे पूरी तरह चैन महसूस हुआ। पलंग इतना आरामदायक था कि वह जल्दी ही अपना काम भूल गया। थोड़ी ही देर में वह गहरी नींद में सो गया।",
+     "इसी बीच राजा शिकार की यात्रा से लौट आया। जब वह अपने शयनकक्ष में पहुँचा, तो नंजय्या को अपने शाही पलंग पर चैन से सोते देखकर दंग रह गया।",
+     "राजा आगबबूला हो गया। वह सेवक की ओर बढ़ा, उसे झकझोरकर जगाया और ज़ोर से थप्पड़ मारा।",
+     "नंजय्या ने आँखें खोलीं। राजा को हैरानी हुई, क्योंकि सेवक पहले हँसा और फिर रोने लगा।",
+     "राजा उलझन में पड़ गया। “जब मैंने तुम्हें जगाया तब तुम हँसे क्यों, और उसके तुरंत बाद रोने क्यों लगे?” उसने पूछा।",
+     "नंजय्या ने आदर से उत्तर दिया: “महाराज, मैं इसलिए हँसा कि मुझे आपके बेहद मुलायम पलंग पर सोने का सुख मिला, भले ही कुछ ही मिनटों के लिए।”",
+     "राजा ने सुना। “पर तुम रोए क्यों?” उसने पूछा।",
+     "नंजय्या ने कहा: “मैं इसलिए रोया कि मुझे समझ आया कि यह सुंदर पलंग आपको बहुत परेशानियाँ देता होगा। मैंने इसके आराम का आनंद बस कुछ मिनट लिया और तुरंत एक दर्दभरे थप्पड़ की सज़ा पाई। पर आपको तो हर रात इसी पलंग पर सोना है, और पूरे राज्य की चिंताओं और ज़िम्मेदारियों का बोझ उठाना है।”",
+     "राजा चुप रहा। नंजय्या ने आगे कहा: “महाराज, अब मैं समझता हूँ कि शाही पलंग देखने में आरामदायक लगे, पर उस पर सोने वाले को बहुत चिंताएँ होती हैं। जितनी अधिक ज़िम्मेदारियाँ कोई उठाता है, उतना ही कठिन हो जाता है बड़े से बड़े सुखों का आनंद लेना।”",
+     "राजा सेवक की बातों से गहराई तक प्रभावित हुआ। उसने महसूस किया कि नंजय्या ने वह बात समझ ली है जिसे बहुत से लोग नहीं पहचान पाते। एक राजा के पास अपार धन, सुंदर महल और ऐशो-आराम की चीज़ें हो सकती हैं, पर उस पर अपनी प्रजा की रक्षा करने और राज्य चलाने की भारी ज़िम्मेदारी भी होती है।",
+     "राजा मुस्कुराया और बोला: “तुम ठीक कहते हो, नंजय्या। राजा का पलंग फूलों की सेज नहीं है। यह काँटों की सेज है। मैं रेशम पर सोता हूँ, पर मेरा मन हर समय अपनी प्रजा की भलाई की चिंता में लगा रहता है।”",
+     "उसने सेवक को माफ़ कर दिया और उसे अपने काम पर लौटने दिया। नंजय्या नेतृत्व के बोझ की एक नई समझ लेकर कमरे से निकला। और राजा को भी याद आया कि एक साधारण सेवक भी बड़ी समझदारी की बात कह सकता है।",
+     "सीख: धन और ऐशो-आराम से सुख मिले, यह ज़रूरी नहीं। बड़े अधिकारों के साथ अक्सर बड़ी ज़िम्मेदारियाँ भी आती हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "bedchamber",
+     "en": "a king’s private bedroom",
+     "hi": "शयनकक्ष"
+    },
+    {
+     "w": "luxurious",
+     "en": "rich, comfortable and costly",
+     "hi": "आलीशान"
+    },
+    {
+     "w": "astonished",
+     "en": "greatly surprised",
+     "hi": "दंग"
+    },
+    {
+     "w": "furious",
+     "en": "extremely angry",
+     "hi": "आगबबूला"
+    },
+    {
+     "w": "puzzled",
+     "en": "confused and unsure",
+     "hi": "उलझन में"
+    },
+    {
+     "w": "respectfully",
+     "en": "in a way that shows respect",
+     "hi": "आदर से"
+    },
+    {
+     "w": "responsibilities",
+     "en": "duties you are expected to carry out",
+     "hi": "ज़िम्मेदारियाँ"
+    },
+    {
+     "w": "impressed",
+     "en": "filled with admiration",
+     "hi": "प्रभावित"
+    },
+    {
+     "w": "humble",
+     "en": "modest, of ordinary position",
+     "hi": "साधारण"
+    },
+    {
+     "w": "burdens",
+     "en": "heavy duties or worries",
+     "hi": "बोझ"
+    },
+    {
+     "w": "privileges",
+     "en": "special rights or advantages",
+     "hi": "अधिकारों"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "Nanjayya broke a rule, and the king slapped him. Was either action fair? What would a just response have been?"
+    },
+    {
+     "k": "Another view",
+     "q": "How might the story look from the king’s point of view, with his worries? And from the point of view of other servants?"
+    },
+    {
+     "k": "Culture",
+     "q": "This is a folk tale about a king, a servant and a wise answer. Why might many cultures enjoy stories where a humble person teaches a ruler?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says responsibilities come with privileges. Do you agree? Who carries such burdens today?"
+    },
+    {
+     "k": "Today",
+     "q": "Do leaders, parents or teachers today also carry worries we do not see? How should we treat them and each other?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "The king’s grand bed",
+   "th": "राजा का भव्य पलंग",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. Nanjayya, with a broom and cloth, admires the grand royal bed in a sunny palace bedchamber; a window shows the king riding off. Warm, curious mood."
+  },
+  {
+   "t": "A secret little nap",
+   "th": "चुपके से थोड़ी झपकी",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. Nanjayya looks around, then lies on the soft pillows and falls asleep with a peaceful smile. Quiet, cosy afternoon light."
+  },
+  {
+   "t": "The king comes home",
+   "th": "राजा लौट आया",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. The king stands at the doorway in hunting clothes, shocked and angry, looking at the sleeping servant. Do not show violence; show only the king stepping towards the bed."
+  },
+  {
+   "t": "Laughing, then crying",
+   "th": "पहले हँसी, फिर आँसू",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. Nanjayya sits up on the bed, laughing and with tears on his cheeks, while the puzzled king watches. Tense but gentle."
+  },
+  {
+   "t": "Why he laughed",
+   "th": "वह क्यों हँसा",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. Nanjayya standing with folded hands, respectfully explaining; the king listens closely. Soft palace light."
+  },
+  {
+   "t": "Why he cried",
+   "th": "वह क्यों रोया",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. Nanjayya speaks with an earnest face; behind the king, a faint dreamlike image of a kingdom, villagers and worries. The king looks silent and thoughtful."
+  },
+  {
+   "t": "The king understands",
+   "th": "राजा ने समझा",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. The king, smiling gently, rests his hand on the bedpost, with the soft bed seeming to have little thorns drawn lightly on its carved posts. Warm golden light, reflective mood."
+  },
+  {
+   "t": "Forgiven and wiser",
+   "th": "क्षमा और समझ",
+   "p": "King: a middle-aged man with a trimmed moustache, a rich maroon silk turban with a gold brooch, a cream silk coat with gold border, simple jewellery. Nanjayya: a lean young servant with a plain white head-cloth and white dhoti, bare feet, a kind face. The royal bed: a carved wooden bed with a silk mattress, white sheets and plump pillows. The king and Nanjayya stand together with kind expressions; Nanjayya bows and takes up his broom. Bright and peaceful."
+  }
+ ],
+ "artStyle": {
+  "region": "Karnataka (Mysuru court tradition)",
+  "verified": true,
+  "tradition": "Mysore painting",
+  "note": "Karnataka Tourism describes Mysore painting as a style from the Wodeyar courts, with refined delicate lines, natural mineral colours, gold-leaf detail and figures framed by arches. We suggest borrowing this soft palette and fine gold-trimmed borders for the palace scenes. This is a style suggestion only; no source ties this story to it. Keep the slap non-graphic.",
+  "characters": [
+   {
+    "name": "King",
+    "look": "Middle-aged man, trimmed moustache, maroon silk turban with gold brooch, cream silk coat with gold border."
+   },
+   {
+    "name": "Nanjayya",
+    "look": "Lean young servant, plain white head-cloth and dhoti, bare feet, kind face."
+   }
+  ],
+  "sources": [
+   [
+    "Mysore painting, Karnataka Tourism",
+    "https://karnatakatourism.org/en/experiences/mysore-painting"
+   ],
+   [
+    "Srirangapatna, Wikipedia (setting background)",
+    "https://en.wikipedia.org/wiki/Srirangapatna"
+   ]
+  ]
+ },
+ "imagine": "Imagine you can lie on the king’s bed for one minute. What do you feel, and what do you think about while the palace is quiet?",
+ "create": "Draw the king’s bed in two ways: one as it looks from outside, and one as the king feels it at night. Write one sentence for each.",
+ "about": {
+  "where": "Srirangapatna (Srirangapatnam in the story) is a town in Mandya district, Karnataka, on an island in the Kaveri River about 15 km from Mysuru. It was an important capital of the Mysore kingdom and is known for the Sri Ranganathaswamy temple.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. The repository says the tale comes from a published collection of Karnataka folk tales.",
+  "tradition": "Folk tales of a wise servant who speaks plainly to a king are told in many places. Karnataka’s royal courts, such as the Wodeyars of Mysuru, also supported arts like Mysore painting.",
+  "shared": "The tale uses a clever answer to teach a lesson, a pattern found in many folk traditions. Here the king listens, forgives, and learns.",
+  "matters": "The story asks us to look beyond how things appear: a life of comfort may carry heavy duties. It is one version from one source, not the only one.",
+  "links": [
+   [
+    "Srirangapatna, Wikipedia",
+    "https://en.wikipedia.org/wiki/Srirangapatna"
+   ],
+   [
+    "Mysore painting, Karnataka Tourism",
+    "https://karnatakatourism.org/en/experiences/mysore-painting"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (per repository)",
+   "v": "Karnataka folk tale from Folk Tales of Karnataka, compiled by Praphulla Satish Chandran; the Centre for Contemporary Folklore reproduces it and attributes it to this collection.",
+   "s": "ok"
+  },
+  {
+   "l": "Text supplied by",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Setting background",
+   "v": "Srirangapatna, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Srirangapatna",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Source is a compiled collection (Folk Tales of Karnataka) reproduced by CCF; the book’s publisher and year were not verified and the supplied wording may be a retelling.",
+  "The story has a king slapping a servant; kept as supplied, non-graphic. Educators may want to discuss fairness and power.",
+  "The king is unnamed and no period is given; the link to Srirangapatna’s historical rulers is not made by the source.",
+  "The repository image caption (Exotic India art) is a PDF artefact and not source material.",
+  "Hindi spelling of Srirangapatnam and Nanjayya, and all Hindi, not yet checked by a fluent reader.",
+  "Licence for the supplied text is unconfirmed."
+ ]
+}

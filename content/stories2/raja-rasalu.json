@@ -1,0 +1,268 @@
+{
+ "id": "raja-rasalu",
+ "state": "pb",
+ "title": "Raja Rasalu — The Prince Who Set Out into the World",
+ "titleHi": "वह राजकुमार जो दुनिया देखना चाहता था",
+ "genre": "Heroic folk legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Prince Who Wanted to See the World",
+   "hi": "वह राजकुमार जो दुनिया देखना चाहता था"
+  },
+  "2": {
+   "en": "Rasalu Leaves the Palace",
+   "hi": "रसालू ने महल छोड़ दिया"
+  },
+  "3": {
+   "en": "The First Journey of Raja Rasalu",
+   "hi": "राजा रसालू की पहली यात्रा"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the kingdom of Sialkot, a prince named Rasalu was born. His father was King Salwan, and his mother was Queen Luna.",
+     "When Rasalu was born, the king's astrologers made a strange prediction. They said that the king and queen must not look at their son's face until he was twelve years old.",
+     "So the little prince was taken to a beautiful underground palace. He had everything he needed: kind nurses, toys, books, a young horse and a colourful parrot. But he could not see the world outside.",
+     "Rasalu grew stronger every year. He loved his horse and often spoke to his parrot. But as his twelfth birthday approached, he began to wonder about the world beyond the palace.",
+     "“What does the world look like?” he asked. “What are the people outside doing? I want to see the rivers, the fields and the villages!”",
+     "His nurses begged him to wait, but Rasalu had made up his mind.",
+     "One morning, he dressed in his finest clothes, saddled his horse and rode out. His parrot went with him.",
+     "When he reached Sialkot, he went to the royal palace to meet his father. But King Salwan was frightened and did not welcome him warmly.",
+     "Rasalu felt hurt. He had travelled so far hoping to meet his family, but he was not received as he had imagined.",
+     "Then he heard his mother, Queen Luna, weeping from a palace window.",
+     "“My son,” she called, “the world is waiting for you. Go out and discover it. Be brave, but keep your heart kind.”",
+     "Rasalu felt comforted. He gathered his horse, his parrot and his companions, and rode away to begin his adventures.",
+     "He did not know what awaited him, but he was ready to find out."
+    ],
+    "hi": [
+     "बहुत समय पहले सियालकोट नाम के राज्य में रसालू नाम का एक राजकुमार पैदा हुआ। उसके पिता राजा सलवान और माता रानी लूना थीं।",
+     "जब रसालू का जन्म हुआ, तो राज-ज्योतिषियों ने एक अजीब भविष्यवाणी की। उन्होंने कहा कि राजा और रानी को अपने बेटे का चेहरा तब तक नहीं देखना चाहिए, जब तक वह बारह वर्ष का न हो जाए।",
+     "इसलिए छोटे राजकुमार को एक सुंदर भूमिगत महल में रखा गया। वहाँ उसके पास सब कुछ था—देखभाल करने वाली दाइयाँ, खिलौने, किताबें, एक छोटा घोड़ा और रंग-बिरंगा तोता। लेकिन वह बाहर की दुनिया नहीं देख सकता था।",
+     "रसालू हर साल बड़ा और ताकतवर होता गया। उसे अपने घोड़े से बहुत प्यार था और वह अक्सर अपने तोते से बातें करता था। लेकिन जैसे-जैसे उसका बारहवाँ जन्मदिन पास आया, उसके मन में बाहर की दुनिया को देखने की इच्छा बढ़ने लगी।",
+     "“बाहर की दुनिया कैसी है?” उसने पूछा। “वहाँ के लोग क्या करते हैं? मैं नदियाँ, खेत और गाँव देखना चाहता हूँ!”",
+     "उसकी दाइयों ने उसे रुकने के लिए कहा, लेकिन रसालू ने अपना मन बना लिया था।",
+     "एक सुबह उसने अपने सबसे अच्छे कपड़े पहने, घोड़े पर काठी रखी और महल से बाहर निकल पड़ा। उसका तोता भी उसके साथ था।",
+     "जब वह सियालकोट पहुँचा, तो अपने पिता से मिलने राजमहल गया। लेकिन राजा सलवान डर गए और उन्होंने उसका स्वागत वैसे नहीं किया, जैसी रसालू ने उम्मीद की थी।",
+     "रसालू का मन दुखी हो गया। वह अपने परिवार से मिलने इतनी दूर आया था, लेकिन उसे अपनापन नहीं मिला।",
+     "तभी उसने महल की एक खिड़की से अपनी माँ, रानी लूना, के रोने की आवाज़ सुनी।",
+     "“मेरे बेटे,” उन्होंने पुकारा, “दुनिया तुम्हारा इंतज़ार कर रही है। बाहर जाओ और उसे जानो। साहसी बनो, लेकिन अपना दिल हमेशा दयालु रखना।”",
+     "यह सुनकर रसालू को हिम्मत मिली। उसने अपना घोड़ा, तोता और साथियों को इकट्ठा किया और अपने नए सफ़र पर निकल पड़ा।",
+     "उसे नहीं पता था कि आगे क्या होगा, लेकिन वह सब कुछ जानने के लिए तैयार था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "For twelve years, Prince Rasalu had lived in a palace beneath the earth. His father, King Salwan of Sialkot, had been told by astrologers that neither he nor Queen Luna should look upon their son until the boy reached the age of twelve.",
+     "The underground palace was comfortable, but it was still a prison of sorts. Rasalu had nurses to care for him, a young colt for company and a parrot with whom he spent many hours talking. He was taught everything expected of a prince, but he had never experienced the world beyond his home.",
+     "As the years passed, his curiosity grew. He could hear distant sounds from above: people talking, animals calling and the movement of everyday life. He wanted to know what lay beyond the walls.",
+     "When his twelfth year arrived, Rasalu announced that he would leave.",
+     "His nurses tried to persuade him to wait, but he would not change his mind. He saddled his horse, Bhaunr Iraqi, gathered his belongings and rode towards Sialkot, with his parrot accompanying him.",
+     "On the way, he stopped at a river, bathed and washed his clothes before continuing to the city. When he reached his father's palace, he entered the royal hall and greeted the king respectfully.",
+     "But King Salwan turned away. The sight of the son he had kept hidden for so long frightened him. Rasalu had expected a joyful reunion; instead, he received silence.",
+     "Hurt and disappointed, he left the hall. As he passed beneath the palace windows, he heard his mother crying.",
+     "Queen Luna called out to him. She could not stop him from leaving, but she offered him a blessing: he should go out into the world, become a great man and, above all, keep his heart good and pure.",
+     "Her words gave Rasalu strength. He gathered his trusted companions, including his horse and parrot, and began his journey.",
+     "The legend remembers this moment as the beginning of Rasalu's adventures. His story is not simply about a prince leaving home. It is about a young person who longs to experience life for himself, even when the world ahead is uncertain."
+    ],
+    "hi": [
+     "बारह वर्ष तक राजकुमार रसालू धरती के नीचे बने एक महल में रहा। सियालकोट के राजा सलवान को ज्योतिषियों ने बताया था कि वे और रानी लूना अपने बेटे का चेहरा तब तक न देखें, जब तक वह बारह वर्ष का न हो जाए।",
+     "भूमिगत महल आरामदायक था, लेकिन वह एक तरह की कैद भी थी। रसालू की देखभाल के लिए दाइयाँ थीं, उसके साथ खेलने के लिए एक छोटा घोड़ा था और बातें करने के लिए एक तोता। उसे राजकुमार के योग्य सभी बातें सिखाई गईं, लेकिन उसने अपने घर के बाहर की दुनिया कभी नहीं देखी थी।",
+     "समय के साथ उसकी जिज्ञासा बढ़ती गई। उसे ऊपर से दूर-दूर की आवाज़ें सुनाई देती थीं—लोगों की बातें, जानवरों की पुकार और रोज़मर्रा के जीवन की हलचल। वह जानना चाहता था कि महल की दीवारों के पार क्या है।",
+     "बारह वर्ष पूरे होते ही रसालू ने घोषणा कर दी कि वह महल छोड़कर जाएगा।",
+     "उसकी दाइयों ने उसे समझाने की कोशिश की, लेकिन उसने अपना फैसला नहीं बदला। उसने अपने घोड़े भौंर इराक़ी पर काठी रखी, ज़रूरी सामान लिया और अपने तोते के साथ सियालकोट की ओर चल पड़ा।",
+     "रास्ते में वह एक नदी के पास रुका। उसने स्नान किया, अपने कपड़े धोए और फिर शहर की ओर बढ़ गया। जब वह अपने पिता के महल पहुँचा, तो राजसभा में जाकर राजा को आदरपूर्वक प्रणाम किया।",
+     "लेकिन राजा सलवान ने उससे मुँह फेर लिया। जिस बेटे को उन्होंने इतने वर्ष तक छिपाकर रखा था, उसे देखकर वे घबरा गए। रसालू ने सोचा था कि उसका स्वागत खुशी से होगा, लेकिन उसे चुप्पी मिली।",
+     "दुखी होकर वह राजसभा से बाहर निकल आया। जब वह महल की खिड़कियों के नीचे से गुज़र रहा था, तो उसे अपनी माँ के रोने की आवाज़ सुनाई दी।",
+     "रानी लूना ने उसे पुकारा। वे उसे जाने से रोक नहीं सकती थीं, लेकिन उन्होंने उसे आशीर्वाद दिया। उन्होंने कहा कि वह दुनिया में जाए, एक महान इंसान बने और सबसे बढ़कर अपना हृदय सच्चा और दयालु रखे।",
+     "उनके शब्दों से रसालू को हिम्मत मिली। उसने अपने भरोसेमंद साथियों, घोड़े और तोते को साथ लिया और यात्रा शुरू कर दी।",
+     "लोककथा में यही क्षण रसालू के रोमांचक जीवन की शुरुआत माना जाता है। यह केवल एक राजकुमार के घर छोड़ने की कहानी नहीं है। यह उस युवा मन की कहानी है जो अनिश्चितता के बावजूद स्वयं दुनिया को देखना और समझना चाहता है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the legendary kingdom of Sialkot, the birth of Prince Rasalu was accompanied by an unusual prophecy. Astrologers warned King Salwan and Queen Luna that they must not look upon their child for twelve years. The prince was therefore raised in an underground palace, away from the eyes of his parents and the life of the kingdom.",
+     "His world was carefully arranged. He had attendants, a young colt, a parrot and the education expected of a royal heir. Yet the comforts of the palace could not satisfy his growing curiosity. He heard the sounds of the world above him and wondered about the people, places and experiences that remained beyond his reach.",
+     "When he turned twelve, Rasalu decided that he would no longer remain hidden. Despite the protests of his nurses, he prepared his horse Bhaunr Iraqi and set out towards Sialkot. His parrot accompanied him, as it had throughout his childhood.",
+     "Before entering the city, Rasalu stopped at a river to bathe and wash his clothes. He then rode to the royal palace, expecting to meet the father he had never known.",
+     "The meeting was not what he had imagined. King Salwan, overcome by fear, turned away from his son. Rasalu had approached him with respect, but received neither recognition nor affection. The prince left the royal hall wounded by the rejection.",
+     "Yet, as he passed beneath the palace windows, he heard his mother weeping. Queen Luna's words offered him what the king had withheld: an acknowledgement of his existence and a blessing for the journey ahead. She urged him to seek his fortune while preserving the goodness of his character.",
+     "Rasalu left with his horse, his parrot and a small group of companions who chose to follow him. The world before him was unknown, but he was no longer content to live within the boundaries others had set for him.",
+     "This episode is an important beginning in the Rasalu legend. It presents courage not merely as physical strength, but as the willingness to step into uncertainty. It also introduces a recurring tension in heroic storytelling: the difference between inherited status and the character one must build through one's own actions."
+    ],
+    "hi": [
+     "सियालकोट के काल्पनिक राज्य में राजकुमार रसालू का जन्म एक असाधारण भविष्यवाणी के साथ हुआ। ज्योतिषियों ने राजा सलवान और रानी लूना को चेतावनी दी कि वे बारह वर्ष तक अपने बच्चे का चेहरा न देखें। इसलिए राजकुमार को एक भूमिगत महल में पाला गया, जहाँ वह अपने माता-पिता और राज्य के सामान्य जीवन से दूर रहा।",
+     "उसकी दुनिया बहुत व्यवस्थित थी। उसकी देखभाल के लिए सेवक थे, खेलने के लिए एक छोटा घोड़ा था, बातें करने के लिए एक तोता था और राजकुमार के योग्य शिक्षा भी थी। फिर भी महल का आराम उसकी बढ़ती जिज्ञासा को शांत नहीं कर सका। उसे ऊपर की दुनिया से आती आवाज़ें सुनाई देती थीं। वह उन लोगों, स्थानों और अनुभवों के बारे में सोचता था, जो उसकी पहुँच से बाहर थे।",
+     "बारह वर्ष का होते ही रसालू ने निर्णय लिया कि वह अब छिपकर नहीं रहेगा। दाइयों के विरोध के बावजूद उसने अपने घोड़े भौंर इराक़ी को तैयार किया और सियालकोट की ओर चल पड़ा। उसका तोता भी उसके साथ था, जैसा कि बचपन से रहा था।",
+     "शहर में प्रवेश करने से पहले रसालू एक नदी के पास रुका। उसने स्नान किया, अपने कपड़े धोए और फिर राजमहल पहुँचा। वह उस पिता से मिलने के लिए उत्सुक था, जिसे उसने कभी जाना ही नहीं था।",
+     "लेकिन मुलाकात वैसी नहीं हुई, जैसी उसने कल्पना की थी। राजा सलवान डर से भर गए और उन्होंने अपने बेटे से मुँह फेर लिया। रसालू आदर के साथ उनके पास गया था, लेकिन उसे न पहचान मिली, न स्नेह। आहत होकर वह राजसभा से बाहर निकल आया।",
+     "लेकिन जब वह महल की खिड़कियों के नीचे से गुज़रा, तो उसे अपनी माँ के रोने की आवाज़ सुनाई दी। रानी लूना के शब्दों ने उसे वह दिया, जो राजा ने नहीं दिया था—उसके अस्तित्व की स्वीकृति और आगे की यात्रा के लिए आशीर्वाद। उन्होंने उसे अपना भाग्य खोजने के लिए प्रोत्साहित किया, लेकिन साथ ही अपने चरित्र की अच्छाई बनाए रखने की सलाह दी।",
+     "रसालू अपने घोड़े, तोते और उन कुछ साथियों के साथ निकल पड़ा, जिन्होंने उसके साथ चलने का निर्णय लिया था। उसके सामने की दुनिया अनजान थी, लेकिन अब वह दूसरों द्वारा तय की गई सीमाओं में रहने को तैयार नहीं था।",
+     "रसालू की लोककथा में यह प्रसंग एक महत्वपूर्ण शुरुआत है। इसमें साहस केवल शारीरिक शक्ति नहीं, बल्कि अनिश्चितता में कदम रखने की इच्छा भी है। यह हमें एक और बात समझाता है: किसी व्यक्ति की पहचान केवल उसके जन्म या पद से नहीं, बल्कि उसके अपने कर्म से बनती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Sialkot and the wider Punjab region",
+  "community": "Punjabi",
+  "tradition": "Heroic folk legend, part of a cycle with several versions."
+ },
+ "sources": [
+  {
+   "l": "Sources",
+   "v": "The Raja Rasalu cycle appears in several versions, including Flora Annie Steel’s Tales of the Punjab (nineteenth century) and R. C. Temple’s The Legends of the Panjab. This is a retelling of one episode; versions differ.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-112-010",
+ "meta": [
+  "Region: Sialkot and the wider Punjab region · Genre: Heroic folk legend · Themes: Curiosity, courage, independence, loyalty",
+  "About the story and its origins",
+  "Raja Rasalu is one of the best-known heroic figures in Punjabi folklore. His adventures appear in several versions, including the nineteenth-century collection Tales of the Punjab by Flora Annie Steel and the older collection The Legends of the Panjab by R. C. Temple.",
+  "In one widely circulated version, Rasalu is born to Raja Salwan and Queen Luna. Astrologers warn that his parents must not see him for twelve years, so he grows up in an underground palace, accompanied by a young horse and a parrot. When he reaches twelve, he refuses to remain hidden and sets out to discover the world. He rides to his father's city, where he is initially received with fear and suspicion. His mother encourages him to leave with courage and keep his heart good.",
+  "Project Gutenberg+1"
+ ]
+}

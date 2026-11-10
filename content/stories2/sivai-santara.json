@@ -1,0 +1,251 @@
+{
+ "id": "sivai-santara",
+ "state": "or",
+ "title": "Sivai Santara — The Old Woman and the Hot Rice Offering",
+ "titleHi": "बूढ़ी औरत की समझदारी भरी सलाह",
+ "genre": "Local legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Old Woman’s Clever Advice",
+   "hi": "बूढ़ी औरत की समझदारी भरी सलाह"
+  },
+  "2": {
+   "en": "A Lesson Hidden in a Bowl of Prasad",
+   "hi": "प्रसाद के कटोरे में छिपी सीख"
+  },
+  "3": {
+   "en": "The Wisdom of the Edges",
+   "hi": "किनारों की बुद्धिमानी"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, when the great Sun Temple at Konark was being built, the workers faced a difficult problem. The temple was to be built near the shore, but the water kept making the work harder.",
+     "Sivai Santara was helping with the construction. He was worried because the workers did not know how to begin.",
+     "One day, an old woman came to him with a bowl of hot rice pudding. It was a sacred offering, and she asked him to eat.",
+     "Sivai was hungry. He quickly put his fingers into the middle of the pudding. It was very hot! He burnt his fingers and pulled his hand away.",
+     "The old woman smiled and said, “Why are you eating from the middle? The edges cool first. Start there, and then move towards the centre.”",
+     "Sivai thought about her words. Suddenly, he had an idea.",
+     "“Perhaps we are making the same mistake with the temple,” he said. “We are trying to begin from the hardest part. We should first work along the edges of the shore and then move inwards.”",
+     "He shared his idea with the workers. They followed his plan, and the construction began to move forward.",
+     "Sivai realised that the old woman had taught him something important. Sometimes, a small everyday lesson can help solve a very big problem.",
+     "The legend says that the old woman was no ordinary visitor. She was a goddess who had come to guide him."
+    ],
+    "hi": [
+     "बहुत समय पहले, जब कोणार्क में सूर्य मंदिर बनाया जा रहा था, तब कारीगरों को एक कठिन समस्या का सामना करना पड़ रहा था। मंदिर समुद्र तट के पास बनना था, लेकिन पानी के कारण काम करना मुश्किल हो रहा था।",
+     "सिवई संतरा मंदिर के निर्माण में मदद कर रहे थे। वे चिंतित थे, क्योंकि कारीगर समझ नहीं पा रहे थे कि काम कहाँ से शुरू करें।",
+     "एक दिन एक बूढ़ी औरत उनके पास गरम चावल की खीर लेकर आई। यह प्रसाद था और उसने सिवई से उसे खाने को कहा।",
+     "सिवई को बहुत भूख लगी थी। उन्होंने जल्दी से खीर के बीच में उँगलियाँ डाल दीं। खीर बहुत गरम थी! उनकी उँगलियाँ जल गईं और उन्होंने तुरंत हाथ पीछे खींच लिया।",
+     "बूढ़ी औरत मुस्कराई और बोली, “तुम बीच से क्यों खा रहे हो? किनारे पहले ठंडे होते हैं। वहाँ से खाना शुरू करो और फिर धीरे-धीरे बीच की ओर बढ़ो।”",
+     "सिवई ने उसकी बात पर विचार किया। अचानक उन्हें एक उपाय सूझा।",
+     "उन्होंने सोचा, “शायद मंदिर बनाते समय भी हम यही गलती कर रहे हैं। हम सबसे कठिन हिस्से से शुरुआत करना चाहते हैं। हमें पहले समुद्र तट के किनारों पर काम करना चाहिए और फिर धीरे-धीरे अंदर की ओर बढ़ना चाहिए।”",
+     "उन्होंने अपना विचार कारीगरों को बताया। कारीगरों ने उनकी योजना अपनाई और निर्माण का काम आगे बढ़ने लगा।",
+     "सिवई समझ गए कि बूढ़ी औरत ने उन्हें एक महत्वपूर्ण बात सिखाई थी। कभी-कभी रोज़मर्रा की छोटी-सी सीख भी किसी बहुत बड़ी समस्या का हल बन सकती है।",
+     "लोककथा कहती है कि वह बूढ़ी औरत कोई साधारण इंसान नहीं थी। वह एक देवी थी, जो सिवई को रास्ता दिखाने आई थी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "The construction of the great Sun Temple at Konark was not easy. The workers had to build close to the shoreline, where water and shifting ground made their task difficult. Sivai Santara, who was associated with the work, was trying to find a way to move the construction forward.",
+     "One day, while he was thinking about the problem, an old woman approached him. She carried a bowl of hot rice pudding, prepared as prasad, and offered it to him.",
+     "Sivai was hungry and accepted the food. Without waiting, he dipped his fingers into the centre of the bowl. The pudding was still steaming, and he burnt his fingers.",
+     "The old woman watched him and said gently, “You should not begin from the middle. The centre stays hot for longer. Start at the edges, where the food cools first, and then move towards the middle.”",
+     "Sivai looked at the bowl. He understood what she meant and began eating from the edges.",
+     "As he did so, another thought occurred to him. Perhaps the workers were approaching the temple construction in the wrong way. They were trying to tackle the most difficult part of the site first. What if they began at the edges of the shoreline and gradually worked towards the centre?",
+     "He shared this idea with the workers. They changed their approach and began securing the shoreline before moving further into the site. According to the legend, this helped the construction proceed.",
+     "Sivai was amazed that such a simple incident had helped him find a solution to a complicated problem. The story says that the old woman was actually a goddess who had appeared in human form.",
+     "The legend carries a simple but powerful lesson: wisdom does not always come from those in positions of authority. Sometimes, the person who offers the most useful advice is someone we might otherwise overlook."
+    ],
+    "hi": [
+     "कोणार्क के भव्य सूर्य मंदिर का निर्माण आसान नहीं था। कारीगरों को समुद्र तट के पास मंदिर बनाना था, जहाँ पानी और बदलती ज़मीन के कारण काम कठिन हो जाता था। सिवई संतरा भी इस निर्माण कार्य से जुड़े थे और वे सोच रहे थे कि काम को आगे कैसे बढ़ाया जाए।",
+     "एक दिन, जब वे इसी समस्या पर विचार कर रहे थे, एक बूढ़ी औरत उनके पास आई। उसके हाथ में गरम चावल की खीर का कटोरा था। वह खीर प्रसाद के रूप में तैयार की गई थी और उसने सिवई को खाने के लिए दी।",
+     "सिवई को भूख लगी थी। उन्होंने प्रसाद स्वीकार किया और बिना इंतज़ार किए कटोरे के बीच में उँगलियाँ डाल दीं। खीर अभी भी बहुत गरम थी और उनकी उँगलियाँ जल गईं।",
+     "बूढ़ी औरत ने उन्हें देखा और धीरे से कहा, “तुम्हें बीच से खाना शुरू नहीं करना चाहिए। बीच का हिस्सा देर तक गरम रहता है। पहले किनारों से खाना शुरू करो, क्योंकि वे जल्दी ठंडे हो जाते हैं। फिर धीरे-धीरे बीच की ओर बढ़ो।”",
+     "सिवई ने कटोरे की ओर देखा। उन्हें उसकी बात समझ आ गई और वे किनारे से खाने लगे।",
+     "तभी उनके मन में एक और विचार आया। क्या मंदिर बनाते समय भी कारीगर गलत तरीका अपना रहे थे? वे निर्माण स्थल के सबसे कठिन हिस्से से शुरुआत करने की कोशिश कर रहे थे। अगर वे पहले समुद्र तट के किनारों को मज़बूत करें और फिर धीरे-धीरे बीच की ओर बढ़ें, तो शायद काम आसान हो जाए।",
+     "उन्होंने अपना विचार कारीगरों के साथ साझा किया। उन्होंने अपना तरीका बदला और निर्माण स्थल के किनारों को सुरक्षित करने के बाद आगे बढ़े। लोककथा के अनुसार, इससे निर्माण कार्य में मदद मिली।",
+     "सिवई को आश्चर्य हुआ कि इतनी साधारण-सी घटना ने उन्हें एक कठिन समस्या का हल खोजने में मदद की। कहानी कहती है कि वह बूढ़ी औरत वास्तव में एक देवी थी, जो मनुष्य का रूप लेकर आई थी।",
+     "इस लोककथा में एक सरल लेकिन महत्वपूर्ण सीख है: बुद्धिमानी हमेशा बड़े पद या अधिकार रखने वाले लोगों से ही नहीं आती। कभी-कभी सबसे उपयोगी सलाह उस व्यक्ति से मिलती है, जिस पर हम शायद पहले ध्यान भी न दें।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The construction of the Konark Sun Temple was an extraordinary undertaking, but the natural landscape presented its own challenges. The proposed site lay close to the shoreline, and the presence of water made it difficult for the builders to establish a secure foundation.",
+     "Sivai Santara, remembered in local tradition as a figure associated with the temple’s construction, was struggling to find a way forward. The workers had to overcome the difficulties of the site, but the right approach was not immediately clear.",
+     "One day, an elderly woman approached Sivai carrying a bowl of hot rice pudding offered as prasad. She invited him to eat. Hungry and distracted by his thoughts, Sivai reached straight into the centre of the bowl. The food was still extremely hot, and he burnt his fingers.",
+     "The woman observed his mistake and offered a simple piece of advice. The centre of the pudding retained its heat, while the edges cooled more quickly. He should begin at the edges and gradually make his way towards the centre.",
+     "Sivai followed her suggestion. But the incident also prompted him to reconsider the construction problem. Perhaps the workers were making a similar mistake: they were attempting to tackle the most difficult part of the site before securing its edges. If they began by addressing the shoreline and then worked progressively inwards, the task might become manageable.",
+     "He shared this insight with the workers, who changed their approach. The legend remembers this practical lesson as the turning point that helped the construction proceed.",
+     "The story also carries a supernatural dimension. The old woman is understood to have been a goddess who appeared in an ordinary form to guide Sivai. Her identity gives the encounter a sacred meaning, but the heart of the story lies in the everyday observation through which the solution emerges.",
+     "It is a tale about the relationship between knowledge and humility. Sivai is involved in a monumental project, yet the insight he needs comes from an apparently ordinary interaction. The story suggests that good judgement requires us to observe carefully, question our assumptions and remain open to learning from people whose wisdom may not be immediately recognised."
+    ],
+    "hi": [
+     "कोणार्क के सूर्य मंदिर का निर्माण एक असाधारण कार्य था, लेकिन प्राकृतिक परिस्थितियाँ भी कारीगरों के सामने अनेक चुनौतियाँ खड़ी कर रही थीं। मंदिर का प्रस्तावित स्थान समुद्र तट के पास था और वहाँ पानी की मौजूदगी के कारण मज़बूत नींव तैयार करना कठिन हो रहा था।",
+     "सिवई संतरा को स्थानीय परंपरा में मंदिर निर्माण से जुड़े एक व्यक्ति के रूप में याद किया जाता है। वे इस समस्या का हल खोजने की कोशिश कर रहे थे। कारीगरों को निर्माण स्थल की कठिन परिस्थितियों से निपटना था, लेकिन सही तरीका उन्हें तुरंत समझ नहीं आ रहा था।",
+     "एक दिन एक वृद्ध महिला गरम चावल की खीर लेकर सिवई के पास आई। उसने उन्हें प्रसाद खाने के लिए दिया। भूखे होने और अपनी चिंताओं में डूबे होने के कारण सिवई ने सीधे कटोरे के बीच में हाथ डाल दिया। खीर बहुत गरम थी और उनकी उँगलियाँ जल गईं।",
+     "महिला ने उनकी गलती देखी और एक सरल सलाह दी। खीर का बीच वाला हिस्सा देर तक गरम रहता है, जबकि किनारे जल्दी ठंडे हो जाते हैं। इसलिए उन्हें किनारों से खाना शुरू करके धीरे-धीरे बीच की ओर बढ़ना चाहिए।",
+     "सिवई ने उसकी बात मानी। लेकिन इस छोटी-सी घटना ने उन्हें मंदिर निर्माण की समस्या पर नए सिरे से सोचने के लिए प्रेरित किया। शायद कारीगर भी ऐसी ही गलती कर रहे थे। वे निर्माण स्थल के सबसे कठिन हिस्से को पहले हल करने की कोशिश कर रहे थे, जबकि उन्हें पहले किनारों को सुरक्षित करना चाहिए था। यदि वे समुद्र तट से शुरुआत करके धीरे-धीरे अंदर की ओर बढ़ते, तो काम आसान हो सकता था।",
+     "उन्होंने यह विचार कारीगरों के सामने रखा और उन्होंने अपना तरीका बदल दिया। लोककथा में इस व्यावहारिक सीख को निर्माण कार्य आगे बढ़ाने वाला एक महत्वपूर्ण मोड़ माना गया है।",
+     "इस कहानी में एक अलौकिक पक्ष भी है। बूढ़ी औरत को एक ऐसी देवी माना जाता है, जो सिवई का मार्गदर्शन करने के लिए साधारण मनुष्य का रूप लेकर आई थी। उसकी पहचान इस मुलाकात को पवित्र अर्थ देती है, लेकिन कहानी का मूल उस साधारण अनुभव में छिपा है, जिससे एक बड़ी समस्या का समाधान निकलता है।",
+     "यह कथा ज्ञान और विनम्रता के संबंध की पड़ताल करती है। सिवई एक विशाल निर्माण परियोजना से जुड़े हैं, फिर भी उन्हें जिस समझ की आवश्यकता है, वह एक साधारण-सी मुलाकात से मिलती है। कहानी बताती है कि सही निर्णय लेने के लिए ध्यान से देखना, अपनी धारणाओं पर प्रश्न उठाना और उन लोगों से सीखने के लिए तैयार रहना आवश्यक है, जिनकी बुद्धिमानी को हम पहली नज़र में पहचान नहीं पाते।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Konark and the Chandrabhaga coast, Odisha",
+  "community": "Local oral legend",
+  "tradition": "Legend associated with the building of the Konark Sun Temple."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Chirashree Srabani Rath, “Exploring the Lost River(s) at Konark: A Multi-Disciplinary Approach”, Odisha Review (Government of Odisha), November 2017. The article describes it as a popular local story narrated by grandparents to children.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-104-009",
+ "meta": [
+  "Region: Konark and the Chandrabhaga coast, Odisha · Genre: Local legend · Themes: Observation, humility, learning from others, problem-solving",
+  "About the story and its origins",
+  "Another legend associated with the construction of the Konark Sun Temple concerns Sivai Santara, who is described in the tradition as a person involved in the temple’s construction. The work was facing difficulties because of the water and shoreline near the proposed building site.",
+  "One day, an old woman offered Sivai Santara hot prasad—a sacred food offering, described in the source as rice pudding. He reached into the middle of the hot food and burnt his fingers. The woman showed him that he should begin eating from the cooler edges instead.",
+  "Her simple observation gave Sivai an idea: the temple builders, too, should not begin by tackling the most difficult part of the site. They should first secure the edges of the shoreline and then work inward. The legend says that this insight helped him direct the construction.",
+  "The old woman is understood in the story as a goddess in disguise. The tale celebrates the wisdom that can come from an unexpected source.",
+  "Source and attribution: The story is recorded in Chirashree Srabani Rath’s article, “Exploring the Lost River(s) at Konark: A Multi-Disciplinary Approach,” published in the Government of Odisha’s Odisha Review (November 2017). The article identifies it as a popular local story still narrated by grandparents to children.",
+  "magazines.odisha.gov.in"
+ ]
+}

@@ -1,0 +1,572 @@
+{
+ "id": "how-the-earth-was-created",
+ "state": "mp",
+ "title": "How the Earth Was Created",
+ "titleHi": "धरती कैसे बनी",
+ "summary": "In this Baiga creation story, God sends a crow to find soil for land. With help from a tortoise, the Agaria and Nanga Baiga, the shaking earth is made steady.",
+ "summarySource": "written for this site",
+ "genre": "Origin myth (Baiga creation story)",
+ "from": "Baiga creation story, Madhya Pradesh",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses richer, formal vocabulary (expanse, fashioned, unstable, habitable, craftsmanship, assistance) and a reflective closing paragraph, though its sentences are fairly short (about 11 words on average). Vocabulary and tone fit Level 3, Mighty Tree, but it is borderline with Level 2.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "At first, there was only water. There were no mountains. There were no forests, rivers or villages. Water was everywhere.",
+     "God sat on an old leaf. The leaf floated on the big water.",
+     "God was alone for a long time. He wondered, “How can anyone live without land? Where will plants grow? Where will animals and people live?”",
+     "God decided to make land. He took some dirt from his chest. He shaped it into a crow. The crow came to life.",
+     "God gave the crow a big job. “Go, Crow,” he said. “Find land. Bring me some soil. Then I can make the earth.” The crow flew away over the water.",
+     "It flew for a long time. It could not find land. At last it was very tired. It met a huge tortoise named Kunwar Kakaramal. The tortoise had big tusks. The crow sat on them to rest.",
+     "Then the crow spoke. “Kunwar Kakaramal, I need soil. Do you know where it is?” The tortoise listened. “I know where it is,” it said. “But it will not be easy to get.”",
+     "The tortoise carried the crow far down to the underworld. It is called Pataal Lok. There lived Raja Kichakmal. He had taken the earth and hidden its soil.",
+     "The crow spoke to the king. It said why it had come. It asked for soil so God could make land for all living things. At last the king said yes. He gave the crow some earth.",
+     "The tortoise carried the crow back. The crow gave the soil to God. God was very happy.",
+     "God took a big pot. He made a churner from a snake. He put the soil in the pot and began to churn. He scattered the soil over the water. Slowly, land began to appear.",
+     "Mountains rose up. Valleys formed. The earth spread out in every direction. Now there was land for living things.",
+     "But God saw a new problem. The new earth was not steady. It kept moving and shaking. God knew he had to hold it still.",
+     "So God made the Agaria. They are people who work with iron. God asked them to make four big iron nails. They made the nails and gave them to God.",
+     "Then God made Nanga Baiga, the first Baiga. God gave him a big job. He had to hold the earth still. Nanga Baiga put the four nails at the four corners of the world. The earth became steady.",
+     "The shaking stopped. Now forests, plants, animals and people could live on the land. Nanga Baiga had finished his big task.",
+     "From that day, people remember the Baiga as protectors of the earth. The Baiga believe their ancestors helped make the world safe.",
+     "So this Baiga story says the earth came from many helpers. God worked hard. The crow made a journey. The tortoise helped. The Agaria used their skill. Nanga Baiga did his work.",
+     "Moral: The world needs many helpers working together. Every creature and every people has a part to play."
+    ],
+    "hi": [
+     "शुरू में सिर्फ़ पानी था। कोई पहाड़ नहीं था। कोई जंगल, नदी या गाँव नहीं था। हर तरफ़ पानी ही पानी था।",
+     "भगवान एक पुराने पत्ते पर बैठे थे। वह पत्ता बड़े पानी पर तैर रहा था।",
+     "भगवान बहुत समय तक अकेले रहे। उन्होंने सोचा, “ज़मीन के बिना कोई कैसे जिएगा? पौधे कहाँ उगेंगे? जानवर और लोग कहाँ रहेंगे?”",
+     "भगवान ने ज़मीन बनाने का फ़ैसला किया। उन्होंने अपनी छाती से थोड़ी मिट्टी ली। उससे उन्होंने एक कौआ बनाया। कौआ जीवित हो गया।",
+     "भगवान ने कौए को एक बड़ा काम दिया। उन्होंने कहा, “जाओ कौए। ज़मीन ढूँढ़ो। मेरे लिए थोड़ी मिट्टी लाओ। तब मैं धरती बना सकूँगा।” कौआ पानी के ऊपर उड़ चला।",
+     "वह बहुत देर उड़ा। उसे ज़मीन नहीं मिली। आख़िर वह बहुत थक गया। उसे कुँवर ककरामल नाम का एक विशाल कछुआ मिला। कछुए के बड़े-बड़े दाँत थे। कौआ उन पर बैठकर सुस्ताने लगा।",
+     "फिर कौए ने कहा, “कुँवर ककरामल, मुझे मिट्टी चाहिए। क्या आपको पता है वह कहाँ है?” कछुए ने ध्यान से सुना। उसने कहा, “मुझे पता है। पर उसे पाना आसान नहीं होगा।”",
+     "कछुआ कौए को नीचे पाताल लोक ले गया। वहाँ राजा कीचकमल रहता था। उसने धरती को अपने कब्ज़े में ले लिया था और उसकी मिट्टी छिपा दी थी।",
+     "कौए ने राजा से बात की। उसने बताया कि वह क्यों आया है। उसने मिट्टी माँगी, ताकि भगवान सब जीवों के लिए ज़मीन बना सकें। आख़िर राजा मान गया। उसने कौए को थोड़ी मिट्टी दे दी।",
+     "कछुए ने कौए को वापस पहुँचाया। कौए ने भगवान को मिट्टी दी। भगवान बहुत खुश हुए।",
+     "भगवान ने एक बड़ा बर्तन लिया। उन्होंने एक साँप से मथानी बनाई। उन्होंने बर्तन में मिट्टी डाली और मथने लगे। उन्होंने मिट्टी को पानी पर बिखेर दिया। धीरे-धीरे ज़मीन दिखने लगी।",
+     "पहाड़ उठ आए। घाटियाँ बन गईं। धरती चारों तरफ़ फैल गई। अब जीवों के लिए ज़मीन थी।",
+     "पर भगवान को एक नई समस्या दिखी। नई धरती स्थिर नहीं थी। वह हिलती-डुलती रहती थी। भगवान जान गए कि उसे थामना होगा।",
+     "इसलिए भगवान ने अगरिया बनाए। वे लोहे का काम करने वाले लोग हैं। भगवान ने उनसे चार बड़ी लोहे की कीलें बनाने को कहा। उन्होंने कीलें बनाईं और भगवान को दे दीं।",
+     "फिर भगवान ने पहले बैगा, नंगा बैगा, को बनाया। भगवान ने उसे एक बड़ा काम दिया। उसे धरती को थामना था। नंगा बैगा ने चारों कीलें दुनिया के चारों कोनों में गाड़ दीं। धरती स्थिर हो गई।",
+     "हिलना बंद हो गया। अब ज़मीन पर जंगल, पौधे, जानवर और लोग रह सकते थे। नंगा बैगा ने अपना बड़ा काम पूरा कर दिया।",
+     "उस दिन से लोग बैगा को धरती का रक्षक मानते हैं। बैगा मानते हैं कि उनके पुरखों ने दुनिया को सुरक्षित बनाने में मदद की।",
+     "तो इस बैगा कथा के अनुसार धरती कई मददगारों से बनी। भगवान ने मेहनत की। कौए ने यात्रा की। कछुए ने मदद की। अगरिया ने अपना हुनर लगाया। नंगा बैगा ने अपना काम किया।",
+     "सीख: दुनिया को कई मददगारों के मिलकर काम करने की ज़रूरत होती है। हर जीव और हर समुदाय की अपनी एक भूमिका है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "floated",
+     "en": "stayed on top of water",
+     "hi": "तैरा"
+    },
+    {
+     "w": "wondered",
+     "en": "thought and asked yourself",
+     "hi": "सोचा"
+    },
+    {
+     "w": "soil",
+     "en": "the earth plants grow in",
+     "hi": "मिट्टी"
+    },
+    {
+     "w": "tusks",
+     "en": "long pointed teeth",
+     "hi": "दाँत"
+    },
+    {
+     "w": "underworld",
+     "en": "a world deep below the ground",
+     "hi": "पाताल"
+    },
+    {
+     "w": "churner",
+     "en": "a tool to stir and mix",
+     "hi": "मथानी"
+    },
+    {
+     "w": "scattered",
+     "en": "threw in many directions",
+     "hi": "बिखेरा"
+    },
+    {
+     "w": "valleys",
+     "en": "low land between mountains",
+     "hi": "घाटियाँ"
+    },
+    {
+     "w": "steady",
+     "en": "not moving or shaking",
+     "hi": "स्थिर"
+    },
+    {
+     "w": "ancestors",
+     "en": "family from long ago",
+     "hi": "पुरखे"
+    },
+    {
+     "w": "protectors",
+     "en": "those who keep something safe",
+     "hi": "रक्षक"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and what",
+     "q": "What was the world like at the very beginning?"
+    },
+    {
+     "k": "Characters",
+     "q": "Who helped God find the soil? Name the animals and the king in the story."
+    },
+    {
+     "k": "Events",
+     "q": "Why was the new earth shaking? What was used to stop it?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think the crow felt when it was very tired from flying? Who helped it?"
+    },
+    {
+     "k": "My life",
+     "q": "Think of a time when you worked together with others to finish something. What was your part?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the beginning, there was only water. There were no mountains, forests, rivers or villages. Water covered the whole world in every direction.",
+     "God rested on an old leaf floating on the vast water.",
+     "After a long time alone, God began to wonder. “How can there be life without land? Where will plants grow, and where will animals and people live?”",
+     "God decided that land had to be made. He took some dirt from his own chest and shaped it into a crow. The crow came to life.",
+     "God called the bird and gave it an important job. “Go, Crow. Search the world and find land. Bring me some soil so that I can make the earth.” The crow spread its wings and flew over the endless water.",
+     "It flew for a long time but found no land. At last, tired out, it met a huge tortoise named Kunwar Kakaramal. The tortoise had big tusks, and the crow sat on them to rest.",
+     "When it had caught its breath, the crow spoke. “Kunwar Kakaramal, I have flown very far looking for land. Please tell me where I can find some soil.” The tortoise listened carefully. “I know where the soil is hidden,” it said. “But it will not be easy to get.”",
+     "The tortoise carried the crow deep down to the underworld, called Pataal Lok. There they met Raja Kichakmal, who had taken the earth and hidden its soil.",
+     "The crow went to the king and told him why it had come. It asked for some soil so that God could make land for all living beings. In the end, Raja Kichakmal agreed and gave the crow some earth.",
+     "The tortoise carried the crow back from the underworld. The crow went to God and gave him the precious soil. God was very happy.",
+     "He took a large pot and made a churner out of a serpent. He put the soil inside and began to churn it. As the soil was churned, God scattered it over the endless water. Slowly, land began to appear.",
+     "Mountains rose out of the water, valleys formed, and the earth spread in every direction. At last, there was land where living creatures could live.",
+     "But God soon saw another problem. The new earth was not steady. It kept moving and shaking. God knew he had to find a way to hold it in place.",
+     "So he created the Agaria, a community skilled at working with iron. The Agaria were asked to make four huge iron nails. They made the nails and gave them to God.",
+     "Then God created Nanga Baiga, the first Baiga. He gave Nanga Baiga the big job of holding the earth in place. Nanga Baiga took the four iron nails and fixed them at the four corners of the world. At last the earth became steady.",
+     "The shaking stopped, and the land could hold forests, plants, animals and people. Nanga Baiga had finished his great task.",
+     "From that day on, the Baiga people are remembered as protectors of the earth. They believe that their ancestors helped to make the world safe to live in.",
+     "And so, says this Baiga creation story, the earth came to be through God’s effort, the crow’s journey, the tortoise’s help, the Agaria’s skill and the work of Nanga Baiga.",
+     "Moral: The world exists because of cooperation. Every creature and community has a part to play in keeping nature in balance."
+    ],
+    "hi": [
+     "शुरू में सिर्फ़ पानी था। कोई पहाड़, जंगल, नदी या गाँव नहीं था। पानी ने पूरी दुनिया को चारों ओर से ढक रखा था।",
+     "भगवान विशाल जल पर तैरते एक पुराने पत्ते पर बैठे थे।",
+     "बहुत समय अकेले रहने के बाद भगवान सोचने लगे, “ज़मीन के बिना जीवन कैसे होगा? पौधे कहाँ उगेंगे, और जानवर और लोग कहाँ रहेंगे?”",
+     "भगवान ने तय किया कि ज़मीन बनानी होगी। उन्होंने अपनी छाती से थोड़ी मिट्टी ली और उससे एक कौआ बनाया। कौआ जीवित हो उठा।",
+     "भगवान ने कौए को बुलाकर एक ज़रूरी काम दिया। “जाओ कौए, दुनिया में ज़मीन ढूँढ़ो। मेरे लिए थोड़ी मिट्टी लाओ ताकि मैं धरती बना सकूँ।” कौआ पंख फैलाकर अनंत जल के ऊपर उड़ चला।",
+     "वह बहुत देर उड़ा, पर उसे ज़मीन नहीं मिली। आख़िर थककर चूर होने पर उसे कुँवर ककरामल नाम का एक विशाल कछुआ मिला। कछुए के बड़े-बड़े दाँत थे और कौआ उन पर बैठकर आराम करने लगा।",
+     "दम लेने के बाद कौए ने कहा, “कुँवर ककरामल, मैं ज़मीन की खोज में बहुत दूर उड़कर आया हूँ। कृपया बताइए कि मुझे मिट्टी कहाँ मिलेगी।” कछुए ने ध्यान से सुना। उसने कहा, “मुझे पता है कि मिट्टी कहाँ छिपी है। पर उसे पाना आसान नहीं होगा।”",
+     "कछुआ कौए को गहरे पाताल लोक में ले गया। वहाँ उनकी भेंट राजा कीचकमल से हुई, जिसने धरती को अपने कब्ज़े में ले लिया था और उसकी मिट्टी छिपा दी थी।",
+     "कौआ राजा के पास गया और उसे अपने आने का कारण बताया। उसने मिट्टी माँगी, ताकि भगवान सभी जीवों के लिए ज़मीन बना सकें। आख़िर राजा कीचकमल मान गया और उसने कौए को थोड़ी मिट्टी दे दी।",
+     "कछुए ने कौए को पाताल से वापस पहुँचाया। कौए ने भगवान के पास जाकर वह कीमती मिट्टी उन्हें दी। भगवान बहुत प्रसन्न हुए।",
+     "उन्होंने एक बड़ा बर्तन लिया और एक साँप से मथानी बनाई। उन्होंने मिट्टी को बर्तन में डालकर मथना शुरू किया। जैसे-जैसे मिट्टी मथी गई, भगवान उसे अनंत जल पर बिखेरते गए। धीरे-धीरे ज़मीन दिखने लगी।",
+     "पानी से पहाड़ उठ आए, घाटियाँ बन गईं और धरती चारों दिशाओं में फैल गई। आख़िर वह ज़मीन बन गई जहाँ जीव रह सकते थे।",
+     "पर भगवान ने जल्द ही एक और समस्या देखी। नई धरती स्थिर नहीं थी। वह लगातार हिलती-काँपती रहती थी। भगवान जान गए कि उसे थामने का कोई उपाय करना होगा।",
+     "इसलिए उन्होंने अगरिया को बनाया, जो लोहे के काम में कुशल समुदाय है। अगरिया से चार विशाल लोहे की कीलें बनाने को कहा गया। उन्होंने कीलें गढ़कर भगवान को सौंप दीं।",
+     "फिर भगवान ने पहले बैगा, नंगा बैगा, को बनाया। उन्होंने नंगा बैगा को धरती को थामने का बड़ा काम सौंपा। नंगा बैगा ने चारों लोहे की कीलें लीं और उन्हें दुनिया के चारों कोनों में गाड़ दिया। आख़िर धरती स्थिर हो गई।",
+     "हिलना बंद हो गया और ज़मीन जंगलों, पौधों, जानवरों और इंसानों को सँभाल सकने लगी। नंगा बैगा ने अपना महान काम पूरा कर दिया।",
+     "उस दिन से बैगा लोगों को धरती के रक्षक के रूप में याद किया जाता है। वे मानते हैं कि उनके पुरखों ने दुनिया को सुरक्षित और रहने लायक बनाने में बड़ी भूमिका निभाई।",
+     "और इस तरह, इस बैगा सृष्टि-कथा के अनुसार, धरती भगवान के प्रयास, कौए की यात्रा, कछुए की मदद, अगरिया के हुनर और नंगा बैगा के काम से बनी।",
+     "सीख: दुनिया सहयोग से चलती है। प्रकृति का संतुलन बनाए रखने में हर जीव और हर समुदाय की अपनी भूमिका है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "wonder",
+     "en": "to think and ask yourself about something",
+     "hi": "सोचना"
+    },
+    {
+     "w": "shaped",
+     "en": "made into a form",
+     "hi": "गढ़ा"
+    },
+    {
+     "w": "tortoise",
+     "en": "a slow animal with a hard shell",
+     "hi": "कछुआ"
+    },
+    {
+     "w": "tusks",
+     "en": "long, pointed teeth that stick out",
+     "hi": "दाँत"
+    },
+    {
+     "w": "underworld",
+     "en": "a world deep below the ground",
+     "hi": "पाताल लोक"
+    },
+    {
+     "w": "precious",
+     "en": "very valuable",
+     "hi": "कीमती"
+    },
+    {
+     "w": "churner",
+     "en": "a tool for stirring and mixing",
+     "hi": "मथानी"
+    },
+    {
+     "w": "scattered",
+     "en": "spread in many directions",
+     "hi": "बिखेरा"
+    },
+    {
+     "w": "serpent",
+     "en": "a snake",
+     "hi": "साँप"
+    },
+    {
+     "w": "community",
+     "en": "a group of people with shared ways of life",
+     "hi": "समुदाय"
+    },
+    {
+     "w": "ancestors",
+     "en": "family members from long ago",
+     "hi": "पुरखे"
+    },
+    {
+     "w": "protectors",
+     "en": "people who keep something safe",
+     "hi": "रक्षक"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did God want to make land? What problem was he trying to solve?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "What went wrong after the land was made, and how was it fixed?"
+    },
+    {
+     "k": "Decisions",
+     "q": "Why do you think God asked the crow, and not someone else, to look for soil? What could the crow do that God could not?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The story says many helpers took part: the crow, the tortoise, the Agaria and Nanga Baiga. Why do you think the story names so many of them?"
+    },
+    {
+     "k": "Consequences",
+     "q": "How do the Baiga remember their ancestors because of this story? What does it say about how the Baiga see their role?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the beginning, there was nothing but water. There were no mountains, forests, rivers or villages. The entire world was covered by an endless expanse of water.",
+     "God rested upon an old floating leaf, surrounded by the vast waters.",
+     "After spending a long time in this lonely world, God began to wonder: “How can there be life when there is no land? Where will plants grow, and where will animals and people live?”",
+     "God decided that land must be created. He took some dirt from his own chest and fashioned it into a crow. The crow came to life.",
+     "God called the bird and gave it an important task. “Go, Crow. Search the world and find land. Bring me some soil so that I can create the earth.” The crow spread its wings and flew across the endless waters.",
+     "It travelled for a long time but could find no land. Eventually, exhausted from flying, it came across a gigantic tortoise named Kunwar Kakaramal. The tortoise had enormous tusks, and the crow settled upon them to rest.",
+     "After catching its breath, the crow spoke. “Kunwar Kakaramal, I have travelled a great distance searching for land. Please tell me where I can find some soil.” The tortoise listened carefully. “I know where the soil is hidden,” it replied. “But it will not be easy to obtain.”",
+     "The tortoise then carried the crow deep into the underworld, known as Pataal Lok. There, they encountered Raja Kichakmal, who had seized the earth and hidden its soil.",
+     "The crow approached the king and explained its mission. It requested some soil so that God could create land for all living beings. Raja Kichakmal eventually agreed and gave the crow some earth.",
+     "The tortoise carried the crow back from the underworld. The crow returned to God and presented the precious soil. God was delighted.",
+     "He took a large vessel and fashioned a churner using a serpent. He placed the soil inside and began churning it. As the soil was churned, God scattered it across the endless waters. Slowly, the land began to appear.",
+     "Mountains rose from the water, valleys formed and the earth spread in every direction. At last, there was land where living creatures could exist.",
+     "But God soon noticed another problem. The newly created earth was unstable. It moved and shook continuously. God realised that something had to be done to secure it.",
+     "He therefore created the Agaria, a community skilled in working with iron. The Agaria were asked to make four enormous iron nails. They forged the nails and presented them to God.",
+     "God then created Nanga Baiga, the first Baiga. He gave Nanga Baiga the important responsibility of securing the earth. Nanga Baiga took the four iron nails and fixed them at the four corners of the world. The earth finally became stable.",
+     "The shaking stopped, and the land could support forests, plants, animals and human beings. Nanga Baiga had completed his great task.",
+     "From that day onwards, the Baiga people came to be remembered as protectors of the earth. They believed that their ancestors had played an essential role in making the world safe and habitable.",
+     "And so, according to this Baiga creation story, the earth came into existence through God’s effort, the crow’s journey, the tortoise’s assistance, the Agaria’s craftsmanship and the work of Nanga Baiga.",
+     "Moral: The world exists through cooperation. Every creature and community has a role to play in maintaining the balance of nature."
+    ],
+    "hi": [
+     "शुरुआत में पानी के सिवा कुछ नहीं था। न पहाड़ थे, न जंगल, न नदियाँ, न गाँव। पूरी दुनिया जल के अनंत विस्तार से ढकी हुई थी।",
+     "भगवान एक पुराने, तैरते हुए पत्ते पर विराजमान थे, चारों ओर विशाल जलराशि से घिरे हुए।",
+     "इस अकेली दुनिया में लंबा समय बिताने के बाद भगवान सोचने लगे, “जब ज़मीन ही नहीं है, तो जीवन कैसे होगा? पौधे कहाँ उगेंगे, और जानवर और लोग कहाँ रहेंगे?”",
+     "भगवान ने निश्चय किया कि ज़मीन रची जानी चाहिए। उन्होंने अपनी छाती से थोड़ी मिट्टी ली और उसे गढ़कर एक कौआ बनाया। कौआ जीवित हो उठा।",
+     "भगवान ने पक्षी को बुलाकर एक महत्त्वपूर्ण कार्य सौंपा। “जाओ, कौए। दुनिया में ज़मीन खोजो। मेरे लिए थोड़ी मिट्टी लाओ ताकि मैं धरती की रचना कर सकूँ।” कौआ पंख फैलाकर अंतहीन जल के ऊपर उड़ चला।",
+     "वह बहुत देर तक उड़ता रहा, पर उसे कहीं ज़मीन नहीं मिली। आख़िरकार उड़ते-उड़ते थककर चूर हो जाने पर उसकी भेंट कुँवर ककरामल नाम के एक विशालकाय कछुए से हुई। कछुए के बड़े-बड़े दाँत थे और कौआ विश्राम करने के लिए उन पर बैठ गया।",
+     "साँस लेने के बाद कौए ने कहा, “कुँवर ककरामल, मैं ज़मीन की खोज में बहुत दूर की यात्रा करके आया हूँ। कृपया बताइए कि मुझे मिट्टी कहाँ मिलेगी।” कछुए ने ध्यान से सुना। उसने उत्तर दिया, “मैं जानता हूँ कि मिट्टी कहाँ छिपी है। पर उसे पाना आसान नहीं होगा।”",
+     "फिर कछुआ कौए को पाताल लोक नामक गहरे अधोलोक में ले गया। वहाँ उनका सामना राजा कीचकमल से हुआ, जिसने धरती को अपने अधिकार में ले लिया था और उसकी मिट्टी छिपा दी थी।",
+     "कौआ राजा के पास पहुँचा और उसे अपने आने का उद्देश्य समझाया। उसने थोड़ी मिट्टी माँगी, ताकि भगवान सभी जीवों के लिए ज़मीन बना सकें। आख़िरकार राजा कीचकमल मान गया और उसने कौए को थोड़ी धरती दे दी।",
+     "कछुए ने कौए को पाताल से वापस पहुँचाया। कौए ने भगवान के पास लौटकर वह बहुमूल्य मिट्टी उन्हें भेंट की। भगवान प्रसन्न हो उठे।",
+     "उन्होंने एक बड़ा बर्तन लिया और एक सर्प से मथानी बनाई। उन्होंने मिट्टी को बर्तन में रखकर मथना शुरू किया। जैसे-जैसे मिट्टी मथी गई, भगवान उसे अंतहीन जल पर बिखेरते गए। धीरे-धीरे ज़मीन उभरने लगी।",
+     "पानी से पर्वत उठ खड़े हुए, घाटियाँ बन गईं और धरती हर दिशा में फैल गई। आख़िरकार वह भूमि अस्तित्व में आई जहाँ जीव-जंतु रह सकते थे।",
+     "पर भगवान ने जल्द ही एक और समस्या देखी। नई रची धरती अस्थिर थी। वह लगातार हिलती और काँपती रहती थी। भगवान को एहसास हुआ कि उसे थामने के लिए कुछ करना ही होगा।",
+     "इसलिए उन्होंने अगरिया की रचना की, जो लोहे के काम में निपुण समुदाय है। अगरिया से चार विशाल लोहे की कीलें बनाने को कहा गया। उन्होंने कीलें गढ़ीं और भगवान को सौंप दीं।",
+     "फिर भगवान ने पहले बैगा, नंगा बैगा, की रचना की। उन्होंने नंगा बैगा को धरती को थामने का महत्त्वपूर्ण दायित्व सौंपा। नंगा बैगा ने चारों लोहे की कीलें लीं और उन्हें दुनिया के चारों कोनों में गाड़ दिया। धरती आख़िर स्थिर हो गई।",
+     "हिलना थम गया और भूमि जंगलों, पौधों, जानवरों और मनुष्यों को सँभालने लायक हो गई। नंगा बैगा ने अपना महान कार्य पूरा कर लिया था।",
+     "उस दिन से बैगा लोग धरती के रक्षक के रूप में याद किए जाने लगे। उनका विश्वास था कि उनके पुरखों ने दुनिया को सुरक्षित और रहने योग्य बनाने में अहम भूमिका निभाई थी।",
+     "और इस तरह, इस बैगा सृष्टि-कथा के अनुसार, धरती का अस्तित्व भगवान के प्रयास, कौए की यात्रा, कछुए की सहायता, अगरिया की कारीगरी और नंगा बैगा के कार्य से संभव हुआ।",
+     "सीख: दुनिया सहयोग से टिकी है। प्रकृति का संतुलन बनाए रखने में हर जीव और हर समुदाय की अपनी भूमिका है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "expanse",
+     "en": "a wide, open area",
+     "hi": "विस्तार"
+    },
+    {
+     "w": "floating",
+     "en": "resting on top of water",
+     "hi": "तैरते हुए"
+    },
+    {
+     "w": "fashioned",
+     "en": "made or shaped with care",
+     "hi": "गढ़ा"
+    },
+    {
+     "w": "gigantic",
+     "en": "extremely large",
+     "hi": "विशालकाय"
+    },
+    {
+     "w": "exhausted",
+     "en": "completely tired out",
+     "hi": "थककर चूर"
+    },
+    {
+     "w": "tusks",
+     "en": "long, pointed teeth that stick out",
+     "hi": "दाँत"
+    },
+    {
+     "w": "seized",
+     "en": "taken by force",
+     "hi": "अपने अधिकार में ले लिया"
+    },
+    {
+     "w": "vessel",
+     "en": "a large pot or container",
+     "hi": "बर्तन"
+    },
+    {
+     "w": "churner",
+     "en": "a tool used for churning",
+     "hi": "मथानी"
+    },
+    {
+     "w": "unstable",
+     "en": "not steady; likely to move",
+     "hi": "अस्थिर"
+    },
+    {
+     "w": "forged",
+     "en": "made by heating and shaping metal",
+     "hi": "गढ़ीं"
+    },
+    {
+     "w": "habitable",
+     "en": "fit to live in",
+     "hi": "रहने योग्य"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethical question",
+     "q": "Raja Kichakmal had hidden the earth’s soil, but in the end he agreed to give it up. What might make someone share something they have been keeping for themselves?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine you are the tortoise Kunwar Kakaramal. How would you describe your part in creating the world?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "In this creation story, the world is made by many hands, including a community skilled in iron and the first Baiga. What does that suggest about how the Baiga value different kinds of work and their own place in the world? Remember that this is one version, told from within a living tradition."
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says every creature and community has a role in keeping nature in balance. How does the story’s chain of helpers illustrate this?"
+    },
+    {
+     "k": "Today",
+     "q": "In what ways do people and communities still depend on each other to look after the earth today? Give one example."
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7,
+   8
+  ],
+  [
+   9,
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   16,
+   17,
+   18
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Only water, everywhere",
+   "th": "हर तरफ़ सिर्फ़ पानी",
+   "p": "A vast, calm, endless sea under a soft dawn sky with no land at all; a single old leaf floats in the centre with a calm, kindly figure of God seated upon it, shown simply and respectfully, with gentle light. Cool blues and soft gold, quiet awe."
+  },
+  {
+   "t": "God shapes a crow",
+   "th": "भगवान कौआ बनाते हैं",
+   "p": "God, shown as a calm gentle figure seated on the floating leaf, lifting a handful of earth from his own chest and shaping a small black crow that is just waking into life; endless water around. Warm glow around the crow, child-friendly, reverent mood."
+  },
+  {
+   "t": "The crow searches the waters",
+   "th": "कौआ ज़मीन खोजता है",
+   "p": "A small glossy black crow flies over endless water, then rests on the huge tusks of a vast ancient tortoise (Kunwar Kakaramal) swimming at the surface; the crow looks tired but hopeful. Soft light and rippling waves."
+  },
+  {
+   "t": "Down to Pataal Lok",
+   "th": "पाताल लोक की ओर",
+   "p": "The tortoise swims down with the crow on its back into a glowing underworld; Raja Kichakmal sits on a simple stone seat holding a heap of dark earth, the crow politely asking him. Mysterious but friendly, deep blue and amber, no scary imagery."
+  },
+  {
+   "t": "Churning the land into being",
+   "th": "मथकर बनी ज़मीन",
+   "p": "The crow gives God the earth; God stirs a large pot with a churning rope made from a serpent (shown gentle, not scary) and scatters soil over the water as mountains and valleys begin to rise from the sea. Hopeful golden morning light."
+  },
+  {
+   "t": "The earth that would not stay still",
+   "th": "काँपती धरती",
+   "p": "The new land trembles; ripples and small cracks run across the hills, while God watches thoughtfully; beside him the Agaria, skilled iron-workers, hammer four large iron nails at a glowing forge. Warm orange glow, respectful depiction of the craftsmen."
+  },
+  {
+   "t": "Nanga Baiga fixes the corners",
+   "th": "नंगा बैगा चारों कोने थामता है",
+   "p": "Nanga Baiga, the first Baiga, a strong calm figure wearing simple cloth, drives a large iron nail into one corner of the world as the land becomes still; the other three nails shown at distant corners with soft light. Majestic but gentle."
+  },
+  {
+   "t": "Protectors of the earth",
+   "th": "धरती के रक्षक",
+   "p": "A peaceful green land of forests, rivers and animals with many hands (God, the crow, the tortoise, the Agaria and the Baiga) shown together in a circle of cooperation under a bright sky; people live safely. Warm, harmonious, hopeful."
+  }
+ ],
+ "artStyle": {
+  "region": "Madhya Pradesh, Baiga community",
+  "verified": true,
+  "tradition": "Baiga godna (traditional tattooing) motifs",
+  "note": "A reliable source describes Baiga godna designs as drawn mainly from nature: triangular lines for mountains, a circle for the sun, dots, crosses and symmetrical lines. These can inspire decorative borders only. No single named Baiga painting tradition was verified for this story, so a neutral, respectful storybook style (deep water blues, earth ochres, soft gold) is proposed. God, Nanga Baiga and sacred figures should be shown reverently, and no Baiga person should be stereotyped.",
+  "characters": [
+   {
+    "name": "God",
+    "look": "Calm, kindly, simply drawn figure with a soft glow, always seated on or near the old leaf; no specific religious iconography added."
+   },
+   {
+    "name": "Crow",
+    "look": "Small glossy black crow with bright eyes."
+   },
+   {
+    "name": "Kunwar Kakaramal",
+    "look": "Vast ancient tortoise with a mossy shell and large pale tusks."
+   },
+   {
+    "name": "Raja Kichakmal",
+    "look": "Dignified king of the underworld on a stone seat, guarding a mound of dark earth."
+   },
+   {
+    "name": "Agaria",
+    "look": "Skilled ironworkers at a glowing forge with hammers and four large nails."
+   },
+   {
+    "name": "Nanga Baiga",
+    "look": "Strong, calm first Baiga in simple cloth, carrying the iron nails."
+   }
+  ],
+  "sources": [
+   [
+    "Baiga godna tattooing, Art Monthly Australasia",
+    "https://www.artmonthly.org.au/blog/mangala-bai-maravi-baiga-tattooing"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are floating on the old leaf in the middle of the endless water, as God was. What do you see, hear and wish for? What would you ask the crow to find?",
+ "create": "Draw the four corners of the earth with an iron nail at each one. Add the crow, the tortoise, the Agaria and Nanga Baiga, and write one line about what each one gave to the world.",
+ "about": {
+  "where": "This creation story comes from the Baiga people of central India, who live mainly in Madhya Pradesh, especially the Mandla and Balaghat districts, with smaller groups in nearby states.",
+  "community": "The Baiga are an Adivasi (indigenous) community. The 2011 census counted about 552,000 Baiga people. A reliable source says they see Nanga Baiga as their mythical ancestor and believe their ancestors helped the divine create the world and now act as its guardians. The Agaria, who appear in this story as ironworkers, are a separate community.",
+  "tradition": "For the Baiga this is a living tradition, not just a story. The version here is recorded in Riddhi Pandey’s Some Legends and Folk Stories of the Baiga People of Central India, drawing on Adivasi Lok Kathaayein (1989), published by the Madhya Pradesh Adivasi Lokkala Parishad, Bhopal. The Baiga are also known for godna (tattooing), songs and dances.",
+  "shared": "Creation stories are told aloud and can differ from teller to teller, so this is one version from one source, not the only one. The Baiga are reported not to plough the earth because they see it as a mother, which echoes the story’s idea of the Baiga as protectors of the earth.",
+  "matters": "The story shows that the world is made and kept safe by many hands working together. Please read it with respect, as a belief held by a living community, and remember that we are only sharing what our sources say.",
+  "links": [
+   [
+    "Some Legends and Folk Stories of the Baiga People of Central India (Sahapedia)",
+    "https://www.sahapedia.org/some-legends-and-folk-stories-of-the-baiga-people-of-central-india"
+   ],
+   [
+    "Baiga people (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Baiga_people"
+   ],
+   [
+    "Baiga godna tattooing (Art Monthly Australasia)",
+    "https://www.artmonthly.org.au/blog/mangala-bai-maravi-baiga-tattooing"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "A Baiga creation legend recorded in Riddhi Pandey, Some Legends and Folk Stories of the Baiga People of Central India (Sahapedia), drawing on the Baiga folklore section of Adivasi Lok Kathaayein (1989), Madhya Pradesh Adivasi Lokkala Parishad, Bhopal",
+   "url": "https://www.sahapedia.org/some-legends-and-folk-stories-of-the-baiga-people-of-central-india",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied Level 3 version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Sacred creation account of a living tradition: ask a Baiga cultural reader or the Adivasi Lokkala Parishad to review wording, especially the depiction of God, Nanga Baiga and the Agaria",
+  "Supplied text uses past tense for belief (They believed); Levels 1 and 2 use present tense (believe) since the tradition is living; confirm",
+  "Hindi sacred names (Kunwar Kakaramal, Raja Kichakmal, Pataal Lok, Agaria) are natural Devanagari spellings, not checked against Baiga usage",
+  "The supplied text says God took dirt from his own chest and used a serpent as a churner; these are kept as supplied and not independently verified",
+  "Licence not confirmed: Sahapedia CC BY-NC-SA 4.0 may not cover this retelling; check",
+  "Art tradition note: only godna motifs verified; no Baiga painting style confirmed. Do not present image prompts as authentic Baiga art",
+  "Level 3 Hindi uses fairly formal vocabulary; check it suits grades 8-10",
+  "Original level is borderline 2/3: sentence length (about 11 words) is Level 2-like but vocabulary is Level 3; the Level 2 version is therefore close in length to the supplied Level 3 text; an educator should confirm"
+ ]
+}

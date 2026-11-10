@@ -1,0 +1,395 @@
+{
+ "id": "chawngtinleri",
+ "state": "mz",
+ "title": "Chawngtinleri: The Queen of the Forest Spirits",
+ "titleHi": "चावंगतिनलेरी: वन की आत्माओं की रानी",
+ "genre": "Legend",
+ "levelTitles": {
+  "1": {
+   "en": "Chawngtinleri: The Queen of the Forest Spirits",
+   "hi": "चावंगतिनलेरी: वन की आत्माओं की रानी"
+  },
+  "2": {
+   "en": "Chawngtinleri: The Queen of the Forest Spirits",
+   "hi": "चावंगतिनलेरी: वन की आत्माओं की रानी"
+  },
+  "3": {
+   "en": "Chawngtinleri: The Queen of the Forest Spirits",
+   "hi": "चावंगतिनलेरी: वन की आत्माओं की रानी"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the beautiful hills of Mizoram, there lived a young woman named Chawngtinleri. She lived in a village called Seipui with her beloved brother, Liana. Their parents had passed away when they were young, so the two siblings cared for each other.",
+     "Chawngtinleri loved her brother dearly. She spent her days helping him with their household work, pounding rice and looking after their home.",
+     "Far away in the mountains lived a mysterious group of forest spirits called the Lasi. They were believed to look after all the wild animals of the forest. Their king, Lalchungnunga, had heard of Chawngtinleri and wished to make her his queen.",
+     "The king approached Liana and asked for his sister's hand in marriage. Liana was reluctant. He did not want to be separated from his beloved sister.",
+     "But the Lasi king made him a wonderful promise.",
+     "\"If you allow your sister to become my queen, I shall give you the greatest gift of all. You will become a great hunter, and the animals of the forest will come within your reach.\"",
+     "Liana was tempted by the promise. One night, while sleeping, he finally agreed.",
+     "The next morning, Chawngtinleri went outside to pound rice. Suddenly, she called out to her brother. Liana rushed outside, but she had disappeared. All that remained was a beautiful necklace lying beside the mortar.",
+     "The Lasi had taken her away to the mountains, where she became their queen and the guardian of the wild animals.",
+     "Liana was heartbroken. He wandered through the hills, searching for his sister. Eventually, he heard her voice.",
+     "\"Dear brother, do not grieve. I shall help you become the greatest hunter in the land.\"",
+     "From then on, Liana became famous for his hunting skills. Chawngtinleri guided the animals towards him, keeping her promise.",
+     "But Chawngtinleri could no longer return to her old home. She had become part of the mysterious world of the Lasi.",
+     "To this day, people remember her as the Queen of the Forest Spirits, the guardian of the animals who roam the beautiful mountains of Mizoram."
+    ],
+    "hi": [
+     "बहुत समय पहले मिज़ोरम की सुंदर पहाड़ियों में चावंगतिनलेरी नाम की एक युवती रहती थी। वह सेइपुई नाम के गाँव में अपने प्यारे भाई लियाना के साथ रहती थी। उनके माता-पिता का बचपन में ही देहांत हो गया था, इसलिए दोनों भाई-बहन एक-दूसरे का सहारा थे।",
+     "चावंगतिनलेरी अपने भाई से बहुत प्रेम करती थी। वह घर के कामों में उसकी सहायता करती, चावल कूटती और अपने घर की देखभाल करती थी।",
+     "दूर पहाड़ों में लासी नाम की रहस्यमयी वन-आत्माओं का एक समूह रहता था। माना जाता था कि वे जंगल के सभी जंगली जानवरों की देखभाल करते हैं। उनके राजा लालचुंगा ने चावंगतिनलेरी के बारे में सुना था और उसे अपनी रानी बनाना चाहते थे।",
+     "राजा ने लियाना से उसकी बहन का हाथ माँगा। लियाना इस बात से बहुत दुखी हुआ। वह अपनी प्यारी बहन से अलग नहीं होना चाहता था।",
+     "लेकिन लासी राजा ने उससे एक बड़ा वादा किया।",
+     "\"यदि तुम अपनी बहन को मेरी रानी बनने की अनुमति दे दोगे, तो मैं तुम्हें एक अनमोल उपहार दूँगा। तुम एक महान शिकारी बन जाओगे और जंगल के जानवर स्वयं तुम्हारे पास आएँगे।\"",
+     "लियाना इस प्रस्ताव से आकर्षित हो गया। एक रात उसने नींद में ही इस प्रस्ताव को स्वीकार कर लिया।",
+     "अगली सुबह चावंगतिनलेरी घर के बाहर चावल कूट रही थी। अचानक उसने अपने भाई को पुकारा। लियाना दौड़कर बाहर आया, लेकिन उसकी बहन वहाँ नहीं थी। वहाँ केवल एक सुंदर हार पड़ा हुआ था।",
+     "लासी उसे अपने साथ पहाड़ों पर ले गए थे। वहाँ वह उनकी रानी और जंगली जानवरों की संरक्षिका बन गई।",
+     "लियाना बहुत दुखी हुआ। वह अपनी बहन को खोजने के लिए पहाड़ियों में भटकने लगा। आखिरकार उसे उसकी आवाज़ सुनाई दी।",
+     "\"प्रिय भाई, दुखी मत हो। मैं तुम्हें इस धरती का सबसे महान शिकारी बनने में सहायता करूँगी।\"",
+     "उस दिन से लियाना अपने शिकार के कौशल के लिए प्रसिद्ध हो गया। चावंगतिनलेरी जंगल के जानवरों को उसकी ओर भेजती और अपना वादा निभाती।",
+     "लेकिन अब चावंगतिनलेरी अपने पुराने घर नहीं लौट सकती थी। वह लासी की रहस्यमयी दुनिया का हिस्सा बन चुकी थी।",
+     "आज भी लोग उसे वन की आत्माओं की रानी और मिज़ोरम के सुंदर पहाड़ों में घूमने वाले जंगली जानवरों की संरक्षिका के रूप में याद करते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, in the village of Seipui in the hills of Mizoram, lived a beautiful young woman named Chawngtinleri. She and her elder brother, Liana, had lost their parents when they",
+     "were very young. The siblings had grown up together, sharing their joys and sorrows, and were deeply devoted to one another.",
+     "Chawngtinleri was known for her beauty and kindness. She spent her days looking after their home, pounding rice and helping her brother with their daily work.",
+     "Beyond the village, in the high mountains of Tan Tlang and Lurh Tlang, lived a mysterious community of forest spirits known as the Lasi. According to Mizo tradition, these spirits had command over the wild animals. They were believed to guide animals through the forests and sometimes lead them towards hunters whom they favoured.",
+     "The king of the Lasi, Lalchungnunga, had become fascinated by Chawngtinleri. He wished to make her his wife and queen. But he knew that Liana would not willingly part with his beloved sister.",
+     "So the king began visiting Liana in his dreams.",
+     "\"I wish to marry your sister,\" he said. \"If you agree, I shall reward you with extraordinary hunting skills. You shall be able to find every kind of animal in the forest. I shall even bring the mighty Nghalphusen, the Great Red Boar, within your reach.\"",
+     "Liana was tempted by the promise. He had always dreamt of becoming a celebrated hunter. After many such dreams, he finally agreed, unaware of the consequences his decision would bring.",
+     "The following morning, Chawngtinleri went outside to pound rice. Suddenly, she called out to her brother, \"Oh, my brother Liana!\"",
+     "Hearing her voice, Liana rushed outside. But Chawngtinleri had vanished. All he could find was her beautiful necklace lying beside the rice mortar.",
+     "The Lasi had taken her to their mysterious kingdom in the mountains. There, she became the wife of Lalchungnunga and the Queen of the Forest Spirits.",
+     "Liana was overcome with grief. He wandered through the mountains for years, hoping to find his sister. Eventually, her voice reached him from the unseen world.",
+     "\"My brother, this was the choice you made. Do not grieve any longer. I shall guide the animals towards you, and you shall become a great hunter.\"",
+     "True to her word, Chawngtinleri began guiding wild animals towards Liana. His hunting skills became renowned, and he grew into one of the most successful hunters in the region.",
+     "Among the animals she promised him was the legendary Nghalphusen, an enormous red boar with magnificent tusks. The Lasi guided the creature towards Liana, who was thrilled at the sight of it.",
+     "But his excitement made him smile, and the boar immediately disappeared. The Lasi warned him not to show his teeth when the animal appeared. Yet, twice more, Liana lost control of his excitement, and the great boar vanished each time.",
+     "Chawngtinleri's life in the mountains had also changed forever. She eventually had a child with the Lasi king. When curious villagers discovered that the child had a human body but a goat's head, the spirits became furious. They altered Chawngtinleri's eyes, permanently separating her from the human world.",
+     "She remained the Queen of the Lasi, guardian of the wild animals.",
+     "Even today, the legend of Chawngtinleri lives on in Mizo folklore. Her story is remembered in ancient hunting songs and in tales of the mysterious spirits who inhabit the mountains."
+    ],
+    "hi": [
+     "बहुत समय पहले मिज़ोरम की पहाड़ियों में बसे सेइपुई गाँव में चावंगतिनलेरी नाम की एक सुंदर युवती रहती थी। उसके माता-पिता का देहांत तब हो गया था जब वह और उसका बड़ा भाई लियाना बहुत छोटे थे। दोनों भाई-बहन साथ बड़े हुए थे। उन्होंने जीवन की खुशियाँ और दुख एक-दूसरे के साथ बाँटे थे और एक-दूसरे से बहुत प्रेम करते थे।",
+     "चावंगतिनलेरी अपनी सुंदरता और दयालु स्वभाव के लिए जानी जाती थी। वह घर की देखभाल करती, चावल कूटती और रोज़मर्रा के कामों में अपने भाई की सहायता करती थी।",
+     "गाँव से दूर, तान त्लांग और लुर त्लांग की ऊँची पहाड़ियों में लासी नाम की रहस्यमयी वन-आत्माएँ रहती थीं। मिज़ो परंपरा के अनुसार, इन आत्माओं का जंगल के जंगली जानवरों पर अधिकार था। माना जाता था कि वे जानवरों को जंगल में रास्ता दिखाती थीं और कभी-कभी उन्हें उन शिकारियों की ओर भेजती थीं जिन्हें वे अपना प्रिय मानती थीं।",
+     "लासी के राजा लालचुंगा चावंगतिनलेरी से बहुत प्रभावित हो गए थे। वे उससे विवाह करके उसे अपनी रानी बनाना चाहते थे। लेकिन उन्हें पता था कि लियाना अपनी प्यारी बहन को इतनी आसानी से उनसे विवाह करने की अनुमति नहीं देगा।",
+     "इसलिए राजा ने लियाना के सपनों में आना शुरू किया।",
+     "\"मैं तुम्हारी बहन से विवाह करना चाहता हूँ,\" उन्होंने कहा। \"यदि तुम सहमत हो जाओगे, तो मैं तुम्हें शिकार करने की असाधारण शक्ति दूँगा। तुम जंगल के हर प्रकार के जानवर को खोज सकोगे। मैं तुम्हें विशाल और शक्तिशाली लाल जंगली सूअर, न्गालफुसेन, का भी शिकार करने का अवसर दूँगा।\"",
+     "लियाना इस वादे से आकर्षित हो गया। वह हमेशा से एक प्रसिद्ध शिकारी बनना चाहता था। कई बार ऐसे सपने देखने के बाद आखिरकार उसने अपनी सहमति दे दी। उसे यह एहसास नहीं था कि उसके निर्णय के क्या परिणाम होंगे।",
+     "अगली सुबह चावंगतिनलेरी घर के बाहर चावल कूटने गई। अचानक उसने अपने भाई को पुकारा, \"ओह, मेरे भाई लियाना!\"",
+     "उसकी आवाज़ सुनकर लियाना तुरंत बाहर दौड़ा। लेकिन चावंगतिनलेरी गायब हो चुकी थी। वहाँ केवल उसका सुंदर हार चावल कूटने वाली ओखली के पास पड़ा था।",
+     "लासी उसे अपने रहस्यमयी पहाड़ी राज्य में ले गए थे। वहाँ वह लालचुंगनुंगा की पत्नी और वन की आत्माओं की रानी बन गई।",
+     "लियाना दुख से भर गया। वह कई वर्ष तक अपनी बहन की तलाश में पहाड़ियों पर भटकता रहा। आखिरकार उसे अदृश्य दुनिया से अपनी बहन की आवाज़ सुनाई दी।",
+     "\"मेरे भाई, यह तुम्हारा अपना निर्णय था। अब दुखी मत हो। मैं जंगल के जानवरों को तुम्हारी ओर भेजूँगी और तुम एक महान शिकारी बन जाओगे।\"",
+     "चावंगतिनलेरी ने अपना वादा निभाया। वह जंगली जानवरों को लियाना की ओर भेजने लगी। जल्द ही लियाना अपने शिकार के कौशल के लिए प्रसिद्ध हो गया और उस क्षेत्र के सबसे सफल शिकारियों में गिना जाने लगा।",
+     "जिन जानवरों को उसने लियाना के लिए देने का वादा किया था, उनमें न्गालफुसेन नाम का एक विशाल लाल जंगली सूअर भी था। उसके बड़े-बड़े और सुंदर दाँत थे। लासी ने उसे लियाना की ओर भेजा। इतना विशाल जानवर देखकर लियाना बहुत उत्साहित हो गया।",
+     "लेकिन उत्साह में वह मुस्करा दिया। जैसे ही उसने अपने दाँत दिखाए, सूअर तुरंत गायब हो गया। लासी ने उसे चेतावनी दी कि जब भी वह जानवर दिखाई दे, उसे मुस्कराना नहीं चाहिए। लेकिन दोबारा भी लियाना अपने उत्साह पर नियंत्रण नहीं रख पाया और वह विशाल सूअर हर बार गायब हो गया।",
+     "पहाड़ों में चावंगतिनलेरी का जीवन भी हमेशा के लिए बदल चुका था। लालचुंगनुंगा से उसका एक बच्चा हुआ। जब कुछ जिज्ञासु गाँववालों ने देखा कि बच्चे का शरीर मनुष्य जैसा था, लेकिन सिर बकरी का था, तो वन-आत्माएँ बहुत क्रोधित हो गईं। उन्होंने चावंगतिनलेरी की आँखों का आकार बदल दिया और उसे मनुष्यों की दुनिया से हमेशा के लिए अलग कर दिया।",
+     "वह लासी की रानी और जंगल के जंगली जानवरों की संरक्षिका बनी रही।",
+     "आज भी चावंगतिनलेरी की कथा मिज़ो लोककथाओं में जीवित है। उसका उल्लेख पुराने शिकार के गीतों और उन रहस्यमयी आत्माओं की कहानियों में मिलता है जो पहाड़ों में निवास करती हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15
+     ],
+     [
+      16,
+      17,
+      18
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in the village of Seipui, nestled among the hills of Mizoram, lived a young woman named Chawngtinleri. She and her elder brother, Liana, had been orphaned at a young age. Having no parents to depend upon, the two siblings had grown deeply attached to one another. They shared their work, their meals and their dreams, and Liana was especially protective of his younger sister.",
+     "Chawngtinleri was admired for her beauty and gentle nature. She spent much of her time helping with household work, pounding rice and tending to their home.",
+     "Beyond the human settlements, on the distant peaks of Tan Tlang and Lurh Tlang, lived the Lasi, mysterious beings believed to rule over the wild animals. In traditional Mizo belief, the Lasi were responsible for creating and tending to the creatures of the forest. They could guide animals through the mountains and direct them towards hunters whom they favoured.",
+     "The king of these spirits, Lalchungnunga, had heard of Chawngtinleri and wished to make her his queen. He approached her brother, Liana, repeatedly, asking for permission to marry her. But Liana was proud of his sister and refused to give her away.",
+     "The Lasi king, however, was determined. He began appearing in Liana's dreams, offering him extraordinary rewards.",
+     "\"Give me your sister's hand, and I shall make you a hunter of great renown. Every animal of the forest shall come within your reach. I shall even grant you the mighty Nghalphusen, the Great Red Boar, whose size and strength are unmatched.\"",
+     "Liana had long desired to become a celebrated hunter. The promise of such extraordinary hunting opportunities slowly weakened his resistance. One night, while dreaming, he finally murmured his agreement.",
+     "The next morning, Chawngtinleri went outside to pound rice. Suddenly, she called out to her brother, \"Oh, my brother Liana!\"",
+     "Liana rushed towards her, but by the time he reached the courtyard, she had disappeared. All that remained was her precious necklace lying on the rice mortar.",
+     "The Lasi had taken Chawngtinleri to their hidden kingdom in the mountains. She became the wife of Lalchungnunga and was transformed into the Queen of the Forest Spirits, with authority over all the wild creatures.",
+     "Liana was devastated by her disappearance. He wandered the slopes of Tan Tlang for years, searching for his sister. His grief was so great that he could find no peace.",
+     "Eventually, Chawngtinleri's voice reached him from the unseen world.",
+     "\"My brother, this was the choice you made. Do not grieve any longer. I shall guide the animals towards you, and you shall become the hunter you always wished to be.\"",
+     "From then onwards, Liana became remarkably successful in hunting. The animals seemed to appear wherever he went, guided by his sister's unseen hand.",
+     "Among the gifts promised to him was the legendary Nghalphusen, a gigantic red boar whose enormous tusks were said to be as broad as wooden platters. The Lasi guided the beast towards Liana, announcing that it was being brought for his glory.",
+     "But when Liana caught sight of the magnificent creature, he became so excited that he smiled, revealing his teeth. At once, the boar vanished.",
+     "The Lasi warned him that he must never smile or show his teeth when the great boar appeared. Twice more, the animal was brought towards him, and twice more Liana failed to control his excitement. The magnificent creature disappeared forever. According to the legend, traces of the great boar can still be found at Tawi Tlang.",
+     "Meanwhile, Chawngtinleri's life among the Lasi had become increasingly distant from her human past. She eventually had a child with Lalchungnunga. She would sometimes visit her brother, but she always concealed the child's face.",
+     "One day, while she was away, some curious villagers looked closely at the child. They discovered that it had a human body but the head of a goat. The secret appearance of the Lasi had now been revealed to the human world.",
+     "The spirits were furious. They permanently altered Chawngtinleri's eyes, turning them vertically, and severed the last emotional connection she had with her former human life.",
+     "Chawngtinleri remained the Queen of the Forest Spirits. Her name continued to be remembered in traditional hunting songs, and the cave associated with her, Chawngtinleri Puk, is said to lie on the eastern side of Tan Tlang.",
+     "Her legend is more than a story about a mysterious queen. It reflects an older Mizo understanding of the forest as a world inhabited by powerful unseen beings, where humans, animals and spirits were connected in ways that could not always be understood."
+    ],
+    "hi": [
+     "बहुत समय पहले मिज़ोरम की पहाड़ियों के बीच बसे सेइपुई गाँव में चावंगतिनलेरी नाम की एक युवती रहती थी। उसके माता-पिता का बचपन में ही देहांत हो गया था। इसके बाद वह अपने बड़े भाई लियाना के साथ रहने लगी। माता-पिता के बिना दोनों भाई-बहन एक-दूसरे के और भी करीब आ गए थे। वे घर के काम, भोजन और अपने सपने एक-दूसरे के साथ बाँटते थे। लियाना अपनी छोटी बहन की विशेष रूप से देखभाल करता था।",
+     "चावंगतिनलेरी अपनी सुंदरता और कोमल स्वभाव के लिए प्रसिद्ध थी। वह घर के कामों में सहायता करती, चावल कूटती और पूरे घर की देखभाल करती थी।",
+     "मनुष्यों की बस्तियों से बहुत दूर, तान त्लांग और लुर त्लांग की ऊँची पहाड़ियों पर लासी नाम के रहस्यमयी प्राणी रहते थे। पारंपरिक मिज़ो मान्यताओं के अनुसार, लासी जंगल के जंगली जानवरों पर शासन करते थे। माना जाता था कि वे जंगल के जीवों की उत्पत्ति और देखभाल करते हैं। वे जानवरों को पहाड़ों के बीच रास्ता दिखा सकते थे और उन्हें उन शिकारियों की ओर भेज सकते थे जिन्हें वे अपना प्रिय मानते थे।",
+     "इन आत्माओं के राजा लालचुंगनुंगा ने चावंगतिनलेरी के बारे में सुना और उसे अपनी रानी बनाने की इच्छा की। उन्होंने उसके भाई लियाना से कई बार विवाह की अनुमति माँगी। लेकिन लियाना अपनी बहन से बहुत प्रेम करता था और उसे उनसे अलग नहीं करना चाहता था।",
+     "लासी राजा ने हार नहीं मानी। वह लियाना के सपनों में आने लगा और उसे असाधारण उपहारों का लालच देने लगा।",
+     "\"यदि तुम मुझे अपनी बहन का हाथ दे दो, तो मैं तुम्हें एक महान शिकारी बना दूँगा। जंगल का हर जानवर तुम्हारी पहुँच में होगा। मैं तुम्हें न्गालफुसेन नाम का विशाल लाल जंगली सूअर भी दूँगा, जिसकी ताकत और आकार का कोई मुकाबला नहीं है।\"",
+     "लियाना लंबे समय से एक प्रसिद्ध शिकारी बनना चाहता था। राजा के वादों ने धीरे-धीरे उसके संकल्प को कमज़ोर कर दिया। एक रात उसने नींद में ही अपनी सहमति दे दी।",
+     "अगली सुबह चावंगतिनलेरी घर के बाहर चावल कूटने गई। अचानक उसने अपने भाई को पुकारा, \"ओह, मेरे भाई लियाना!\"",
+     "लियाना तुरंत उसकी ओर दौड़ा, लेकिन जब तक वह आँगन में पहुँचा, चावंगतिनलेरी गायब हो चुकी थी। वहाँ केवल उसका कीमती हार चावल कूटने वाली ओखली पर पड़ा था।",
+     "लासी उसे अपने छिपे हुए पहाड़ी राज्य में ले गए थे। वह लालचुंगनुंगा की पत्नी और वन की आत्माओं की रानी बन गई। अब उसे जंगल के सभी जंगली जीवों पर अधिकार प्राप्त था।",
+     "लियाना अपनी बहन के अचानक गायब हो जाने से टूट गया। वह कई वर्ष तक तान त्लांग की पहाड़ियों पर उसे खोजता रहा। उसका दुख इतना गहरा था कि उसे कहीं भी शांति नहीं मिलती थी।",
+     "आखिरकार एक दिन उसे अदृश्य दुनिया से चावंगतिनलेरी की आवाज़ सुनाई दी।",
+     "\"मेरे भाई, यह तुम्हारा अपना निर्णय था। अब और दुखी मत हो। मैं जंगल के जानवरों को तुम्हारी ओर भेजूँगी और तुम वही महान शिकारी बनोगे जिसका तुमने हमेशा सपना देखा था।\"",
+     "उस दिन से लियाना शिकार में असाधारण रूप से सफल होने लगा। ऐसा लगता था जैसे जंगल के जानवर स्वयं उसके सामने आ जाते थे। वास्तव में, उसकी बहन अदृश्य रूप से उन्हें उसकी ओर भेज रही थी।",
+     "उसके लिए किए गए वादों में न्गालफुसेन भी शामिल था। वह एक विशाल लाल जंगली सूअर था, जिसके बड़े-बड़े दाँत लकड़ी की थालियों जितने चौड़े बताए जाते थे। लासी ने उस जानवर को लियाना की ओर भेजा और घोषणा की कि यह उसके गौरव के लिए लाया गया है।",
+     "लेकिन जैसे ही लियाना ने उस अद्भुत जानवर को देखा, वह उत्साह से मुस्करा उठा और उसके दाँत दिखाई देने लगे। उसी क्षण सूअर गायब हो गया।",
+     "लासी ने उसे चेतावनी दी कि जब भी वह विशाल सूअर दिखाई दे, उसे कभी मुस्कराना या अपने दाँत नहीं दिखाने चाहिए। इसके बाद दो बार और उस जानवर को उसके सामने लाया गया, लेकिन दोनों बार लियाना अपने उत्साह पर नियंत्रण नहीं रख पाया। वह विशाल सूअर हमेशा के लिए गायब हो गया। किंवदंती के अनुसार, आज भी तावी त्लांग में उस महान सूअर के पदचिह्न देखे जा सकते हैं।",
+     "इस बीच लासी के बीच चावंगतिनलेरी का जीवन उसके पुराने मानवीय जीवन से और दूर होता गया। लालचुंगनुंगा से उसका एक बच्चा हुआ। वह कभी-कभी अपने भाई से मिलने आती थी, लेकिन हमेशा अपने बच्चे का चेहरा छिपाकर रखती थी।",
+     "एक दिन, जब वह वहाँ नहीं थी, कुछ जिज्ञासु गाँववालों ने बच्चे को ध्यान से देखा। उन्होंने पाया कि उसका शरीर मनुष्य जैसा था, लेकिन सिर बकरी का था। इस तरह लासी का असली रूप मनुष्यों के सामने आ गया।",
+     "यह देखकर आत्माएँ बहुत क्रोधित हुईं। उन्होंने चावंगतिनलेरी की आँखों का आकार हमेशा के लिए बदल दिया और उसे उसकी पुरानी मानवीय दुनिया से भावनात्मक रूप से पूरी तरह अलग कर दिया।",
+     "चावंगतिनलेरी वन की आत्माओं की रानी बनी रही। उसका नाम पारंपरिक शिकार के गीतों में याद किया जाता रहा। कहा जाता है कि उससे जुड़ी गुफा, चावंगतिनलेरी पुक, आज भी तान त्लांग के पूर्व हिस्से में स्थित है।",
+     "उसकी कथा केवल एक रहस्यमयी रानी की कहानी नहीं है। यह जंगल को एक ऐसी दुनिया मानने वाली मिज़ो परंपरागत सोच को दर्शाती है, जहाँ मनुष्य, जानवर और अदृश्य आत्माएँ ऐसे संबंधों से जुड़े थे जिन्हें हमेशा समझ पाना संभव नहीं था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14
+     ],
+     [
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14
+     ],
+     [
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Mizoram",
+  "community": "Mizo",
+  "tradition": "Traditional Mizo legend. The Lasi are supernatural spirits associated with wild animals and the forest."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Mizo folklore. Department of Mizo and Culture Studies, ICFAI University, published through the Government of Mizoram’s Art and Culture Department (mizoculture.mizoram.gov.in).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-054-004",
+ "meta": [
+  "The Queen of the Forest Spirits",
+  "Mizoram Traditional Mizo legend",
+  "Story origins",
+  "● Original tradition: Mizo folklore. ● Source: Department of Mizo and Culture Studies, ICFAI University, published through the Government of Mizoram's Art and Culture Department. ● Cultural setting: The mystical plains of Buannel and the forested hills of Mizoram. ● Important figures: Chawngtinleri and Lalchungnunga, the Lasi King. ● Themes: Nature, the supernatural, guardianship of animals and the relationship between humans and the forest.",
+  "In Mizo tradition, the Lasi are supernatural spirits associated with wild animals and the forest. Chawngtinleri, originally a mortal woman from Seipui, becomes the Queen of the Lasi after marrying their king. She is subsequently associated with the guardianship of the animal kingdom.",
+  "mizoculture.mizoram.gov.in"
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "id": "salhesh-hero-of-mithila",
+ "state": "br",
+ "title": "Salhesh — The Hero of Mithila",
+ "titleHi": "सलहेस — मिथिला का वीर",
+ "summary": "Salhesh is a hero remembered in Mithila, especially by the Dusadh community, as a protector. This retelling shows how songs, performances and terracotta horse-riders keep a community's hero alive across generations.",
+ "summarySource": "written for this site",
+ "genre": "Hero tradition / oral epic",
+ "from": "Hero tradition of the Dusadh community, Mithila (Bihar)",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses abstract, formal words such as intertwined, intervention, alliances, enduring, observances, continuity and collective identity, and sentences of about 15 words. It asks readers to think about memory and tradition, which fits Level 3 (Mighty Tree).",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the land of Mithila, there lived a hero named Salhesh.",
+     "People loved to tell his story. The Dusadh community told it to each new generation. They shared tales of his courage and great deeds.",
+     "Salhesh was not just strong. He was a protector. He stood for what is fair.",
+     "People told his story in songs, plays and village gatherings. Different storytellers remembered different parts. So the story changed a little from place to place.",
+     "In one written-down telling, the goddess Durga helps Salhesh on his path. His story grows through family ties. He also meets the Malin sisters.",
+     "As his adventures go on, people remember how he stayed close to them and protected his community. His name spreads far beyond his home.",
+     "People begin to honour him with songs and ritual dances. They celebrate his courage and his great deeds. Over many years, Salhesh stays alive in the memory of Mithila.",
+     "His story is not kept in just one written book. It lives in spoken performances, prayer and art.",
+     "At community gatherings, a leader called a Bhagat guides the ceremony. Performers called Manaria sing, move and act out parts of Salhesh’s story.",
+     "There are also horse-riders made of terracotta, which is baked clay. People place them as offerings. They are not just for decoration. They help the community remember and honour Salhesh.",
+     "For many years, Salhesh has stood for the community’s pride, faith and lasting traditions.",
+     "Moral: A community’s heroes live on in the stories, songs and traditions that people keep and share for generations."
+    ],
+    "hi": [
+     "बहुत पहले मिथिला की धरती पर सलहेस नाम का एक वीर रहता था।",
+     "लोग उसकी कहानी सुनाना पसंद करते थे। दुसाध समुदाय उसकी कहानी हर नई पीढ़ी को सुनाता था। वे उसके साहस और बड़े कामों के किस्से सुनाते थे।",
+     "सलहेस सिर्फ़ ताकतवर नहीं था। वह रक्षक था। वह न्याय का साथ देता था।",
+     "लोग उसकी कहानी गीतों, नाटकों और गाँव की सभाओं में सुनाते थे। अलग-अलग कथावाचकों को अलग-अलग हिस्से याद रहे। इसलिए कहानी हर जगह थोड़ी अलग हो गई।",
+     "एक लिखी हुई कथा में देवी दुर्गा सलहेस की राह में मदद करती हैं। उसकी कहानी परिवार के रिश्तों से आगे बढ़ती है। वह मालिन बहनों से भी मिलता है।",
+     "जैसे-जैसे उसके कारनामे आगे बढ़ते हैं, लोग याद करते हैं कि वह उनके पास रहता था और अपने समुदाय की रक्षा करता था। उसका नाम अपने घर से बहुत दूर तक फैल जाता है।",
+     "लोग गीतों और पूजा-नृत्यों से उसका सम्मान करने लगते हैं। वे उसके साहस और बड़े कामों का उत्सव मनाते हैं। बरसों बाद भी सलहेस मिथिला की यादों में ज़िंदा रहता है।",
+     "उसकी कहानी किसी एक लिखी किताब में बँधी नहीं है। वह बोले गए प्रदर्शनों, पूजा और कला में जीती है।",
+     "समुदाय की सभाओं में भगत नाम का एक अगुआ अनुष्ठान चलाता है। मनरिया कलाकार गाते, नाचते और सलहेस की कथा के हिस्से करके दिखाते हैं।",
+     "पकी मिट्टी, यानी टेराकोटा, से बने घुड़सवार भी होते हैं। लोग उन्हें भेंट के रूप में रखते हैं। वे सिर्फ़ सजावट नहीं हैं। वे समुदाय को सलहेस को याद करने और सम्मान देने में मदद करते हैं।",
+     "बरसों से सलहेस समुदाय के गर्व, आस्था और टिकी हुई परंपराओं की पहचान बना हुआ है।",
+     "सीख: किसी समुदाय के नायक उन कहानियों, गीतों और परंपराओं में जीते हैं, जिन्हें लोग पीढ़ी-दर-पीढ़ी सँभालते और बाँटते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "hero",
+     "en": "a brave person who is admired by others",
+     "hi": "वीर, नायक"
+    },
+    {
+     "w": "community",
+     "en": "a group of people who live or belong together",
+     "hi": "समुदाय"
+    },
+    {
+     "w": "courage",
+     "en": "being brave when things are scary",
+     "hi": "साहस"
+    },
+    {
+     "w": "protector",
+     "en": "someone who keeps others safe",
+     "hi": "रक्षक"
+    },
+    {
+     "w": "storytellers",
+     "en": "people who tell stories",
+     "hi": "कथावाचक"
+    },
+    {
+     "w": "honour",
+     "en": "to show great respect",
+     "hi": "सम्मान करना"
+    },
+    {
+     "w": "ritual",
+     "en": "a special act done in a set way for a belief",
+     "hi": "अनुष्ठान, पूजा-विधि"
+    },
+    {
+     "w": "performers",
+     "en": "people who sing, dance or act for others",
+     "hi": "कलाकार"
+    },
+    {
+     "w": "terracotta",
+     "en": "baked clay, often brown-red",
+     "hi": "पकी मिट्टी, टेराकोटा"
+    },
+    {
+     "w": "offerings",
+     "en": "gifts given in prayer or respect",
+     "hi": "भेंट, चढ़ावा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who was he?",
+     "q": "Who was Salhesh? What was he like?"
+    },
+    {
+     "k": "Passing it on",
+     "q": "How did people pass on Salhesh’s stories?"
+    },
+    {
+     "k": "At the gathering",
+     "q": "What do the Bhagat and the Manaria performers do at community gatherings?"
+    },
+    {
+     "k": "Clay horse-riders",
+     "q": "What are terracotta horse-riders, and why do people place them as offerings?"
+    },
+    {
+     "k": "Think of you",
+     "q": "Do you know a story, song or festival that people share again and again where you live? What do you like about it?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, in the lands of Mithila, there lived a great hero named Salhesh.",
+     "His name became famous among the people, especially in the Dusadh community, where stories of his courage and amazing deeds were handed down from one generation to the next.",
+     "Salhesh was remembered not only as a strong man but also as a protector and a symbol of justice.",
+     "His story was carried in songs, performances and village gatherings. Different storytellers kept different parts of his life alive, so the details changed from one tradition to another.",
+     "In one collected telling, Salhesh’s fate becomes linked with the help of Goddess Durga. The goddess plays an important part in the events around him, and his story unfolds through family ties and meetings with the Malin sisters.",
+     "As his adventures go on, Salhesh is remembered for his bond with the people and for protecting his community. His fame spreads far beyond the places near his home.",
+     "People begin to honour him with songs and ritual performances, celebrating his courage and his amazing deeds. Over the generations, Salhesh becomes a lasting figure in the memory of Mithila.",
+     "His story does not exist in just one fixed written version. Instead, it lives on in spoken performances, acts of devotion and traditional art.",
+     "During community ceremonies, a Bhagat, or ritual leader, guides the event, while Manaria performers act out parts of the Salhesh tradition with music, movement and drama.",
+     "Terracotta horse-riders are also linked with the ritual offerings. These figures are more than decorations. They are part of the way the community remembers and honours Salhesh.",
+     "For generations, the hero has stayed an important symbol of the community’s identity, devotion and living traditions.",
+     "Moral: A community’s heroes live on through the stories, songs and traditions that people keep and share across generations."
+    ],
+    "hi": [
+     "बहुत समय पहले मिथिला की धरती पर सलहेस नाम का एक महान वीर रहता था।",
+     "उसका नाम लोगों में, खासकर दुसाध समुदाय में, बहुत प्रसिद्ध हुआ। वहाँ उसके साहस और अद्भुत कारनामों की कहानियाँ एक पीढ़ी से दूसरी पीढ़ी तक सुनाई जाती रहीं।",
+     "सलहेस को सिर्फ़ ताकतवर इंसान के रूप में नहीं, बल्कि रक्षक और न्याय के प्रतीक के रूप में याद किया जाता था।",
+     "उसकी कहानी गीतों, प्रदर्शनों और गाँव की सभाओं के ज़रिए आगे बढ़ती रही। अलग-अलग कथावाचकों ने उसके जीवन के अलग-अलग प्रसंग सँजोए, इसलिए ब्योरे एक परंपरा से दूसरी में बदल जाते हैं।",
+     "एक संकलित कथा में सलहेस का भाग्य देवी दुर्गा की सहायता से जुड़ जाता है। उसके आसपास की घटनाओं में देवी की बड़ी भूमिका है, और उसकी कथा पारिवारिक रिश्तों तथा मालिन बहनों से मुलाकातों के सहारे आगे बढ़ती है।",
+     "जैसे-जैसे उसके कारनामे आगे बढ़ते हैं, उसे लोगों से अपने जुड़ाव और अपने समुदाय की रक्षा के लिए याद किया जाता है। उसकी ख्याति आसपास के इलाकों से बहुत आगे तक फैल जाती है।",
+     "लोग गीतों और अनुष्ठानिक प्रस्तुतियों से उसका सम्मान करने लगते हैं और उसके साहस तथा अनोखे कामों का उत्सव मनाते हैं। पीढ़ियों के साथ सलहेस मिथिला की स्मृति में एक स्थायी नायक बन जाता है।",
+     "उसकी कथा किसी एक तय लिखित रूप में सुरक्षित नहीं है। वह मौखिक प्रस्तुतियों, भक्ति की रीतियों और पारंपरिक कला में जीवित रहती है।",
+     "समुदाय के अनुष्ठानों में भगत, यानी अनुष्ठान का अगुआ, आयोजन का संचालन करता है, जबकि मनरिया कलाकार संगीत, गति और नाटक के ज़रिए सलहेस की परंपरा के प्रसंग प्रस्तुत करते हैं।",
+     "पकी मिट्टी के घुड़सवार, यानी टेराकोटा के घुड़सवार, भी अनुष्ठान की भेंटों से जुड़े हैं। ये सिर्फ़ सजावट नहीं हैं। ये उस तरीके का हिस्सा हैं जिससे समुदाय सलहेस को याद करता और सम्मान देता है।",
+     "पीढ़ियों से यह नायक समुदाय की पहचान, भक्ति और जीवित परंपराओं का महत्वपूर्ण प्रतीक रहा है।",
+     "सीख: किसी समुदाय के नायक उन कहानियों, गीतों और परंपराओं के सहारे जीवित रहते हैं जिन्हें लोग पीढ़ी-दर-पीढ़ी सँजोते और बाँटते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "generation",
+     "en": "all the people born around the same time; a step in a family line",
+     "hi": "पीढ़ी"
+    },
+    {
+     "w": "protector",
+     "en": "someone who keeps others safe",
+     "hi": "रक्षक"
+    },
+    {
+     "w": "justice",
+     "en": "fairness; treating people rightly",
+     "hi": "न्याय"
+    },
+    {
+     "w": "storytellers",
+     "en": "people who tell stories",
+     "hi": "कथावाचक"
+    },
+    {
+     "w": "collected",
+     "en": "gathered and written down from people",
+     "hi": "संकलित"
+    },
+    {
+     "w": "devotion",
+     "en": "deep love and faith, shown through worship",
+     "hi": "भक्ति"
+    },
+    {
+     "w": "ritual",
+     "en": "a special act done in a set way for a belief",
+     "hi": "अनुष्ठान"
+    },
+    {
+     "w": "honour",
+     "en": "to show great respect",
+     "hi": "सम्मान करना"
+    },
+    {
+     "w": "performers",
+     "en": "people who sing, dance or act for others",
+     "hi": "कलाकार"
+    },
+    {
+     "w": "terracotta",
+     "en": "baked clay, often brown-red",
+     "hi": "टेराकोटा, पकी मिट्टी"
+    },
+    {
+     "w": "offerings",
+     "en": "gifts given in prayer or respect",
+     "hi": "भेंट, चढ़ावा"
+    },
+    {
+     "w": "identity",
+     "en": "what makes a group or person who they are",
+     "hi": "पहचान"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Why remembered",
+     "q": "Why do you think people remembered Salhesh as a protector and a symbol of justice, and not only as a strong man?"
+    },
+    {
+     "k": "Changing details",
+     "q": "Why might the details of the story change from one storyteller to another? Does that make the story less important?"
+    },
+    {
+     "k": "Keeping it alive",
+     "q": "How do songs, performances and terracotta figures help keep a hero alive in people’s memory?"
+    },
+    {
+     "k": "More than decoration",
+     "q": "The story says the horse-riders are ‘not merely decorations’. What do you think the difference is?"
+    },
+    {
+     "k": "Your choice",
+     "q": "If you were a storyteller who wanted to keep this tradition going in your village, what would you most want to pass on, and why?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in the lands of Mithila, there lived a remarkable hero named Salhesh.",
+     "His name became celebrated among the people, particularly within the Dusadh community, where stories of his courage and extraordinary deeds were passed down through generations.",
+     "Salhesh was remembered not merely as a powerful man but as a protector and a figure of justice.",
+     "His story was carried through songs, performances and village gatherings. Different storytellers preserved different episodes of his life, and the details varied from one tradition to another.",
+     "In one collected narrative, Salhesh’s destiny becomes intertwined with the divine intervention of Goddess Durga. The goddess plays a significant role in the events surrounding him, and his story develops through family alliances and encounters with the Malin sisters.",
+     "As his adventures unfold, Salhesh is remembered for his connection with the people and the protection of his community. His reputation spreads beyond his immediate surroundings.",
+     "The people begin to honour him through songs and ritual performances, celebrating his courage and the extraordinary nature of his deeds. Over generations, Salhesh becomes an enduring figure in Mithila’s cultural memory.",
+     "His story is not preserved in just one fixed written version. Instead, it lives through oral performances, devotional practices and traditional art.",
+     "During community observances, a Bhagat, or ritual leader, guides the ceremony while Manaria performers enact aspects of the Salhesh tradition through music, movement and dramatic performance.",
+     "Terracotta horse-riders are also associated with the ritual offerings. These figures are not merely decorations. They form part of the material expression of a tradition through which the community remembers and honours Salhesh.",
+     "For generations, the hero has remained an important symbol of collective identity, devotion and cultural continuity.",
+     "Moral: A community’s heroes live on through the stories, songs and traditions that people preserve and share across generations."
+    ],
+    "hi": [
+     "बहुत पहले, मिथिला की धरती पर सलहेस नाम का एक असाधारण वीर रहा करता था।",
+     "उसका नाम लोगों के बीच, विशेषकर दुसाध समुदाय में, बहुत विख्यात हुआ, जहाँ उसके साहस और अनोखे कारनामों की कथाएँ पीढ़ी-दर-पीढ़ी सुनाई जाती रहीं।",
+     "सलहेस को केवल एक शक्तिशाली पुरुष के रूप में नहीं, बल्कि एक रक्षक और न्याय के प्रतीक के रूप में स्मरण किया जाता था।",
+     "उसकी कथा गीतों, प्रस्तुतियों और ग्रामीण जमावड़ों के माध्यम से आगे बढ़ती रही। अलग-अलग कथावाचकों ने उसके जीवन के अलग-अलग प्रसंग सहेजे, और इसीलिए ब्योरे एक परंपरा से दूसरी परंपरा में बदलते गए।",
+     "एक संकलित कथा में सलहेस की नियति देवी दुर्गा के दैवी हस्तक्षेप से गुँथ जाती है। उसके आसपास घटने वाली घटनाओं में देवी की महत्वपूर्ण भूमिका है, और उसकी कथा पारिवारिक संबंधों तथा मालिन बहनों से हुई भेंटों के सहारे विकसित होती है।",
+     "जैसे-जैसे उसके साहसिक कार्य सामने आते हैं, सलहेस को जनता से अपने जुड़ाव और अपने समुदाय की रक्षा के लिए याद किया जाता है। उसकी ख्याति अपने आसपास के क्षेत्र से कहीं आगे तक फैल जाती है।",
+     "लोग गीतों और अनुष्ठानिक प्रस्तुतियों के ज़रिए उसका सम्मान करने लगते हैं और उसके साहस तथा उसके कारनामों की असाधारणता का उत्सव मनाते हैं। पीढ़ियों के क्रम में सलहेस मिथिला की सांस्कृतिक स्मृति में एक चिरस्थायी व्यक्तित्व बन जाता है।",
+     "उसकी कथा किसी एक स्थिर लिखित रूप में सुरक्षित नहीं है। इसके बजाय वह मौखिक प्रस्तुतियों, भक्तिपरक रीतियों और पारंपरिक कला के माध्यम से जीवित रहती है।",
+     "सामुदायिक अनुष्ठानों के दौरान भगत, अर्थात अनुष्ठान का अगुआ, समारोह का संचालन करता है, जबकि मनरिया कलाकार संगीत, गति और नाटकीय प्रस्तुति के माध्यम से सलहेस-परंपरा के प्रसंगों का मंचन करते हैं।",
+     "पकी मिट्टी के, अर्थात टेराकोटा के, घुड़सवार भी अनुष्ठान की भेंटों से जुड़े हुए हैं। ये आकृतियाँ मात्र सजावट नहीं हैं। ये उस परंपरा की भौतिक अभिव्यक्ति का अंग हैं जिसके सहारे समुदाय सलहेस को स्मरण करता और सम्मान देता है।",
+     "पीढ़ियों से यह नायक सामूहिक पहचान, भक्ति और सांस्कृतिक निरंतरता का एक महत्वपूर्ण प्रतीक बना हुआ है।",
+     "सीख: किसी समुदाय के नायक उन कथाओं, गीतों और परंपराओं के सहारे जीवित रहते हैं जिन्हें लोग पीढ़ी-दर-पीढ़ी सहेजते और बाँटते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "remarkable",
+     "en": "very unusual and worth noticing",
+     "hi": "असाधारण, अनोखा"
+    },
+    {
+     "w": "celebrated",
+     "en": "famous and widely praised",
+     "hi": "विख्यात, प्रसिद्ध"
+    },
+    {
+     "w": "justice",
+     "en": "fairness; right treatment of people",
+     "hi": "न्याय"
+    },
+    {
+     "w": "intertwined",
+     "en": "closely twisted or joined together",
+     "hi": "गुँथा हुआ, आपस में जुड़ा"
+    },
+    {
+     "w": "intervention",
+     "en": "stepping in to affect what happens",
+     "hi": "हस्तक्षेप"
+    },
+    {
+     "w": "alliances",
+     "en": "close bonds or partnerships between families or groups",
+     "hi": "संबंध, गठबंधन"
+    },
+    {
+     "w": "enduring",
+     "en": "lasting for a very long time",
+     "hi": "चिरस्थायी"
+    },
+    {
+     "w": "oral",
+     "en": "spoken, not written down",
+     "hi": "मौखिक"
+    },
+    {
+     "w": "devotional",
+     "en": "connected with deep religious love and worship",
+     "hi": "भक्तिपरक"
+    },
+    {
+     "w": "observances",
+     "en": "ceremonies or acts that mark a belief or tradition",
+     "hi": "अनुष्ठान, रीतियाँ"
+    },
+    {
+     "w": "terracotta",
+     "en": "baked clay, often brown-red, used for figures and pots",
+     "hi": "टेराकोटा, पकी मिट्टी"
+    },
+    {
+     "w": "continuity",
+     "en": "going on without a break over time",
+     "hi": "निरंतरता"
+    }
+   ],
+   "questions": [
+    {
+     "k": "An ethical question",
+     "q": "When people outside a community collect and retell its hero’s story, what responsibilities do they have towards that community and its versions of the story?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Many histories record kings and written documents. What does it mean that Salhesh lives mainly through oral performance, devotion and art? What might a single written version leave out?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "The retelling says different traditions preserved different episodes. Why might it be honest, and even valuable, to admit gaps and differences instead of one fixed story?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says a community’s heroes live on through what people preserve and share. Who does the preserving in this story, and how?"
+    },
+    {
+     "k": "Today",
+     "q": "Which heroes or stories does your community remember through songs, art, festivals or media today? How can traditions stay alive without being frozen in place?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10,
+   11
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Salhesh, hero of Mithila",
+   "th": "मिथिला का वीर सलहेस",
+   "p": "A warm, storybook-style scene in the village countryside of Mithila: ponds, mango trees and thatched mud-walled homes. In the middle, Salhesh, shown as a tall, dignified hero with a moustache, white dhoti and a simple turban, stands calmly with open hands in front of a group of villagers who look up at him with trust. Soft golden light, respectful, protective mood. No weapons drawn."
+  },
+  {
+   "t": "Stories in songs and gatherings",
+   "th": "गीतों और सभाओं में कथा",
+   "p": "Evening gathering in a village courtyard lit by oil lamps. A storyteller sings and gestures while elders, women and children sit on mats and listen. Behind them softly glowing, dreamlike images float in the air: a goddess figure (Durga) with a gentle expression and two sisters in simple garlands, drawn lightly like memories, not as a fixed scene. Cozy, shared mood."
+  },
+  {
+   "t": "Honoured in song and ritual",
+   "th": "गीत और अनुष्ठान में सम्मान",
+   "p": "Villagers of all ages sing and dance in a joyful ritual procession through a village lane, carrying marigold garlands and lamps, with clay-walled houses decorated for the occasion. In the distance, the countryside of Mithila stretches out, suggesting his fame spreading far. Celebration, warm sunset colours."
+  },
+  {
+   "t": "The Bhagat and Manaria performers",
+   "th": "भगत और मनरिया कलाकार",
+   "p": "A community ceremony in an open courtyard: a Bhagat (ritual leader, an older man in white clothes with a garland) guides the ritual beside a small shrine, while Manaria performers sing, play drums and move in expressive dance. Villagers watch and join in. Lamps, flowers, rhythmic movement, respectful mood."
+  },
+  {
+   "t": "Terracotta horse-riders",
+   "th": "टेराकोटा के घुड़सवार",
+   "p": "Close-up of a village shrine area with a row of handmade terracotta horse-riders in reddish-brown clay, each horse with raised front legs and a small rider, arranged as ritual offerings among flowers and lamps. A girl and her grandfather look at them with quiet pride. Warm earthy colours, calm, reverent mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Mithila (Madhubani district), Bihar",
+  "verified": true,
+  "tradition": "Godna (Salhesh) painting of Mithila, and Mithila terracotta horse-rider offerings",
+  "note": "Sahapedia identifies Raja Salhesh as the chief deity of the Dusadh community and the central figure of Godna (also called Salhesh) painting, practised by Dusadh women, especially in Jitwarpur village (Madhubani district). The paintings show figures and motifs in sequences decorated with trees and animals. The Bihar Museum describes terracotta horse-mounted figures (ghoda-kalash) at village shrines. We have not verified a specific colour palette, so the illustration prompts use a neutral, warm storybook style with these motifs as gentle inspiration. No single canonical image of Salhesh was verified.",
+  "characters": [
+   {
+    "name": "Salhesh",
+    "look": "Tall, dignified hero with a moustache, white dhoti and a simple turban; calm, protective expression. Shown without weapons."
+   },
+   {
+    "name": "Bhagat",
+    "look": "Older man in white clothes with a flower garland, ritual leader."
+   },
+   {
+    "name": "Manaria performers",
+    "look": "Singers, drummers and dancers in simple bright village clothes."
+   },
+   {
+    "name": "Villagers",
+    "look": "Mixed ages in everyday cotton clothes, marigold garlands at gatherings."
+   }
+  ],
+  "sources": [
+   [
+    "Sahapedia: Raja Salhesh in Painting and Sculpture",
+    "https://www.sahapedia.org/raja-salhesh-painting-and-sculpture"
+   ],
+   [
+    "Bihar Museum: King Sahlesh's Story (Terracotta)",
+    "https://www.biharmuseum.org/king-sahlesh's-story-terracotta/"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are a child at a Salhesh gathering. You hear the Bhagat’s voice, the drums of the Manaria performers, and see the clay horse-riders. What do you hear, see and feel? What would you like to ask an elder?",
+ "create": "Make a small horse-rider out of clay or paper to honour a hero from your own community, and write two lines about why this hero is remembered. Or write a short song that could be passed down through generations.",
+ "about": {
+  "where": "Salhesh is remembered in Mithila, which includes parts of northern Bihar and the Bihar–Nepal borderlands. Shrines and paintings linked to him are found in places such as Madhubani district.",
+  "community": "Salhesh is a deity-hero tradition of the Dusadh community of Mithila. Sahapedia calls Raja Salhesh the chief deity of the Dusadh community, and Dusadh women (especially in Jitwarpur village) are known for painting in the Godna style that shows him. The Dusadh community is the keeper of this tradition; we tell it with respect, as theirs.",
+  "tradition": "The supplied text describes a Bhagat, or ritual leader, guiding the ceremony while Manaria performers act out parts of the story through music and movement. The Bihar Museum describes terracotta horse-mounted figures at village shrines, and local lore says these horsemen guard the village at night. Salhesh is also shown in Godna painting and clay sculpture.",
+  "shared": "The story is not kept in one fixed book. It is shared through songs, performances, village gatherings, rituals, paintings and clay figures, and storytellers keep different episodes, so tellings differ.",
+  "matters": "Salhesh’s story shows how a community keeps its own hero alive through its own songs, art and ceremonies. This is one version from one source, built only on what is documented; it is not the only telling, and it does not give a full list of Salhesh’s adventures.",
+  "links": [
+   [
+    "Sahapedia: Raja Salhesh in Painting and Sculpture",
+    "https://www.sahapedia.org/raja-salhesh-painting-and-sculpture"
+   ],
+   [
+    "Bihar Museum: King Sahlesh's Story (Terracotta)",
+    "https://www.biharmuseum.org/king-sahlesh's-story-terracotta/"
+   ],
+   [
+    "Sahapedia: Raja Salhesh Shrines in Bihar",
+    "https://www.sahapedia.org/raja-salhesh-shrines-bihar"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (per repository)",
+   "v": "Deity-hero tradition associated with the Dusadh community of Mithila, including the Bihar-Nepal borderlands. A specific collected version is attributed to Sunil Kumar, and includes the intervention of Durga and encounters with the Malin sisters. References listed: Salhesh, Folklore and Tradition; Centre for Contemporary Folklore, Bibliography.",
+   "s": "ok"
+  },
+  {
+   "l": "Repository text",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Art and ritual context",
+   "v": "Sahapedia, Raja Salhesh in Painting and Sculpture; Bihar Museum, King Sahlesh's Story (Terracotta)",
+   "url": "https://www.sahapedia.org/raja-salhesh-painting-and-sculpture",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Community review: this is a living deity-hero tradition of the Dusadh community; ideally a community member or specialist should read the framing and the Hindi before launch.",
+  "Title/intro mismatch: the repository introduction calls it Salhesh, the King of the Forests, while the story title is Salhesh, The Hero of Mithila; confirm the preferred title.",
+  "Malin: the supplied text says the Malin sisters; Sahapedia lists Malin as one of Salhesh's consorts, and the Bihar Museum names Princesses Reshma and Kusuma in a shrine ensemble. These could not be reconciled.",
+  "Manaria, Bhagat and the role of Durga are given only by the repository text; we could not confirm them in the sources we read. Hindi spelling of Manaria (मनरिया) is a guess.",
+  "Very little plot: the retelling is deliberately thin, so younger levels have little narrative; consider adding a documented episode with a proper source.",
+  "Caste/community framing: check the wording about the Dusadh community (and any term used for it, such as Dalit or Paswan) with a community-aware reviewer.",
+  "Sunil Kumar's collected version could not be located; confirm the citation.",
+  "Hindi not reviewed by a fluent reader; the Level 3 Hindi is deliberately formal.",
+  "Level 2 English is close to Level 3 in sentence length (about 16 words per sentence); consider shortening Level 2 further."
+ ]
+}

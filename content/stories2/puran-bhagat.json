@@ -1,0 +1,246 @@
+{
+ "id": "puran-bhagat",
+ "state": "pb",
+ "title": "Puran Bhagat — The Prince Who Chose Forgiveness",
+ "titleHi": "पूरन और ज्ञानी योगी",
+ "genre": "Folk legend (qissa)",
+ "levelTitles": {
+  "1": {
+   "en": "Puran and the Wise Yogi",
+   "hi": "पूरन और ज्ञानी योगी"
+  },
+  "2": {
+   "en": "The Journey of Puran Bhagat",
+   "hi": "पूरन भगत की यात्रा"
+  },
+  "3": {
+   "en": "Puran Bhagat: The Strength to Remain Unbroken",
+   "hi": "पूरन भगत: टूटकर भी न बिखरने की शक्ति"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the kingdom of Sialkot, there lived a prince named Puran. His mother, Queen Ichhran, loved him very much.",
+     "Puran grew up to be a kind and thoughtful young man. He respected everyone and believed in doing what was right.",
+     "After some years, his father, King Salwan, married another queen named Luna. One day, Luna asked Puran to do something that he knew was wrong. Puran politely refused.",
+     "Luna became angry and told the king a false story about his son. King Salwan believed her without listening to Puran. In his anger, he ordered that Puran be taken away from the palace and punished.",
+     "Puran was thrown into a deep well. He was frightened and hurt, but he did not give up hope.",
+     "After some time, a wise yogi named Gorakhnath came near the well. He heard Puran's voice and rescued him. The yogi helped him recover and taught him how to live a life of prayer and wisdom.",
+     "Puran decided not to return to the palace. He wanted to spend his life learning, helping others and finding peace.",
+     "Years later, people came to him seeking his blessings. Even the king and queen came to meet him.",
+     "Puran did not take revenge. He chose to forgive and help them.",
+     "People remembered him as Puran Bhagat, a man who remained true to himself even when life treated him unfairly."
+    ],
+    "hi": [
+     "बहुत समय पहले सियालकोट राज्य में पूरन नाम का एक राजकुमार रहता था। उसकी माँ रानी इच्छरन उससे बहुत प्रेम करती थीं।",
+     "पूरन बड़ा होकर एक दयालु और समझदार युवक बना। वह सभी का सम्मान करता था और हमेशा सही काम करने में विश्वास रखता था।",
+     "कुछ वर्ष बाद उसके पिता राजा सलवान ने लूना नाम की एक दूसरी रानी से विवाह किया। एक दिन लूना ने पूरन से ऐसा काम करने को कहा, जिसे वह गलत मानता था। पूरन ने विनम्रता से मना कर दिया।",
+     "लूना नाराज़ हो गई और उसने राजा को अपने बेटे के बारे में झूठी बात बता दी। राजा सलवान ने पूरन की बात सुने बिना ही उस पर विश्वास कर लिया। क्रोध में आकर उन्होंने पूरन को महल से दूर ले जाने और दंड देने का आदेश दिया।",
+     "पूरन को एक गहरे कुएँ में डाल दिया गया। वह डरा हुआ और दुखी था, लेकिन उसने उम्मीद नहीं छोड़ी।",
+     "कुछ समय बाद गोरखनाथ नाम के एक ज्ञानी योगी उस कुएँ के पास से गुज़रे। उन्होंने पूरन की आवाज़ सुनी और उसे बाहर निकाला। योगी ने उसकी देखभाल की और उसे प्रार्थना, धैर्य और ज्ञान का मार्ग सिखाया।",
+     "पूरन ने महल वापस न लौटने का निर्णय लिया। वह अपना जीवन सीखने, दूसरों की सहायता करने और मन की शांति पाने में बिताना चाहता था।",
+     "कई वर्ष बाद लोग उससे आशीर्वाद लेने आने लगे। राजा और रानी भी उससे मिलने आए।",
+     "पूरन ने बदला नहीं लिया। उसने उन्हें क्षमा करना और उनकी सहायता करना चुना।",
+     "लोग उसे पूरन भगत के नाम से याद करने लगे—एक ऐसे व्यक्ति के रूप में, जिसने अन्याय सहने के बाद भी अपने मूल्यों का साथ नहीं छोड़ा।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Puran was the beloved son of Raja Salwan of Sialkot and his first queen, Ichhran. From childhood, he was known for his gentle nature and thoughtful ways.",
+     "As Puran grew older, the king married a second queen, Luna. She was much younger than the king, and the new arrangement brought unhappiness into the palace. One day, Luna approached Puran in a way that made him uncomfortable. He refused her advances, believing that he must remain loyal to his principles and to his family.",
+     "Luna was furious. Rather than accept his refusal, she accused him of wrongdoing. The king believed her accusation and, without giving Puran a fair chance to explain himself, ordered him to be punished.",
+     "Puran was taken away from the palace and thrown into a well. He had been betrayed by the very people who should have protected him. Yet he held on to his faith and his sense of right and wrong.",
+     "One day, the yogi Gorakhnath passed by the well. Hearing a faint voice, he looked inside and discovered Puran. He rescued the young prince and helped him recover.",
+     "Puran remained with Gorakhnath and began a new life as a spiritual seeker. He learned to live simply, to control his anger and to understand the world beyond wealth and royal power.",
+     "In time, Puran became known as Puran Bhagat. His reputation for wisdom spread far beyond the palace.",
+     "The king and Luna eventually came to meet him. Puran had every reason to be angry, but he did not choose revenge. Instead, he offered forgiveness and blessings.",
+     "The legend is remembered for Puran's resilience and spiritual strength. It also raises difficult questions about justice, trust and the consequences of believing an accusation without hearing both sides."
+    ],
+    "hi": [
+     "पूरन सियालकोट के राजा सलवान और उनकी पहली रानी इच्छरन के प्रिय पुत्र थे। बचपन से ही वे अपने शांत स्वभाव और समझदारी के लिए जाने जाते थे।",
+     "जब पूरन बड़े हुए, तो राजा ने लूना नाम की एक दूसरी रानी से विवाह किया। लूना राजा से उम्र में बहुत छोटी थीं और इस नए रिश्ते के कारण महल में कई तरह की परेशानियाँ पैदा हुईं। एक दिन लूना ने पूरन के सामने ऐसी इच्छा रखी, जिससे वे असहज हो गए। पूरन ने मना कर दिया, क्योंकि वे अपने सिद्धांतों और परिवार के प्रति निष्ठावान रहना चाहते थे।",
+     "लूना क्रोधित हो गईं। पूरन के इनकार को स्वीकार करने के बजाय उन्होंने उन पर गलत आरोप लगा दिया। राजा ने उनकी बात पर विश्वास कर लिया और पूरन को अपनी सफ़ाई देने का उचित अवसर दिए बिना दंड देने का आदेश दे दिया।",
+     "पूरन को महल से दूर ले जाकर एक कुएँ में डाल दिया गया। जिन लोगों को उनकी रक्षा करनी चाहिए थी, उन्हीं ने उनके साथ विश्वासघात किया था। फिर भी उन्होंने अपने विश्वास और सही-गलत की समझ को नहीं छोड़ा।",
+     "एक दिन गोरखनाथ नाम के योगी उस कुएँ के पास से गुज़रे। उन्हें धीमी आवाज़ सुनाई दी। उन्होंने कुएँ में झाँका और पूरन को देखा। उन्होंने राजकुमार को बाहर निकाला और उनकी देखभाल की।",
+     "पूरन गोरखनाथ के साथ रहने लगे और उन्होंने आध्यात्मिक जीवन अपनाया। उन्होंने सादगी से जीना, क्रोध पर नियंत्रण रखना और धन तथा राजशक्ति से परे जीवन का अर्थ समझना सीखा।",
+     "समय के साथ पूरन भगत के नाम से उनकी ख्याति दूर-दूर तक फैल गई।",
+     "आखिरकार राजा और लूना उनसे मिलने आए। पूरन के पास क्रोधित होने के अनेक कारण थे, लेकिन उन्होंने बदला लेने का रास्ता नहीं चुना। उन्होंने उन्हें क्षमा किया और आशीर्वाद दिया।",
+     "यह लोककथा पूरन की सहनशीलता और आध्यात्मिक शक्ति के लिए याद की जाती है। साथ ही यह न्याय, विश्वास और किसी एक पक्ष की बात सुनकर निर्णय लेने के परिणामों पर भी कठिन सवाल उठाती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The legend of Puran Bhagat begins in the court of Raja Salwan of Sialkot. Puran is the son of the king's first queen, Ichhran, and grows up to be a young man admired for his character and spiritual inclination.",
+     "The king later marries Luna, a much younger woman. The traditional account describes a conflict that begins when Luna approaches Puran with an improper desire. Puran refuses, unwilling to violate his principles. Luna responds by making a false accusation against him.",
+     "King Salwan accepts her account without properly hearing his son's defence. In a moment of anger and misplaced trust, he orders Puran to be brutally punished. The young prince is cast into a well and left for dead.",
+     "The well becomes the turning point of Puran's life. He is discovered by Gorakhnath, the renowned yogi, who rescues him and helps him recover. Under the yogi's guidance, Puran turns away from the privileges and expectations of royal life. He becomes a spiritual seeker, devoting himself to discipline, reflection and a life beyond material power.",
+     "His transformation gives rise to the name by which he is remembered: Puran Bhagat. The word bhagat evokes a devotee or spiritually devoted person.",
+     "Eventually, the people who had wronged him come seeking him. The king and Luna approach him in the hope of receiving his blessing. Puran does not respond with the revenge that might have been expected. Instead, he chooses forgiveness.",
+     "The story has been retold in different forms, and its moral complexity deserves attention. Puran's refusal to compromise his values and his survival after injustice are central to the legend. But Luna's character has also been re-examined by later writers. In Loona, Shiv Kumar Batalvi retells the narrative from her perspective, questioning the social conditions that shaped her life.",
+     "For a children's collection, Puran's story can introduce questions of integrity, fairness and resilience. For older readers, it can open a more complex conversation about power, gender, reputation and the danger of denying someone the chance to speak for themselves."
+    ],
+    "hi": [
+     "पूरन भगत की लोककथा सियालकोट के राजा सलवान के दरबार से शुरू होती है। पूरन राजा की पहली रानी इच्छरन के पुत्र थे। बड़े होकर वे अपने चरित्र और आध्यात्मिक स्वभाव के लिए सम्मानित होने लगे।",
+     "बाद में राजा ने लूना नाम की एक बहुत कम उम्र की स्त्री से विवाह किया। पारंपरिक कथा के अनुसार, संघर्ष तब शुरू होता है जब लूना पूरन के सामने अनुचित इच्छा रखती हैं। पूरन अपने सिद्धांतों से समझौता करने से इनकार कर देते हैं। इसके उत्तर में लूना उन पर झूठा आरोप लगा देती हैं।",
+     "राजा सलवान अपने बेटे की सफ़ाई ठीक से सुने बिना ही लूना की बात स्वीकार कर लेते हैं। क्रोध और गलत विश्वास के कारण वे पूरन को कठोर दंड देने का आदेश देते हैं। युवा राजकुमार को एक कुएँ में डाल दिया जाता है और मृत समझकर छोड़ दिया जाता है।",
+     "यह कुआँ पूरन के जीवन का निर्णायक मोड़ बन जाता है। गोरखनाथ नाम के प्रसिद्ध योगी उन्हें खोजकर बाहर निकालते हैं और स्वस्थ होने में मदद करते हैं। योगी के मार्गदर्शन में पूरन राजसी जीवन के विशेषाधिकारों और अपेक्षाओं से दूर हो जाते हैं। वे आध्यात्मिक साधक बनते हैं और अनुशासन, आत्मचिंतन तथा भौतिक शक्ति से परे जीवन के अर्थ को समझने में अपना समय लगाते हैं।",
+     "उनके इस परिवर्तन के बाद उन्हें पूरन भगत के नाम से याद किया जाने लगा। 'भगत' शब्द भक्ति और आध्यात्मिक समर्पण का भाव व्यक्त करता है।",
+     "समय बीतने पर वे लोग, जिन्होंने उनके साथ अन्याय किया था, उनसे मिलने आते हैं। राजा और लूना उनसे आशीर्वाद लेने पहुँचते हैं। पूरन बदले का रास्ता नहीं चुनते, जिसकी उनसे अपेक्षा की जा सकती थी। इसके बजाय वे क्षमा करना चुनते हैं।",
+     "इस कहानी के अनेक रूप प्रचलित हैं और इसकी नैतिक जटिलता को समझना आवश्यक है। पूरन का अपने मूल्यों से समझौता न करना और अन्याय के बाद भी जीवित रहना इस कथा के मुख्य तत्व हैं। लेकिन बाद के लेखकों ने लूना के चरित्र पर भी नए सिरे से विचार किया है। शिव कुमार बटालवी की रचना लूणा इस कथा को लूना के दृष्टिकोण से प्रस्तुत करती है और उन सामाजिक परिस्थितियों पर प्रश्न उठाती है जिन्होंने उनका जीवन गढ़ा।",
+     "बच्चों के संग्रह में पूरन की कहानी ईमानदारी, न्याय और कठिन परिस्थितियों में हिम्मत बनाए रखने जैसे विषयों से परिचित करा सकती है। बड़े पाठकों के लिए यह सत्ता, लैंगिक संबंधों, प्रतिष्ठा और किसी व्यक्ति को अपनी बात कहने का अवसर न देने के खतरों पर अधिक गहरी चर्चा का आधार बन सकती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Sialkot, Punjab region",
+  "community": "Punjabi",
+  "tradition": "Spiritual and heroic legend (qissa)."
+ },
+ "sources": [
+  {
+   "l": "Sources",
+   "v": "Puran Bhagat is a major Punjabi qissa; its best-known poetic version was composed by the nineteenth-century poet Qadir Yar. This is a narrative retelling, not a translation of a single fixed text.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-118-011",
+ "meta": [
+  "Region: Sialkot, Punjab region · Genre: Spiritual and heroic legend / qissa · Themes: Integrity, injustice, resilience, forgiveness",
+  "About the story and its origins",
+  "Puran Bhagat is one of the major Punjabi qisse. The best-known poetic version was composed by the nineteenth-century Punjabi poet Qadir Yar. The story is set in the kingdom of Raja Salwan of Sialkot.",
+  "Puran is the son of Raja Salwan and his first queen, Ichhran. The king later marries Luna, a much younger woman. In the traditional narrative, Luna makes an improper approach towards Puran, who refuses her. She then accuses him, and the king orders a terrible punishment. Puran is cast into a well, where he is eventually found and rescued by the yogi Gorakhnath. He becomes a spiritual ascetic rather than returning to the palace to claim power.",
+  "PMML+2",
+  "Editorial caution: This story contains sexual coercion, a false accusation and mutilation in some versions. The adaptations below omit graphic detail and focus on Puran's refusal to betray his values, his survival and his eventual forgiveness. It is also important not to reduce Luna to a simple villain: later Punjabi literature, notably Shiv Kumar Batalvi's Loona, re-examines her position as a young woman married to an older king.",
+  "The Satth Project+1"
+ ]
+}

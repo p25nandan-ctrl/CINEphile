@@ -1,0 +1,485 @@
+{
+ "id": "bhimsen-and-fever",
+ "state": "ct",
+ "title": "Bhimsen and Fever",
+ "titleHi": "भीमसेन और बुखार",
+ "summary": "Proud, mighty Bhimsen challenges a stranger called Fever to a wrestling match. When his family helps him test a clever plan, he learns that some opponents cannot be beaten by strength alone.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Folktale, Chhattisgarh (from Twente, Folk Tales of Chhattisgarh India)",
+ "origLevel": 2,
+ "levelReason": "The supplied text uses mostly plain, concrete wording with some less common words (encountered, astonishment, withstand, recognising). Sentences average about 10 words, joined with simple connectors, and the ending states the lesson directly. That is too rich for Level 1 but not as layered or atmospheric as Level 3, so it matches Level 2.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, Bhimsen was hurrying home through a forest. People also called him Baiha Bajrangi.",
+     "He walked along the jungle path. A strange man came toward him from the other side.",
+     "“Who are you?” asked Bhimsen. “I am Fever,” said the stranger.",
+     "Bhimsen was very strong. He was never afraid. He thought nobody could beat him. “Do you want to wrestle with me?” he asked.",
+     "Fever said yes. “Why not, Bhimsen?” he said. “Then let us start!” said Bhimsen.",
+     "But Fever had an idea. “Let us meet here again after eight days.” Bhimsen agreed. Then they went their own ways.",
+     "Bhimsen reached home. He told his family about the wrestling match. They were scared. “You cannot beat Fever!” they said.",
+     "Bhimsen was surprised. “Then what should I do?” he asked.",
+     "His family thought hard. Then they shared a clever plan. “On that day, make a stone statue of yourself. Put it at the meeting place. Hide close by and watch.”",
+     "Bhimsen did as they said. After eight days, he put a stone statue of himself at the spot. Then he hid nearby.",
+     "Soon Fever came. He saw the stone statue. He went right inside it. The statue broke into tiny bits, like sand!",
+     "Bhimsen was amazed. Fever was stronger than any muscle. Even hard stone could not stand against him.",
+     "From that day, Bhimsen never challenged Fever again. He learned something important. Strength and courage cannot beat every enemy. Wise people know where their power ends.",
+     "Moral: Think before you take on a challenge. Strength alone cannot solve every problem."
+    ],
+    "hi": [
+     "बहुत समय पहले की बात है। भीमसेन जंगल से होकर जल्दी-जल्दी घर जा रहा था। लोग उसे बैहा बजरंगी भी कहते थे।",
+     "वह जंगल की पगडंडी पर चल रहा था। तभी सामने से एक अजीब आदमी आया।",
+     "“तुम कौन हो?” भीमसेन ने पूछा। “मैं बुखार हूँ,” अजनबी ने कहा।",
+     "भीमसेन बहुत ताकतवर था। उसे किसी से डर नहीं लगता था। वह सोचता था कि उसे कोई हरा नहीं सकता। उसने कहा, “क्या तुम मुझसे कुश्ती लड़ोगे?”",
+     "बुखार मान गया। “क्यों नहीं, भीमसेन?” उसने कहा। “तो चलो, शुरू करें!” भीमसेन बोला।",
+     "पर बुखार ने कहा, “आठ दिन बाद हम यहीं फिर मिलेंगे।” भीमसेन मान गया। फिर दोनों अपने-अपने रास्ते चले गए।",
+     "भीमसेन घर पहुँचा। उसने परिवार को कुश्ती के बारे में बताया। वे घबरा गए। “तुम बुखार को नहीं हरा सकते!” उन्होंने कहा।",
+     "भीमसेन हैरान हो गया। उसने पूछा, “तो मैं क्या करूँ?”",
+     "परिवार ने खूब सोचा। फिर उन्होंने एक चतुर उपाय बताया। “उस दिन अपनी एक पत्थर की मूर्ति बनाओ। उसे मिलने की जगह पर रख दो। पास में छिप जाओ और देखो।”",
+     "भीमसेन ने वैसा ही किया। आठ दिन बाद उसने अपनी पत्थर की मूर्ति उस जगह रखी। फिर वह पास में छिप गया।",
+     "जल्दी ही बुखार आ गया। उसने पत्थर की मूर्ति देखी। वह उसके अंदर घुस गया। मूर्ति टूटकर रेत की तरह छोटे-छोटे टुकड़े हो गई!",
+     "भीमसेन दंग रह गया। बुखार की ताकत किसी भी पहलवानी से बड़ी थी। ठोस पत्थर भी उसके सामने नहीं टिक सका।",
+     "उस दिन के बाद भीमसेन ने बुखार को फिर कभी चुनौती नहीं दी। उसने एक ज़रूरी बात सीखी। ताकत और हिम्मत से हर दुश्मन नहीं हारता। समझदार लोग जानते हैं कि उनकी ताकत की हद कहाँ तक है।",
+     "सीख: किसी चुनौती को लेने से पहले सोचो। अकेली ताकत हर मुश्किल को हल नहीं कर सकती।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "hurrying",
+     "en": "going very fast because you are in a rush",
+     "hi": "जल्दी-जल्दी जाना"
+    },
+    {
+     "w": "strange",
+     "en": "unusual; not known to you",
+     "hi": "अजीब"
+    },
+    {
+     "w": "wrestle",
+     "en": "to fight by grabbing and pushing, as a sport",
+     "hi": "कुश्ती लड़ना"
+    },
+    {
+     "w": "scared",
+     "en": "afraid",
+     "hi": "डरा हुआ"
+    },
+    {
+     "w": "clever",
+     "en": "smart; good at thinking of ideas",
+     "hi": "चतुर"
+    },
+    {
+     "w": "statue",
+     "en": "a figure made of stone or metal",
+     "hi": "मूर्ति"
+    },
+    {
+     "w": "hid",
+     "en": "went where nobody could see him",
+     "hi": "छिप गया"
+    },
+    {
+     "w": "amazed",
+     "en": "very surprised",
+     "hi": "दंग"
+    },
+    {
+     "w": "courage",
+     "en": "being brave when something is scary",
+     "hi": "हिम्मत"
+    },
+    {
+     "w": "challenged",
+     "en": "asked someone to compete or fight",
+     "hi": "चुनौती दी"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and where",
+     "q": "Who did Bhimsen meet on the jungle path, and what did the stranger say his name was?"
+    },
+    {
+     "k": "Events",
+     "q": "What did Bhimsen's family tell him to make and where did they tell him to put it?"
+    },
+    {
+     "k": "What happened",
+     "q": "What happened to the stone statue when Fever came to it?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think Bhimsen felt when he hid and watched Fever? Why?"
+    },
+    {
+     "k": "Your life",
+     "q": "Have you ever tried something and then found it was harder than you thought? What did you do next?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, Bhimsen, also known as Baiha Bajrangi, was hurrying home through a forest.",
+     "As he walked along the jungle path, he encountered a strange man approaching from the opposite direction.",
+     "“Who are you?” Bhimsen asked. “I am Fever,” replied the stranger.",
+     "Bhimsen was a powerful and fearless man. He believed that there was no opponent he could not defeat. Looking at the stranger, he confidently challenged him. “Would you like to wrestle with me?”",
+     "Fever accepted the challenge. “Why should I not wrestle with you, Bhimsen?” he replied. “Then let us begin!” said Bhimsen.",
+     "But Fever suggested that they meet again after eight days at the same spot. Bhimsen agreed, and the two went their separate ways.",
+     "When Bhimsen reached home, he proudly told his family about the wrestling match he had arranged. His family members were alarmed. “You cannot defeat Fever,” they warned him.",
+     "Bhimsen was surprised. “What should I do, then?” he asked.",
+     "His family thought carefully and suggested a clever plan. “On the appointed day, make a stone statue of yourself and place it at the meeting spot. Hide nearby and watch what happens.”",
+     "Bhimsen followed their advice. Eight days later, he placed a stone image of himself at the agreed location and hid nearby.",
+     "Soon, Fever arrived. Seeing the stone figure, Fever approached it and entered the image. At once, the statue shattered into tiny pieces, crumbling like sand.",
+     "Bhimsen watched in astonishment. He realised that Fever possessed a power far greater than physical strength. Even a solid stone statue could not withstand it.",
+     "From that day onwards, Bhimsen decided never to challenge Fever again. He understood that not every opponent could be defeated through strength and courage. Sometimes, wisdom meant recognising the limits of one's own power.",
+     "Moral: Think carefully before taking on a challenge. Strength alone cannot overcome every difficulty."
+    ],
+    "hi": [
+     "बहुत समय पहले की बात है। भीमसेन, जिसे बैहा बजरंगी भी कहा जाता था, जंगल से होकर अपने घर की ओर तेज़ी से जा रहा था।",
+     "जब वह जंगल की पगडंडी पर चल रहा था, तो उसे सामने से आता हुआ एक अजीब आदमी मिला।",
+     "“तुम कौन हो?” भीमसेन ने पूछा। “मैं बुखार हूँ,” उस अजनबी ने जवाब दिया।",
+     "भीमसेन बहुत ताकतवर और निडर था। उसे विश्वास था कि दुनिया में ऐसा कोई प्रतिद्वंद्वी नहीं जिसे वह हरा न सके। अजनबी को देखकर उसने पूरे भरोसे के साथ ललकारा, “क्या तुम मुझसे कुश्ती लड़ना चाहोगे?”",
+     "बुखार ने चुनौती मान ली। “भीमसेन, मैं तुमसे कुश्ती क्यों न लड़ूँ?” उसने कहा। “तो फिर शुरू करते हैं!” भीमसेन बोला।",
+     "लेकिन बुखार ने सुझाव दिया कि वे आठ दिन बाद इसी जगह फिर मिलें। भीमसेन मान गया और दोनों अपने-अपने रास्ते चले गए।",
+     "घर पहुँचकर भीमसेन ने बड़े गर्व से अपने परिवार को उस कुश्ती के बारे में बताया जो उसने तय की थी। परिवार के लोग घबरा गए। “तुम बुखार को नहीं हरा सकते,” उन्होंने उसे चेताया।",
+     "भीमसेन हैरान रह गया। “तो फिर मुझे क्या करना चाहिए?” उसने पूछा।",
+     "परिवार ने ध्यान से सोचा और एक चतुर उपाय सुझाया। “तय दिन पर अपनी एक पत्थर की मूर्ति बनाकर मिलने की जगह पर रख दो। पास में कहीं छिप जाओ और देखो कि क्या होता है।”",
+     "भीमसेन ने उनकी सलाह मानी। आठ दिन बाद उसने अपनी पत्थर की मूर्ति तय जगह पर रखी और पास में छिप गया।",
+     "जल्दी ही बुखार आ पहुँचा। पत्थर की आकृति को देखकर वह उसके पास गया और उसके अंदर समा गया। उसी क्षण मूर्ति चटककर छोटे-छोटे टुकड़ों में बिखर गई, मानो रेत हो।",
+     "भीमसेन आश्चर्य से देखता रह गया। वह समझ गया कि बुखार में शारीरिक ताकत से कहीं बड़ी शक्ति है। ठोस पत्थर की मूर्ति भी उसे सह नहीं पाई।",
+     "उस दिन के बाद भीमसेन ने तय किया कि वह बुखार को फिर कभी चुनौती नहीं देगा। वह समझ गया कि हर प्रतिद्वंद्वी को ताकत और साहस से नहीं हराया जा सकता। कभी-कभी समझदारी का मतलब अपनी शक्ति की सीमा को पहचानना होता है।",
+     "सीख: चुनौती स्वीकार करने से पहले ध्यान से सोचो। अकेली ताकत हर कठिनाई को पार नहीं कर सकती।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "encountered",
+     "en": "met, often by surprise",
+     "hi": "सामना हुआ, मिला"
+    },
+    {
+     "w": "fearless",
+     "en": "not afraid of anything",
+     "hi": "निडर"
+    },
+    {
+     "w": "opponent",
+     "en": "the person you compete or fight against",
+     "hi": "प्रतिद्वंद्वी"
+    },
+    {
+     "w": "alarmed",
+     "en": "suddenly worried or frightened",
+     "hi": "घबराए हुए"
+    },
+    {
+     "w": "appointed",
+     "en": "fixed or agreed on beforehand",
+     "hi": "तय किया हुआ"
+    },
+    {
+     "w": "shattered",
+     "en": "broke suddenly into many pieces",
+     "hi": "चकनाचूर हो गई"
+    },
+    {
+     "w": "crumbling",
+     "en": "breaking into small bits",
+     "hi": "भुरभुराकर गिरना"
+    },
+    {
+     "w": "astonishment",
+     "en": "great surprise",
+     "hi": "आश्चर्य"
+    },
+    {
+     "w": "withstand",
+     "en": "to stand strong against something",
+     "hi": "सह पाना, टिक पाना"
+    },
+    {
+     "w": "recognising",
+     "en": "knowing and accepting that something is true",
+     "hi": "पहचानना, मानना"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did Bhimsen challenge a stranger to wrestle? What did he believe about himself?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why did Bhimsen's family become alarmed when he told them about the match?"
+    },
+    {
+     "k": "Decision",
+     "q": "Bhimsen hid and watched instead of just trusting his family. What did that choice help him learn?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The story says Fever had a power greater than physical strength. What kind of power do you think that means?"
+    },
+    {
+     "k": "Consequence",
+     "q": "How did Bhimsen change after the statue crumbled? Do you think this made him weaker or wiser? Explain."
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, Bhimsen, whom people also called Baiha Bajrangi, was hurrying homeward through a deep forest, his heavy footsteps echoing along the path.",
+     "Somewhere along the winding jungle trail, he came face to face with a stranger walking toward him from the opposite direction, someone he had never seen before.",
+     "“Who are you?” Bhimsen demanded. “I am Fever,” the stranger answered calmly.",
+     "Bhimsen was a man of immense strength and no fear, convinced that no opponent existed whom he could not defeat. Studying the stranger with confidence, he issued a challenge: “Would you care to wrestle with me?”",
+     "Fever accepted without hesitation. “Why should I refuse to wrestle with you, Bhimsen?” he replied. “Then let the contest begin!” declared Bhimsen.",
+     "Yet Fever proposed that they meet again at the very same spot after eight days. Bhimsen consented, and the two parted, each going his own way.",
+     "Arriving home, Bhimsen proudly told his family about the match he had arranged, but their faces filled with alarm. “You cannot defeat Fever,” they warned him gravely.",
+     "Bhimsen was taken aback. “What am I to do, then?” he asked.",
+     "After thinking it over carefully, his family offered a clever plan. “On the appointed day, make a stone statue of yourself and place it at the meeting spot. Then hide close by and watch what happens.”",
+     "Bhimsen followed their advice. When the eighth day came, he placed a stone likeness of himself at the agreed place and concealed himself nearby, waiting.",
+     "Before long, Fever arrived. Seeing the stone figure, he walked up to it and entered the image. At that very instant, the statue burst apart and crumbled into tiny pieces, like sand.",
+     "Bhimsen watched in stunned astonishment. He understood that Fever held a power far beyond mere physical strength, one that even solid stone could not endure.",
+     "From that day on, Bhimsen resolved never to challenge Fever again. He had learned that not every opponent can be conquered by strength and courage, and that true wisdom sometimes lies in recognising the limits of one's own power.",
+     "Moral: Think carefully before taking on a challenge, for strength alone cannot overcome every difficulty."
+    ],
+    "hi": [
+     "बहुत पुरानी बात है। भीमसेन, जिसे लोग बैहा बजरंगी भी कहते थे, घने जंगल के बीच से घर की ओर बढ़ा चला जा रहा था, और उसके भारी कदमों की धमक पगडंडी पर गूँज रही थी।",
+     "जंगल की टेढ़ी-मेढ़ी राह पर कहीं आगे चलते हुए अचानक उसका सामना एक अनजान आदमी से हुआ, जो सामने से चला आ रहा था। उसे भीमसेन ने पहले कभी नहीं देखा था।",
+     "“कौन हो तुम?” भीमसेन ने रौब से पूछा। “मैं बुखार हूँ,” अजनबी ने शांत स्वर में उत्तर दिया।",
+     "भीमसेन में अपार बल था और किसी बात का डर नहीं था। उसे पक्का यक़ीन था कि ऐसा कोई प्रतिद्वंद्वी बना ही नहीं जिसे वह हरा न सके। अजनबी को भरोसे से परखते हुए उसने ललकारा, “क्या तुम मुझसे कुश्ती लड़ना पसंद करोगे?”",
+     "बुखार ने बिना झिझके चुनौती मान ली। “भीमसेन, मैं तुमसे कुश्ती लड़ने से इनकार क्यों करूँ?” उसने कहा। “तो फिर मुक़ाबला शुरू हो!” भीमसेन ने घोषणा की।",
+     "फिर भी बुखार ने प्रस्ताव रखा कि वे आठ दिन बाद ठीक इसी जगह दोबारा मिलें। भीमसेन राज़ी हो गया और दोनों अपनी-अपनी राह चल पड़े।",
+     "घर लौटकर भीमसेन ने बड़े गर्व से परिवार को उस कुश्ती के बारे में बताया जो उसने तय की थी, पर सबके चेहरे डर से भर उठे। “तुम बुखार को नहीं हरा सकते,” उन्होंने गंभीरता से उसे चेताया।",
+     "भीमसेन चकित रह गया। “तो फिर मैं क्या करूँ?” उसने पूछा।",
+     "परिवार ने बहुत सोच-विचार किया और एक चतुर उपाय सुझाया। “तय दिन पर अपनी एक पत्थर की मूर्ति बनाकर उसे मिलने की जगह पर रख दो। फिर पास में छिप जाओ और देखो कि क्या होता है।”",
+     "भीमसेन ने उनकी सलाह मान ली। आठवाँ दिन आया तो उसने अपनी पत्थर की प्रतिमा तय जगह पर रखी और पास में छिपकर इंतज़ार करने लगा।",
+     "कुछ ही देर में बुखार आ पहुँचा। पत्थर की आकृति को देखकर वह उसकी ओर बढ़ा और उसके भीतर समा गया। उसी क्षण मूर्ति चटककर बिखर गई और रेत की तरह नन्हे-नन्हे टुकड़ों में ढह गई।",
+     "भीमसेन स्तब्ध होकर आश्चर्य से देखता रह गया। उसे समझ आ गया कि बुखार के पास ऐसी शक्ति है जो केवल शारीरिक बल से कहीं आगे है, जिसे ठोस पत्थर भी नहीं सह सका।",
+     "उस दिन के बाद भीमसेन ने ठान लिया कि वह बुखार को फिर कभी चुनौती नहीं देगा। उसने जान लिया था कि हर प्रतिद्वंद्वी को ताकत और साहस से नहीं जीता जा सकता, और सच्ची समझदारी कभी-कभी अपनी शक्ति की सीमाओं को पहचानने में होती है।",
+     "सीख: किसी चुनौती को स्वीकार करने से पहले खूब सोच-विचार करो, क्योंकि अकेली ताकत हर कठिनाई पर विजय नहीं पा सकती।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "immense",
+     "en": "extremely large or great",
+     "hi": "अपार, बहुत बड़ा"
+    },
+    {
+     "w": "convinced",
+     "en": "completely sure about something",
+     "hi": "पक्का यक़ीन रखने वाला"
+    },
+    {
+     "w": "consented",
+     "en": "agreed to something",
+     "hi": "राज़ी हुआ"
+    },
+    {
+     "w": "alarm",
+     "en": "a sudden feeling of fear or worry",
+     "hi": "घबराहट, डर"
+    },
+    {
+     "w": "gravely",
+     "en": "in a very serious way",
+     "hi": "गंभीरता से"
+    },
+    {
+     "w": "likeness",
+     "en": "a copy that looks just like someone",
+     "hi": "प्रतिमा, हूबहू रूप"
+    },
+    {
+     "w": "concealed",
+     "en": "hid so as not to be seen",
+     "hi": "छिपाया"
+    },
+    {
+     "w": "endure",
+     "en": "to survive something hard without giving way",
+     "hi": "सह लेना"
+    },
+    {
+     "w": "resolved",
+     "en": "made a firm decision",
+     "hi": "दृढ़ निश्चय किया"
+    },
+    {
+     "w": "conquered",
+     "en": "defeated or overcome",
+     "hi": "जीता गया"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "Bhimsen challenged a stranger without knowing anything about him. Was this fair or wise? What should a person find out before accepting or giving a challenge?"
+    },
+    {
+     "k": "Another view",
+     "q": "Imagine how Bhimsen's family felt when he came home proud of the match. Why might they have chosen to give him a plan instead of simply forbidding him?"
+    },
+    {
+     "k": "Theme",
+     "q": "The story ends by saying wisdom can mean recognising the limits of one's power. Do you think accepting limits is a sign of weakness or of strength? Why?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "Fever is shown here as a character, someone who can walk, speak and make a plan. Why might a community tell a story that turns an illness into a person?"
+    },
+    {
+     "k": "Today",
+     "q": "What are some challenges today that cannot be solved by strength or confidence alone? How might people face them wisely?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12,
+   13
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Bhimsen meets a stranger",
+   "th": "भीमसेन की अजनबी से भेंट",
+   "p": "A forest path in Chhattisgarh in soft morning light, tall sal trees and dappled shade. Bhimsen, a tall, broad-shouldered man with dark skin, a topknot, a plain cotton dhoti and a heavy walking staff, stops on the path facing Fever, a thin pale stranger in a grey-green shawl with a faint shimmer of heat haze around him. They look at each other with curiosity. Mood: calm but a little mysterious. Storybook illustration, same character looks in every scene."
+  },
+  {
+   "t": "The wrestling challenge",
+   "th": "कुश्ती की चुनौती",
+   "p": "Bhimsen stands proudly with his chest out and one hand pointing, challenging Fever to wrestle. Fever, thin and pale in the grey-green shawl with a faint heat shimmer, calmly raises a hand to agree. Same forest path, sal trees, light filtering through leaves. Mood: confident and playful, no violence."
+  },
+  {
+   "t": "Bhimsen tells his family",
+   "th": "भीमसेन परिवार को बताता है",
+   "p": "A village home courtyard in Chhattisgarh with a mud-walled house, a tulsi plant and a clay pot. Bhimsen, tall with a topknot and cotton dhoti, speaks proudly while his mother, wife and younger brother, in simple cotton saris and dhotis, look worried and alarmed. Warm afternoon light. Mood: worry rising."
+  },
+  {
+   "t": "A clever plan",
+   "th": "एक चतुर उपाय",
+   "p": "Inside the courtyard, the family sits close to Bhimsen, thinking hard; the mother holds up a finger explaining the idea while Bhimsen listens surprised. A rough block of grey stone and a chisel lie nearby, hinting at a statue. Evening lamp light, warm colours. Mood: thoughtful, hopeful."
+  },
+  {
+   "t": "The stone statue crumbles",
+   "th": "पत्थर की मूर्ति बिखर गई",
+   "p": "At the meeting spot on the forest path, a life-sized grey stone statue of Bhimsen stands. Fever, thin and pale in the grey-green shawl, touches it and heat haze ripples, the statue cracking and crumbling into sand, shown in a gentle, non-scary way. Bhimsen peeks out from behind a large tree trunk, eyes wide. Mood: astonishing and quiet."
+  },
+  {
+   "t": "Bhimsen learns to be wise",
+   "th": "भीमसेन ने समझदारी सीखी",
+   "p": "Bhimsen sits on a rock beside a small heap of sand where the statue stood, hand on chin, thoughtful and humbled, the forest quiet around him with golden late-afternoon light. His walking staff rests beside him. Mood: calm, reflective, hopeful."
+  }
+ ],
+ "artStyle": {
+  "region": "Chhattisgarh, central India",
+  "verified": true,
+  "tradition": "Bastar tribal wall painting (Chhattisgarh)",
+  "note": "Bastar wall painting, made by communities such as the Gond, Halba and Bhatra, traditionally uses a limited palette of white lime, red ochre, charcoal black and yellow clay, with strongly outlined, flat figures and geometric borders, and Bhimadeo appears among its subjects. We could not confirm that this story belongs to those communities, so use this only as gentle inspiration for colour and line: warm earth tones, bold outlines, simple geometric borders. Do not label the images as Bastar art.",
+  "characters": [
+   {
+    "name": "Bhimsen",
+    "look": "Tall, broad-shouldered man with dark skin, short dark topknot, plain cotton dhoti, bare chest with a simple cloth over one shoulder, carries a heavy wooden walking staff."
+   },
+   {
+    "name": "Fever",
+    "look": "Thin, pale man in a long grey-green shawl, a faint shimmer of heat haze around him, calm face, no frightening features."
+   },
+   {
+    "name": "Bhimsen's family",
+    "look": "An older mother, a wife and a younger brother in simple cotton clothes of earthy red, ochre and white."
+   }
+  ],
+  "sources": [
+   [
+    "Bastar tribal painting (Rooftop art wiki)",
+    "https://rooftopapp.com/art-wiki/bastar-tribal-painting"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are hiding behind the tree and watching the stone statue crumble. What do you see, hear and feel? What would you say to Bhimsen when he comes out?",
+ "create": "Draw the meeting spot in the forest, or write a short new diary page from Bhimsen on the night after the statue crumbled, saying what he now knows.",
+ "about": {
+  "where": "Chhattisgarh is a state in central India, with many forests and many rivers. This story is listed as a folktale of Chhattisgarh, in a book of tales published in 1938.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. This is one version from one source, and other tellers may tell it differently.",
+  "tradition": "Bhimsen is the Chhattisgarhi form of the name of Bhima, the strong second brother of the Pandavas in the Mahabharata. In Chhattisgarh, the Mahabharata is also told through Pandavani, a folk singing style in which a singer tells an episode with a tambura and Bhima is often the hero.",
+  "shared": "Stories where a boaster learns his limits are found in many places. Here the lesson is a gentle one: even someone as strong as Bhima can learn to stop and think.",
+  "matters": "The story shows that wisdom and caution can matter as much as strength. It also shows that listening to family and testing a plan before acting can help.",
+  "links": [
+   [
+    "List of folktales of Chhattisgarh (Wikipedia)",
+    "https://en.wikipedia.org/wiki/List_of_folktales_of_Chhattisgarh"
+   ],
+   [
+    "Pandavani (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Pandavani"
+   ],
+   [
+    "Bastar tribal painting (Rooftop art wiki)",
+    "https://rooftopapp.com/art-wiki/bastar-tribal-painting"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Theophil H. Twente, Folk Tales of Chhattisgarh India (The Bodoni Press, North Tonawanda, NY, 1938), as named in the repository; the Centre for Contemporary Folklore (CCF) reproduces the short narrative.",
+   "url": "https://en.wikipedia.org/wiki/List_of_folktales_of_Chhattisgarh",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Repository text may be a retelling of Twente 1938, not his exact words; compare with the original book.",
+  "Licence and permission not confirmed for Twente's text or CCF's reproduction.",
+  "Origin of the epithet \"Baiha Bajrangi\" and its link to Bhima is not explained in the sources; verify.",
+  "Community that told the tale is not named; Bastar wall painting is regional inspiration only.",
+  "Fever is personified; check the wording is sensitive for children with illness.",
+  "Hindi renderings of \"Fever\" (बुखार) and the \"Moral\" (सीख) need native-reader review.",
+  "Level 1 and 3 Hindi and English written by AI; educator review pending."
+ ]
+}

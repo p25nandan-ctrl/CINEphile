@@ -1,0 +1,583 @@
+{
+ "id": "tejimola",
+ "state": "as",
+ "title": "Tejimola",
+ "titleHi": "तेजिमोला",
+ "summary": "A loving child, an unkind stepmother and a plant that refuses to forget. A tale about cruelty, memory and justice, told in Assamese households for generations.",
+ "summarySource": "existing",
+ "genre": "Folktale",
+ "from": "Assamese folktale, Assam",
+ "origLevel": 3,
+ "levelReason": "The supplied text has varied, often long sentences (many over 15 words), richer vocabulary (wealthy, furious, implement, confronted, exposed, reunited), an emotional storyline with reflective phrases like ‘nature would not allow’, and an abstract moral about cruelty, resilience and injustice, which matches Mighty Tree (grades 8-10) rather than the simpler levels.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "A rich merchant lived in a quiet village in Assam. He had a dear daughter named Tejimola.",
+     "Tejimola was kind and gentle. Her mother had died long ago. Her father loved her very much.",
+     "Later, the merchant married again. His new wife was nice to his face. But she did not like Tejimola. She felt jealous of the love he gave his girl.",
+     "One day, the merchant had to go far away for work. He told his wife, “Take good care of Tejimola.”",
+     "But once he left, the stepmother changed.",
+     "She made Tejimola do all the work. Tejimola swept, cleaned pots and cooked. She got very little food. She was scolded all day.",
+     "One day, a friend asked Tejimola to visit. A kind neighbour lent her nice clothes. Tejimola went to see her friend. When she got home, her stepmother was very angry.",
+     "“Who said you could go out?” she shouted. “Where did you get those clothes?” Tejimola said she only visited a friend. But the stepmother would not listen.",
+     "The angry stepmother dragged Tejimola to the dheki. A dheki is a wooden tool for pounding rice. There she hurt Tejimola so badly that the girl died.",
+     "The stepmother buried her in the garden. She hoped no one would find out. The neighbours asked, “Where is Tejimola?” She said, “She went to visit someone.”",
+     "But nature did not let the story end. A lovely gourd creeper grew where Tejimola was buried.",
+     "One day, an old woman asked for some gourds. The stepmother said yes. The old woman went near the plant. She heard a soft voice. “Please do not pluck me. I am Tejimola. My stepmother killed me and buried me here.”",
+     "The old woman was scared and ran away. Then the stepmother saw the strange plant and destroyed it.",
+     "But Tejimola came back. A new plant grew, and she spoke again. The stepmother destroyed it too. Tejimola grew as plants and flowers again and again. Each time, she told people who she was.",
+     "At last, she became a lotus flower. One day her father came home by boat. He saw the lotus near the river.",
+     "He wanted to pick it for his daughter. She had loved pretty flowers. Then he heard a voice he knew. “Do not pluck me, Father. I am Tejimola. Your wife killed me and buried me in the garden.”",
+     "The merchant was shocked and sad. “How do I know you are my daughter?” he asked. The lotus said, “Put me in a cage. I will become a bird.” And it did.",
+     "The merchant took the bird home. He asked his wife about Tejimola. She told the same old lie. “She went away.”",
+     "Then he spoke to the bird. “Tejimola, if you are my daughter, be a girl again.” The bird changed. There stood Tejimola, alive and well.",
+     "The merchant was so happy. The stepmother was afraid, because everyone knew what she did. She ran away and never came back. Tejimola and her father lived together in peace.",
+     "Moral: Cruelty cannot hide the truth forever. Love and kindness can win over even great unfairness."
+    ],
+    "hi": [
+     "असम के एक शांत गाँव में एक अमीर व्यापारी रहता था। उसकी एक प्यारी बेटी थी, तेजिमोला।",
+     "तेजिमोला दयालु और कोमल थी। उसकी माँ बहुत पहले गुज़र गई थी। पिता उसे बहुत प्यार करते थे।",
+     "बाद में व्यापारी ने दोबारा शादी की। नई पत्नी उसके सामने अच्छी बनती थी। पर वह तेजिमोला को पसंद नहीं करती थी। उसे जलन होती थी कि पिता बेटी को इतना प्यार करते हैं।",
+     "एक दिन व्यापारी को काम से दूर जाना पड़ा। उसने पत्नी से कहा, “तेजिमोला का ध्यान रखना।”",
+     "पर उसके जाते ही सौतेली माँ बदल गई।",
+     "उसने तेजिमोला से सारा काम करवाया। तेजिमोला झाड़ू लगाती, बर्तन धोती और खाना बनाती। उसे बहुत कम खाना मिलता। उसे दिन भर डाँट पड़ती थी।",
+     "एक दिन एक सहेली ने तेजिमोला को बुलाया। एक दयालु पड़ोसन ने उसे अच्छे कपड़े दिए। तेजिमोला सहेली से मिलने गई। जब वह घर लौटी तो सौतेली माँ बहुत गुस्से में थी।",
+     "“किसने कहा था कि बाहर जाओ?” वह चिल्लाई। “ये कपड़े कहाँ से आए?” तेजिमोला ने कहा कि वह बस सहेली से मिलने गई थी। पर सौतेली माँ ने नहीं सुना।",
+     "गुस्से में सौतेली माँ तेजिमोला को ढेंकी के पास ले गई। ढेंकी चावल कूटने का लकड़ी का औज़ार है। वहाँ उसने तेजिमोला को इतनी चोट पहुँचाई कि वह मर गई।",
+     "सौतेली माँ ने उसे बगीचे में दबा दिया। उसे लगा कि कोई नहीं जानेगा। पड़ोसियों ने पूछा, “तेजिमोला कहाँ है?” वह बोली, “वह किसी से मिलने गई है।”",
+     "पर प्रकृति ने कहानी खत्म नहीं होने दी। जहाँ तेजिमोला दबी थी, वहाँ एक सुंदर लौकी की बेल उगी।",
+     "एक दिन एक बूढ़ी औरत ने कुछ लौकियाँ माँगीं। सौतेली माँ ने हाँ कह दी। बूढ़ी औरत पौधे के पास गई। उसे धीमी आवाज़ सुनाई दी। “मुझे मत तोड़ो। मैं तेजिमोला हूँ। मेरी सौतेली माँ ने मुझे मार डाला और यहीं दबा दिया।”",
+     "बूढ़ी औरत डरकर भाग गई। फिर सौतेली माँ ने उस अजीब पौधे को देखा और नष्ट कर दिया।",
+     "पर तेजिमोला लौट आई। एक नया पौधा उगा और वह फिर बोली। सौतेली माँ ने उसे भी नष्ट कर दिया। तेजिमोला बार-बार पौधों और फूलों में बदलती रही। हर बार वह लोगों को बताती कि वह कौन है।",
+     "आख़िर में वह कमल का फूल बन गई। एक दिन उसके पिता नाव से घर आए। उन्होंने नदी के पास कमल देखा।",
+     "वे उसे बेटी के लिए तोड़ना चाहते थे। उसे सुंदर फूल बहुत पसंद थे। तभी उन्होंने एक जानी-पहचानी आवाज़ सुनी। “मुझे मत तोड़िए, पिताजी। मैं तेजिमोला हूँ। आपकी पत्नी ने मुझे मार डाला और बगीचे में दबा दिया।”",
+     "व्यापारी हैरान और दुखी था। “मैं कैसे जानूँ कि तुम मेरी बेटी हो?” उसने पूछा। कमल बोला, “मुझे पिंजरे में रखिए। मैं चिड़िया बन जाऊँगा।” और ऐसा ही हुआ।",
+     "व्यापारी चिड़िया को घर ले गया। उसने पत्नी से तेजिमोला के बारे में पूछा। उसने वही पुराना झूठ बोला। “वह कहीं चली गई।”",
+     "तब उसने चिड़िया से कहा, “तेजिमोला, अगर तुम मेरी बेटी हो, तो फिर लड़की बन जाओ।” चिड़िया बदल गई। वहाँ तेजिमोला जीती-जागती खड़ी थी।",
+     "व्यापारी बहुत खुश हुआ। सौतेली माँ डर गई, क्योंकि सब जान गए थे। वह भाग गई और कभी नहीं लौटी। तेजिमोला और उसके पिता शांति से साथ रहे।",
+     "सीख: क्रूरता सच को हमेशा नहीं छिपा सकती। प्यार और दया बड़े से बड़े अन्याय पर जीत सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "merchant",
+     "en": "a person who buys and sells things",
+     "hi": "व्यापारी"
+    },
+    {
+     "w": "jealous",
+     "en": "unhappy because someone else has what you want",
+     "hi": "जलन महसूस करने वाला"
+    },
+    {
+     "w": "stepmother",
+     "en": "the woman your father marries after your mother is gone",
+     "hi": "सौतेली माँ"
+    },
+    {
+     "w": "scolded",
+     "en": "spoken to in an angry way",
+     "hi": "डाँटा गया"
+    },
+    {
+     "w": "buried",
+     "en": "put under the ground",
+     "hi": "दबाया"
+    },
+    {
+     "w": "gourd",
+     "en": "a round vegetable that grows on a vine",
+     "hi": "लौकी"
+    },
+    {
+     "w": "creeper",
+     "en": "a plant that grows along the ground or up a support",
+     "hi": "बेल"
+    },
+    {
+     "w": "lotus",
+     "en": "a flower that grows in water",
+     "hi": "कमल"
+    },
+    {
+     "w": "cage",
+     "en": "a box with bars for a bird",
+     "hi": "पिंजरा"
+    },
+    {
+     "w": "lie",
+     "en": "something you say that is not true",
+     "hi": "झूठ"
+    },
+    {
+     "w": "neighbour",
+     "en": "a person who lives near you",
+     "hi": "पड़ोसी"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and where",
+     "q": "Who is Tejimola, and who does she live with at the start of the story?"
+    },
+    {
+     "k": "What happened",
+     "q": "What changes in the house after the merchant goes away?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think Tejimola feels when she is scolded and given very little food?"
+    },
+    {
+     "k": "Plants and flowers",
+     "q": "What things does Tejimola become after she is buried? Name two."
+    },
+    {
+     "k": "Your link",
+     "q": "Who is someone who listens to you and believes you? How does it feel to be believed?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, in a quiet village in Assam, a rich merchant lived with his dear daughter, Tejimola.",
+     "Tejimola was gentle, pretty and kind. Her mother had died when she was very small, so her father loved her even more.",
+     "After some years, the merchant married again. His new wife acted sweetly when he was near, but she secretly disliked Tejimola. She was jealous of the love he showed his daughter.",
+     "One day, the merchant said he must travel far away for his work. Before he left, he asked his wife to take good care of Tejimola and keep her comfortable.",
+     "As soon as he left, the stepmother began to behave very differently.",
+     "She made Tejimola do all the housework. The girl swept the floors, washed the pots, cooked the meals and did whatever her stepmother ordered. She hardly got enough to eat and was scolded all day.",
+     "One day, a friend asked Tejimola to visit. Tejimola wanted to wear a nice dress, so a kind neighbour lent her some clothes, and she went to see her friend. When she came home, her stepmother was very angry.",
+     "“Who said you could leave this house? And where did you get those clothes?” she shouted. Tejimola tried to explain that she had only visited a friend, but her stepmother would not listen.",
+     "Full of anger, the stepmother dragged Tejimola to the dheki, a wooden tool that people used to pound rice. There she hurt the girl badly, and Tejimola died.",
+     "The stepmother buried Tejimola in the garden and hoped nobody would ever find out. When the neighbours asked about the girl, she calmly said that Tejimola had gone to visit someone.",
+     "But nature would not let Tejimola’s story end there. In the spot where she was buried, a lovely gourd creeper began to grow.",
+     "One day, an old woman came and asked the stepmother if she could take some gourds. The stepmother said yes. But as the old woman went near the plant, she heard a soft voice. “Please do not pluck me. I am Tejimola. My stepmother killed me and buried me in this garden.”",
+     "The old woman was scared and hurried away. Soon the stepmother noticed the strange plant and destroyed it.",
+     "But Tejimola came back in another form. A new plant grew, and again her voice was heard. The stepmother destroyed that one too. Tejimola kept changing into different plants and flowers, and each time she told her secret to people who came close.",
+     "At last, she became a beautiful lotus. One day her father was coming home by boat when he saw a wonderful flower growing near the river.",
+     "He wanted to pick it for his daughter, because she had loved lovely flowers. But as he reached out, he heard a voice he knew. “Do not pluck me, Father. I am your Tejimola. Your wife killed me and buried me in the garden.”",
+     "The merchant was shocked and heartbroken. “How can I be sure that you are my daughter?” he asked. The lotus told him to put it in a cage, and it would turn into a bird. Right before his eyes, the lotus became a lovely bird.",
+     "The merchant carried the bird home with care. At home, he asked his wife what had happened to Tejimola. The stepmother told her old lie and said the girl had gone away.",
+     "Then the merchant spoke to the bird. “Tejimola, if you are truly my daughter, become a girl again.” The bird changed, and there stood Tejimola, alive and lovely.",
+     "The merchant was overjoyed to have his daughter back. The stepmother’s cruelty was finally known, and she ran away in fear and was never seen again. Tejimola and her father were together once more, and she could live in peace.",
+     "Moral: Cruelty cannot hide the truth forever. Kindness, innocence and the love between family can win over even the worst unfairness."
+    ],
+    "hi": [
+     "बहुत पहले असम के एक शांत गाँव में एक अमीर व्यापारी अपनी प्यारी बेटी तेजिमोला के साथ रहता था।",
+     "तेजिमोला कोमल, सुंदर और दयालु थी। उसकी माँ बहुत छोटी उम्र में गुज़र गई थी, इसलिए पिता उसे बहुत प्यार करते थे।",
+     "कुछ साल बाद व्यापारी ने दूसरी शादी कर ली। नई पत्नी उसके सामने बहुत मीठी बनती थी, पर चुपचाप तेजिमोला को पसंद नहीं करती थी। उसे इस बात से जलन थी कि व्यापारी अपनी बेटी से इतना प्यार करता है।",
+     "एक दिन व्यापारी ने कहा कि उसे काम से दूर जाना है। जाने से पहले उसने पत्नी से कहा कि तेजिमोला का अच्छी तरह ध्यान रखना और उसे आराम से रखना।",
+     "उसके जाते ही सौतेली माँ का व्यवहार बिलकुल बदल गया।",
+     "उसने तेजिमोला से घर का सारा काम करवाया। लड़की झाड़ू लगाती, बर्तन धोती, खाना पकाती और सौतेली माँ जो कहती वही करती। उसे मुश्किल से खाना मिलता और दिन भर डाँट पड़ती थी।",
+     "एक दिन एक सहेली ने तेजिमोला को अपने घर बुलाया। तेजिमोला कोई अच्छी पोशाक पहनना चाहती थी। एक दयालु पड़ोसन ने उसे कपड़े उधार दे दिए और वह सहेली से मिलने चली गई। जब वह लौटी तो सौतेली माँ बहुत गुस्से में थी।",
+     "“किसने कहा था कि तुम घर से बाहर जाओ? और ये कपड़े कहाँ से आए?” वह चिल्लाई। तेजिमोला ने बताना चाहा कि वह सिर्फ़ सहेली से मिलने गई थी, पर सौतेली माँ ने कुछ नहीं सुना।",
+     "गुस्से में सौतेली माँ तेजिमोला को ढेंकी के पास घसीट ले गई। ढेंकी चावल कूटने का लकड़ी का पुराना औज़ार है। वहाँ उसने लड़की को बहुत चोट पहुँचाई और तेजिमोला की मृत्यु हो गई।",
+     "सौतेली माँ ने तेजिमोला को बगीचे में दबा दिया। उसे उम्मीद थी कि किसी को पता नहीं चलेगा। जब पड़ोसियों ने लड़की के बारे में पूछा तो उसने शांति से कहा कि तेजिमोला किसी से मिलने गई है।",
+     "पर प्रकृति ने तेजिमोला की कहानी को यहीं खत्म नहीं होने दिया। जहाँ उसे दबाया गया था, वहाँ एक सुंदर लौकी की बेल उगने लगी।",
+     "एक दिन एक बूढ़ी औरत आई और उसने सौतेली माँ से कुछ लौकियाँ माँगीं। सौतेली माँ ने हाँ कह दी। पर जब बूढ़ी औरत पौधे के पास गई तो उसे एक धीमी आवाज़ सुनाई दी। “कृपया मुझे मत तोड़ो। मैं तेजिमोला हूँ। मेरी सौतेली माँ ने मुझे मार डाला और इसी बगीचे में दबा दिया।”",
+     "बूढ़ी औरत डर गई और जल्दी से चली गई। कुछ समय बाद सौतेली माँ ने उस अजीब पौधे को देखा और उसे नष्ट कर दिया।",
+     "पर तेजिमोला एक और रूप में लौट आई। एक नया पौधा उगा और फिर उसकी आवाज़ सुनाई दी। सौतेली माँ ने उसे भी नष्ट कर दिया। तेजिमोला अलग-अलग पौधों और फूलों में बदलती रही और हर बार पास आने वालों को अपना राज़ बताती रही।",
+     "आख़िर में वह एक सुंदर कमल बन गई। एक दिन उसके पिता नाव से घर आ रहे थे। उन्होंने नदी के पास एक अनोखा फूल देखा।",
+     "वे उसे अपनी बेटी के लिए तोड़ना चाहते थे, क्योंकि उसे सुंदर फूल बहुत पसंद थे। पर जैसे ही उन्होंने हाथ बढ़ाया, उन्हें एक जानी-पहचानी आवाज़ सुनाई दी। “मुझे मत तोड़िए, पिताजी। मैं आपकी तेजिमोला हूँ। आपकी पत्नी ने मुझे मार डाला और बगीचे में दबा दिया।”",
+     "व्यापारी हैरान रह गया और उसका दिल टूट गया। “मैं कैसे मानूँ कि तुम मेरी बेटी हो?” उसने पूछा। कमल ने कहा कि उसे पिंजरे में रख दें तो वह चिड़िया बन जाएगा। उनकी आँखों के सामने कमल एक सुंदर चिड़िया बन गया।",
+     "व्यापारी चिड़िया को सँभालकर घर ले आया। घर पर उसने पत्नी से पूछा कि तेजिमोला को क्या हुआ। सौतेली माँ ने वही पुराना झूठ बोला कि लड़की कहीं चली गई है।",
+     "तब व्यापारी ने चिड़िया से कहा, “तेजिमोला, अगर तुम सच में मेरी बेटी हो, तो फिर से लड़की बन जाओ।” चिड़िया बदल गई और वहाँ तेजिमोला जीती-जागती खड़ी थी।",
+     "व्यापारी अपनी बेटी को पाकर बहुत खुश हुआ। सौतेली माँ की क्रूरता सबके सामने आ गई तो वह डरकर भाग गई और फिर कभी नहीं दिखी। तेजिमोला और उसके पिता फिर साथ हो गए और वह शांति से रहने लगी।",
+     "सीख: क्रूरता सच को हमेशा नहीं छिपा सकती। दया, मासूमियत और अपनों का प्यार बड़े से बड़े अन्याय पर भी जीत सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "merchant",
+     "en": "a person who buys and sells goods",
+     "hi": "व्यापारी"
+    },
+    {
+     "w": "jealous",
+     "en": "unhappy because another person has something you want",
+     "hi": "ईर्ष्यालु"
+    },
+    {
+     "w": "scolded",
+     "en": "told off in an angry way",
+     "hi": "डाँटा गया"
+    },
+    {
+     "w": "neighbour",
+     "en": "a person who lives next door or close by",
+     "hi": "पड़ोसी"
+    },
+    {
+     "w": "buried",
+     "en": "covered with earth",
+     "hi": "दबाया"
+    },
+    {
+     "w": "gourd",
+     "en": "a large round vegetable that grows on a vine",
+     "hi": "लौकी"
+    },
+    {
+     "w": "creeper",
+     "en": "a plant that grows along the ground or climbs",
+     "hi": "बेल"
+    },
+    {
+     "w": "pluck",
+     "en": "to pick a flower or fruit",
+     "hi": "तोड़ना"
+    },
+    {
+     "w": "lotus",
+     "en": "a water flower with large petals",
+     "hi": "कमल"
+    },
+    {
+     "w": "heartbroken",
+     "en": "very sad inside",
+     "hi": "दिल टूटा हुआ"
+    },
+    {
+     "w": "overjoyed",
+     "en": "extremely happy",
+     "hi": "बहुत प्रसन्न"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motive",
+     "q": "Why does the stepmother treat Tejimola badly after the merchant leaves? What does the story tell us about her feelings?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why does the stepmother become so angry when Tejimola returns from her friend’s house?"
+    },
+    {
+     "k": "A clever test",
+     "q": "Why does the merchant ask Tejimola to prove who she is? What does her answer show?"
+    },
+    {
+     "k": "Her choices",
+     "q": "Tejimola keeps speaking each time she changes form. Why do you think she does not stay silent?"
+    },
+    {
+     "k": "What if",
+     "q": "What might have happened if the old woman had told the neighbours what she heard? Explain your thinking."
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, in a quiet village in Assam, there lived a wealthy merchant with his beloved daughter, Tejimola.",
+     "Tejimola was a gentle, beautiful and kind-hearted girl. Her mother had died when she was very young, and her father loved her dearly.",
+     "After some years, the merchant married again. His new wife appeared pleasant in front of him, but she secretly disliked Tejimola. She was jealous of the affection the merchant showed his daughter.",
+     "One day, the merchant announced that he had to travel to a distant place for business. Before leaving, he instructed his wife to look after Tejimola and ensure that she was comfortable.",
+     "The moment he departed, the stepmother’s behaviour changed completely.",
+     "She made Tejimola perform all the household chores. The girl had to sweep the floors, clean the vessels, prepare meals and attend to every demand of her stepmother. She was rarely given enough food and was constantly scolded.",
+     "One day, a friend invited Tejimola to visit her. The girl wished to wear a beautiful dress for the occasion. A kind neighbour lent her some clothes, and Tejimola went to meet her friend. When she returned home, her stepmother was furious.",
+     "“Who gave you permission to leave this house? And where did you get those clothes?” she demanded. Tejimola tried to explain that she had merely visited a friend, but her stepmother refused to listen.",
+     "In a fit of rage, the cruel woman dragged Tejimola to the dheki, a traditional wooden rice-pounding implement. She cruelly injured the girl’s hands and feet and finally killed her.",
+     "The stepmother buried Tejimola in the garden, believing that nobody would discover what she had done. When neighbours asked about the girl, she calmly replied that Tejimola had gone away to visit someone.",
+     "But nature would not allow Tejimola’s story to end there. From the place where she had been buried, a beautiful gourd creeper began to grow.",
+     "One day, an elderly woman came to the house and asked the stepmother whether she could take some gourds. The stepmother agreed. As the woman approached the plant, she heard a faint voice coming from the creeper. “Please do not pluck me. I am Tejimola. My stepmother killed me and buried me in this garden.”",
+     "The elderly woman was frightened. She hurried away, but the stepmother eventually discovered the strange plant and destroyed it.",
+     "Yet Tejimola returned in another form. A new plant grew, and once again her voice could be heard. The stepmother destroyed that one too. Tejimola continued to transform, appearing as different plants and flowers, each time revealing her identity to those who came near.",
+     "Finally, she took the form of a beautiful lotus. One day, her father was travelling home by boat when he noticed the extraordinary flower growing near the river.",
+     "He wished to pluck it for his daughter, remembering how much she loved beautiful flowers. But as he reached towards it, he heard a familiar voice. “Do not pluck me, Father. I am your Tejimola. Your wife killed me and buried me in the garden.”",
+     "The merchant was shocked and heartbroken. “How can I know that you are truly my daughter?” he asked. The lotus replied that if he placed it in a cage, it would transform into a bird. Before his eyes, the lotus changed into a beautiful bird.",
+     "The merchant carefully carried the bird home. When he reached his house, he confronted his wife and asked her what had happened to Tejimola. The stepmother repeated her old lie, claiming that the girl had gone away.",
+     "Then the merchant spoke to the bird. “Tejimola, if you are truly my daughter, return to your human form.” The bird transformed before him, and there stood Tejimola, alive and beautiful.",
+     "The merchant was overjoyed to have his daughter back. The stepmother, whose cruelty had finally been exposed, fled in fear and was never seen again. Tejimola and her father were reunited, and she was able to live in peace.",
+     "Moral: Cruelty cannot destroy the truth forever. Resilience, innocence and the enduring bond between loved ones can overcome even the darkest injustice."
+    ],
+    "hi": [
+     "बहुत समय पहले असम के एक शांत गाँव में एक धनी व्यापारी अपनी प्यारी बेटी तेजिमोला के साथ रहता था।",
+     "तेजिमोला कोमल, सुंदर और दयालु हृदय वाली लड़की थी। उसकी माँ बहुत छोटी उम्र में ही चल बसी थी और उसके पिता उसे बहुत प्यार करते थे।",
+     "कुछ वर्षों बाद व्यापारी ने दोबारा विवाह कर लिया। उसकी नई पत्नी उसके सामने तो भली बनी रहती थी, पर भीतर ही भीतर तेजिमोला को नापसंद करती थी। व्यापारी अपनी बेटी से जो स्नेह करता था, उससे उसे जलन होती थी।",
+     "एक दिन व्यापारी ने बताया कि उसे व्यापार के काम से किसी दूर जगह जाना है। जाने से पहले उसने पत्नी से कहा कि वह तेजिमोला का ध्यान रखे और उसे किसी बात की तकलीफ़ न होने दे।",
+     "उसके जाते ही सौतेली माँ का व्यवहार पूरी तरह बदल गया।",
+     "उसने तेजिमोला से घर का सारा काम करवाना शुरू कर दिया। लड़की को फ़र्श बुहारना, बर्तन माँजना, खाना बनाना और सौतेली माँ की हर माँग पूरी करनी पड़ती थी। उसे मुश्किल से ही भरपेट खाना मिलता था और हर समय डाँट पड़ती रहती थी।",
+     "एक दिन एक सहेली ने तेजिमोला को अपने घर बुलाया। वह उस अवसर पर कोई सुंदर पोशाक पहनना चाहती थी। एक भली पड़ोसन ने उसे कुछ कपड़े उधार दे दिए और तेजिमोला अपनी सहेली से मिलने चली गई। जब वह घर लौटी तो उसकी सौतेली माँ आग-बबूला हो उठी।",
+     "“किसने तुम्हें इस घर से बाहर जाने की अनुमति दी? और ये कपड़े तुम्हें कहाँ से मिले?” उसने गरजकर पूछा। तेजिमोला ने समझाने की कोशिश की कि वह बस अपनी सहेली से मिलने गई थी, पर सौतेली माँ ने सुनने से इनकार कर दिया।",
+     "क्रोध के आवेश में उस निर्दयी स्त्री ने तेजिमोला को ढेंकी के पास घसीट लिया, जो चावल कूटने का एक पारंपरिक लकड़ी का औज़ार है। उसने बेरहमी से लड़की के हाथ-पैर कुचल दिए और अंत में उसकी जान ले ली।",
+     "सौतेली माँ ने तेजिमोला को बगीचे में दबा दिया, यह सोचकर कि किसी को कभी पता नहीं चलेगा कि उसने क्या किया है। जब पड़ोसियों ने लड़की के बारे में पूछा तो उसने शांत स्वर में कह दिया कि तेजिमोला किसी से मिलने कहीं चली गई है।",
+     "लेकिन प्रकृति तेजिमोला की कहानी को यहीं खत्म नहीं होने देना चाहती थी। जिस जगह उसे दबाया गया था, वहाँ एक सुंदर लौकी की बेल उगने लगी।",
+     "एक दिन एक बूढ़ी औरत उस घर में आई और उसने सौतेली माँ से पूछा कि क्या वह कुछ लौकियाँ तोड़ सकती है। सौतेली माँ ने हामी भर दी। जैसे ही वह औरत पौधे के पास पहुँची, उसे बेल में से एक धीमी आवाज़ सुनाई दी। “कृपया मुझे मत तोड़ो। मैं तेजिमोला हूँ। मेरी सौतेली माँ ने मुझे मार डाला और इसी बगीचे में दबा दिया।”",
+     "बूढ़ी औरत डर गई और जल्दी से वहाँ से चली गई। पर आख़िरकार सौतेली माँ की नज़र उस अजीब पौधे पर पड़ी और उसने उसे उखाड़कर नष्ट कर दिया।",
+     "फिर भी तेजिमोला एक और रूप में लौट आई। एक नया पौधा उगा और एक बार फिर उसकी आवाज़ सुनाई दी। सौतेली माँ ने उसे भी नष्ट कर दिया। तेजिमोला अलग-अलग पौधों और फूलों के रूप में बदलती रही और हर बार पास आने वालों को अपनी पहचान बताती रही।",
+     "अंत में उसने एक सुंदर कमल का रूप ले लिया। एक दिन उसके पिता नाव से घर लौट रहे थे कि उनकी नज़र नदी के पास उगे एक अनोखे फूल पर पड़ी।",
+     "वे उसे अपनी बेटी के लिए तोड़ना चाहते थे, क्योंकि उन्हें याद था कि उसे सुंदर फूल कितने पसंद थे। पर जैसे ही उन्होंने हाथ बढ़ाया, उन्हें एक जानी-पहचानी आवाज़ सुनाई दी। “मुझे मत तोड़िए, पिताजी। मैं आपकी तेजिमोला हूँ। आपकी पत्नी ने मुझे मार डाला और बगीचे में दबा दिया।”",
+     "व्यापारी स्तब्ध रह गया और उसका दिल टूट गया। “मैं कैसे जानूँ कि तुम सचमुच मेरी बेटी हो?” उसने पूछा। कमल ने कहा कि अगर वे उसे पिंजरे में रखेंगे तो वह एक चिड़िया बन जाएगा। उनकी आँखों के सामने कमल एक सुंदर चिड़िया में बदल गया।",
+     "व्यापारी चिड़िया को सावधानी से उठाकर घर ले आया। घर पहुँचकर उसने पत्नी का सामना किया और पूछा कि तेजिमोला के साथ क्या हुआ। सौतेली माँ ने अपना पुराना झूठ दोहराया कि लड़की कहीं चली गई है।",
+     "तब व्यापारी ने चिड़िया से कहा, “तेजिमोला, अगर तुम सचमुच मेरी बेटी हो, तो अपने मानव रूप में लौट आओ।” चिड़िया उसके सामने बदल गई और वहाँ तेजिमोला जीवित और सुंदर खड़ी थी।",
+     "व्यापारी अपनी बेटी को वापस पाकर खुशी से भर उठा। सौतेली माँ की क्रूरता आख़िरकार सबके सामने आ गई और वह डरकर भाग गई; फिर उसे कभी नहीं देखा गया। तेजिमोला और उसके पिता फिर से मिल गए और वह शांति से जीने लगी।",
+     "सीख: क्रूरता सच को हमेशा के लिए नहीं मिटा सकती। दृढ़ता, मासूमियत और अपनों का अटूट रिश्ता घोर से घोर अन्याय पर भी जीत पा सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "wealthy",
+     "en": "having a lot of money and property",
+     "hi": "धनी"
+    },
+    {
+     "w": "jealous",
+     "en": "resentful of another person’s advantages or affection",
+     "hi": "ईर्ष्यालु"
+    },
+    {
+     "w": "chores",
+     "en": "small regular jobs around the house",
+     "hi": "घर के काम"
+    },
+    {
+     "w": "furious",
+     "en": "extremely angry",
+     "hi": "क्रोधित"
+    },
+    {
+     "w": "implement",
+     "en": "a tool",
+     "hi": "औज़ार"
+    },
+    {
+     "w": "creeper",
+     "en": "a climbing or trailing plant",
+     "hi": "बेल"
+    },
+    {
+     "w": "pluck",
+     "en": "to pull a flower or fruit from its stem",
+     "hi": "तोड़ना"
+    },
+    {
+     "w": "heartbroken",
+     "en": "overwhelmed by grief",
+     "hi": "टूटे दिल वाला"
+    },
+    {
+     "w": "confronted",
+     "en": "faced someone and challenged them directly",
+     "hi": "सामना किया"
+    },
+    {
+     "w": "exposed",
+     "en": "revealed, no longer hidden",
+     "hi": "उजागर हुई"
+    },
+    {
+     "w": "reunited",
+     "en": "brought together again",
+     "hi": "फिर से मिले"
+    }
+   ],
+   "questions": [
+    {
+     "k": "An ethical question",
+     "q": "The stepmother is jealous of the love between a father and his daughter. Does jealousy explain her actions, excuse them, or neither? Why?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine the old woman who hears the voice in the creeper. What might she be thinking, and why might she hurry away instead of speaking up?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "In many parts of India, people listen for the voices of nature in stories and festivals. What does Tejimola’s transformation into plants, a flower and a bird suggest about how this story sees nature?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says that cruelty cannot destroy the truth forever. In this version, who or what carries the truth, and why is that powerful?"
+    },
+    {
+     "k": "Today",
+     "q": "Today, children can feel unheard when they try to explain themselves. How can families, neighbours and schools make sure a child’s voice is believed and heard?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   16,
+   17
+  ],
+  [
+   18,
+   19,
+   20
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "A merchant and his daughter",
+   "th": "व्यापारी और उसकी बेटी",
+   "p": "Warm storybook illustration of a quiet Assamese village home with a bamboo fence and areca palms, morning light. A kind merchant in a simple cotton dhoti and gamosa-style shoulder cloth sits beside his gentle daughter Tejimola, a girl of about ten with long black hair in a plait, wearing a plain mekhela-style wrap in soft colours. They smile at each other. Mood: loving and peaceful. Consistent character look, no text in image."
+  },
+  {
+   "t": "A new wife, a father leaving",
+   "th": "नई पत्नी, पिता की यात्रा",
+   "p": "The merchant, with a bundle, speaks to his new wife at the courtyard gate, who smiles politely; Tejimola stands to one side. Then the same woman, now stern with folded arms, and Tejimola quietly sweeping the courtyard and washing pots. Same villagers' clothes and the same village as before, soft evening tones, a worried mood. No cruelty shown on screen."
+  },
+  {
+   "t": "The borrowed dress",
+   "th": "उधार की पोशाक",
+   "p": "Tejimola, wearing a borrowed pretty wrap in soft colours, walks home along a village path from her friend’s house, glad but a little nervous. In the doorway her stepmother stands with a stern, angry face. Lantern-lit dusk, tension but no violence."
+  },
+  {
+   "t": "Silence in the garden",
+   "th": "बगीचे में खामोशी",
+   "p": "A quiet moment, shown gently and without any harm to the child: a wooden dheki rice-pounder stands alone in the yard at dusk, and the stepmother, seen from behind, smooths the earth in the garden. Neighbours at the fence ask a question and the stepmother answers calmly. Muted blue-grey mood, no person injured in view."
+  },
+  {
+   "t": "A gourd creeper begins to grow",
+   "th": "लौकी की बेल उगती है",
+   "p": "A fresh green gourd creeper climbs in the garden where the earth was turned, with small yellow flowers, shimmering faintly. An elderly village woman in a simple white wrap leans close to hear a soft, glowing voice from the leaves, her eyes wide. Hopeful, mysterious mood."
+  },
+  {
+   "t": "Pulled up, but she returns",
+   "th": "उखाड़ा, फिर भी लौटी",
+   "p": "The stepmother angrily pulls up the creeper, while in the same picture a new shoot and small flowers of different kinds are already rising nearby. A gentle glow suggests Tejimola’s presence. Villagers watch from the lane. Mood: persistent, quiet hope."
+  },
+  {
+   "t": "The lotus by the river",
+   "th": "नदी किनारे कमल",
+   "p": "The merchant in a wooden country boat on a wide river at golden hour, reaching toward one beautiful pink lotus floating near the bank, a soft light around it. His face is full of wonder. Reeds, calm water, distant palms."
+  },
+  {
+   "t": "A voice he knows",
+   "th": "जानी-पहचानी आवाज़",
+   "p": "The merchant, shocked and teary, holds the lotus in his hands in the boat; then a small cage on his lap where a lovely bright bird now sits, glowing softly. Moment of wonder and heartbreak. Same merchant look, same river."
+  },
+  {
+   "t": "Tejimola comes home",
+   "th": "तेजिमोला घर लौटी",
+   "p": "In the courtyard of the home, the merchant embraces Tejimola, alive and smiling, in the same wrap as the first scene. In the background the stepmother is seen from far away running through the gate, her back turned. Warm golden light, joyful reunion."
+  }
+ ],
+ "artStyle": {
+  "region": "Assam, North-East India",
+  "verified": true,
+  "tradition": "Assamese manuscript painting (Sattriya style, painted on sanchipat bark with natural pigments)",
+  "note": "Per Sahapedia, the Sattriya manuscript style uses angular postures, strong contours and symmetry, with no perspective, and pigments such as indigo, hengul (red), haital (yellow) and khorimati (white). Use this as a loose inspiration for flat, outlined figures and a warm red, yellow and indigo palette. It was used for religious and court texts, not folktales, so we propose a gentle storybook adaptation and do not claim this is how Tejimola is traditionally illustrated. Keep clothing simple village wear (dhoti, gamosa, mekhela-style wraps) and keep scenes of harm off-screen.",
+  "characters": [
+   {
+    "name": "Tejimola",
+    "look": "Gentle girl of about ten, long black hair in a plait, large kind eyes, simple soft-coloured mekhela-style wrap."
+   },
+   {
+    "name": "The merchant",
+    "look": "Middle-aged, kind face, short moustache, plain cotton dhoti and shoulder cloth, a modest turban when travelling."
+   },
+   {
+    "name": "The stepmother",
+    "look": "Slim woman in her thirties, hair in a tight bun, a sharper face, darker plain wrap; shown sweet at first, then stern."
+   },
+   {
+    "name": "The elderly woman",
+    "look": "Small, grey-haired, white wrap, a walking stick and a basket."
+   }
+  ],
+  "sources": [
+   [
+    "Manuscript Painting of Assam: Historical and Contemporary Perspectives (Sahapedia)",
+    "https://www.sahapedia.org/manuscript-painting-of-assam-historical-and-contemporary-perspectives"
+   ],
+   [
+    "Assamese manuscript painting (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Assamese_manuscript_painting"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the old woman who hears a soft voice coming from the gourd creeper. What do you see, hear and feel in that moment? What would you do next?",
+ "create": "Draw the lotus changing into a bird, or write a short letter from Tejimola to her father telling him what she wants him to know.",
+ "about": {
+  "where": "The story comes from Assam, a state in North-East India on the Brahmaputra river valley. Tejimola is one of the best-known tales in Assamese, and it is set in a village with gardens, rivers and boats.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. They say the story was part of the oral tradition of Assam and was written down by Lakshminath Bezbaroa, who collected tales from many people across the state.",
+  "tradition": "Tejimola was published in 1911 in Burhi Aair Sadhu (Grandmother’s Tales), a famous Assamese collection of about 30 folktales that Bezbaroa gathered from ordinary people. Grandmothers and storytellers have told tales like this aloud at home for generations.",
+  "shared": "The story is shared as a spoken tale first, and later as a book. It has also inspired Assamese films and other retellings. Other versions are told differently: in one online retelling the flower becomes a bird that eats from the father’s hand, and the stepmother is sent away after confessing.",
+  "matters": "This tale reminds readers that truth can come back even when someone tries to hide it, and that the dheki, plants, rivers and birds of Assamese life can carry big feelings. This is one version from one source, not the only one.",
+  "links": [
+   [
+    "Burhi Aair Sadhu (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Burhi_Aair_Sadhu"
+   ],
+   [
+    "Tejeemola, folktale retelling (Folktales of India)",
+    "https://folktalesofindia.pages.dev/stories/assam/tejeemola/index.html"
+   ],
+   [
+    "Manuscript Painting of Assam (Sahapedia)",
+    "https://www.sahapedia.org/manuscript-painting-of-assam-historical-and-contemporary-perspectives"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Lakshminath Bezbaroa, Burhi Aair Sadhu (1911), Assamese folktale collection",
+   "url": "https://en.wikipedia.org/wiki/Burhi_Aair_Sadhu",
+   "s": "ok"
+  },
+  {
+   "l": "English retelling cited by repository",
+   "v": "Centre for Contemporary Folklore (CCF) English retelling, as named in the repository note",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Existing summary kept exactly. It says ‘a plant’ and ‘unkind stepmother’ and mentions ‘justice’, while the supplied text has several plants, a lotus and a bird, a stepmother who kills the girl, and an ending where she only flees. Check the wording is acceptable.",
+  "Sensitive content: child abuse, a child’s death and burial. Levels 1 and 2 soften the wording (‘hurt her badly… died’) but keep the events; please review for age-appropriateness before use with grades 4-5.",
+  "Repository source note names a CCF retelling but gives no author or date; the supplied text may not be Bezbaroa’s wording. Verify the retelling and its permission to reproduce.",
+  "Supplied version differs from other retellings (e.g. a friend’s wedding, a citrus tree, a boatman, the stepmother confessing); only the supplied events were used.",
+  "Art tradition: Sattriya manuscript painting is verified as an Assamese art but was used for religious and court texts; its use here is only suggested inspiration.",
+  "Wikipedia’s Burhi Aair Sadhu page links Tejimola with an alternate title; confirm the story’s title and place in the 1911 collection.",
+  "Hindi translations and the L1/L2 adaptations are unreviewed (AI-written)."
+ ]
+}

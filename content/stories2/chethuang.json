@@ -1,0 +1,216 @@
+{
+ "id": "chethuang",
+ "state": "tr",
+ "title": "Chethuang — A Story of Forbidden Love",
+ "titleHi": "परिवार के रिश्ते का अर्थ",
+ "genre": "Moral folktale",
+ "levelTitles": {
+  "1": {
+   "en": "The Meaning of Family",
+   "hi": "परिवार के रिश्ते का अर्थ"
+  },
+  "2": {
+   "en": "Chethuang and the Boundaries of Kinship",
+   "hi": "चेथुआंग और पारिवारिक रिश्तों की सीमाएँ"
+  },
+  "3": {
+   "en": "Chethuang: When Kinship Boundaries Are Broken",
+   "hi": "चेथुआंग: जब पारिवारिक रिश्तों की सीमाएँ टूटती हैं"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in a village in Tripura, there lived a brother and sister who grew up together.",
+     "They shared a home, played together and knew each other very well. Like other members of a family, they were expected to care for one another and respect the special bond they shared.",
+     "As they grew older, they began to misunderstand the meaning of their relationship. They did not understand why some feelings and relationships had boundaries.",
+     "The elders in their community explained that the bond between a brother and sister is a family bond. It is built on trust, protection and affection, and it must never be confused with a romantic relationship.",
+     "The brother and sister had to understand that love takes many forms. The love between family members is different from the love between people who choose to become partners.",
+     "The story of Chethuang teaches children that relationships have boundaries. Respecting those boundaries helps keep families safe and healthy.",
+     "It also reminds us that love is not only about what we feel. It is also about understanding our responsibilities towards others."
+    ],
+    "hi": [
+     "बहुत समय पहले त्रिपुरा के एक गाँव में एक भाई और बहन रहते थे। वे साथ बड़े हुए थे।",
+     "वे एक ही घर में रहते, साथ खेलते और एक-दूसरे को अच्छी तरह जानते थे। परिवार के दूसरे सदस्यों की तरह उनसे भी अपेक्षा थी कि वे एक-दूसरे की देखभाल करें और अपने रिश्ते का सम्मान करें।",
+     "जैसे-जैसे वे बड़े हुए, वे अपने रिश्ते का अर्थ समझने में उलझने लगे। उन्हें यह समझ नहीं आया कि कुछ भावनाओं और रिश्तों की अपनी सीमाएँ होती हैं।",
+     "समुदाय के बुज़ुर्ग ने उन्हें समझाया कि भाई-बहन का रिश्ता एक पारिवारिक रिश्ता है। यह विश्वास, सुरक्षा और स्नेह पर आधारित होता है। इसे किसी रोमांटिक रिश्ते से नहीं मिलाना चाहिए।",
+     "भाई और बहन को समझना था कि प्रेम के कई रूप होते हैं। परिवार के सदस्यों के बीच का प्रेम उन लोगों के प्रेम से अलग होता है जो जीवनसाथी बनने का निर्णय लेते हैं।",
+     "चेथुआंग की कहानी बच्चों को सिखाती है कि रिश्तों की कुछ सीमाएँ होती हैं। उनका सम्मान करने से परिवार सुरक्षित और स्वस्थ रहते हैं।",
+     "यह कहानी हमें यह भी याद दिलाती है कि प्रेम केवल हमारी भावनाओं का नाम नहीं है। इसमें दूसरों के प्रति अपनी ज़िम्मेदारियों को समझना भी शामिल है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In a village in Tripura, a brother and sister grew up together. They shared the experiences of childhood and were connected by the close bond of family.",
+     "As they became older, their relationship changed in ways that challenged the expectations of their community. The story of Chethuang centres on the taboo of a romantic relationship between siblings.",
+     "In the society represented by the tale, kinship carries obligations. A brother and sister are expected to care for each other, protect one another and recognise the responsibilities that come with being family.",
+     "The story presents their relationship as a violation of these boundaries. Its moral framework emphasises that not every feeling can be acted upon and that personal choices exist within a wider social world.",
+     "Chethuang is therefore more than a story about two individuals. It reflects how communities use storytelling to explain social rules and preserve distinctions between different kinds of relationships.",
+     "For young readers, the story can introduce the idea that family relationships are built on trust and protection. It can also encourage conversations about personal boundaries, responsibility and respect."
+    ],
+    "hi": [
+     "त्रिपुरा के एक गाँव में एक भाई और बहन साथ बड़े हुए। उन्होंने बचपन के अनेक अनुभव साझा किए और उनके बीच परिवार का गहरा रिश्ता था।",
+     "जैसे-जैसे वे बड़े हुए, उनके संबंध में ऐसे बदलाव आए जिन्होंने समुदाय की मान्यताओं को चुनौती दी। चेथुआंग की कहानी भाई-बहन के बीच रोमांटिक संबंध की सामाजिक वर्जना पर केंद्रित है।",
+     "इस कथा में जिस समाज का चित्रण किया गया है, वहाँ रिश्तेदारी के साथ कुछ ज़िम्मेदारियाँ भी जुड़ी हैं। भाई और बहन से अपेक्षा की जाती है कि वे एक-दूसरे की देखभाल करें, एक-दूसरे की रक्षा करें और परिवार का हिस्सा होने की ज़िम्मेदारियों को समझें।",
+     "कहानी उनके संबंध को इन सीमाओं का उल्लंघन मानती है। इसका नैतिक संदेश इस बात पर ज़ोर देता है कि हर भावना पर अमल करना उचित नहीं होता और व्यक्तिगत चुनावों का संबंध व्यापक सामाजिक जीवन से भी होता है।",
+     "इसलिए चेथुआंग केवल दो व्यक्तियों की कहानी नहीं है। यह दिखाती है कि समुदाय सामाजिक नियमों को समझाने और अलग-अलग रिश्तों के बीच अंतर बनाए रखने के लिए कहानियों का उपयोग कैसे करते हैं।",
+     "छोटे पाठकों के लिए यह कहानी समझा सकती है कि पारिवारिक रिश्ते विश्वास और सुरक्षा पर आधारित होते हैं। यह व्यक्तिगत सीमाओं, ज़िम्मेदारी और सम्मान पर बातचीत शुरू करने का अवसर भी देती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The Kokborok folktale Chethuang explores a relationship that violates one of the most fundamental boundaries of kinship: the prohibition of a romantic relationship between a brother and sister.",
+     "The narrative places the relationship within a traditional social framework in which kinship is not merely a matter of biological connection. It carries expectations of care, responsibility and appropriate conduct. The relationship between siblings is understood as a bond of mutual protection, not a romantic partnership.",
+     "The story's conflict arises when this distinction is crossed. The narrative uses the consequences of the relationship to reinforce the community's understanding of social boundaries.",
+     "Folktales such as Chethuang are important not because they provide a complete account of a community's beliefs, but because they show how communities communicate values through memorable narratives. They give abstract social rules a human form and allow listeners to reflect on the consequences of individual actions.",
+     "For older readers, the story can prompt a broader discussion about how societies define kinship, why boundaries exist and how traditional narratives communicate moral expectations. It is also important to distinguish between understanding a cultural norm and treating every aspect of a traditional moral framework as beyond question.",
+     "In the repository, Chethuang should be presented as a moral tale about kinship and social boundaries, with the original community attribution retained. Its treatment should be thoughtful rather than sensational."
+    ],
+    "hi": [
+     "कोकबोरोक लोककथा चेथुआंग रिश्तेदारी की एक बुनियादी सीमा के उल्लंघन की पड़ताल करती है: भाई और बहन के बीच रोमांटिक संबंध की सामाजिक वर्जना।",
+     "यह कथा इस संबंध को एक पारंपरिक सामाजिक व्यवस्था के भीतर रखती है, जहाँ रिश्तेदारी केवल जैविक संबंध का नाम नहीं है। इसके साथ देखभाल, ज़िम्मेदारी और उचित व्यवहार की अपेक्षाएँ भी जुड़ी होती हैं। भाई-बहन का रिश्ता आपसी सुरक्षा और स्नेह का रिश्ता माना जाता है, न कि रोमांटिक साझेदारी का।",
+     "कहानी का संघर्ष तब पैदा होता है जब इस अंतर का उल्लंघन होता है। कथा इस संबंध के परिणामों के माध्यम से समुदाय की सामाजिक सीमाओं की समझ को सामने रखती है।",
+     "चेथुआंग जैसी लोककथाएँ इसलिए महत्वपूर्ण नहीं हैं कि वे किसी समुदाय के विश्वासों का संपूर्ण विवरण देती हैं, बल्कि इसलिए कि वे दिखाती हैं कि समुदाय यादगार कथाओं के माध्यम से अपने मूल्य कैसे संप्रेषित करते हैं। वे अमूर्त सामाजिक नियमों को मानवीय अनुभव का रूप देती हैं और श्रोताओं को व्यक्तिगत कार्य के परिणामों पर विचार करने का अवसर देती हैं।",
+     "बड़े पाठकों के लिए यह कहानी रिश्तेदारी की परिभाषा, सामाजिक सीमाओं के अस्तित्व और पारंपरिक कथाओं में नैतिक अपेक्षाओं की अभिव्यक्ति पर व्यापक चर्चा शुरू कर सकती है। साथ ही, किसी सांस्कृतिक मान्यता को समझने और उसकी हर बात को प्रश्नों से परे मान लेने के बीच अंतर करना भी आवश्यक है।",
+     "डिजिटल संग्रह में चेथुआंग को पारिवारिक रिश्तों और सामाजिक सीमाओं पर आधारित नैतिक लोककथा के रूप में प्रस्तुत करना चाहिए। इसकी सामुदायिक पहचान को बनाए रखते हुए इसका वर्णन संवेदनशीलता के साथ किया जाना चाहिए, न कि सनसनीखेज़ ढंग से।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Tripura",
+  "community": "Kokborok-speaking Tripuri communities",
+  "tradition": "Kokborok moral folktale."
+ },
+ "sources": [
+  {
+   "l": "Sources",
+   "v": "Sukhendu Debbarma, “Oral Tradition: Folk Tales and Its Significance in Understanding the Kokborok Speaking Society of Tripura” (2024); Dinesh K. Tyagi, Tribal Folk Tales of Tripura (Tripura State Tribal Cultural Research Institute and Museum, 1997), which lists it as the opening tale.",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "This version is an interpretive adaptation of the documented premise, not a translation of the complete tale.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-166-019",
+ "meta": [
+  "Community: Kokborok-speaking Tripuri communities · Region: Tripura · Genre: Moral folktale · Themes: Family bonds, social boundaries, responsibility, consequences",
+  "About the story and its origins",
+  "Chethuang is one of the three Kokborok folktales discussed by Professor Sukhendu Debbarma in his 2024 article, “Oral Tradition: Folk Tales and Its Significance in Understanding the Kokborok Speaking Society of Tripura.”",
+  "The article describes it as a story about a brother and sister who develop a forbidden romantic relationship. It interprets the tale as expressing the community's prohibition of incest and the consequences of violating this social boundary.",
+  "Granthaalayah Publication",
+  "The story is also listed as the opening tale in Dinesh K. Tyagi's Tribal Folk Tales of Tripura, published by the Tripura State Tribal Cultural Research Institute and Museum in 1997.",
+  "Google Books",
+  "Editorial note: The accessible sources confirm the central conflict but do not provide enough of the original plot to verify its precise events or ending. The following are therefore interpretive adaptations of the documented premise, not faithful translations of the complete tale. I have avoided inventing a specific supernatural punishment or claiming a particular ending."
+ ]
+}

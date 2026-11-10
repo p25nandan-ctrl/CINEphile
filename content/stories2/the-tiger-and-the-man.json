@@ -1,0 +1,405 @@
+{
+ "id": "the-tiger-and-the-man",
+ "state": "nl",
+ "title": "The Tiger and the Man",
+ "titleHi": "बाघ और मनुष्य",
+ "genre": "Animal origin tale",
+ "levelTitles": {
+  "1": {
+   "en": "The Tiger and the Man",
+   "hi": "बाघ और मनुष्य"
+  },
+  "2": {
+   "en": "The Tiger and the Man",
+   "hi": "बाघ और मनुष्य"
+  },
+  "3": {
+   "en": "The Tiger and the Man",
+   "hi": "बाघ और मनुष्य"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long, long ago, when the world was still young, humans and tigers were not enemies. In fact, they were brothers!",
+     "They shared the same father and lived peacefully in the forest. The tiger had sharp teeth, powerful paws and great strength. The man had clever hands and a curious mind.",
+     "They often met along the forest paths. Sometimes they talked, sometimes they travelled together, and neither was afraid of the other.",
+     "The tiger never hunted the man, and the man never harmed the tiger.",
+     "One day, a man named Mera was walking along a forest path. He noticed an unpleasant smell coming from the side of the road.",
+     "\"Who has left such a terrible smell here?\" he grumbled. \"May the tiger eat whoever has done this!\"",
+     "He continued walking uphill, complaining about the smell.",
+     "A little later, as he walked back down the same path, he noticed the smell again.",
+     "\"Who could have left such a horrible mess here?\" he exclaimed. \"May the tiger eat that person!\"",
+     "Unfortunately for Mera, a tiger was resting nearby. The tiger heard every word.",
+     "He was confused.",
+     "\"Who is this person that Mera wants me to eat?\" he wondered.",
+     "The tiger followed Mera quietly. When he found him, he remembered what Mera had said.",
+     "\"Well, Mera,\" he thought, \"you wished that I would eat the person responsible. Perhaps you meant yourself!\"",
+     "And so the tiger attacked Mera and ate him.",
+     "The news spread through the forest. The other humans were frightened. They could no longer trust the tigers, and the tigers no longer felt the same friendship towards humans.",
+     "From that day onwards, humans and tigers became enemies.",
+     "And that, according to the old folktale, is how the friendship between humans and tigers came to an end.",
+     "The story reminds us to think carefully before we speak. Sometimes, words spoken carelessly can have consequences we never intended."
+    ],
+    "hi": [
+     "बहुत-बहुत समय पहले, जब दुनिया नई-नई बनी थी, मनुष्य और बाघ एक-दूसरे के दुश्मन नहीं थे। बल्कि वे तो भाई थे!",
+     "दोनों के पिता एक ही थे और वे जंगल में शांति से रहते थे। बाघ के दाँत तेज़ थे, पंजे शक्तिशाली थे और शरीर में बहुत ताकत थी। मनुष्य के पास चतुर हाथ और जिज्ञासु मन था।",
+     "वे अक्सर जंगल के रास्तों पर एक-दूसरे से मिलते थे। कभी बातें करते, कभी साथ घूमते और किसी को भी दूसरे से डर नहीं लगता था।",
+     "न बाघ मनुष्य का शिकार करता था और न मनुष्य बाघ को नुकसान पहुँचाता था।",
+     "एक दिन मेरा नाम का एक आदमी जंगल के रास्ते से जा रहा था। तभी उसे सड़क के किनारे से एक बहुत बुरी गंध आने लगी।",
+     "\"यहाँ इतनी गंदी बदबू किसने फैलाई है?\" वह बड़बड़ाया। \"जिसने भी ऐसा किया है, उसे बाघ खा जाए!\"",
+     "वह पहाड़ी पर चढ़ता रहा और रास्ते भर बदबू की शिकायत करता रहा।",
+     "कुछ देर बाद जब वह उसी रास्ते से वापस नीचे उतर रहा था, तो उसे फिर वही बदबू आई।",
+     "\"किसने यहाँ इतनी गंदी चीज़ छोड़ दी है?\" वह चिल्लाया। \"बाघ उसे खा जाए!\"",
+     "दुर्भाग्य से, पास ही एक बाघ आराम कर रहा था। उसने मेरा की सारी बातें सुन लीं।",
+     "वह उलझन में पड़ गया।",
+     "\"यह कौन है जिसे मेरा चाहता है कि मैं खा जाऊँ?\" उसने सोचा।",
+     "बाघ चुपचाप मेरा के पीछे चलने लगा। जब वह उसके पास पहुँचा, तो उसे मेरा की कही हुई बातें याद आईं।",
+     "\"अच्छा, मेरा!\" उसने मन ही मन सोचा। \"तुम चाहते थे कि मैं उस व्यक्ति को खाऊँ जिसने यह गंदगी फैलाई है। शायद तुम्हारा मतलब स्वयं तुमसे ही था!\"",
+     "और इस तरह बाघ ने मेरा पर हमला कर दिया और उसे खा गया।",
+     "यह खबर पूरे जंगल में फैल गई। दूसरे मनुष्य डर गए। अब वे बाघों पर भरोसा नहीं कर सकते थे और बाघों के मन में भी मनुष्यों के प्रति पहले जैसा प्रेम नहीं रहा।",
+     "उस दिन से मनुष्य और बाघ एक-दूसरे के दुश्मन बन गए।",
+     "पुरानी लोककथा के अनुसार, इसी तरह मनुष्य और बाघों की दोस्ती हमेशा के लिए समाप्त हो गई।",
+     "यह कहानी हमें सिखाती है कि बोलने से पहले सोचना चाहिए। कभी-कभी बिना सोचे-समझे कही गई बातें ऐसे परिणाम ला सकती हैं जिनकी हमने कल्पना भी नहीं की होती।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, when the world was young, humans and tigers lived together in peace. They were said to have shared the same father and were therefore considered brothers. Neither hunted the other, and they could even speak to one another when they met along the forest paths.",
+     "The tiger was blessed with strength, sharp claws and powerful jaws. The man, on the other hand, possessed intelligence and the ability to make things with his hands. Though they were very different, they lived alongside one another without fear or hostility.",
+     "In those days, a tiger would never think of eating a man, and a man would never dream of killing a tiger.",
+     "One day, a man named Mera was walking along a narrow forest path. As he climbed a hill, he noticed a terrible smell coming from the roadside. Someone had left a mess there, and Mera was thoroughly disgusted.",
+     "\"Who has done this?\" he exclaimed. \"What an unpleasant smell! May the tiger eat whoever is responsible!\"",
+     "He continued up the path, muttering angrily to himself.",
+     "After finishing his work, Mera began walking back down the same path. When he reached the spot again, the smell was still there.",
+     "\"Who could have left such a dreadful mess?\" he complained once more. \"May the tiger eat that person!\"",
+     "Unbeknownst to Mera, a tiger was resting in the nearby forest. The tiger had heard his words both times.",
+     "He wondered who this unfortunate person could be.",
+     "\"Why does Mera keep wishing that I eat someone?\" thought the tiger. \"Who is this person who has caused such trouble?\"",
+     "Curious, the tiger followed Mera along the path. He watched him carefully and waited for an explanation. But Mera continued walking, unaware that he was being followed.",
+     "Eventually, the tiger caught up with him.",
+     "\"You have been asking me to eat the person responsible for that terrible smell,\" the tiger thought. \"Perhaps you are the one who should be punished!\"",
+     "The tiger attacked Mera and ate him.",
+     "When the other humans heard what had happened, they were horrified. They could not understand how their old friend, the tiger, could suddenly turn against them.",
+     "The tigers, too, no longer regarded humans as their brothers. The trust that had once existed between the two disappeared.",
+     "From that day onwards, humans began to fear tigers, while tigers began to regard humans as prey. Their friendship was replaced by suspicion and hostility.",
+     "The old Naga Hills folktale offers a humorous explanation for the beginning of the conflict between humans and tigers. Beneath its humour lies a simple observation: words do not always communicate what we intend them to. A careless remark, especially when misunderstood, can have consequences far beyond what we imagine."
+    ],
+    "hi": [
+     "बहुत समय पहले, जब दुनिया नई-नई बनी थी, मनुष्य और बाघ आपस में शांति से रहते थे। कहा जाता था कि दोनों के पिता एक ही थे और इसलिए वे भाई माने जाते थे। न वे एक-दूसरे का शिकार करते थे और न ही एक-दूसरे से डरते थे। जंगल के रास्तों पर मिलने पर वे आपस में बातें भी कर सकते थे।",
+     "बाघ को ताकत, तेज़ पंजे और शक्तिशाली जबड़े मिले थे। दूसरी ओर, मनुष्य के पास बुद्धि थी और वह अपने हाथों से कई चीज़ें बना सकता था। दोनों एक-दूसरे से बहुत अलग थे, फिर भी बिना किसी डर या शत्रुता के साथ रहते थे।",
+     "उन दिनों बाघ कभी मनुष्य को खाने के बारे में नहीं सोचता था और मनुष्य भी बाघ को मारने की कल्पना नहीं करता था।",
+     "एक दिन मेरा नाम का एक आदमी जंगल के सँकरे रास्ते से जा रहा था। पहाड़ी पर चढ़ते समय उसे सड़क के किनारे से बहुत बुरी गंध आने लगी। किसी ने वहाँ गंदगी फैला रखी थी और मेरा को यह बिल्कुल अच्छा नहीं लगा।",
+     "\"यह किसने किया है?\" वह चिल्लाया। \"कितनी गंदी बदबू आ रही है! जिसने भी ऐसा किया है, उसे बाघ खा जाए!\"",
+     "वह गुस्से में बड़बड़ाता हुआ पहाड़ी पर आगे बढ़ गया।",
+     "अपना काम पूरा करने के बाद मेरा उसी रास्ते से वापस नीचे उतरने लगा। जब वह फिर उसी जगह पहुँचा, तो बदबू अब भी वहाँ मौजूद थी।",
+     "\"आखिर इतनी गंदगी किसने फैलाई है?\" उसने दोबारा शिकायत की। \"बाघ उस व्यक्ति को खा जाए!\"",
+     "मेरा को बिल्कुल पता नहीं था कि पास के जंगल में एक बाघ आराम कर रहा था। बाघ ने उसकी दोनों बातें सुन ली थीं।",
+     "वह सोचने लगा कि आखिर वह दुर्भाग्यशाली व्यक्ति कौन हो सकता है।",
+     "\"मेरा बार-बार मुझसे किसी को खाने के लिए क्यों कह रहा है?\" बाघ ने सोचा। \"आखिर वह कौन है जिसने इतनी गंदगी फैलाई है?\"",
+     "जिज्ञासावश बाघ मेरा के पीछे-पीछे चलने लगा। वह उसे ध्यान से देख रहा था और किसी स्पष्टीकरण की प्रतीक्षा कर रहा था। लेकिन मेरा को इस बात का बिल्कुल एहसास नहीं था कि कोई उसका पीछा कर रहा है।",
+     "कुछ देर बाद बाघ उसके पास पहुँच गया।",
+     "\"तुम मुझसे उस व्यक्ति को खाने के लिए कह रहे थे जिसने इतनी गंदी बदबू फैलाई है,\" बाघ ने सोचा। \"शायद सज़ा तुम्हें ही मिलनी चाहिए!\"",
+     "बाघ ने मेरा पर हमला किया और उसे खा गया।",
+     "जब दूसरे मनुष्यों को इस घटना के बारे में पता चला, तो वे भयभीत हो गए। उन्हें समझ नहीं आया कि उनका पुराना मित्र बाघ अचानक उनका दुश्मन कैसे बन गया।",
+     "बाघों के मन में भी अब मनुष्यों के प्रति भाईचारे की भावना नहीं रही। दोनों के बीच जो विश्वास था, वह समाप्त हो गया।",
+     "उस दिन से मनुष्य बाघों से डरने लगे और बाघ मनुष्यों को अपना शिकार समझने लगे। उनकी दोस्ती की जगह संदेह और शत्रुता ने ले ली।",
+     "नागा पहाड़ियों की यह पुरानी लोककथा हास्यपूर्ण ढंग से समझाती है कि मनुष्य और बाघों के बीच संघर्ष कैसे शुरू हुआ। इसके पीछे एक सरल सीख छिपी है—हमेशा हमारे शब्द वही अर्थ नहीं पहुँचाते जो हम कहना चाहते हैं। बिना सोचे-समझे कही गई बात, विशेषकर जब उसका गलत अर्थ निकाला जाए, ऐसे परिणाम ला सकती है जिनकी हमने कल्पना भी नहीं की होती।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the earliest days, when the world was young and the forests stretched uninterrupted across the hills, humans and tigers were not enemies. According to an old Naga Hills folktale, they were brothers, born of the same father. They shared the forests, encountered one another along winding paths and could communicate freely.",
+     "The two brothers, however, had very different gifts. The tiger possessed enormous physical strength, sharp claws and powerful jaws. The man possessed intelligence, language and the ability to make tools. Neither considered the other a threat. The tiger did not hunt humans, and humans did not hunt tigers.",
+     "Their relationship was one of mutual familiarity and trust.",
+     "But this peaceful arrangement was not to last.",
+     "One day, a man named Mera was travelling along a narrow path through the forest. As he climbed a hill, he came upon an unpleasant sight: someone had left a mess beside the road. The smell was so offensive that Mera immediately began complaining.",
+     "\"Who could have done such a disgusting thing?\" he exclaimed. \"May the tiger eat whoever is responsible!\"",
+     "He continued along the path, repeating his complaint as he walked.",
+     "After some time, Mera began his journey back down the hill. When he reached the same spot, the unpleasant smell was still there. His irritation returned.",
+     "\"Who has left this terrible mess here?\" he cried. \"May the tiger eat that person!\"",
+     "What Mera did not realise was that a tiger was resting nearby. The animal had heard his words as he passed the first time and was now listening again.",
+     "The tiger was puzzled by the repeated wish.",
+     "\"Why does Mera keep asking me to eat someone?\" he wondered. \"Who is this person he speaks of? What has this unknown individual done to deserve such a fate?\"",
+     "The tiger decided to investigate. He followed Mera quietly through the forest, waiting to discover the identity of the person who had offended him so greatly.",
+     "Mera continued walking, entirely unaware that his words had attracted the attention of his old companion.",
+     "Eventually, the tiger caught up with him. Remembering Mera's repeated declaration, he interpreted the situation in the simplest way he could.",
+     "\"If Mera wishes for the tiger to eat the person responsible for this unpleasantness,\" he reasoned, \"then perhaps Mera himself is the person I must eat!\"",
+     "Without further hesitation, the tiger attacked Mera and ate him.",
+     "The news of Mera's death spread among the humans. They were horrified. Until then, they had regarded the tiger as a brother and a companion. They had never imagined that the animal would turn against one of their own.",
+     "The tigers, too, ceased to regard humans as their brothers. What had once been a relationship of trust and familiarity became one of fear and suspicion.",
+     "From that day onwards, the two species became enemies. Humans began to fear the tiger's strength, while the tiger came to regard humans as creatures that could be hunted.",
+     "And so, the old folktale explains, the friendship between the tiger and the man came to an end.",
+     "The tale is humorous in its explanation of a very serious change in the natural world. Yet it also offers an interesting reflection on language and human behaviour. Mera's words were spoken in frustration, without any intention of inviting danger upon himself. But the tiger interpreted them literally, and an apparently harmless complaint became the beginning of a lasting conflict.",
+     "The story reminds us that communication requires more than simply speaking. Words can be misunderstood, and what we say without thinking may have consequences that extend far beyond our immediate intentions."
+    ],
+    "hi": [
+     "बहुत पुराने समय की बात है, जब दुनिया नई-नई बनी थी और जंगल पहाड़ियों में दूर-दूर तक फैले हुए थे। उस समय मनुष्य और बाघ एक-दूसरे के दुश्मन नहीं थे। नागा पहाड़ियों की एक पुरानी लोककथा के अनुसार, दोनों एक ही पिता की संतान थे और भाई माने जाते थे। वे जंगलों को साझा करते थे, घुमावदार रास्तों पर एक-दूसरे से मिलते थे और आपस में बातचीत भी कर सकते थे।",
+     "हालाँकि, दोनों को अलग-अलग विशेषताएँ मिली थीं। बाघ के पास अपार शारीरिक शक्ति, तेज़ पंजे और शक्तिशाली जबड़े थे। मनुष्य के पास बुद्धि, भाषा और औज़ार बनाने की क्षमता थी। दोनों में से कोई भी दूसरे को अपना शत्रु नहीं मानता था। बाघ मनुष्यों का शिकार नहीं करता था और मनुष्य भी बाघों का शिकार नहीं करते थे।",
+     "उनके बीच परिचय, विश्वास और भाईचारे का संबंध था।",
+     "लेकिन यह शांतिपूर्ण व्यवस्था हमेशा नहीं रहने वाली थी।",
+     "एक दिन मेरा नाम का एक आदमी जंगल के सँकरे रास्ते से जा रहा था। पहाड़ी पर चढ़ते समय उसे सड़क के किनारे एक बहुत अप्रिय दृश्य दिखाई दिया। किसी ने वहाँ गंदगी फैला रखी थी। उससे इतनी बुरी बदबू आ रही थी कि मेरा तुरंत शिकायत करने लगा।",
+     "\"आखिर कौन इतनी गंदी हरकत कर सकता है?\" वह चिल्लाया। \"जिसने भी ऐसा किया है, उसे बाघ खा जाए!\"",
+     "वह रास्ते पर आगे बढ़ता रहा और चलते-चलते अपनी शिकायत दोहराता रहा।",
+     "कुछ समय बाद मेरा उसी रास्ते से पहाड़ी के नीचे लौटने लगा। जब वह दोबारा उसी स्थान पर पहुँचा, तो वहाँ की बदबू अब भी बनी हुई थी। उसका गुस्सा फिर से बढ़ गया।",
+     "\"किसने यहाँ इतनी गंदगी फैलाई है?\" वह चिल्लाया। \"बाघ उस व्यक्ति को खा जाए!\"",
+     "मेरा को इस बात का बिल्कुल एहसास नहीं था कि पास ही एक बाघ आराम कर रहा था। जब वह पहली बार वहाँ से गुज़रा था, तब भी बाघ ने उसकी बातें सुनी थीं और अब वह दोबारा उसकी शिकायत सुन रहा था।",
+     "बाघ बार-बार कही जा रही इस इच्छा से उलझन में पड़ गया।",
+     "\"मेरा मुझसे किसी को खाने के लिए क्यों कह रहा है?\" उसने सोचा। \"आखिर वह कौन है जिसकी वह बात कर रहा है? उस अनजान व्यक्ति ने ऐसा क्या किया है कि उसे इतनी बड़ी सज़ा मिलनी चाहिए?\"",
+     "बाघ ने इस रहस्य का पता लगाने का फैसला किया। वह चुपचाप मेरा के पीछे चलने लगा और उस व्यक्ति की पहचान जानने की प्रतीक्षा करने लगा जिसके बारे में मेरा इतनी शिकायत कर रहा था।",
+     "मेरा बिना यह जाने आगे बढ़ता रहा कि उसकी बातों ने उसके पुराने साथी का ध्यान आकर्षित कर लिया है।",
+     "आखिरकार बाघ उसके पास पहुँच गया। उसे मेरा की बार-बार कही हुई बात याद थी। उसने परिस्थिति का सबसे सीधा अर्थ निकाला।",
+     "\"यदि मेरा चाहता है कि मैं उस व्यक्ति को खाऊँ जिसने यह गंदगी फैलाई है,\" उसने सोचा, \"तो शायद वह व्यक्ति स्वयं मेरा ही है!\"",
+     "बिना और कुछ सोचे बाघ ने मेरा पर हमला कर दिया और उसे खा गया।",
+     "मेरा की मृत्यु की खबर दूसरे मनुष्यों तक पहुँची। वे भयभीत हो गए। अब तक वे बाघ को अपना भाई और साथी मानते आए थे। उन्होंने कभी कल्पना भी नहीं की थी कि वह उनके किसी अपने पर हमला कर सकता है।",
+     "बाघों ने भी मनुष्यों को अपना भाई समझना छोड़ दिया। जो संबंध कभी विश्वास और परिचय पर आधारित था, वह अब डर और संदेह में बदल गया।",
+     "उस दिन से दोनों एक-दूसरे के शत्रु बन गए। मनुष्य बाघ की ताकत से डरने लगे और बाघ मनुष्यों को ऐसे जीवों के रूप में देखने लगे जिनका शिकार किया जा सकता था।",
+     "इस तरह, पुरानी लोककथा के अनुसार, बाघ और मनुष्य की दोस्ती समाप्त हो गई।",
+     "यह कहानी एक गंभीर बदलाव की व्याख्या हास्यपूर्ण ढंग से करती है। लेकिन इसके भीतर भाषा और मनुष्य के व्यवहार पर एक रोचक विचार भी छिपा है। मेरा ने अपनी बात गुस्से और झुँझलाहट में कही थी। उसका स्वयं को खतरे में डालने का कोई इरादा नहीं था। लेकिन बाघ ने उसके शब्दों का शाब्दिक अर्थ निकाला और एक साधारण-सी शिकायत एक लंबे संघर्ष की शुरुआत बन गई।",
+     "यह कहानी याद दिलाती है कि संवाद का अर्थ केवल बोलना नहीं होता। हमारी बातों का गलत अर्थ निकाला जा सकता है और बिना सोचे-समझे कही गई बातें ऐसे परिणाम ला सकती हैं जो हमारी तत्काल मंशा से कहीं आगे तक पहुँचते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14,
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Nagaland (Naga Hills)",
+  "community": "Not attributed to a specific community",
+  "tradition": "Animal origin tale about how humans and tigers became enemies."
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "J. H. Hutton, Folk Tales from the Naga Hills of Assam; published retelling by the Centre for Contemporary Folklore (CCF). Told here as a Naga Hills folktale; no specific community is attributed.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-077-006",
+ "meta": [
+  "How Humans and Tigers Became Enemies",
+  "Nagaland Naga Hills folktale",
+  "Story origins",
+  "● Original source: J. H. Hutton, Folk Tales from the Naga Hills of Assam. ● Published retelling: Centre for Contemporary Folklore. ● Tradition: Naga Hills oral folklore. ● Community attribution: Not specified in the accessible source. ● Genre: Animal origin tale. ● Themes: Language, unintended consequences, human–animal relationships and the origins of conflict.",
+  "The original narrative: In the beginning, humans and tigers shared the same father. They did not hunt one another and could even speak to each other. One day, a man named Mera repeatedly complained about a bad smell along a path, wishing aloud that a tiger would eat whoever was responsible. The tiger heard him, took his words literally and ate him. From then onwards, humans and tigers became enemies.",
+  "Centre for Contemporary Folklore (CCF)"
+ ]
+}

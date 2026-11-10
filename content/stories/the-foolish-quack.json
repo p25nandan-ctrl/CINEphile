@@ -1,0 +1,610 @@
+{
+ "id": "the-foolish-quack",
+ "state": "hr",
+ "title": "The Foolish Quack",
+ "titleHi": "मूर्ख नीम-हकीम",
+ "summary": "A man sees a camel cured of choking by a blanket and a mallet and decides to become a doctor. His copycat treatment goes terribly wrong until a traveller teaches him a hard lesson.",
+ "summarySource": "written for this site",
+ "genre": "Animal and humour tale / cautionary tale",
+ "from": "Folktale catalogued as Haryana, retold from Indian Nights’ Entertainment (Upper Indus)",
+ "origLevel": 2,
+ "levelReason": "Sentences average about 11.7 words, vocabulary is moderate (fascinated, physician, goitre, astonished, disbelief) and sentences are mostly straightforward with connectors, with little added atmosphere, so the supplied text matches Level 2.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "One evening, some travellers stopped to rest under some trees.",
+     "They had camels with them. The camels ate grass nearby.",
+     "One camel wandered into a melon field. It ate a melon, and a big piece stuck in its throat. The camel could not breathe well.",
+     "Its owner ran to help. He wrapped a blanket around its neck. He hit the swollen part with a big wooden hammer. The melon broke, and the camel swallowed it. Soon the camel was fine.",
+     "A man was watching from far away. He had never seen a cure like this. He thought, “What a great trick! I will become a doctor.”",
+     "He went to the next village. He said, “I am a clever doctor. I can cure goitre, a swelling in the neck.”",
+     "The villagers were happy to hear this. An old woman with a very swollen neck came to him. “Son, if you cure me, I will bless you always,” she said.",
+     "The man said, “Of course! Bring me a blanket and a big mallet.” The villagers hurried to bring them.",
+     "The quack tied the blanket tightly around her neck. He hit the swollen place with all his strength. The poor woman died at once. The villagers were shocked. “What have you done?” they shouted.",
+     "They grabbed the foolish doctor. They wanted to take him to the king. But then they chose another punishment. They made him dig the old woman’s grave. Then they beat him and sent him away.",
+     "The quack was badly shaken. But he did not give up being a doctor. He went to another village. Again he said he could cure goitre.",
+     "This time an old man came to him. First, the quack wanted to keep himself safe. “Listen,” he told the villagers. “I will try my best. But if this man dies, promise me that you will not make me dig his grave.”",
+     "The villagers were amazed. “What kind of doctor talks about death before the treatment even starts?” they cried. They chased him away before he could hurt anyone else.",
+     "The quack was confused and upset. He went back to the travellers with the camels. He said the villagers did not understand his skill.",
+     "“I saw your camel choke on a melon,” he said. “You tied a blanket on its neck and hit it with a mallet. The melon broke, and the camel got well. So I did the same to an old woman with a swollen neck. But she died! The villagers made me dig her grave and beat me.”",
+     "The camel owners stared at him. One said, “You foolish man! Do you really think what works for a strong camel will work for a weak old woman?” The quack bowed his head.",
+     "Another traveller wanted to teach him a lesson. He pointed to a camel nearby. “Look carefully. I will show you why you were wrong.” He picked up a heavy stick and hit the camel. The camel hardly noticed. It just stepped forward.",
+     "“Now see what happens to a human!” He hit the quack just as hard. The quack fell down.",
+     "When he woke up, he was angry. “Why did you hit me so hard?” he said. The traveller answered calmly, “Now you understand. What a strong camel can bear may harm a person. Never think that a cure for one creature will work for another.”",
+     "The foolish quack finally understood. He had copied what he saw. He did not know why it worked, or if it was safe.",
+     "He promised never to pretend to be a doctor again. And so his foolishness became a lesson for all who saw it.",
+     "Moral: Never copy something without understanding it. What works in one place may be harmful in another."
+    ],
+    "hi": [
+     "एक शाम कुछ यात्री पेड़ों के नीचे आराम करने रुके।",
+     "उनके साथ ऊँट थे। ऊँट पास ही घास चर रहे थे।",
+     "एक ऊँट भटककर खरबूज़े के खेत में चला गया। उसने खरबूज़ा खाया और एक बड़ा टुकड़ा उसके गले में अटक गया। ऊँट का दम घुटने लगा।",
+     "उसका मालिक दौड़ा आया। उसने ऊँट की गर्दन पर कंबल लपेटा। फिर सूजी हुई जगह पर बड़े हथौड़े से चोट मारी। खरबूज़ा टूट गया और ऊँट ने उसे निगल लिया। ऊँट जल्दी ठीक हो गया।",
+     "एक आदमी दूर से सब देख रहा था। उसने ऐसा इलाज पहले कभी नहीं देखा था। उसने सोचा, “वाह, क्या तरकीब है! मैं भी वैद्य बनूँगा।”",
+     "वह अगले गाँव गया। उसने कहा, “मैं होशियार वैद्य हूँ। मैं घेंघा ठीक कर सकता हूँ, यानी गर्दन की सूजन।”",
+     "गाँव वाले यह सुनकर खुश हुए। एक बूढ़ी औरत की गर्दन बहुत सूजी थी। वह उसके पास आई। “बेटा, तुमने ठीक कर दिया तो मैं हमेशा दुआ दूँगी,” उसने कहा।",
+     "आदमी बोला, “ज़रूर! एक कंबल और बड़ा हथौड़ा लाओ।” गाँव वाले जल्दी से ले आए।",
+     "नकली वैद्य ने कंबल उसकी गर्दन पर कसकर लपेटा। फिर पूरी ताकत से सूजी जगह पर चोट मारी। बेचारी बूढ़ी औरत उसी पल मर गई। गाँव वाले सन्न रह गए। “यह तुमने क्या किया?” वे चिल्लाए।",
+     "उन्होंने उस मूर्ख वैद्य को पकड़ लिया। वे उसे राजा के पास ले जाना चाहते थे। पर फिर उन्होंने दूसरी सज़ा चुनी। उससे बूढ़ी औरत की कब्र खुदवाई। फिर उसे पीटा और गाँव से भगा दिया।",
+     "नकली वैद्य बहुत घबरा गया। पर उसने वैद्य बनना नहीं छोड़ा। वह दूसरे गाँव गया। फिर कहा कि वह घेंघा ठीक कर सकता है।",
+     "इस बार एक बूढ़ा आदमी इलाज कराने आया। पर शुरू करने से पहले वैद्य ने अपना बचाव सोचा। उसने गाँव वालों से कहा, “सुनो। मैं पूरी कोशिश करूँगा। पर अगर यह आदमी मर गया, तो वादा करो कि मुझसे इसकी कब्र नहीं खुदवाओगे।”",
+     "गाँव वाले हैरान रह गए। “यह कैसा वैद्य है जो इलाज से पहले ही मौत की बात करता है?” वे बोले। उन्होंने उसे भगा दिया, ताकि वह किसी और को नुकसान न पहुँचाए।",
+     "वह उलझन और गुस्से में उन्हीं यात्रियों के पास लौटा जिनका ऊँट उसने देखा था। उसने शिकायत की कि गाँव वाले उसकी कला नहीं समझते।",
+     "“मैंने तुम्हारे ऊँट का दम खरबूज़े से घुटते देखा,” उसने कहा। “तुमने उसकी गर्दन पर कंबल बाँधा और हथौड़े से मारा। खरबूज़ा टूटा और ऊँट ठीक हो गया। मैंने भी एक सूजी गर्दन वाली बूढ़ी औरत पर यही किया। पर वह मर गई! गाँव वालों ने मुझे पैसे देने के बजाय उसकी कब्र खुदवाई और मुझे पीटा।”",
+     "ऊँट वालों ने हैरानी से एक-दूसरे को देखा। आख़िर एक ने कहा, “अरे मूर्ख! क्या तुम सच में सोचते हो कि जो ताकतवर ऊँट पर काम करे, वही कमज़ोर बूढ़ी औरत पर भी करेगा?” वैद्य ने सिर झुका लिया।",
+     "पर एक और यात्री उसे ऐसा सबक सिखाना चाहता था जो वह कभी न भूले। उसने पास चरते एक ऊँट की ओर इशारा किया। “ध्यान से देखो। मैं दिखाता हूँ कि तुम्हारा इलाज क्यों गलत था।” उसने एक भारी डंडा उठाया और ऊँट को मारा। ऊँट पर कोई खास असर नहीं हुआ। वह बस कुछ कदम आगे बढ़ गया।",
+     "“अब देखो, यही इलाज इंसान पर करने से क्या होता है!” उसने उतनी ही ज़ोर से नकली वैद्य को मारा। वैद्य ज़मीन पर गिर पड़ा।",
+     "होश आने पर वह गुस्से से भर गया। “तुमने मुझे इतनी बेरहमी से क्यों मारा?” उसने पूछा। यात्री ने शांति से कहा, “अब तुम समझे। जो चोट ताकतवर ऊँट सह लेता है, वह इंसान के लिए खतरनाक हो सकती है। कभी मत सोचो कि एक जीव का इलाज दूसरे पर भी चलेगा।”",
+     "मूर्ख वैद्य को आख़िर अपनी गलती समझ आई। उसने जो देखा था, उसकी नकल कर ली थी। उसे पता नहीं था कि वह इलाज क्यों काम करता है, या सुरक्षित है भी या नहीं।",
+     "उसने वादा किया कि फिर कभी वैद्य होने का नाटक नहीं करेगा। और इस तरह उसकी मूर्खता सबके लिए सबक बन गई।",
+     "सीख: किसी चीज़ की नकल तब तक मत करो जब तक उसे समझ न लो। जो एक जगह काम आए, वह दूसरी जगह नुकसान कर सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "travellers",
+     "en": "people on a journey",
+     "hi": "यात्री"
+    },
+    {
+     "w": "grass",
+     "en": "the green plants that animals eat",
+     "hi": "घास"
+    },
+    {
+     "w": "wandered",
+     "en": "walked around without a plan",
+     "hi": "भटका"
+    },
+    {
+     "w": "swollen",
+     "en": "puffed up, bigger than normal",
+     "hi": "सूजा हुआ"
+    },
+    {
+     "w": "mallet",
+     "en": "a big wooden hammer",
+     "hi": "हथौड़ा"
+    },
+    {
+     "w": "goitre",
+     "en": "a swelling in the neck",
+     "hi": "घेंघा"
+    },
+    {
+     "w": "quack",
+     "en": "a person who pretends to be a doctor",
+     "hi": "नीम-हकीम"
+    },
+    {
+     "w": "strength",
+     "en": "power in your body",
+     "hi": "ताकत"
+    },
+    {
+     "w": "punishment",
+     "en": "a penalty for doing wrong",
+     "hi": "सज़ा"
+    },
+    {
+     "w": "grave",
+     "en": "the place where a dead person is buried",
+     "hi": "कब्र"
+    },
+    {
+     "w": "confused",
+     "en": "not sure what is happening",
+     "hi": "उलझन में"
+    },
+    {
+     "w": "copied",
+     "en": "did the same as someone else",
+     "hi": "नकल की"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Events",
+     "q": "What happened to the camel in the melon field, and how was it helped?"
+    },
+    {
+     "k": "Characters",
+     "q": "What did the man decide to do after watching the camel get better?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the villagers feel when the old woman died?"
+    },
+    {
+     "k": "The end",
+     "q": "What lesson did the traveller teach the quack with the stick?"
+    },
+    {
+     "k": "Connect",
+     "q": "Have you ever copied something you saw without knowing how it works? What happened?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "One evening, as the sun was setting, a group of travellers stopped to rest beneath a cluster of trees.",
+     "They had several camels with them, and after settling down, they allowed the animals to graze nearby.",
+     "One of the camels wandered away and entered a melon field. As it began eating the melons, something unfortunate happened. A large piece of melon became stuck in its throat. The camel struggled to swallow it and began choking.",
+     "Its owner rushed towards the animal. Fearing that his camel might die, he quickly wrapped a blanket around its neck and struck the swollen area with a heavy mallet. The blow crushed the melon, allowing the camel to swallow it. The animal soon recovered.",
+     "A man who had been watching the entire incident from a distance was fascinated. He had never seen such a method of treating an illness before. Thinking that he had discovered a wonderful medical technique, he decided to become a doctor himself.",
+     "He picked up his belongings and travelled to the next village. There, he announced that he was a skilled physician who could cure people suffering from goitre, a condition that causes swelling in the neck.",
+     "The villagers were pleased to hear that a doctor had arrived. An elderly woman, whose neck was severely swollen, approached him. “Oh, my son! If you can cure my illness, I shall bless you forever,” she pleaded.",
+     "The man confidently agreed. “Of course! Bring me a blanket and a large mallet.” The villagers hurried to fetch the things he requested.",
+     "The quack wrapped the blanket tightly around the woman’s neck and struck the swollen area with all his strength. The poor woman died instantly. The villagers were horrified. “What have you done?” they shouted.",
+     "They seized the foolish doctor and threatened to take him before the king. After discussing the matter, however, they decided on another punishment. They forced him to dig the old woman’s grave. Once he had completed the task, they beat him and ordered him to leave the village.",
+     "The quack was badly shaken, but he did not abandon his new profession. He travelled to another village and once again announced that he was a great doctor who could cure goitre.",
+     "This time, an old man came forward seeking treatment. But before beginning, the quack decided to protect himself. “Listen carefully,” he told the villagers. “I shall try my best to cure this man. But if he dies during the treatment, you must promise that you will not force me to dig his grave.”",
+     "The villagers were astonished. “What kind of doctor talks about a patient’s death before even beginning the treatment?” they exclaimed. They chased him away before he could harm anyone else.",
+     "Confused and frustrated, the quack returned to the travellers whose camel he had observed earlier. He complained that the villagers did not understand his medical skills.",
+     "“I saw your camel choking on a melon,” he explained. “You tied a blanket around its neck and struck it with a mallet. The melon broke, and the camel recovered. So I tried the same treatment on an old woman suffering from a swollen neck. But she died! Instead of paying me, the villagers forced me to dig her grave and beat me.”",
+     "The camel owners looked at one another in disbelief. Finally, one of them replied: “You foolish man! Do you really think that what works for a powerful camel will also work for a weak old woman?” The quack lowered his head.",
+     "But another traveller decided to teach him a lesson he would never forget. He pointed towards a camel grazing nearby and said: “Look carefully. I shall demonstrate why your treatment was foolish.” He picked up a heavy stick and struck the camel. The animal barely reacted. It simply moved a few steps forward.",
+     "“Now observe what happens when I use the same treatment on a human being!” The man then struck the quack with the same force. The quack fell to the ground.",
+     "When he regained consciousness, he was furious. “Why did you hit me so cruelly?” he demanded. The traveller replied calmly: “Now you understand. What a strong camel can withstand may be dangerous to a human being. You should never assume that a treatment suitable for one creature will work for another.”",
+     "The foolish quack finally understood his mistake. He realised that he had imitated something he had seen without understanding why it worked or whether it was safe.",
+     "He promised never again to pretend to be a doctor. And so, his foolishness became a lesson for everyone who witnessed his adventures.",
+     "Moral: Never imitate something without understanding it. What works in one situation may be harmful in another."
+    ],
+    "hi": [
+     "एक शाम, जब सूरज ढल रहा था, यात्रियों की एक टोली कुछ पेड़ों के नीचे आराम करने रुकी।",
+     "उनके साथ कई ऊँट थे। डेरा जमाने के बाद उन्होंने ऊँटों को पास ही चरने के लिए छोड़ दिया।",
+     "एक ऊँट भटककर खरबूज़े के खेत में जा पहुँचा। खरबूज़े खाते-खाते एक बुरी बात हो गई। खरबूज़े का एक बड़ा टुकड़ा उसके गले में फँस गया। ऊँट निगलने की कोशिश करता रहा और उसका दम घुटने लगा।",
+     "उसका मालिक भागकर आया। ऊँट के मर जाने के डर से उसने जल्दी से उसकी गर्दन पर कंबल लपेटा और सूजी हुई जगह पर भारी हथौड़े से चोट की। चोट से खरबूज़ा चूर हो गया और ऊँट उसे निगल गया। ऊँट जल्दी ही ठीक हो गया।",
+     "एक आदमी दूर से यह सब देख रहा था। वह हैरान रह गया। उसने बीमारी का ऐसा इलाज पहले कभी नहीं देखा था। उसे लगा कि उसके हाथ इलाज की कोई अनोखी तरकीब लग गई है, और उसने खुद वैद्य बनने की ठान ली।",
+     "वह अपना सामान उठाकर अगले गाँव चला गया। वहाँ उसने ऐलान किया कि वह एक कुशल वैद्य है और घेंघे के रोगियों को ठीक कर सकता है। घेंघा एक बीमारी है जिसमें गर्दन सूज जाती है।",
+     "गाँव वाले खुश हुए कि उनके यहाँ वैद्य आया है। एक बूढ़ी औरत, जिसकी गर्दन बहुत सूजी हुई थी, उसके पास आई। “अरे बेटा! अगर तुम मेरी बीमारी ठीक कर दो तो मैं तुम्हें हमेशा आशीर्वाद दूँगी,” उसने गिड़गिड़ाकर कहा।",
+     "आदमी ने पूरे भरोसे से हामी भर दी। “ज़रूर! एक कंबल और बड़ा हथौड़ा लाओ।” गाँव वाले दौड़कर उसकी माँगी चीज़ें ले आए।",
+     "नीम-हकीम ने कंबल औरत की गर्दन पर कसकर लपेटा और पूरी ताकत से सूजी जगह पर चोट की। बेचारी बूढ़ी औरत उसी क्षण मर गई। गाँव वाले सहम गए। “तुमने यह क्या कर दिया?” वे चिल्लाए।",
+     "उन्होंने उस मूर्ख वैद्य को पकड़ लिया और धमकी दी कि उसे राजा के सामने ले जाएँगे। लेकिन आपस में बात करके उन्होंने कोई और सज़ा तय की। उन्होंने उससे बूढ़ी औरत की कब्र खुदवाई। काम पूरा होने पर उसे पीटा और गाँव छोड़ने का हुक्म दे दिया।",
+     "नीम-हकीम बुरी तरह हिल गया था, फिर भी उसने अपना नया पेशा नहीं छोड़ा। वह दूसरे गाँव गया और फिर ऐलान किया कि वह बड़ा वैद्य है और घेंघा ठीक कर सकता है।",
+     "इस बार एक बूढ़ा आदमी इलाज के लिए आगे आया। लेकिन शुरू करने से पहले नीम-हकीम ने अपने बचाव की सोची। “ध्यान से सुनो,” उसने गाँव वालों से कहा। “मैं इस आदमी को ठीक करने की पूरी कोशिश करूँगा। लेकिन अगर इलाज के दौरान यह मर जाए, तो तुम वादा करो कि मुझसे इसकी कब्र नहीं खुदवाओगे।”",
+     "गाँव वाले दंग रह गए। “यह कैसा वैद्य है जो इलाज शुरू होने से पहले ही मरीज़ की मौत की बात करता है?” वे बोल पड़े। उन्होंने उसे खदेड़ दिया, ताकि वह किसी और को नुकसान न पहुँचा सके।",
+     "उलझन और खीझ से भरा नीम-हकीम उन्हीं यात्रियों के पास लौटा जिनका ऊँट उसने पहले देखा था। उसने शिकायत की कि गाँव वाले उसकी वैद्यकी की कला को नहीं समझते।",
+     "“मैंने तुम्हारे ऊँट को खरबूज़े से दम घुटते देखा,” उसने बताया। “तुमने उसकी गर्दन पर कंबल बाँधा और हथौड़े से चोट की। खरबूज़ा टूट गया और ऊँट ठीक हो गया। इसलिए मैंने भी गर्दन की सूजन वाली एक बूढ़ी औरत पर यही इलाज आज़माया। पर वह मर गई! पैसे देने के बजाय गाँव वालों ने मुझसे उसकी कब्र खुदवाई और मुझे पीटा।”",
+     "ऊँट के मालिकों ने अविश्वास से एक-दूसरे को देखा। आख़िर उनमें से एक ने कहा, “अरे मूर्ख! क्या तुम सचमुच सोचते हो कि जो इलाज ताकतवर ऊँट पर चलता है, वह कमज़ोर बूढ़ी औरत पर भी चलेगा?” नीम-हकीम ने सिर झुका लिया।",
+     "लेकिन एक और यात्री ने तय किया कि वह उसे ऐसा सबक देगा जिसे वह कभी न भूले। उसने पास में चरते एक ऊँट की ओर इशारा करके कहा, “ध्यान से देखो। मैं दिखाता हूँ कि तुम्हारा इलाज क्यों मूर्खता था।” उसने एक भारी डंडा उठाया और ऊँट पर मारा। ऊँट पर मुश्किल से कोई असर हुआ। वह बस कुछ कदम आगे सरक गया।",
+     "“अब देखो कि यही इलाज इंसान पर करने से क्या होता है!” फिर उस आदमी ने उतनी ही ताकत से नीम-हकीम को मारा। नीम-हकीम ज़मीन पर गिर पड़ा।",
+     "होश आने पर वह गुस्से से भर उठा। “तुमने मुझे इतनी बेरहमी से क्यों मारा?” उसने पूछा। यात्री ने शांति से जवाब दिया, “अब तुम्हें समझ आया। जो चोट एक ताकतवर ऊँट सह लेता है, वह इंसान के लिए खतरनाक हो सकती है। यह कभी मत मान लेना कि एक जीव के लिए ठीक इलाज दूसरे पर भी काम करेगा।”",
+     "मूर्ख नीम-हकीम को आख़िर अपनी गलती समझ आ गई। उसने एक चीज़ देखकर उसकी नकल कर ली थी, यह समझे बिना कि वह काम क्यों करती है या सुरक्षित है भी या नहीं।",
+     "उसने वादा किया कि वह फिर कभी वैद्य होने का नाटक नहीं करेगा। और इस तरह उसकी मूर्खता उसके कारनामे देखने वाले सबके लिए एक सबक बन गई।",
+     "सीख: किसी चीज़ को समझे बिना उसकी नकल मत करो। जो एक हालात में काम आता है, वह दूसरे में नुकसान कर सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "travellers",
+     "en": "people who journey from place to place",
+     "hi": "यात्री"
+    },
+    {
+     "w": "graze",
+     "en": "to feed on grass",
+     "hi": "चरना"
+    },
+    {
+     "w": "choking",
+     "en": "unable to breathe because something is stuck",
+     "hi": "दम घुटना"
+    },
+    {
+     "w": "swollen",
+     "en": "bigger than normal because of illness or injury",
+     "hi": "सूजा हुआ"
+    },
+    {
+     "w": "mallet",
+     "en": "a heavy hammer with a large head",
+     "hi": "हथौड़ा"
+    },
+    {
+     "w": "fascinated",
+     "en": "very interested",
+     "hi": "मोहित"
+    },
+    {
+     "w": "physician",
+     "en": "a doctor",
+     "hi": "वैद्य"
+    },
+    {
+     "w": "goitre",
+     "en": "an illness where the neck swells",
+     "hi": "घेंघा"
+    },
+    {
+     "w": "horrified",
+     "en": "very shocked and scared",
+     "hi": "भयभीत"
+    },
+    {
+     "w": "astonished",
+     "en": "very surprised",
+     "hi": "दंग"
+    },
+    {
+     "w": "disbelief",
+     "en": "not being able to believe something",
+     "hi": "अविश्वास"
+    },
+    {
+     "w": "imitated",
+     "en": "copied",
+     "hi": "नकल की"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motive",
+     "q": "Why did the man decide to become a doctor?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why did the old woman die when the camel had lived?"
+    },
+    {
+     "k": "Decision",
+     "q": "Why did the quack promise before treating the old man that he would not have to dig a grave? What did that tell the villagers?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "Why did the traveller hit the camel and then the quack? What was he trying to show?"
+    },
+    {
+     "k": "Consequence",
+     "q": "What could the quack have done differently before treating the old woman?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "One evening, as the sun sank toward the horizon, a band of travellers halted to rest beneath a cluster of trees.",
+     "Several camels travelled with them, and once the party had settled, the animals were left to graze at a short distance.",
+     "One camel wandered off and found its way into a melon field. As it feasted, misfortune struck: a large chunk of melon lodged in its throat, and the struggling animal began to choke.",
+     "Its owner rushed to its side. Terrified that his camel might die, he swiftly wound a blanket around its neck and struck the swollen spot with a heavy mallet. The blow crushed the melon, the camel swallowed, and before long it was well again.",
+     "A man who had been watching the whole scene from afar was fascinated. He had never witnessed such a way of curing an ailment. Convinced that he had stumbled upon a marvellous medical secret, he resolved to become a doctor himself.",
+     "Gathering his belongings, he journeyed to the next village. There he proclaimed himself a skilled physician who could cure goitre, an illness that causes swelling in the neck.",
+     "The villagers were delighted that a doctor had come. An elderly woman, her neck badly swollen, came forward. “Oh, my son! If you can cure my illness, I shall bless you forever,” she pleaded.",
+     "The man agreed with great confidence. “Of course! Bring me a blanket and a large mallet.” The villagers hurried off to fetch whatever he had asked for.",
+     "The quack bound the blanket tightly around the woman’s neck and struck the swollen place with all his strength. The poor woman died on the spot. Horror swept through the crowd. “What have you done?” they cried.",
+     "They seized the foolish doctor and threatened to haul him before the king. After talking it over, however, they settled on a different punishment. They forced him to dig the old woman’s grave, and when it was finished, they beat him and ordered him out of the village.",
+     "The quack was badly shaken, yet he would not give up his new profession. He wandered to another village and once more announced that he was a great doctor who could cure goitre.",
+     "This time an old man stepped forward for treatment. But before he began, the quack decided to guard himself. “Listen carefully,” he told the villagers. “I shall do my best to cure this man. But if he dies during the treatment, you must promise not to force me to dig his grave.”",
+     "The villagers were astonished. “What kind of doctor speaks of a patient’s death before the treatment has even begun?” they exclaimed. They drove him away before he could harm anyone else.",
+     "Bewildered and bitter, the quack returned to the travellers whose camel he had watched earlier. He complained that the villagers had failed to appreciate his medical skill.",
+     "“I saw your camel choking on a melon,” he explained. “You tied a blanket around its neck and struck it with a mallet. The melon broke, and the camel recovered. So I tried the same treatment on an old woman with a swollen neck. But she died! Instead of paying me, the villagers forced me to dig her grave and beat me.”",
+     "The camel owners stared at one another in disbelief. At last one of them replied, “You foolish man! Do you really think that what works for a powerful camel will work just as well for a weak old woman?” The quack bowed his head.",
+     "But another traveller resolved to teach him a lesson he would never forget. Pointing to a camel grazing nearby, he said, “Look carefully. I shall show you why your treatment was foolish.” He lifted a heavy stick and struck the camel. The animal barely reacted; it merely shuffled a few steps forward.",
+     "“Now watch what happens when I use the same treatment on a human being!” The man struck the quack with equal force, and the quack crumpled to the ground.",
+     "When he came to, he was furious. “Why did you hit me so cruelly?” he demanded. The traveller answered calmly, “Now you understand. What a strong camel can endure may be dangerous to a human being. Never assume that a treatment suited to one creature will work for another.”",
+     "At last the foolish quack understood his mistake. He had copied something he had seen without grasping why it worked, or whether it was safe at all.",
+     "He vowed never again to pose as a doctor. And so his foolishness became a lesson for everyone who witnessed his misadventures.",
+     "Moral: Never imitate what you do not understand. What helps in one situation may do harm in another."
+    ],
+    "hi": [
+     "एक शाम, जब सूरज क्षितिज की ओर ढल रहा था, यात्रियों की एक टोली ने पेड़ों के एक झुरमुट के नीचे आराम करने के लिए पड़ाव डाला।",
+     "उनके साथ कई ऊँट थे, और जब सब टिक गए तो जानवरों को कुछ दूरी पर चरने के लिए खुला छोड़ दिया गया।",
+     "एक ऊँट भटकते-भटकते खरबूज़े के एक खेत में जा पहुँचा। मज़े से खाते हुए अचानक विपत्ति आ गई: खरबूज़े का एक बड़ा टुकड़ा उसके गले में अटक गया और बेचैन ऊँट का दम घुटने लगा।",
+     "उसका मालिक दौड़कर उसके पास पहुँचा। ऊँट के मर जाने की आशंका से घबराकर उसने झट से उसकी गर्दन पर कंबल लपेटा और सूजी हुई जगह पर भारी हथौड़े से वार किया। चोट से खरबूज़ा चूर हो गया, ऊँट ने उसे निगल लिया और कुछ ही देर में वह फिर स्वस्थ हो गया।",
+     "दूर से यह पूरा दृश्य देख रहा एक आदमी मोहित रह गया। उसने रोग के इलाज का ऐसा तरीका पहले कभी नहीं देखा था। उसे पक्का यकीन हो गया कि उसके हाथ चिकित्सा का कोई अद्भुत रहस्य लग गया है, और उसने स्वयं वैद्य बनने का निश्चय कर लिया।",
+     "अपना सामान समेटकर वह अगले गाँव जा पहुँचा। वहाँ उसने खुद को कुशल वैद्य घोषित किया, जो घेंघे का इलाज कर सकता है, वह रोग जिसमें गर्दन सूज जाती है।",
+     "गाँव वाले यह जानकर प्रसन्न हुए कि उनके बीच वैद्य आया है। एक बूढ़ी औरत, जिसकी गर्दन बुरी तरह सूजी थी, आगे आई। “अरे बेटा! अगर तू मेरा रोग दूर कर दे तो मैं तुझे सदा आशीर्वाद दूँगी,” उसने गिड़गिड़ाकर कहा।",
+     "आदमी ने पूरे आत्मविश्वास से हामी भरी। “ज़रूर! एक कंबल और एक बड़ा हथौड़ा ले आओ।” गाँव वाले उसकी माँगी चीज़ें लाने दौड़ पड़े।",
+     "नीम-हकीम ने कंबल औरत की गर्दन पर कसकर बाँधा और पूरी ताकत से सूजी जगह पर वार किया। बेचारी बूढ़ी औरत उसी क्षण चल बसी। भीड़ में सन्नाटा छा गया, फिर सब चीख उठे, “यह तुमने क्या कर डाला?”",
+     "उन्होंने उस मूर्ख वैद्य को दबोच लिया और धमकी दी कि उसे राजा के सामने पेश करेंगे। पर आपस में सलाह करके उन्होंने कोई और दंड चुना। उन्होंने उससे बूढ़ी औरत की कब्र खुदवाई, और काम पूरा होते ही उसे पीटकर गाँव से निकल जाने का हुक्म दिया।",
+     "नीम-हकीम बुरी तरह हिल गया था, फिर भी उसने अपना नया पेशा छोड़ने का नाम नहीं लिया। वह एक और गाँव में भटकता पहुँचा और फिर घोषणा की कि वह महान वैद्य है जो घेंघा ठीक कर देता है।",
+     "इस बार एक बूढ़ा आदमी इलाज कराने के लिए आगे बढ़ा। पर शुरू करने से पहले नीम-हकीम ने अपनी सुरक्षा की सोची। “ध्यान से सुनो,” उसने गाँव वालों से कहा। “मैं इसे ठीक करने की पूरी कोशिश करूँगा। लेकिन अगर इलाज के दौरान यह मर जाए, तो तुम वचन दो कि मुझसे इसकी कब्र नहीं खुदवाओगे।”",
+     "गाँव वाले अचंभे में पड़ गए। “यह कैसा वैद्य है जो इलाज शुरू होने से पहले ही रोगी की मृत्यु की बात करने लगा?” वे बोल उठे। उन्होंने उसे वहाँ से खदेड़ दिया, इससे पहले कि वह किसी और को हानि पहुँचाए।",
+     "हक्का-बक्का और कड़वाहट से भरा नीम-हकीम उन्हीं यात्रियों के पास लौटा जिनका ऊँट उसने पहले देखा था। उसने शिकायत की कि गाँव वाले उसकी चिकित्सा-कुशलता की कद्र नहीं कर पाए।",
+     "“मैंने तुम्हारे ऊँट को खरबूज़े से दम घुटते देखा था,” उसने समझाया। “तुमने उसकी गर्दन पर कंबल बाँधा और हथौड़े से वार किया। खरबूज़ा टूट गया और ऊँट ठीक हो गया। सो मैंने भी गर्दन की सूजन से पीड़ित एक बूढ़ी औरत पर वही इलाज आज़माया। पर वह मर गई! मुझे पैसे देने के बजाय गाँव वालों ने मुझसे उसकी कब्र खुदवाई और मुझे पीटा।”",
+     "ऊँट के मालिक अविश्वास से एक-दूसरे का मुँह ताकते रह गए। आख़िर उनमें से एक बोला, “अरे मूर्ख! क्या तू सचमुच समझता है कि जो इलाज बलवान ऊँट पर चल जाता है, वह कमज़ोर बूढ़ी औरत पर भी उतना ही चलेगा?” नीम-हकीम ने सिर झुका लिया।",
+     "किंतु एक और यात्री ने ठान लिया कि वह उसे ऐसा सबक देगा जो वह जीवन भर न भूले। पास में चर रहे एक ऊँट की ओर इशारा करके उसने कहा, “ध्यान से देखो। मैं दिखाता हूँ कि तुम्हारा इलाज क्यों मूर्खतापूर्ण था।” उसने एक भारी डंडा उठाकर ऊँट पर मारा। ऊँट पर मुश्किल से कुछ असर हुआ; वह बस कुछ कदम आगे सरक गया।",
+     "“अब देखो कि यही इलाज किसी इंसान पर करने से क्या होता है!” उस आदमी ने उतने ही ज़ोर से नीम-हकीम पर प्रहार किया, और नीम-हकीम लड़खड़ाकर धरती पर ढेर हो गया।",
+     "होश आने पर वह क्रोध से भर उठा। “तुमने मुझे इतनी निर्दयता से क्यों मारा?” उसने माँग की। यात्री ने शांति से उत्तर दिया, “अब तुम्हें समझ आया। जिस चोट को बलवान ऊँट सह जाता है, वह इंसान के लिए जानलेवा हो सकती है। कभी यह मत मान लेना कि जो इलाज एक प्राणी के लिए ठीक है, वह दूसरे पर भी काम करेगा।”",
+     "आख़िरकार मूर्ख नीम-हकीम को अपनी भूल समझ आ गई। उसने बिना यह जाने नकल कर ली थी कि जो कुछ उसने देखा, वह काम क्यों करता है, या वह सुरक्षित भी है अथवा नहीं।",
+     "उसने प्रण किया कि वह फिर कभी वैद्य बनने का ढोंग नहीं करेगा। और इस तरह उसकी मूर्खता उसके कारनामों के हर गवाह के लिए एक सबक बन गई।",
+     "सीख: जिसे समझते नहीं, उसकी नकल कभी मत करो। जो एक परिस्थिति में हितकर है, वह दूसरी में हानिकारक हो सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "halted",
+     "en": "stopped",
+     "hi": "रुके"
+    },
+    {
+     "w": "graze",
+     "en": "to feed on grass in a field",
+     "hi": "चरना"
+    },
+    {
+     "w": "lodged",
+     "en": "became firmly stuck",
+     "hi": "अटक गया"
+    },
+    {
+     "w": "ailment",
+     "en": "an illness, usually a minor one",
+     "hi": "रोग"
+    },
+    {
+     "w": "resolved",
+     "en": "made up his mind firmly",
+     "hi": "निश्चय किया"
+    },
+    {
+     "w": "proclaimed",
+     "en": "announced loudly and publicly",
+     "hi": "घोषित किया"
+    },
+    {
+     "w": "physician",
+     "en": "a trained doctor",
+     "hi": "वैद्य"
+    },
+    {
+     "w": "bewildered",
+     "en": "very confused",
+     "hi": "हक्का-बक्का"
+    },
+    {
+     "w": "disbelief",
+     "en": "refusal or inability to believe",
+     "hi": "अविश्वास"
+    },
+    {
+     "w": "crumpled",
+     "en": "collapsed suddenly",
+     "hi": "ढेर हो गया"
+    },
+    {
+     "w": "endure",
+     "en": "to bear pain or hardship",
+     "hi": "सहना"
+    },
+    {
+     "w": "misadventures",
+     "en": "unlucky or foolish experiences",
+     "hi": "कारनामे"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The quack harmed a person because he pretended to have a skill he did not have. Who is responsible, and what should he have done?"
+    },
+    {
+     "k": "Another view",
+     "q": "How might the villagers, the old woman’s family or the camel owner describe what happened? What would each want?"
+    },
+    {
+     "k": "Culture",
+     "q": "The story names no teller community. What does a story like this show about how people have shared lessons and humour across generations?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral warns against imitating without understanding. Why is understanding why something works as important as seeing that it works?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do people today copy a trend, advice or ‘cure’ they saw online without checking it? How can we check before trying?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ],
+  [
+   15,
+   16
+  ],
+  [
+   17,
+   18
+  ],
+  [
+   19,
+   20,
+   21
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Travellers rest at dusk",
+   "th": "शाम को यात्रियों का पड़ाव",
+   "p": "Sunset. A small group of travellers (three men in turbans, dusty long shirts and shawls) rest under a cluster of trees, with several camels grazing nearby, warm orange sky and long shadows. Calm, gentle mood."
+  },
+  {
+   "t": "The camel in the melon field",
+   "th": "खरबूज़े के खेत में ऊँट",
+   "p": "A camel stands in a melon field with a large round melon half-eaten, neck stretched and eyes wide, clearly struggling; ripe melons on vines around it, its owner running in from the distance. Tense but child-friendly mood."
+  },
+  {
+   "t": "A man watches and decides",
+   "th": "एक आदमी देखता है",
+   "p": "The owner, with a blanket round the camel’s neck, steadies the recovered camel as it swallows; far behind, a thin man in a faded yellow turban and patched shawl watches with wide, delighted eyes, one finger raised as if struck by a clever idea. Warm evening light."
+  },
+  {
+   "t": "The self-made doctor",
+   "th": "खुद बना वैद्य",
+   "p": "A village square. The quack (thin, moustached, faded yellow turban, patched shawl, carrying a cloth bundle and a big wooden mallet) proudly announces himself to curious villagers. An elderly woman with a gently swollen neck, in a plain shawl, steps forward with folded hands. No violence shown; hopeful, uneasy mood."
+  },
+  {
+   "t": "Villagers are horrified",
+   "th": "गाँव वाले सन्न",
+   "p": "Villagers crowd the square in shock, some with hands over mouths, others pointing at the quack, who looks frightened with the mallet lowered; the elderly woman is not shown. Villagers’ faces show distress. In the background a few villagers lead him away, shown from behind, shoulders slumped. Sombre, restrained mood."
+  },
+  {
+   "t": "“Don’t make me dig!”",
+   "th": "“मुझसे कब्र मत खुदवाना!”",
+   "p": "Another village. The quack, hand raised, tries to bargain with a group of astonished villagers while an old man sits nearby; villagers throw up their hands in disbelief and shoo him away. Comic, lively mood."
+  },
+  {
+   "t": "He blames the villagers",
+   "th": "वह गाँव वालों को दोष देता है",
+   "p": "The quack, bruised and rumpled, complains to the camel owners at their camp, with a camel resting behind them; the travellers look at him in disbelief, one rubbing his forehead. Dusk, firelight, comic and slightly sad mood."
+  },
+  {
+   "t": "A lesson with the camel",
+   "th": "ऊँट के साथ सबक",
+   "p": "A traveller points to a camel grazing nearby while holding a heavy stick; the camel barely notices, stepping forward calmly. The quack watches with a puzzled, uneasy face; other travellers watch with arms crossed. Late-evening light, calm, teaching mood."
+  },
+  {
+   "t": "The quack learns",
+   "th": "नीम-हकीम सीखता है",
+   "p": "The quack sits on the ground rubbing his shoulder, looking up at the calm traveller, who stands with hands open, explaining; camels and travellers in the background. No injuries shown beyond a rumpled turban. Comic but thoughtful mood."
+  },
+  {
+   "t": "Never copy without understanding",
+   "th": "बिना समझे नकल नहीं",
+   "p": "At dawn, the quack, his bundle on his back, walks away down a dusty road, leaving the mallet and blanket behind on the ground. The travellers wave from their camp with camels behind them. Quiet, hopeful, lighter mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Haryana, India",
+  "verified": true,
+  "tradition": "Sanjhi (wall art of the mother goddess, made by girls in Haryana in the evenings of Navratri)",
+  "note": "Use dusty golds, sand, clay red and sky blue with soft outlines; keep the sad moment off-screen and the mood light. Sanjhi is a devotional art and is not linked to this story, so use it only as a light colour and texture inspiration (clay, lime-white and soot-black on earthy walls) and never draw the goddess or ritual. No tradition of illustrating this particular tale could be verified, so keep the storybook style otherwise neutral, warm and simple.",
+  "characters": [
+   {
+    "name": "The quack",
+    "look": "Thin man with a moustache, faded yellow turban, patched brown shawl over a long off-white shirt, a bundle on his back."
+   },
+   {
+    "name": "The camel owner and travellers",
+    "look": "Sturdy men in dusty long shirts, red and blue turbans and shawls, sun-lined faces."
+   },
+   {
+    "name": "The camels",
+    "look": "Tall dromedary camels with sandy-brown coats, gentle faces and woven saddle blankets."
+   },
+   {
+    "name": "Villagers",
+    "look": "Mixed ages in plain cotton clothes in earthy colours, women with head-cloths."
+   }
+  ],
+  "sources": [
+   [
+    "Sanjhi Utsav celebrates women power, folk art (The Tribune)",
+    "https://www.tribuneindia.com/news/haryana/sanjhi-utsav-celebrates-women-power-folk-art"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the camel. What do you think as the man with the blanket and mallet helps you, and what would you say to the quack later?",
+ "create": "Draw a comic strip of the quack’s three tries as a doctor, or write a short sign for a village that says why we should check before we copy a treatment.",
+ "about": {
+  "where": "The Centre for Contemporary Folklore catalogues this story under Haryana, a state in north India. Its notes say the historical source covers a wider region than Haryana today, so it is better seen as a story kept in Haryana’s collection than as one that began only there.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing.",
+  "tradition": "The repository attributes the story to Indian Nights’ Entertainment; or, Folk-Tales from the Upper Indus, a book first published in 1892 that presents tales translated from Panjabi. The page used as the retelling is a Panchatantra-style tales site, which is a different source from the book. Sanjhi, Haryana’s wall art made by girls in Navratri, is not connected to this tale.",
+  "shared": "Stories of foolish people who copy something without understanding appear in many traditions, including Panchatantra-style collections, but we have not verified any direct link. This is one version from one source, not the only one.",
+  "matters": "The story shows that copying what we see can be dangerous when we do not understand why it works. It also invites us to think about honesty about what we know.",
+  "links": [
+   [
+    "Indian Nights’ Entertainment; or, Folk-Tales from the Upper Indus (Harappa.com catalogue entry)",
+    "https://www.harappa.com/content/indian-nights-entertainment-or-folktales-upper-indus"
+   ],
+   [
+    "Sanjhi Utsav celebrates women power, folk art (The Tribune)",
+    "https://www.tribuneindia.com/news/haryana/sanjhi-utsav-celebrates-women-power-folk-art"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (per repository)",
+   "v": "Indian Nights’ Entertainment; or, Folk-Tales from the Upper Indus (collected by Charles Swynnerton, 1892)",
+   "url": "https://www.harappa.com/content/indian-nights-entertainment-or-folktales-upper-indus",
+   "s": "ok"
+  },
+  {
+   "l": "Retelling page named in repository",
+   "v": "The camel’s revenge, thetalesofpanchatantra.com",
+   "s": "ok"
+  },
+  {
+   "l": "Listing",
+   "v": "Listed as a Haryana story by the Centre for Contemporary Folklore (CCF)",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Hindi",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Mixed attribution: repository credits Indian Nights’ Entertainment but the retelling page is thetalesofpanchatantra.com (‘The camel’s revenge’). Confirm which source is correct.",
+  "The repository itself says the story is not exclusively Haryana-origin; the ‘from’ label follows that.",
+  "Sensitive content: an old woman dies from the quack’s treatment, and the villagers beat him; kept as supplied. Check suitability for grades 4-5, especially Level 1.",
+  "Scenes avoid showing the death or beating; illustrators should keep it off-screen.",
+  "Goitre treatment is dramatised: add a note that this is not real medical advice.",
+  "‘Grave’ is rendered as कब्र in Hindi; the community’s burial or cremation practice is not stated, so a human should check the word.",
+  "Hindi texts and vocabulary glosses not yet reviewed by a fluent Hindi reader.",
+  "Licence of the supplied retelling not confirmed."
+ ]
+}

@@ -1,0 +1,341 @@
+{
+ "id": "the-match-making-jackal",
+ "state": "wb",
+ "title": "The Match-Making Jackal — Sivalu’s Clever Scheme",
+ "titleHi": "सियार सिवालू और जुलाहा",
+ "genre": "Animal trickster tale",
+ "levelTitles": {
+  "1": {
+   "en": "Sivalu the Jackal and the Weaver",
+   "hi": "सियार सिवालू और जुलाहा"
+  },
+  "2": {
+   "en": "The Jackal Who Arranged a Royal Wedding",
+   "hi": "वह सियार जिसने शाही शादी करवाई"
+  },
+  "3": {
+   "en": "Sivalu and the Weaver’s Fortune",
+   "hi": "सिवालू और जुलाहे की किस्मत"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once there lived a poor weaver in a little hut. His family had once been wealthy, but the money had been lost long ago. The weaver worked hard at his loom, yet he had very little to show for it.",
+     "Near his hut lived a clever jackal named Sivalu. One day, Sivalu saw the weaver looking sad.",
+     "“Why are you so unhappy?” asked the jackal.",
+     "“I have no money and no fine house,” said the weaver. “I will never become rich.”",
+     "Sivalu smiled. “Leave that to me. I will find a way to change your fortune!”",
+     "The next morning, the jackal went to the king’s palace. He carried a bundle of betel leaves and chewed them as though he were a grand visitor from a distant kingdom.",
+     "The princess saw him and was surprised. “Where do you come from?” she asked.",
+     "“From a wonderful kingdom,” replied Sivalu. “Our king is very rich and lives in a palace more splendid than any other.”",
+     "The queen was curious. “Is your king married?” she asked.",
+     "“No,” said Sivalu. “He is looking for a princess worthy of his kingdom.”",
+     "The jackal praised the princess and promised to speak to his king. But the king Sivalu spoke of did not exist. He was talking about the poor weaver!",
+     "Sivalu returned to the weaver and told him to dress in borrowed clothes and say very little. He also asked the king of the jackals, the king of the crows and the king of the paddy-birds to send a large group of animals to accompany him.",
+     "On the wedding day, hundreds of jackals howled, crows cawed and birds screeched. The noise was so great that the princess’s father thought a huge royal procession was approaching. He asked Sivalu to bring only the bridegroom into the palace.",
+     "The weaver arrived on a horse, wearing borrowed clothes. He married the princess, but she soon realised that he was not a king. She was disappointed.",
+     "Still, the princess decided to make the best of her new life. She knew a wonderful secret: when she rubbed flour paste from her skin, the little dried balls turned into gold!",
+     "She used the gold to build a beautiful palace and invited weavers to live and work nearby. The poor weaver's life changed completely.",
+     "Sivalu visited the palace and smiled proudly. His clever plan had changed the weaver’s fortune, though it was the princess who made their new life possible."
+    ],
+    "hi": [
+     "एक छोटे-से घर में एक गरीब जुलाहा रहता था। उसके परिवार के पास कभी बहुत धन था, लेकिन वह सब बहुत पहले खो गया था। जुलाहा अपने करघे पर मेहनत करता, फिर भी उसके पास बहुत कम पैसा बचता।",
+     "उसके घर के पास सिवालू नाम का एक चालाक सियार रहता था। एक दिन उसने जुलाहे को उदास बैठे देखा।",
+     "सियार ने पूछा, “तुम इतने दुखी क्यों हो?”",
+     "जुलाहे ने कहा, “मेरे पास न पैसा है और न ही अच्छा घर। मैं कभी अमीर नहीं बन पाऊँगा।”",
+     "सिवालू मुस्कुराया। “यह काम मुझ पर छोड़ दो। मैं तुम्हारी किस्मत बदलने का रास्ता ढूँढ़ूँगा!”",
+     "अगली सुबह सियार राजा के महल पहुँचा। उसके पास पान के पत्तों की एक पोटली थी। वह पत्ते चबाता हुआ ऐसे चल रहा था जैसे किसी दूर देश का बड़ा मेहमान हो।",
+     "राजकुमारी ने उसे देखकर पूछा, “तुम कहाँ से आए हो?”",
+     "सिवालू ने जवाब दिया, “एक बहुत सुंदर राज्य से। वहाँ के राजा बहुत अमीर हैं और उनका महल दुनिया के सबसे भव्य महलों में से एक है।”",
+     "रानी ने उत्सुक होकर पूछा, “क्या तुम्हारे राजा की शादी हो चुकी है?”",
+     "“नहीं,” सियार ने कहा। “वे अपने योग्य राजकुमारी की तलाश में हैं।”",
+     "सियार ने राजकुमारी की बहुत प्रशंसा की और कहा कि वह अपने राजा से बात करेगा। लेकिन जिस राजा की वह बात कर रहा था, उसका कोई अस्तित्व ही नहीं था। वह तो गरीब जुलाहे को राजा बताने वाला था!",
+     "सिवालू वापस जुलाहे के पास आया। उसने उसे उधार के सुंदर कपड़े पहनने और कम बोलने की सलाह दी। उसने सियारों, कौओं और बगुलों के राजाओं से भी अपने साथ बहुत-से पक्षी और जानवर भेजने की विनती की।",
+     "शादी के दिन सैकड़ों सियार हुआँ-हुआँ करने लगे, कौए काँव-काँव करने लगे और पक्षी शोर मचाने लगे। इतना बड़ा शोर सुनकर राजकुमारी के पिता को लगा कि कोई विशाल शाही बारात आ रही है। उन्होंने सिवालू से कहा कि दूल्हे को अकेले महल में ले आए।",
+     "जुलाहा उधार के कपड़े पहनकर घोड़े पर आया। उसकी राजकुमारी से शादी हो गई, लेकिन जल्द ही राजकुमारी समझ गई कि वह कोई राजा नहीं है। उसे बहुत निराशा हुई।",
+     "फिर भी उसने अपनी नई ज़िंदगी को बेहतर बनाने का निश्चय किया। उसे एक अद्भुत रहस्य पता था: जब वह अपने शरीर पर लगे आटे के लेप को रगड़कर हटाती, तो सूखे हुए छोटे-छोटे गोले सोने में बदल जाते!",
+     "उसने उस सोने से एक सुंदर महल बनवाया और आसपास रहने तथा काम करने के लिए कई जुलाहों को बुलाया। गरीब जुलाहे की ज़िंदगी पूरी तरह बदल गई।",
+     "सिवालू महल देखने आया और गर्व से मुस्कुराया। उसकी चालाकी ने जुलाहे की किस्मत बदल दी थी, लेकिन उनके नए जीवन को सचमुच संभव राजकुमारी ने बनाया था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11
+     ],
+     [
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "There once lived a weaver whose family had fallen from great wealth into poverty. His father had spent the family's fortune, and the weaver was left with little more than a small hut and his loom. He worked hard, but his circumstances rarely improved.",
+     "A jackal named Sivalu lived nearby. Seeing the weaver's unhappiness, Sivalu offered to help.",
+     "“I will arrange your marriage to the king's daughter,” he declared.",
+     "The weaver laughed at the idea. How could a poor man like him marry a princess? But Sivalu was confident. He set off for the royal palace carrying a bundle of betel leaves.",
+     "At the palace, he behaved like an important visitor. When the princess asked where he came from, he described a distant kingdom overflowing with wealth. He told her that its king possessed a palace more magnificent than any in her father's realm.",
+     "The queen soon heard about this extraordinary visitor and summoned him. Sivalu explained that his king was unmarried and searching for a princess worthy of his status. He praised the princess and suggested that she might be a suitable bride.",
+     "The king and queen were delighted. They were eager to marry their daughter to a ruler who appeared to be richer and more powerful than neighbouring kings.",
+     "Sivalu returned to the weaver and explained the deception. The weaver would have to dress in borrowed clothes, ride to the palace and speak as little as possible. Sivalu would arrange a procession impressive enough to convince the royal family that a great ruler was arriving.",
+     "He approached the kings of the jackals, crows and paddy-birds and asked them to send a thousand members of each group. On the appointed day, the procession gathered. As it approached the city, the animals made an enormous noise. The king, imagining that a vast army was on its way, asked Sivalu to bring only the bridegroom into the palace.",
+     "The weaver arrived on horseback and married the princess. But the princess soon noticed his awkward manner and heard him talking about looms and weaving. She began to suspect that her husband was not a king at all.",
+     "When the couple reached the weaver's humble hut, she was deeply disappointed. Yet she was not helpless. She knew a secret that could change their lives. By applying a paste of flour and water to her body and rubbing it off once dry, she could turn the little balls of paste into gold.",
+     "She repeated this process until she had gathered a great fortune. With the gold, she built a magnificent palace and invited hundreds of weaver families to settle nearby. The man who",
+     "had once struggled to earn a living now lived in comfort, and the weavers found work and a new home.",
+     "Sivalu had begun the transformation with a clever lie, but the princess's unusual ability and determination made the new life possible."
+    ],
+    "hi": [
+     "एक समय की बात है। एक जुलाहे का परिवार कभी बहुत अमीर हुआ करता था, लेकिन अब गरीबी में जीवन बिता रहा था। उसके पिता ने परिवार की सारी संपत्ति खर्च कर दी थी। जुलाहे के पास अब केवल एक छोटी-सी झोपड़ी और उसका करघा बचा था। वह मेहनत करता, लेकिन उसकी हालत में शायद ही कोई सुधार होता।",
+     "उसके पास ही सिवालू नाम का एक सियार रहता था। जुलाहे की उदासी देखकर सिवालू ने उसकी मदद करने का वादा किया।",
+     "उसने कहा, “मैं तुम्हारी शादी राजा की बेटी से करवा दूँगा।”",
+     "जुलाहा उसकी बात सुनकर हँस पड़ा। उसके जैसा गरीब आदमी किसी राजकुमारी से कैसे शादी कर सकता था? लेकिन सिवालू को अपनी योजना पर पूरा भरोसा था। वह पान के पत्तों की एक पोटली लेकर राजमहल की ओर चल पड़ा।",
+     "महल में उसने एक बड़े मेहमान की तरह व्यवहार किया। जब राजकुमारी ने उससे पूछा कि वह कहाँ से आया है, तो उसने एक दूर देश का वर्णन किया जहाँ चारों ओर धन-दौलत थी। उसने बताया कि वहाँ के राजा का महल राजकुमारी के पिता के राज्य के किसी भी महल से अधिक भव्य था।",
+     "रानी को जब इस अनोखे मेहमान के बारे में पता चला, तो उन्होंने उसे बुलवाया। सिवालू ने बताया कि उसके राजा की शादी नहीं हुई है और वह अपने योग्य राजकुमारी की तलाश में हैं। उसने राजकुमारी की बहुत प्रशंसा की और कहा कि वह एक अच्छी दुल्हन हो सकती है।",
+     "राजा और रानी बहुत खुश हुए। वे अपनी बेटी की शादी ऐसे राजा से करना चाहते थे जो पड़ोसी राज्यों के शासकों से भी अधिक अमीर और शक्तिशाली दिखाई देता था।",
+     "सिवालू वापस जुलाहे के पास आया और उसे अपनी योजना समझाई। जुलाहे को उधार के कपड़े पहनने थे, घोड़े पर बैठकर महल जाना था और कम से कम बोलना था। सिवालू ऐसी बारात का इंतज़ाम करेगा जो राजपरिवार को विश्वास दिला दे कि कोई महान राजा आ रहा है।",
+     "उसने सियारों, कौओं और बगुलों के राजाओं से बात की और हर समूह से एक हज़ार पक्षियों और जानवरों को भेजने का अनुरोध किया। तय दिन पर बारात इकट्ठी हुई। जैसे ही वह शहर के पास पहुँची, सभी जानवरों ने ज़ोर-ज़ोर से आवाज़ें करनी शुरू कर दीं। राजा को लगा कि कोई विशाल सेना आ रही है। उन्होंने सिवालू से कहा कि दूल्हे को अकेले महल में ले आए।",
+     "जुलाहा घोड़े पर सवार होकर आया और राजकुमारी से उसकी शादी हो गई। लेकिन राजकुमारी ने जल्द ही उसके अजीब व्यवहार पर ध्यान दिया। उसने उसे करघे और बुनाई के बारे में बात करते सुना। उसे संदेह होने लगा कि उसका पति कोई राजा नहीं, बल्कि जुलाहा है।",
+     "जब दोनों जुलाहे की छोटी-सी झोपड़ी पहुँचे, तो राजकुमारी बहुत निराश हुई। लेकिन वह असहाय नहीं थी। उसे एक ऐसा रहस्य पता था जो उनकी ज़िंदगी बदल सकता था। वह अपने शरीर पर आटे और पानी का लेप लगाती और सूखने पर उसे रगड़कर हटाती। आटे के छोटे-छोटे गोले सोने में बदल जाते थे।",
+     "उसने यह प्रक्रिया कई बार दोहराई और बहुत-सा सोना इकट्ठा कर लिया। उस सोने से उसने एक शानदार महल बनवाया और सैकड़ों जुलाहा परिवारों को आसपास बसने के लिए बुलाया। जो आदमी कभी अपनी रोज़ी कमाने के लिए संघर्ष करता था, वह अब सुख से रहने लगा। दूसरे जुलाहों को भी काम और नया घर मिला।",
+     "सिवालू ने एक चालाक झूठ से बदलाव की शुरुआत की थी, लेकिन नए जीवन को संभव बनाने का काम राजकुमारी की अनोखी शक्ति और दृढ़ निश्चय ने किया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "A weaver once lived in a hut that stood near the den of a jackal. His family had known wealth in an earlier generation, but his father had squandered the inheritance. The weaver was left with neither property nor relatives to support him. He worked at his loom, but his modest earnings could not restore the comfort his family had once enjoyed.",
+     "The jackal, Sivalu, remembered the grandeur of the weaver's ancestors and felt sorry for him. One day, he announced that he would improve the weaver's fortunes by arranging his marriage to the daughter of the king.",
+     "The weaver dismissed the promise as impossible. Sivalu, however, was a master of persuasion and spectacle. He travelled to the royal palace with a bundle of betel leaves, chewing them with the confidence of a wealthy traveller.",
+     "When the princess encountered him, she asked about his homeland. Sivalu described an imaginary kingdom where prosperity was so abundant that even animals chewed betel leaves. Its king, he claimed, lived in a palace more magnificent than the one before them.",
+     "The queen was intrigued. Sivalu explained that his king was unmarried and might be persuaded to marry a princess of exceptional beauty. He praised the royal daughter while carefully suggesting that the decision would depend on the wishes of his powerful master.",
+     "The king and queen were captivated by the prospect of such an alliance. Sivalu returned to the weaver and revealed the plan. The weaver would have to appear as a king, wear borrowed clothes and avoid speaking too much. The jackal would create the appearance of royal wealth through a spectacular procession.",
+     "To achieve this, Sivalu enlisted the help of the kings of the jackals, crows and paddy-birds. Each sent a thousand followers. When the procession approached the capital, the combined howling, cawing and cries sounded like the arrival of an enormous army. The royal family, intimidated by the scale of the supposed entourage, asked that the bridegroom enter with only a small party.",
+     "The weaver arrived on horseback and the marriage took place. But the princess soon noticed that her husband was not accustomed to royal life. His thoughts turned naturally to the materials and tools of his trade. When she heard him admiring the wooden beams of the palace as excellent materials for a loom, she began to suspect that he was a weaver rather than a king.",
+     "The deception became impossible to ignore when she reached his humble home. Yet the princess possessed a remarkable ability. She could prepare a paste from flour and water, apply it to her body and rub it off after it dried. The little balls of dried paste turned into gold.",
+     "She used this gift patiently, gathering enough gold to build a grand palace. She brought together masons, carpenters and architects, and established a settlement for hundreds of weaver families. The weaver's fortune was transformed, and the community around him prospered.",
+     "In the original tale, Sivalu later presents this success as proof that his claims about the weaver's royal splendour had been true all along. The story ends as a comic celebration of the jackal's audacity and the princess's extraordinary gift.",
+     "For a modern reader, however, the story also invites a different question: who truly creates prosperity? Sivalu supplies the performance, the weaver becomes the beneficiary of a deception, but it is the princess who turns an improbable situation into a lasting source of wealth and work for others."
+    ],
+    "hi": [
+     "एक जुलाहा कभी अपने परिवार के पुराने वैभव के पास भी नहीं पहुँच पाता था। उसका घर एक सियार की माँद के पास था। उसके परिवार ने पिछली पीढ़ी में बहुत धन देखा था, लेकिन उसके पिता ने विरासत में मिली संपत्ति उड़ा दी थी। जुलाहे के पास न ज़मीन बची थी, न संपत्ति और न ही ऐसा कोई रिश्तेदार जो उसकी सहायता कर सके। वह करघे पर काम करता, लेकिन उसकी थोड़ी-सी कमाई परिवार को पहले जैसा सुख नहीं दे पाती थी।",
+     "सिवालू नाम का सियार जुलाहे के पूर्वजों की शान-शौकत को याद करता था और उस पर दया करता था। एक दिन उसने घोषणा की कि वह जुलाहे की शादी राजा की बेटी से करवाकर उसकी किस्मत बदल देगा।",
+     "जुलाहे ने उसकी बात को असंभव समझकर टाल दिया। लेकिन सिवालू को लोगों को अपनी बातों और दिखावे से प्रभावित करना आता था। वह पान के पत्तों की पोटली लेकर राजमहल पहुँचा और ऐसे पत्ते चबाने लगा जैसे वह किसी धनी देश का बड़ा मेहमान हो।",
+     "जब राजकुमारी ने उससे उसके देश के बारे में पूछा, तो सिवालू ने एक काल्पनिक राज्य का वर्णन किया। उसने कहा कि वहाँ इतनी समृद्धि है कि जानवर भी पान खाते हैं। वहाँ का राजा ऐसे महल में रहता है जो इस महल से भी अधिक भव्य है।",
+     "रानी उसकी बातों से प्रभावित हुईं। सिवालू ने बताया कि उसके राजा की शादी नहीं हुई है और शायद वह किसी असाधारण सुंदर राजकुमारी से विवाह करने के लिए तैयार हो जाएँ। उसने राजकुमारी की प्रशंसा की, लेकिन साथ ही यह भी जताया कि अंतिम निर्णय उसके शक्तिशाली राजा का ही होगा।",
+     "राजा और रानी इस रिश्ते की संभावना से बहुत उत्साहित हुए। सिवालू जुलाहे के पास लौटा और उसे अपनी योजना बताई। जुलाहे को राजा की तरह दिखाई देना था, उधार के कपड़े पहनने थे और कम बोलना था। सियार एक भव्य बारात का इंतज़ाम करेगा, जिससे शाही धन-दौलत का भ्रम पैदा हो सके।",
+     "इसके लिए सिवालू ने सियारों, कौओं और बगुलों के राजाओं से सहायता माँगी। हर राजा ने अपने एक हज़ार साथियों को भेजा। जब बारात राजधानी के पास पहुँची, तो हज़ारों जानवरों की आवाज़ें मिलकर ऐसी गूँज पैदा करने लगीं मानो कोई विशाल सेना आ रही हो। शाही परिवार इस शोर और भीड़ से प्रभावित हो गया और उसने कहा कि दूल्हा केवल कुछ लोगों के साथ महल में आए।",
+     "जुलाहा घोड़े पर सवार होकर पहुँचा और शादी हो गई। लेकिन राजकुमारी ने जल्द ही समझ लिया कि उसका पति शाही जीवन का अभ्यस्त नहीं है। उसका ध्यान स्वाभाविक रूप से अपने पेशे के औज़ारों और सामान पर जाता था। जब उसने महल की लकड़ी की कड़ियों को करघे के लिए उपयोगी बताते सुना, तो राजकुमारी को संदेह हुआ कि उसका पति राजा नहीं, बल्कि जुलाहा है।",
+     "जब वह अपने पति के छोटे-से घर पहुँची, तो सच्चाई छिपाना असंभव हो गया। फिर भी राजकुमारी के पास एक अद्भुत शक्ति थी। वह आटे और पानी का लेप बनाकर अपने शरीर पर लगाती और सूखने के बाद उसे रगड़कर हटा देती। सूखे हुए छोटे-छोटे गोले सोने में बदल जाते थे।",
+     "उसने धैर्यपूर्वक इस शक्ति का उपयोग किया और इतना सोना इकट्ठा कर लिया कि एक भव्य महल बनवा सके। उसने राजमिस्त्रियों, बढ़इयों और वास्तुकारों को काम पर लगाया और सैकड़ों जुलाहा परिवारों के लिए एक नई बस्ती बसाई। जुलाहे की किस्मत बदल गई और उसके आसपास का समुदाय भी समृद्ध होने लगा।",
+     "मूल कहानी में सिवालू बाद में इस सफलता को अपने दावों का प्रमाण बताता है। कहानी सियार की दुस्साहसी चालाकी और राजकुमारी के अद्भुत वरदान के हास्यपूर्ण उत्सव के रूप में समाप्त होती है।",
+     "लेकिन आज का पाठक इससे एक और प्रश्न पूछ सकता है: समृद्धि वास्तव में कौन पैदा करता है? सिवालू दिखावे का इंतज़ाम करता है, जुलाहा धोखे का लाभार्थ बनता है, लेकिन राजकुमारी ही एक असंभव परिस्थिति को स्थायी धन और दूसरों के लिए रोज़गार में बदलती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Bengal",
+  "community": "Bengali",
+  "tradition": "Bengali animal trickster tale."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Rev. Lal Behari Day, Folk-Tales of Bengal (1883), “The Match-Making Jackal”. Day collected the tales from Bengali storytellers and translated them into English.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-207-025",
+ "meta": [
+  "Bengali animal trickster tale · Themes: wit, friendship, imagination, transformation, social status",
+  "Source and cultural attribution",
+  "The story appears as “The Match-Making Jackal” in Rev. Lal Behari Day’s Folk-Tales of Bengal, first published in 1883. Day explains in his preface that he collected stories from Bengali storytellers, including an elderly Bengali Christian woman, an old Brahman, a barber and household servants, and translated their Bengali tellings into English. The book does not identify the exact storyteller or district for this particular tale.",
+  "Wikisource, the free online library+1",
+  "The jackal is called Sivalu in Day’s text. He promises to marry a poor weaver to a king’s daughter by pretending that the weaver is himself a wealthy king. He uses betel leaves and an enormous animal procession to convince the royal family. The princess initially discovers the deception, but later uses a magical ability to create gold from flour paste and builds a grand palace.",
+  "Wikisource, the free online library",
+  "Adaptation note: The source contains an arranged marriage based on deception and a class-based joke. The versions below retain the jackal’s elaborate trick and the princess’s",
+  "resourcefulness, but do not present deception or a lack of consent as a model for real relationships. The story is best treated as a comic fantasy, not a moral lesson about marriage."
+ ]
+}

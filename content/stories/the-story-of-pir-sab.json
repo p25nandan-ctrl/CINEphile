@@ -1,0 +1,462 @@
+{
+ "id": "the-story-of-pir-sab",
+ "state": "hp",
+ "title": "The Story of Pir Sab",
+ "titleHi": "पीर साब की कहानी",
+ "summary": "A mother whose daughter and wedding party drowned in a river weeps at the bank for twenty years. A wandering holy man, Pir Sab, hears her story, prays by the river and brings them back.",
+ "summarySource": "written for this site",
+ "genre": "Devotional legend",
+ "from": "Folk story catalogued as from Himachal Pradesh by the Centre for Contemporary Folklore (source given as Project Gutenberg)",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses richer vocabulary (frail, invocation, distressed, litter, devotion, miraculous, divine) and longer, more complex sentences of about 12 words on average, plus an explanatory legend about the Prophet and a reflective moral. This fits Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, an old woman lived by a big river in north India. She had one daughter. The girl grew up and was very pretty. She was married to a young man. He lived in a village across the river.",
+     "On the wedding day, the whole village came to the party. Musicians played music. Guests sang happy songs. The bride rode in a beautiful wedding seat, carried by people. The group began to cross the river.",
+     "But the river was dangerous. In the middle, a strong wave pulled everyone into the water. The musicians, the guests and the bride all went under. Sadly, they all drowned.",
+     "The old mother was at home. She was too weak to go. Now she was all alone, and she was very sad. Every day she went to the river and cried, “Please give me back my daughter!” Days became months. Months became years.",
+     "For twenty long years, she went to the river. She hoped her daughter would come back. One day, a holy man named Pir Sab came to the river. He saw the old woman crying. He asked her kindly, “Why are you so sad?”",
+     "She told him about her daughter and the wedding group. They had drowned twenty years before. Pir Sab felt very sorry for the mother. He saw how much she loved her girl.",
+     "He got down from his horse. He covered his head with his prayer cloth and faced the river. He prayed out loud, “O river, give back the dead!” He prayed three times.",
+     "The third time, a wonderful thing happened. A wedding group rose out of the river! The guests and musicians came out. Last came the bride. They looked just like on the wedding day. They did not know that twenty years had passed.",
+     "The old mother ran to her daughter and hugged her. She cried happy tears. She could hardly believe it. Pir Sab had brought her daughter and everyone back to life.",
+     "The story also tells about Pir Sab’s special power. In the old tale, the Prophet Muhammad once needed help to go up to the heavens. Pir Sab stepped forward and gave his shoulder. The Prophet could rise. For this kind act, Pir Sab got a blessing. He became famous for his miracles.",
+     "So the old mother got her daughter back after twenty years of sadness. Her faith and patience were rewarded by the kindness of a holy man.",
+     "Moral: Kindness gives hope to people who have been sad for a long time. One small kind act can do something very big."
+    ],
+    "hi": [
+     "बहुत समय पहले उत्तर भारत में एक बड़ी नदी के किनारे एक बूढ़ी औरत रहती थी। उसकी एक ही बेटी थी। बेटी बड़ी हुई और बहुत सुंदर थी। उसकी शादी एक नौजवान से हुई। वह नदी के उस पार के गाँव में रहता था।",
+     "शादी के दिन पूरा गाँव खुशी मनाने आया। संगीतकार बाजे बजा रहे थे। मेहमान खुशी के गीत गा रहे थे। दुल्हन सुंदर सजी हुई डोली में बैठी थी। बारात नदी पार करने लगी।",
+     "पर नदी ख़तरनाक थी। बीच में एक तेज़ लहर ने सबको पानी में खींच लिया। संगीतकार, मेहमान और दुल्हन सब डूब गए। बहुत दुख की बात है, कोई नहीं बचा।",
+     "बूढ़ी माँ घर पर थी। वह कमज़ोर थी, इसलिए नहीं जा सकी थी। अब वह अकेली रह गई और बहुत उदास थी। हर दिन वह नदी पर जाती और रोकर कहती, “मेरी बेटी मुझे लौटा दो!” दिन महीनों में बदले। महीने सालों में बदले।",
+     "बीस लंबे साल वह नदी पर जाती रही। उसे आशा थी कि बेटी लौट आएगी। एक दिन पीर साब नाम के एक संत नदी पर आए। उन्होंने बूढ़ी औरत को रोते देखा। उन्होंने प्यार से पूछा, “तुम इतनी दुखी क्यों हो?”",
+     "उसने उन्हें अपनी बेटी और बारात के बारे में बताया। वे बीस साल पहले डूब गए थे। पीर साब को माँ पर बहुत दया आई। उन्होंने देखा कि वह अपनी बेटी से कितना प्यार करती है।",
+     "वे अपने घोड़े से उतरे। उन्होंने अपना सिर प्रार्थना के कपड़े से ढका और नदी की ओर मुँह करके खड़े हो गए। वे ज़ोर से बोले, “हे नदी, मरे हुओं को लौटा दे!” उन्होंने तीन बार प्रार्थना की।",
+     "तीसरी बार एक अद्भुत बात हुई। नदी से एक बारात निकली! मेहमान और संगीतकार बाहर आए। सबसे आख़िर में दुल्हन आई। वे ठीक वैसे ही लग रहे थे जैसे शादी के दिन थे। उन्हें पता ही नहीं था कि बीस साल बीत चुके हैं।",
+     "बूढ़ी माँ दौड़कर बेटी से लिपट गई। वह खुशी के आँसू रोई। उसे यकीन नहीं हो रहा था। पीर साब ने उसकी बेटी और सबको फिर से जीवन दे दिया था।",
+     "कहानी पीर साब की खास ताक़त के बारे में भी बताती है। पुरानी कथा में पैगंबर मुहम्मद को एक बार स्वर्ग जाने के लिए मदद चाहिए थी। पीर साब आगे आए और उन्होंने अपना कंधा दिया। पैगंबर ऊपर चढ़ सके। इस नेक काम के लिए पीर साब को आशीर्वाद मिला। वे अपने चमत्कारों के लिए मशहूर हो गए।",
+     "इस तरह बीस साल के दुख के बाद बूढ़ी माँ को उसकी बेटी वापस मिल गई। उसका विश्वास और धैर्य एक संत की दया से सफल हुआ।",
+     "सीख: दया उन लोगों को आशा देती है जो बहुत समय से दुखी हैं। एक छोटा-सा नेक काम बहुत बड़ा असर कर सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "river",
+     "en": "a big stream of water that flows across land",
+     "hi": "नदी"
+    },
+    {
+     "w": "drowned",
+     "en": "died by being under water",
+     "hi": "डूब गए"
+    },
+    {
+     "w": "musicians",
+     "en": "people who play music",
+     "hi": "संगीतकार"
+    },
+    {
+     "w": "weak",
+     "en": "not strong",
+     "hi": "कमज़ोर"
+    },
+    {
+     "w": "holy",
+     "en": "very special because of God or faith",
+     "hi": "पवित्र, संत"
+    },
+    {
+     "w": "prayer",
+     "en": "words said to God",
+     "hi": "प्रार्थना"
+    },
+    {
+     "w": "hugged",
+     "en": "held someone close in your arms",
+     "hi": "गले लगाया"
+    },
+    {
+     "w": "blessing",
+     "en": "a kind gift of goodness from God",
+     "hi": "आशीर्वाद"
+    },
+    {
+     "w": "miracles",
+     "en": "wonderful things that nobody can explain",
+     "hi": "चमत्कार"
+    },
+    {
+     "w": "patience",
+     "en": "waiting calmly for a long time",
+     "hi": "धैर्य"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Characters",
+     "q": "Who was crying by the river, and why was she so sad?"
+    },
+    {
+     "k": "Events",
+     "q": "What happened to the wedding group in the middle of the river?"
+    },
+    {
+     "k": "What Pir Sab did",
+     "q": "What did Pir Sab do when he met the mother? What happened the third time he prayed?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the mother feel at the start of the story, and how did she feel at the end?"
+    },
+    {
+     "k": "Your life",
+     "q": "Think about a time someone was kind to you when you were sad. How did it help?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, an old woman lived beside a big river in northern India with her only daughter. When the girl grew up, she became a beautiful young woman. She was married to a young man from a village on the other side of the river.",
+     "On the wedding day, the whole village joined the celebration. Musicians played, guests sang happy songs, and the bride was carried in a beautifully decorated wedding litter. The procession began to cross the river.",
+     "But the river was dangerous. When the wedding party reached the middle, a strong current suddenly pulled everyone under the water. The musicians, the guests and the bride all disappeared. Sadly, they all drowned.",
+     "The old mother had stayed home because she was too weak to travel, so she was left alone. Her sadness was too big to bear. Every day she walked to the riverbank and cried, “Please give me back my daughter!” Days turned into months, and months turned into years.",
+     "For twenty long years, she kept going back to the river, hoping her daughter might somehow return. One day, a holy man named Pir Sab came wandering to the riverbank. He saw the old woman crying and kindly asked her what was wrong.",
+     "She told him about her daughter and the wedding party that had drowned twenty years before. Pir Sab felt deep sympathy for the mother because of her love and faith.",
+     "He got down from his horse, covered his head with his prayer cloth and stood facing the river. Then he prayed aloud, “O river, give back the dead!” He said the prayer three times.",
+     "After the third time, something amazing happened. A wedding procession rose out of the river! First the guests and musicians came, and finally the bride, looking just as they had on the wedding day. They did not seem to know that twenty years had passed.",
+     "The old mother ran forward and hugged her daughter, crying tears of joy. She could hardly believe her eyes. Pir Sab had brought her daughter and the whole wedding party back to life.",
+     "The story also tells where Pir Sab’s great spiritual power came from. In the legend, the Prophet Muhammad once needed help while going up to the heavens. Pir Sab stepped forward and offered his shoulder so the Prophet could rise. For this kind act, Pir Sab received a divine blessing and became known for his miracles.",
+     "And so the old mother was united with her daughter after twenty years of sorrow. Her faith and patience were rewarded through the kindness of a holy man.",
+     "Moral: Kindness can bring hope to people who have suffered for many years. One small kind act can change a great deal."
+    ],
+    "hi": [
+     "बहुत पहले उत्तर भारत में एक बड़ी नदी के किनारे एक बूढ़ी औरत अपनी इकलौती बेटी के साथ रहती थी। जब लड़की बड़ी हुई, तो वह एक सुंदर युवती बन गई। उसकी शादी नदी के दूसरी तरफ़ के गाँव के एक नौजवान से तय हुई।",
+     "शादी के दिन पूरे गाँव ने जश्न में हिस्सा लिया। संगीतकार बाजे बजा रहे थे, मेहमान खुशी के गीत गा रहे थे और दुल्हन को सुंदर सजी हुई डोली में ले जाया जा रहा था। बारात नदी पार करने लगी।",
+     "लेकिन नदी ख़तरनाक थी। जब बारात बीच में पहुँची, तो एक तेज़ धारा अचानक सबको पानी के नीचे खींच ले गई। संगीतकार, मेहमान और दुल्हन सब गायब हो गए। दुख की बात है कि सब डूब गए।",
+     "बूढ़ी माँ कमज़ोर होने की वजह से घर पर ही रुक गई थी, इसलिए वह अकेली रह गई। उसका दुख सहने से बाहर था। हर दिन वह नदी के किनारे जाती और रोकर कहती, “कृपा करके मेरी बेटी मुझे लौटा दो!” दिन महीनों में और महीने सालों में बदलते गए।",
+     "पूरे बीस साल वह नदी पर जाती रही, इस आशा में कि शायद उसकी बेटी लौट आए। एक दिन पीर साब नाम के एक संत घूमते हुए नदी के किनारे आए। उन्होंने बूढ़ी औरत को रोते देखा और प्यार से पूछा कि क्या बात है।",
+     "उसने उन्हें अपनी बेटी और बीस साल पहले डूबी बारात के बारे में बताया। उसके प्यार और विश्वास को देखकर पीर साब का मन गहरी दया से भर गया।",
+     "वे अपने घोड़े से उतरे, प्रार्थना के कपड़े से सिर ढका और नदी की ओर मुँह करके खड़े हो गए। फिर उन्होंने ज़ोर से प्रार्थना की, “हे नदी, मरे हुओं को लौटा दे!” उन्होंने यह प्रार्थना तीन बार दोहराई।",
+     "तीसरी बार के बाद एक अद्भुत बात हुई। नदी में से एक बारात ऊपर उठी! पहले मेहमान और संगीतकार आए, और आख़िर में दुल्हन, ठीक वैसे ही जैसे वे शादी के दिन थे। उन्हें ज़रा भी पता नहीं था कि बीस साल बीत चुके हैं।",
+     "बूढ़ी माँ आगे दौड़ी और बेटी को गले लगा लिया। उसकी आँखों से खुशी के आँसू बह रहे थे। उसे अपनी आँखों पर यकीन नहीं हो रहा था। पीर साब ने उसकी बेटी और पूरी बारात को फिर से जीवन दे दिया था।",
+     "कहानी यह भी बताती है कि पीर साब की महान आध्यात्मिक शक्ति कहाँ से आई। कथा के अनुसार, पैगंबर मुहम्मद को एक बार स्वर्ग की ओर चढ़ते समय मदद चाहिए थी। पीर साब आगे आए और अपना कंधा दिया, ताकि पैगंबर ऊपर उठ सकें। इस नेक काम के लिए पीर साब को ईश्वरीय आशीर्वाद मिला और वे अपने चमत्कारों के लिए जाने गए।",
+     "इस तरह बीस साल के दुख के बाद बूढ़ी माँ अपनी बेटी से मिल पाई। उसके विश्वास और धैर्य का फल उसे एक संत की दया से मिला।",
+     "सीख: दया उन लोगों के मन में आशा जगा सकती है जिन्होंने बहुत सालों तक दुख सहा हो। एक छोटा-सा नेक काम बहुत बड़ा बदलाव ला सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "litter",
+     "en": "a seat or bed carried by people, used in old weddings",
+     "hi": "डोली, पालकी"
+    },
+    {
+     "w": "procession",
+     "en": "a group moving along together in a line, as at a wedding",
+     "hi": "बारात, जुलूस"
+    },
+    {
+     "w": "current",
+     "en": "the strong flow of water in a river",
+     "hi": "धारा"
+    },
+    {
+     "w": "disappeared",
+     "en": "went out of sight",
+     "hi": "गायब हो गए"
+    },
+    {
+     "w": "riverbank",
+     "en": "the land at the edge of a river",
+     "hi": "नदी का किनारा"
+    },
+    {
+     "w": "sympathy",
+     "en": "feeling sorry for someone who is sad",
+     "hi": "सहानुभूति, दया"
+    },
+    {
+     "w": "amazing",
+     "en": "so wonderful that it surprises you",
+     "hi": "अद्भुत"
+    },
+    {
+     "w": "spiritual",
+     "en": "to do with the soul and with God",
+     "hi": "आध्यात्मिक"
+    },
+    {
+     "w": "divine",
+     "en": "coming from God",
+     "hi": "ईश्वरीय"
+    },
+    {
+     "w": "sorrow",
+     "en": "deep sadness",
+     "hi": "दुख, शोक"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did the mother keep going to the river for twenty years?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why did Pir Sab decide to pray at the river after he heard the mother’s story?"
+    },
+    {
+     "k": "Decisions",
+     "q": "What do you think the mother felt when she saw the wedding procession rise from the river?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The story says Pir Sab got his power from an act of kindness. What do you think the storyteller wants us to learn from that?"
+    },
+    {
+     "k": "Message",
+     "q": "The moral says a small kind act can have big results. Can you think of a small act of kindness that could matter a lot to someone?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, beside a great river in northern India, there lived an elderly woman with her only daughter. As the girl grew older, she became beautiful and was eventually married to a young man from a village across the river.",
+     "The wedding day arrived, and the entire village joined the celebrations. Musicians played their instruments, guests sang joyful songs, and the bride was carried in a beautifully decorated wedding litter. The procession began crossing the river.",
+     "But the river was dangerous. When the wedding party reached the middle, a powerful current suddenly swept everyone into the water. The musicians, guests and bride disappeared beneath the waves. Tragically, everyone drowned.",
+     "The elderly mother, who had remained at home because of her frail age, was left alone. Her grief was unbearable. Every day, she walked to the riverbank and cried: “Please give me back my daughter!” Days became months, and months became years.",
+     "For twenty long years, the mother returned to the river, hoping that somehow her daughter might come back. One day, a wandering holy man named Pir Sab arrived at the riverbank. He noticed the old woman crying and gently asked her why she was so distressed.",
+     "She told him about her daughter and the wedding procession that had drowned twenty years earlier. Pir Sab was deeply moved by the mother’s devotion.",
+     "He dismounted from his horse, covered his head with his prayer cloth and stood facing the river. He began praying aloud: “O river, restore the dead!” He repeated the prayer three times.",
+     "At the third invocation, something extraordinary happened. A wedding procession emerged from the depths of the river! The guests, musicians and finally the bride returned, appearing exactly as they had on the day of the wedding. They seemed completely unaware that twenty years had passed.",
+     "The elderly mother rushed forward and embraced her daughter, weeping with happiness. She could hardly believe what she was witnessing. Pir Sab had brought her daughter and the entire wedding party back to life.",
+     "The story also explains Pir Sab’s extraordinary spiritual power. According to the legend, the Prophet Muhammad once needed assistance while ascending to the heavens. Pir Sab stepped forward and offered his shoulder, allowing the Prophet to rise. For this act of kindness, Pir Sab received a divine blessing and became known for his miraculous powers.",
+     "And so, the old mother was reunited with her daughter after twenty years of sorrow. Her faith and patience had finally been rewarded through the compassion of a holy man.",
+     "Moral: Compassion can bring hope to those who have suffered for many years. A small act of kindness can have extraordinary consequences."
+    ],
+    "hi": [
+     "बहुत समय पहले, उत्तर भारत की एक विशाल नदी के किनारे एक बुज़ुर्ग औरत अपनी इकलौती बेटी के साथ रहती थी। जैसे-जैसे लड़की बड़ी हुई, वह सुंदर युवती बन गई और आख़िरकार नदी के पार के एक गाँव के नौजवान से उसका विवाह तय हुआ।",
+     "विवाह का दिन आया और पूरे गाँव ने उत्सव में हिस्सा लिया। संगीतकार अपने वाद्य बजा रहे थे, मेहमान उमंग भरे गीत गा रहे थे और दुल्हन को सुंदर सजी हुई डोली में ले जाया जा रहा था। बारात ने नदी पार करना शुरू किया।",
+     "पर नदी ख़तरनाक थी। जब बारात बीच धारा में पहुँची, तो एक प्रचंड बहाव अचानक सबको पानी में बहा ले गया। संगीतकार, मेहमान और दुल्हन लहरों के नीचे ओझल हो गए। दुर्भाग्य से सब डूब गए।",
+     "बुज़ुर्ग माँ, जो अपनी कमज़ोर उम्र के कारण घर पर ही रुक गई थी, अकेली रह गई। उसका दुख असहनीय था। हर दिन वह नदी के किनारे जाती और पुकारती, “कृपा करके मेरी बेटी मुझे लौटा दो!” दिन महीनों में और महीने सालों में बदल गए।",
+     "पूरे बीस बरस माँ नदी पर लौटती रही, इस आस में कि किसी तरह उसकी बेटी वापस आ जाए। एक दिन पीर साब नाम के एक घुमक्कड़ संत नदी के किनारे पहुँचे। उन्होंने बूढ़ी औरत को रोते देखा और कोमलता से पूछा कि वह इतनी व्याकुल क्यों है।",
+     "उसने उन्हें अपनी बेटी और बीस साल पहले डूबी बारात की बात बताई। माँ की श्रद्धा देखकर पीर साब का हृदय गहराई से द्रवित हो उठा।",
+     "वे अपने घोड़े से उतरे, प्रार्थना के वस्त्र से सिर ढका और नदी की ओर मुँह करके खड़े हो गए। फिर वे ऊँचे स्वर में प्रार्थना करने लगे, “हे नदी, मृतकों को लौटा दे!” उन्होंने यही प्रार्थना तीन बार दोहराई।",
+     "तीसरी पुकार पर एक असाधारण घटना घटी। नदी की गहराइयों से एक बारात उभर आई! मेहमान, संगीतकार और अंत में दुल्हन लौट आए, बिलकुल वैसे ही जैसे वे विवाह के दिन थे। उन्हें ज़रा भी अहसास नहीं था कि बीस वर्ष बीत चुके हैं।",
+     "बुज़ुर्ग माँ दौड़कर आगे बढ़ी और खुशी के आँसू बहाते हुए बेटी को गले लगा लिया। उसे अपनी आँखों देखी बात पर मुश्किल से यकीन हो रहा था। पीर साब ने उसकी बेटी और पूरी बारात को फिर से जीवन दे दिया था।",
+     "कहानी पीर साब की असाधारण आध्यात्मिक शक्ति का कारण भी बताती है। कथा के अनुसार, पैगंबर मुहम्मद को एक बार स्वर्ग की ओर चढ़ते समय सहायता की ज़रूरत थी। पीर साब आगे आए और अपना कंधा दिया, जिससे पैगंबर ऊपर उठ सके। इस दयालुता के लिए पीर साब को ईश्वरीय आशीर्वाद मिला और वे अपने चमत्कारों के लिए प्रसिद्ध हुए।",
+     "और इस तरह बीस वर्षों के दुख के बाद बूढ़ी माँ फिर अपनी बेटी से मिल पाई। उसकी श्रद्धा और धैर्य को आख़िरकार एक संत की करुणा से फल मिल गया।",
+     "सीख: करुणा उन लोगों के लिए आशा ला सकती है जिन्होंने बरसों तक दुख सहा हो। दया का एक छोटा-सा काम भी असाधारण परिणाम ला सकता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "frail",
+     "en": "weak and thin, often because of old age",
+     "hi": "कमज़ोर"
+    },
+    {
+     "w": "grief",
+     "en": "very deep sadness after losing someone",
+     "hi": "शोक"
+    },
+    {
+     "w": "distressed",
+     "en": "very upset and worried",
+     "hi": "व्याकुल"
+    },
+    {
+     "w": "devotion",
+     "en": "deep love and loyalty",
+     "hi": "श्रद्धा, निष्ठा"
+    },
+    {
+     "w": "dismounted",
+     "en": "got down from a horse",
+     "hi": "उतरे"
+    },
+    {
+     "w": "invocation",
+     "en": "a call or prayer asking for help from God",
+     "hi": "पुकार, आवाहन"
+    },
+    {
+     "w": "emerged",
+     "en": "came out of something",
+     "hi": "उभर आई"
+    },
+    {
+     "w": "embraced",
+     "en": "hugged",
+     "hi": "गले लगाया"
+    },
+    {
+     "w": "miraculous",
+     "en": "too wonderful to be explained by ordinary things",
+     "hi": "चमत्कारी"
+    },
+    {
+     "w": "compassion",
+     "en": "kind feeling for someone who suffers, with a wish to help",
+     "hi": "करुणा"
+    },
+    {
+     "w": "consequences",
+     "en": "results that follow from an action",
+     "hi": "परिणाम"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethical question",
+     "q": "Pir Sab chose to help a stranger who was in great sorrow. Why might helping someone in pain matter, even when we cannot be sure what the outcome will be?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine the daughter and the wedding party stepping out of the river with no idea that twenty years have passed. How might they have felt and what might they have wondered?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "The story speaks of prayer, a holy man and a legend about the Prophet Muhammad. How do stories like this help communities remember what they value, and how should we listen to stories from other faiths?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral links compassion, hope and a small act of kindness. How do the mother’s patience and Pir Sab’s kindness work together in the story?"
+    },
+    {
+     "k": "Today",
+     "q": "Who in our world today is waiting for help or news after a long time of grief? What small acts of kindness can people offer them?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "A mother, her daughter and the river",
+   "th": "माँ, बेटी और नदी",
+   "p": "A wide, calm river in northern India at the foot of green hills, with an elderly woman in a simple muted-colour cotton sari and shawl standing with her young daughter at the bank. A joyful wedding procession gathers: musicians with drums and shehnai, guests in festive clothes, a bride in a red-and-gold dress seated in a decorated wedding litter carried by bearers. Warm morning light, hopeful festive mood."
+  },
+  {
+   "t": "The river sweeps the wedding away",
+   "th": "नदी ने बारात को बहा लिया",
+   "p": "The wedding procession in the middle of a wide river as a strong current rises; musicians, guests and the litter are shown tilting and swept by the water, figures drawn small and stylised, not frightening or graphic, no faces in distress shown in detail. Grey-blue sky, swirling water. Child-appropriate and gentle, conveys loss without gore."
+  },
+  {
+   "t": "Twenty years of waiting",
+   "th": "बीस बरस का इंतज़ार",
+   "p": "The same elderly woman, now older with white hair, kneeling at the quiet riverbank with her hands joined, tears on her face, season changing through the background (monsoon clouds, autumn leaves, winter mist). A holy man in a simple long robe and turban, leading a horse, approaches gently along the bank. Soft, sad, hopeful mood."
+  },
+  {
+   "t": "Pir Sab prays by the river",
+   "th": "पीर साब नदी के किनारे प्रार्थना करते हैं",
+   "p": "Pir Sab, an elderly holy man with a calm face and white beard, in a simple long robe, his head covered with a prayer cloth, standing at the river's edge with his horse waiting behind him, hands raised in prayer. The river glows with soft light, and the shapes of a wedding procession begin to rise from the water. Awe and quiet wonder."
+  },
+  {
+   "t": "The mother hugs her daughter",
+   "th": "माँ ने बेटी को गले लगाया",
+   "p": "The elderly mother embracing her daughter the bride in red and gold on the riverbank, tears of joy, wedding guests and musicians stepping out of the shining water around them, looking as they did on the wedding day. Pir Sab stands slightly apart with a gentle smile. Warm golden light, joyful and tender."
+  },
+  {
+   "t": "A blessing of kindness",
+   "th": "दया का आशीर्वाद",
+   "p": "A symbolic scene: Pir Sab offering his shoulder as a step for a figure shown as a soft golden light (no face of the Prophet is shown), reaching up toward a glowing sky. In the lower corner, the reunited mother and daughter walk home together along the riverbank at sunset. Peaceful, reverent mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Himachal Pradesh (Western Himalayas) and the northern Indian river plains of the story",
+  "verified": false,
+  "tradition": null,
+  "note": "No specific visual tradition could be verified for this story: its provenance in the repository is only given as a Himachal Pradesh folk story with Project Gutenberg named as the source, and the setting is only 'a great river in northern India'. A neutral, gentle storybook style is proposed: soft outlines, warm earthy palette, simple clothing. Do not show the face of the Prophet Muhammad or any depiction of him; use light or an off-frame suggestion only. Treat the holy man and prayer scenes with respect.",
+  "characters": [
+   {
+    "name": "The elderly mother",
+    "look": "Slim elderly woman with grey-white hair, a plain muted-colour cotton sari with a shawl over her head, gentle weathered face."
+   },
+   {
+    "name": "The daughter (bride)",
+    "look": "Young woman in a red and gold wedding dress with simple jewellery and a veil, kind face."
+   },
+   {
+    "name": "Pir Sab",
+    "look": "Elderly holy man with a calm face and white beard, simple long robe, turban, a prayer cloth over his head when praying; travels with a horse."
+   },
+   {
+    "name": "Wedding party",
+    "look": "Musicians with drums and pipes, guests in colourful festive clothes, bearers carrying the decorated wedding litter."
+   }
+  ],
+  "sources": []
+ },
+ "imagine": "Imagine you are standing next to the mother at the river on the third day of Pir Sab’s prayer. What do you see, hear and feel as the water begins to shine?",
+ "create": "Draw the moment the wedding procession rises from the river, or write a short diary entry from the daughter, who thinks only a day has passed.",
+ "about": {
+  "where": "The story is set beside a great river in northern India. The repository catalogues it as a folk story of Himachal Pradesh, a mountain state in the Western Himalayas. The sources we have do not name the exact river or village.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. The repository tells us only that the Centre for Contemporary Folklore catalogued it as a Himachal Pradesh story and that its archive names Project Gutenberg as the source.",
+  "tradition": "A pir is a Muslim holy man or teacher, and in many parts of South Asia people tell stories of pirs who help ordinary people through prayer and kindness. In this legend the holy man's power comes from a kind act. The story is devotional, which means it is told with respect for faith, prayer and miracles.",
+  "shared": "The story shares themes found in many traditions: patient hope, a stranger's compassion, and the idea that one small kind act can matter a great deal. A mother's long wait at the river is a feeling many readers will understand.",
+  "matters": "It reminds us to listen to people who are suffering and to treat their sorrow seriously. It also invites us to respect stories from other faiths. This is one version from one source, not the only way the story is told.",
+  "links": []
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Catalogued as a Himachal Pradesh folk story by the Centre for Contemporary Folklore (CCF); the archive names Project Gutenberg as its source",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version (Level 3)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Original book and author behind the Project Gutenberg attribution not identified; Tales of the Punjab was checked and did not match.",
+  "Himachal Pradesh attribution is the repository's; the setting (a great river in northern India) is not clearly Himachali.",
+  "Religious content: story of a pir, the Prophet Muhammad and a miracle. Have a knowledgeable reader from the relevant faith community review the wording, the legend paragraph and the Hindi terms (पीर, पैगंबर).",
+  "The story's Prophet legend is supplied as-is; do not depict the Prophet in any picture.",
+  "Many people drown in the story (a whole wedding party); confirm treatment is suitable for the youngest readers.",
+  "Hindi translations need review by a fluent reader, especially the Level 3 register and religious vocabulary.",
+  "No art tradition verified for this story; neutral storybook style proposed.",
+  "Licence and permissions unconfirmed."
+ ]
+}

@@ -1,0 +1,635 @@
+{
+ "id": "the-beating-of-bhagavan",
+ "state": "mp",
+ "title": "The Beating of Bhagavan",
+ "titleHi": "भगवान की पिटाई",
+ "summary": "An old Baiga man, robbed of his reward, sets out to beat God, and on the way agrees to carry three strangers’ questions. The answers bring surprising blessings for everyone.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Baiga folktale (Kath-Bhaina Baiga), Madhya Pradesh",
+ "origLevel": 2,
+ "levelReason": "The supplied text mostly uses everyday words with some moderate vocabulary (astonished, desperation, injustice, unattended). Sentences are mostly short to medium, averaging roughly 11 words, and use simple connectors. This fits Level 2, Growing Sapling.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, an old Baiga man lived with his wife. A Raja ruled the kingdom where they lived.",
+     "The old man had worked for the Raja for many years. Now he was too old to work. The Raja wanted to thank him.",
+     "The Raja gave him a big block of gold. “Go home,” he said. “Enjoy your life.”",
+     "The old man was very happy. He carried the gold with care. He began to walk home.",
+     "On the way, he came to a river. He was tired. He put the gold on the bank and went in to bathe. A dog saw the gold lying there. The dog grabbed it and ran away.",
+     "The old man came out of the water. His gold was gone! He looked everywhere. He could not find it.",
+     "He felt very sad, and then very angry. “God must have taken my gold,” he thought. “Bhagavan has taken it!”",
+     "“I worked for the Raja for so many years,” he said. “Now God has stolen my reward! I will find Bhagavan and beat him!” He took his axe and set off to look for God.",
+     "On the road, he met a rich merchant. The merchant had built a big water tank. He stood beside it and looked worried. “Where are you going, old man?” he asked. “I am going to beat Bhagavan!” said the Baiga.",
+     "The merchant was shocked. “If you meet him, please ask him something,” he said. “My big tank has been dry for five years. I spent so much money on it. But there is not one drop of water in it!”",
+     "The Baiga said yes and walked on. Soon he saw a beautiful horse standing alone. “Where are you going?” asked the horse. “I am going to beat Bhagavan,” said the old man.",
+     "The horse was glad to hear it. “Then please ask him why no one has ridden me for twelve years,” it said. “I am strong and healthy. But I have never had a rider!”",
+     "The Baiga promised to ask God. He walked on to a village. There he met a Gond man. The Gond man had five wives, but all five had run away. Only his sister stayed with him.",
+     "The Gond man asked, “Where are you going?” “I am going to beat Bhagavan!” said the Baiga, as before. The Gond man said, “Please ask God why my five wives left me.” The Baiga said he would.",
+     "At last the old man met Bhagavan. God looked like a dewar. A dewar is a Baiga healer and magician. “Where are you going, father?” asked Bhagavan.",
+     "“I am going to beat Bhagavan!” the old man said angrily. Bhagavan smiled. “Why walk any farther? Go home. Your gold is there.”",
+     "The old man was happy. But he still remembered the three questions. He asked Bhagavan to write the answers down, so he would not forget. Bhagavan agreed.",
+     "“Tell the merchant to bury a ring in the tank. Water will come up and fill it,” said Bhagavan. “Tell the horse to let someone saddle it and ride it. Then it will have its rider. Tell the Gond man to take his sister with him on a journey. Then his five wives will come back.”",
+     "The old man thanked Bhagavan and walked home. He passed the Gond man’s village and gave the message. The Gond man took his sister with him. In time, his five wives came back.",
+     "Next, the old man found the horse. He told it Bhagavan’s words. The horse let him climb on its back. It carried him quickly toward home.",
+     "Then he met the merchant and told him what to do. The merchant buried a ring in the dry tank. Water began to rise! The merchant was very happy.",
+     "At last the old man reached his home. There he found a wonderful surprise. The dog had carried the gold all the way home! His treasure was safe.",
+     "The old man was happy that all had turned out well. Later he married the Gond man’s sister, and they lived happily. He went out to beat God for taking his gold. But he came home with his gold, a horse, help for others, and a new wife.",
+     "Moral: Something that seems like bad luck can bring good things later. Patience, faith and helping others can bring surprising rewards."
+    ],
+    "hi": [
+     "बहुत समय पहले एक बूढ़ा बैगा अपनी पत्नी के साथ रहता था। उनके देश पर एक राजा राज करता था।",
+     "बूढ़े ने कई साल राजा की सेवा की थी। अब वह काम करने के लिए बहुत बूढ़ा हो गया था। राजा उसे इनाम देना चाहता था।",
+     "राजा ने उसे सोने की एक बड़ी सिल्ली दी। राजा ने कहा, “घर जाओ और आराम से जियो।”",
+     "बूढ़ा बहुत खुश हुआ। वह सोने को संभालकर ले चला। वह घर की ओर चल पड़ा।",
+     "रास्ते में एक नदी मिली। वह थका हुआ था। उसने सोना किनारे पर रखा और नहाने चला गया। एक कुत्ते ने वहाँ पड़ा सोना देखा। कुत्ता उसे उठाकर भाग गया।",
+     "बूढ़ा पानी से बाहर आया। उसका सोना गायब था! उसने हर जगह ढूँढ़ा। सोना कहीं नहीं मिला।",
+     "वह पहले बहुत उदास हुआ, फिर बहुत गुस्से में आ गया। उसने सोचा, “भगवान ने ही मेरा सोना ले लिया है!”",
+     "उसने कहा, “मैंने इतने साल राजा की सेवा की। अब भगवान ने मेरा इनाम चुरा लिया! मैं भगवान को ढूँढ़ूँगा और उन्हें मारूँगा!” उसने अपनी कुल्हाड़ी उठाई और भगवान को खोजने निकल पड़ा।",
+     "रास्ते में उसे एक अमीर सौदागर मिला। सौदागर ने एक बड़ा तालाब बनवाया था। वह उसके पास खड़ा था और चिंतित दिख रहा था। उसने पूछा, “बूढ़े बाबा, कहाँ जा रहे हो?” बैगा ने कहा, “मैं भगवान को मारने जा रहा हूँ!”",
+     "सौदागर हैरान रह गया। उसने कहा, “अगर वे मिलें, तो उनसे पूछना। मेरा बड़ा तालाब पाँच साल से सूखा क्यों है? मैंने उस पर बहुत पैसा लगाया। पर उसमें पानी की एक बूँद भी नहीं आई!”",
+     "बैगा ने हाँ कहा और आगे चल पड़ा। थोड़ी दूर उसे एक सुंदर घोड़ा अकेला खड़ा मिला। घोड़े ने पूछा, “तुम कहाँ जा रहे हो?” बूढ़े ने कहा, “मैं भगवान को मारने जा रहा हूँ।”",
+     "घोड़ा यह सुनकर खुश हुआ। उसने कहा, “तो उनसे पूछना कि बारह साल से मुझ पर कोई सवार क्यों नहीं हुआ। मैं मज़बूत और स्वस्थ हूँ। फिर भी मुझे कभी कोई सवार नहीं मिला!”",
+     "बैगा ने भगवान से पूछने का वादा किया। वह आगे एक गाँव में पहुँचा। वहाँ उसे एक गोंड आदमी मिला। गोंड की पाँच पत्नियाँ थीं, पर पाँचों भाग गई थीं। उसके पास बस उसकी बहन रहती थी।",
+     "गोंड ने पूछा, “तुम कहाँ जा रहे हो?” बैगा ने पहले की तरह कहा, “मैं भगवान को मारने जा रहा हूँ!” गोंड बोला, “भगवान से पूछना कि मेरी पाँचों पत्नियाँ मुझे छोड़कर क्यों चली गईं।” बैगा ने हाँ कह दी।",
+     "आख़िर बूढ़े को भगवान मिले। वे देवार के रूप में थे। देवार बैगा लोगों का वैद्य और जादूगर होता है, जो पूजा-पाठ भी करता है। भगवान ने पूछा, “बाबा, कहाँ जा रहे हो?”",
+     "बूढ़े ने गुस्से से कहा, “मैं भगवान को मारने जा रहा हूँ!” भगवान मुस्कुराए। “और आगे क्यों जाते हो? घर लौट जाओ। तुम्हारा सोना वहीं है।”",
+     "बूढ़ा खुश हुआ। पर उसे तीनों सवाल याद थे। उसने भगवान से कहा कि जवाब लिख दें, ताकि वह भूल न जाए। भगवान मान गए।",
+     "भगवान ने कहा, “सौदागर से कहना कि तालाब में एक अँगूठी गाड़ दे। पानी फूट पड़ेगा और तालाब भर जाएगा। घोड़े से कहना कि किसी को अपनी पीठ पर काठी कसने दे और सवारी करने दे। तब उसे उसका सवार मिल जाएगा। गोंड से कहना कि सफ़र में अपनी बहन को साथ ले जाए। तब उसकी पाँचों पत्नियाँ लौट आएँगी।”",
+     "बूढ़े ने भगवान को धन्यवाद दिया और घर की ओर चला। वह गोंड के गाँव से गुज़रा और संदेश दे दिया। गोंड अपनी बहन को साथ ले गया। कुछ समय बाद उसकी पाँचों पत्नियाँ लौट आईं।",
+     "फिर बूढ़े को घोड़ा मिला। उसने भगवान की बात बताई। घोड़े ने उसे अपनी पीठ पर चढ़ने दिया। घोड़ा उसे तेज़ी से घर की ओर ले चला।",
+     "फिर वह सौदागर से मिला और उसे बताया कि क्या करना है। सौदागर ने सूखे तालाब में अँगूठी गाड़ दी। पानी ऊपर आने लगा! सौदागर बहुत खुश हुआ।",
+     "आख़िर बूढ़ा अपने घर पहुँचा। वहाँ उसे एक अद्भुत बात दिखी। कुत्ता सारा सोना घर तक ले आया था! उसका खज़ाना सुरक्षित था।",
+     "बूढ़ा खुश था कि सब ठीक हो गया। बाद में उसने गोंड की बहन से शादी कर ली और दोनों खुशी से रहे। वह अपना सोना खोने पर भगवान को मारने निकला था। पर वह अपने सोने, एक घोड़े, कई लोगों की मदद और एक नई पत्नी के साथ घर लौटा।",
+     "सीख: जो बात बुरी किस्मत लगती है, उससे बाद में अच्छी चीज़ें भी मिल सकती हैं। धैर्य, विश्वास और दूसरों की मदद से अनोखे इनाम मिल सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "bathe",
+     "en": "to wash your body in water",
+     "hi": "नहाना"
+    },
+    {
+     "w": "reward",
+     "en": "a gift for good work",
+     "hi": "इनाम"
+    },
+    {
+     "w": "merchant",
+     "en": "a person who buys and sells things",
+     "hi": "सौदागर"
+    },
+    {
+     "w": "tank",
+     "en": "a big place built to hold water",
+     "hi": "तालाब"
+    },
+    {
+     "w": "dewar",
+     "en": "a Baiga healer and magician",
+     "hi": "देवार"
+    },
+    {
+     "w": "bury",
+     "en": "to put something under the ground",
+     "hi": "गाड़ना"
+    },
+    {
+     "w": "saddle",
+     "en": "a seat put on a horse for riding",
+     "hi": "काठी"
+    },
+    {
+     "w": "treasure",
+     "en": "gold and other precious things",
+     "hi": "खज़ाना"
+    },
+    {
+     "w": "angrily",
+     "en": "in a cross, mad way",
+     "hi": "गुस्से से"
+    },
+    {
+     "w": "shocked",
+     "en": "very surprised",
+     "hi": "हैरान"
+    },
+    {
+     "w": "glad",
+     "en": "happy",
+     "hi": "खुश"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and what",
+     "q": "Who took the old man’s gold while he was bathing in the river?"
+    },
+    {
+     "k": "Events",
+     "q": "Who did the old man meet on his way? Name the three who asked him for help."
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the old man feel when his gold was gone? How did he feel at the end?"
+    },
+    {
+     "k": "Ending",
+     "q": "Where did the old man find his gold in the end?"
+    },
+    {
+     "k": "My life",
+     "q": "Think of a time something seemed bad, but then turned out well. What happened?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived an old Baiga man with his wife in a kingdom ruled by a Raja.",
+     "The old man had served the Raja faithfully for many years. When he finally grew too old to work, the Raja decided to reward him for his service.",
+     "He presented the old man with a large block of gold and told him to return home and enjoy the rest of his life.",
+     "The old Baiga was delighted. He carefully carried the precious gold and began his journey home.",
+     "On the way, he reached a river. Feeling tired, he placed the gold on the riverbank and went into the water to bathe. While he was bathing, a dog appeared. Seeing the gold lying unattended, the dog grabbed it and ran away.",
+     "When the old man returned, his treasure had disappeared! He searched everywhere but could not find it.",
+     "In desperation, he concluded that Bhagavan, God himself, must have taken his gold. The old man became furious.",
+     "“I have served the Raja all these years, and now God has stolen my reward! I shall find Bhagavan and beat him for this injustice!” He picked up his axe and set out in search of God.",
+     "As he walked, he came across a wealthy merchant who had constructed a large water tank. The merchant was standing beside it, looking troubled. “Where are you going, old man?” he asked. “I am going to beat Bhagavan!” replied the Baiga.",
+     "The merchant was astonished. “If you meet him, please ask him why my enormous tank has remained dry for five years. I spent a fortune building it, but not a drop of water has collected inside!”",
+     "The Baiga agreed and continued walking. A little farther along the road, he saw a beautiful horse standing alone. The horse asked him where he was going. “I am going to beat Bhagavan,” replied the old man.",
+     "The horse was delighted to hear this. “Then please ask him why nobody has ridden me for twelve years. I am strong and healthy, but I have never had a rider!”",
+     "The Baiga promised to ask God and continued on his way. Soon he reached a village where he met a Gond man. The Gond man had five wives, but all five had run away. Only his sister remained with him.",
+     "The Gond man asked the Baiga where he was going. “I am going to beat Bhagavan!” came the familiar reply. The Gond man requested that he ask God why his five wives had abandoned him. The Baiga agreed to carry this question as well.",
+     "At last, the old man encountered Bhagavan, who appeared before him in the form of a dewar, a Baiga ritual healer and magician. Bhagavan asked him: “Where are you going, father?”",
+     "“I am going to beat Bhagavan!” the old man answered angrily. Bhagavan smiled. “Why trouble yourself by travelling any farther? Go home. You will find your gold there.”",
+     "The old man was delighted, but he had not forgotten the questions of the merchant, the horse and the Gond man. He asked Bhagavan to write down the answers so that he would not forget them. Bhagavan agreed.",
+     "First, he explained the merchant’s problem. “Tell him to bury a ring in the tank. Water will spring up, and his tank will become full.” Then he explained the horse’s problem. “Tell the horse to allow someone to saddle it and ride it. It will finally have the rider it has been waiting for.” Finally, he answered the Gond man’s question. “Tell him to take his sister with him on his journey. Once he does so, his five wives will return to him.”",
+     "The old Baiga thanked Bhagavan and began his journey home. Along the way, he passed the Gond man’s village. He delivered the message, and the Gond man took his sister with him as instructed. His five wives eventually returned.",
+     "Next, the old man found the horse. He told it what Bhagavan had said, and the horse allowed him to climb onto its back. The animal carried him swiftly towards home.",
+     "Finally, he met the wealthy merchant and delivered Bhagavan’s instructions. The merchant buried a ring in the dry tank, and water began to spring forth. The merchant was overjoyed.",
+     "When the old Baiga eventually reached his home, he discovered something wonderful. The dog had carried the block of gold all the way home! His treasure was safe.",
+     "The old man was delighted that everything had worked out. He eventually married the Gond man’s sister, and the two lived happily together. He had set out to beat God for stealing his gold, but instead returned home with his treasure, a horse, a solution to several people’s problems and a new wife.",
+     "Moral: What appears to be misfortune may sometimes lead to unexpected blessings. Patience, faith and helping others can bring surprising rewards."
+    ],
+    "hi": [
+     "बहुत समय पहले की बात है। एक राजा के राज्य में एक बूढ़ा बैगा अपनी पत्नी के साथ रहता था।",
+     "बूढ़े ने बरसों तक राजा की ईमानदारी से सेवा की थी। जब वह इतना बूढ़ा हो गया कि काम नहीं कर सकता था, तो राजा ने उसकी सेवा का इनाम देने का फ़ैसला किया।",
+     "राजा ने बूढ़े को सोने की एक बड़ी सिल्ली दी और कहा कि वह घर लौटकर अपना बाकी जीवन आराम से बिताए।",
+     "बूढ़ा बैगा बहुत खुश था। वह उस कीमती सोने को सँभालकर लिए हुए घर की ओर चल पड़ा।",
+     "रास्ते में एक नदी आई। थका होने के कारण उसने सोना नदी के किनारे रखा और नहाने के लिए पानी में उतर गया। जब वह नहा रहा था, तभी एक कुत्ता आ गया। कुत्ते ने सोने को यूँ ही पड़ा देखा, उसे मुँह में दबाया और भाग गया।",
+     "जब बूढ़ा लौटा, तो उसका खज़ाना गायब था! उसने हर जगह ढूँढ़ा, पर सोना नहीं मिला।",
+     "हताश होकर उसने मान लिया कि भगवान ने ही उसका सोना ले लिया है। बूढ़ा बहुत क्रोधित हो गया।",
+     "“मैंने इतने साल राजा की सेवा की और अब भगवान ने मेरा इनाम चुरा लिया! इस अन्याय के लिए मैं भगवान को ढूँढ़कर मारूँगा!” उसने अपनी कुल्हाड़ी उठाई और भगवान की खोज में निकल पड़ा।",
+     "चलते-चलते उसे एक अमीर सौदागर मिला, जिसने एक बड़ा तालाब बनवाया था। सौदागर उसके पास परेशान खड़ा था। उसने पूछा, “बूढ़े बाबा, कहाँ जा रहे हो?” बैगा ने जवाब दिया, “मैं भगवान को मारने जा रहा हूँ!”",
+     "सौदागर हैरान रह गया। उसने कहा, “अगर वे मिलें, तो पूछना कि मेरा विशाल तालाब पाँच साल से सूखा क्यों पड़ा है। मैंने उसे बनवाने में बहुत धन लगाया, पर उसमें एक बूँद पानी भी जमा नहीं हुआ!”",
+     "बैगा मान गया और आगे बढ़ गया। थोड़ी दूर पर उसे एक सुंदर घोड़ा अकेला खड़ा दिखा। घोड़े ने पूछा कि वह कहाँ जा रहा है। बूढ़े ने कहा, “मैं भगवान को मारने जा रहा हूँ।”",
+     "यह सुनकर घोड़ा खुश हो गया। उसने कहा, “तो उनसे पूछना कि बारह साल से मुझ पर कोई क्यों नहीं बैठा। मैं ताकतवर और तंदुरुस्त हूँ, पर मुझे कभी कोई सवार नहीं मिला!”",
+     "बैगा ने भगवान से पूछने का वादा किया और आगे चल पड़ा। जल्द ही वह एक गाँव पहुँचा, जहाँ उसे एक गोंड आदमी मिला। गोंड की पाँच पत्नियाँ थीं, लेकिन पाँचों छोड़कर चली गई थीं। अब उसके पास सिर्फ़ उसकी बहन रहती थी।",
+     "गोंड ने बैगा से पूछा कि वह कहाँ जा रहा है। जाना-पहचाना जवाब मिला, “मैं भगवान को मारने जा रहा हूँ!” गोंड ने कहा कि वह भगवान से पूछे कि उसकी पाँचों पत्नियाँ उसे छोड़कर क्यों चली गईं। बैगा यह सवाल भी ले जाने को तैयार हो गया।",
+     "आख़िरकार बूढ़े की भगवान से भेंट हुई। भगवान देवार के रूप में थे। देवार बैगा समुदाय का वैद्य और जादूगर होता है, जो पूजा-पाठ भी करता है। भगवान ने पूछा, “बाबा, कहाँ जा रहे हो?”",
+     "“मैं भगवान को मारने जा रहा हूँ!” बूढ़े ने गुस्से से कहा। भगवान मुस्कुराए। “इतनी दूर जाने की तकलीफ़ क्यों करते हो? घर लौट जाओ। तुम्हें अपना सोना वहीं मिल जाएगा।”",
+     "बूढ़ा खुश तो हुआ, पर वह सौदागर, घोड़े और गोंड के सवाल नहीं भूला था। उसने भगवान से कहा कि वे जवाब लिख दें, ताकि वह भूल न जाए। भगवान मान गए।",
+     "पहले भगवान ने सौदागर की समस्या का हल बताया। “उससे कहना कि तालाब में एक अँगूठी गाड़ दे। पानी फूट पड़ेगा और तालाब भर जाएगा।” फिर घोड़े की समस्या का हल बताया। “घोड़े से कहना कि किसी को काठी कसकर अपने ऊपर सवार होने दे। उसे वह सवार मिल जाएगा जिसका वह इंतज़ार कर रहा है।” आख़िर में गोंड के सवाल का जवाब दिया। “उससे कहना कि सफ़र में अपनी बहन को साथ ले जाए। ऐसा करते ही उसकी पाँचों पत्नियाँ लौट आएँगी।”",
+     "बूढ़े बैगा ने भगवान को धन्यवाद दिया और घर की ओर चल पड़ा। रास्ते में वह गोंड के गाँव से गुज़रा। उसने संदेश सुनाया और गोंड बताए अनुसार अपनी बहन को साथ ले गया। आख़िरकार उसकी पाँचों पत्नियाँ लौट आईं।",
+     "इसके बाद बूढ़े को घोड़ा मिला। उसने भगवान की बात बताई और घोड़े ने उसे अपनी पीठ पर चढ़ने दिया। घोड़ा उसे तेज़ी से घर की ओर ले चला।",
+     "आख़िर में वह अमीर सौदागर से मिला और भगवान की बात बताई। सौदागर ने सूखे तालाब में अँगूठी गाड़ दी और पानी फूट पड़ा। सौदागर खुशी से झूम उठा।",
+     "जब बूढ़ा बैगा आख़िरकार अपने घर पहुँचा, तो उसे एक अद्भुत बात पता चली। कुत्ता सोने की सिल्ली को घर तक ले आया था! उसका खज़ाना सुरक्षित था।",
+     "बूढ़ा खुश था कि सब कुछ ठीक हो गया। बाद में उसने गोंड की बहन से विवाह किया और दोनों खुशी-खुशी रहने लगे। वह अपना सोना चुराने के लिए भगवान को मारने निकला था, पर अपने खज़ाने, एक घोड़े, कई लोगों की समस्याओं के हल और एक नई पत्नी के साथ घर लौटा।",
+     "सीख: जो बात दुर्भाग्य लगती है, वह कभी-कभी अनचाहे वरदान तक पहुँचा सकती है। धैर्य, विश्वास और दूसरों की मदद से चौंकाने वाले इनाम मिल सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "delighted",
+     "en": "very happy",
+     "hi": "बहुत खुश"
+    },
+    {
+     "w": "reward",
+     "en": "something given to thank a person",
+     "hi": "इनाम"
+    },
+    {
+     "w": "riverbank",
+     "en": "the land beside a river",
+     "hi": "नदी का किनारा"
+    },
+    {
+     "w": "unattended",
+     "en": "left alone, with nobody watching",
+     "hi": "बिना रखवाली के"
+    },
+    {
+     "w": "desperation",
+     "en": "a feeling of having no hope",
+     "hi": "हताशा"
+    },
+    {
+     "w": "furious",
+     "en": "extremely angry",
+     "hi": "क्रोधित"
+    },
+    {
+     "w": "injustice",
+     "en": "something unfair",
+     "hi": "अन्याय"
+    },
+    {
+     "w": "astonished",
+     "en": "very surprised",
+     "hi": "हैरान"
+    },
+    {
+     "w": "enormous",
+     "en": "very big",
+     "hi": "विशाल"
+    },
+    {
+     "w": "saddle",
+     "en": "to put a riding seat on a horse",
+     "hi": "काठी कसना"
+    },
+    {
+     "w": "abandoned",
+     "en": "left behind and not coming back",
+     "hi": "छोड़ दिया"
+    },
+    {
+     "w": "overjoyed",
+     "en": "extremely happy",
+     "hi": "खुशी से झूम उठा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did the old man decide that Bhagavan had taken his gold? Was he right to think so?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "What small chance event started the whole story, and how did it lead to the old man’s journey?"
+    },
+    {
+     "k": "Decisions",
+     "q": "The old man agreed to carry three questions for others. Why do you think he did this even though he was angry?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "Why do you think Bhagavan smiled instead of getting angry with the old man?"
+    },
+    {
+     "k": "Consequences",
+     "q": "What good things did the old man’s journey bring to him and to others? What does this say about helping people?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once, in a kingdom ruled by a Raja, there lived an elderly Baiga man and his wife.",
+     "For many years the old man had served the Raja with unwavering loyalty. When age finally made work impossible, the Raja resolved to reward him for a lifetime of faithful service.",
+     "He presented the old man with a great block of gold and bade him return home to enjoy the remaining years of his life in comfort.",
+     "Overjoyed, the old Baiga carried the precious gold with the utmost care and began the long journey home.",
+     "Along the way he came to a river. Weary from walking, he set the gold down on the bank and waded in to bathe. Meanwhile a dog wandered by, noticed the unguarded gold, seized it, and bolted.",
+     "When the old man climbed out of the water, his treasure had vanished. He searched frantically in every direction, but there was no trace of it.",
+     "Overcome with despair, he reached a bitter conclusion: Bhagavan himself, God, must have taken the gold. A burning anger rose within him.",
+     "“All these years I have served the Raja, and now God has robbed me of my reward!” he cried. “I shall find Bhagavan and punish him for this injustice!” Gripping his axe, he set out to search for God.",
+     "On his way he met a wealthy merchant who stood beside a huge water tank he had built, his face clouded with worry. “Where are you going, old man?” the merchant asked. “To beat Bhagavan!” the Baiga replied.",
+     "The merchant stared in astonishment. “If you do meet him, please ask why my enormous tank has stood dry for five years. I spent a fortune building it, yet not a single drop of water has gathered inside!”",
+     "The Baiga agreed and trudged on. A little farther along the road he noticed a magnificent horse standing alone. When it asked where he was headed, he answered, “I am going to beat Bhagavan.”",
+     "The horse was delighted. “Then please ask him why no one has ridden me for twelve years,” it pleaded. “I am strong and healthy, yet I have never known a rider!”",
+     "The Baiga promised to put the question to God and continued on his way. Soon he reached a village and met a Gond man, whose five wives had all run away. Only his sister still lived with him.",
+     "When the Gond man asked where he was going, the Baiga gave the same answer he had given before: he was going to beat Bhagavan. The Gond man begged him to ask God why his five wives had abandoned him, and the Baiga agreed to carry this question too.",
+     "At last the old man came face to face with Bhagavan, who had taken the form of a dewar, a Baiga ritual healer and magician. “Where are you going, father?” Bhagavan asked gently.",
+     "“To beat Bhagavan!” the old man answered, still seething. Bhagavan only smiled. “Why trouble yourself by going any farther? Return home, and you will find your gold waiting there.”",
+     "Delighted though he was, the old man had not forgotten the questions of the merchant, the horse and the Gond man. He asked Bhagavan to write the answers down so that none would slip his mind, and Bhagavan agreed.",
+     "For the merchant: “Bury a ring in the tank. Water will spring up and fill it.” For the horse: “Let someone saddle you and ride you, and you will have the rider you have long awaited.” For the Gond man: “Take your sister with you on your journey, and your five wives will return to you.”",
+     "The old Baiga thanked Bhagavan and started homeward. Passing through the Gond man’s village, he delivered the message; the Gond man took his sister along as instructed, and in time his five wives returned.",
+     "Next he found the horse and repeated Bhagavan’s words. The horse allowed him to mount, and carried him swiftly toward home.",
+     "Finally he met the wealthy merchant and passed on Bhagavan’s instructions. The merchant buried a ring in the parched tank, and water began to well up from the earth. He was overjoyed.",
+     "When the old Baiga at last reached his home, a wonderful discovery awaited him. The dog had carried the gold all the way there! His treasure was safe.",
+     "Relieved that everything had worked out, the old man later married the Gond man’s sister, and the two lived contentedly together. He had set out to beat God for stealing his gold; instead he came home with his treasure, a horse, solutions to several people’s troubles, and a new wife.",
+     "Moral: Apparent misfortune can sometimes turn out to be the doorway to unexpected blessings. Patience, faith and a willingness to help others may bring rewards no one could have foreseen."
+    ],
+    "hi": [
+     "एक बार की बात है, एक राजा के राज्य में एक बूढ़ा बैगा अपनी पत्नी के साथ रहता था।",
+     "बरसों तक बूढ़े ने अटूट निष्ठा से राजा की सेवा की थी। जब उम्र के कारण उसके लिए काम करना असंभव हो गया, तो राजा ने जीवन भर की उस ईमानदार सेवा का इनाम देने का निश्चय किया।",
+     "राजा ने बूढ़े को सोने की एक विशाल सिल्ली भेंट की और कहा कि वह घर लौटकर अपने शेष वर्ष चैन से बिताए।",
+     "खुशी से भरा बूढ़ा बैगा उस बेशकीमती सोने को बड़ी सावधानी से उठाए घर की लंबी यात्रा पर निकल पड़ा।",
+     "रास्ते में एक नदी आई। चलते-चलते थक चुके बूढ़े ने सोना किनारे पर रखा और नहाने के लिए पानी में उतर गया। इसी बीच एक कुत्ता वहाँ आ निकला। उसने बिना रखवाली के पड़े सोने को देखा, उसे दबोचा और भाग खड़ा हुआ।",
+     "जब बूढ़ा पानी से बाहर आया, तो उसका खज़ाना ग़ायब था। उसने घबराकर चारों ओर ढूँढ़ा, पर उसका कहीं नामोनिशान न था।",
+     "निराशा में डूबे बूढ़े ने कड़वा निष्कर्ष निकाला कि भगवान ने ही उसका सोना ले लिया होगा। उसके भीतर क्रोध की आग भड़क उठी।",
+     "“इतने बरस मैंने राजा की सेवा की, और अब भगवान ने मेरा इनाम छीन लिया!” वह चीख उठा। “मैं भगवान को खोज निकालूँगा और इस अन्याय की सज़ा दूँगा!” कुल्हाड़ी कसकर पकड़े वह भगवान की खोज में चल पड़ा।",
+     "राह में उसे एक धनी सौदागर मिला, जो अपने बनवाए विशाल तालाब के पास चिंता में डूबा खड़ा था। उसने पूछा, “बूढ़े बाबा, कहाँ जा रहे हो?” बैगा ने जवाब दिया, “भगवान को मारने!”",
+     "सौदागर आश्चर्य से देखता रह गया। “अगर वे मिलें, तो पूछना कि मेरा विशाल तालाब पाँच बरस से सूखा क्यों पड़ा है। मैंने उसे बनवाने में पूरी दौलत लगा दी, फिर भी उसमें पानी की एक बूँद नहीं ठहरी!”",
+     "बैगा ने हामी भरी और थके कदमों से आगे बढ़ गया। थोड़ी दूर उसे एक शानदार घोड़ा अकेला खड़ा दिखा। घोड़े ने पूछा कि वह कहाँ जा रहा है, तो उसने कहा, “मैं भगवान को मारने जा रहा हूँ।”",
+     "घोड़ा खुश हो उठा। उसने गुहार लगाई, “तो उनसे पूछना कि बारह साल से मुझ पर कोई क्यों नहीं चढ़ा। मैं ताकतवर और तंदुरुस्त हूँ, फिर भी मैंने कभी सवार को जाना ही नहीं!”",
+     "बैगा ने यह सवाल भगवान के सामने रखने का वादा किया और आगे बढ़ा। जल्द ही वह एक गाँव पहुँचा और एक गोंड आदमी से मिला, जिसकी पाँचों पत्नियाँ उसे छोड़कर जा चुकी थीं। अब उसके साथ सिर्फ़ उसकी बहन रहती थी।",
+     "जब गोंड ने पूछा कि वह कहाँ जा रहा है, तो बैगा ने वही जवाब दिया जो पहले दे चुका था: वह भगवान को मारने जा रहा था। गोंड ने विनती की कि वह भगवान से पूछे कि उसकी पाँचों पत्नियाँ उसे छोड़कर क्यों चली गईं, और बैगा यह सवाल भी साथ ले चलने को राज़ी हो गया।",
+     "आख़िरकार बूढ़ा भगवान के सामने आ खड़ा हुआ। भगवान ने देवार का रूप धरा हुआ था, जो बैगा समुदाय का वैद्य और जादूगर होता है और पूजा-पाठ भी करता है। उन्होंने कोमलता से पूछा, “बाबा, कहाँ जा रहे हो?”",
+     "“भगवान को मारने!” बूढ़े ने ग़ुस्से से भरकर जवाब दिया। भगवान बस मुस्कुराए। “इतनी दूर जाकर क्यों अपने को कष्ट देते हो? घर लौट जाओ, तुम्हारा सोना वहीं तुम्हारी राह देख रहा है।”",
+     "खुश होने के बावजूद बूढ़ा सौदागर, घोड़े और गोंड के सवाल नहीं भूला था। उसने भगवान से कहा कि वे जवाब लिख दें ताकि कुछ भी उसके मन से न फिसले, और भगवान मान गए।",
+     "सौदागर के लिए: “तालाब में एक अँगूठी गाड़ दे। पानी फूट पड़ेगा और उसे भर देगा।” घोड़े के लिए: “किसी को अपने ऊपर काठी कसने और सवारी करने दे, तब तुझे वही सवार मिलेगा जिसकी तुझे लंबे समय से प्रतीक्षा है।” गोंड के लिए: “सफ़र में अपनी बहन को साथ ले जा, तेरी पाँचों पत्नियाँ लौट आएँगी।”",
+     "बूढ़े बैगा ने भगवान को धन्यवाद दिया और घर की ओर चल पड़ा। गोंड के गाँव से गुज़रते हुए उसने संदेश सुनाया। गोंड बताए अनुसार अपनी बहन को साथ ले गया और समय आने पर उसकी पाँचों पत्नियाँ लौट आईं।",
+     "फिर उसे घोड़ा मिला और उसने भगवान के शब्द दोहराए। घोड़े ने उसे अपनी पीठ पर चढ़ने दिया और तेज़ी से घर की ओर दौड़ चला।",
+     "अंत में वह धनी सौदागर से मिला और भगवान की हिदायत सुनाई। सौदागर ने सूखे तालाब में अँगूठी गाड़ दी और धरती से पानी फूट निकला। सौदागर खुशी से झूम उठा।",
+     "जब बूढ़ा बैगा आख़िर अपने घर पहुँचा, तो वहाँ एक अद्भुत बात उसकी प्रतीक्षा कर रही थी। कुत्ता सोने की सिल्ली को सारे रास्ते घर तक ले आया था! उसका खज़ाना सुरक्षित था।",
+     "सब कुछ ठीक हो जाने से निश्चिंत बूढ़े ने बाद में गोंड की बहन से विवाह किया और दोनों संतोष से रहने लगे। वह भगवान को सोना चुराने की सज़ा देने निकला था; इसके बदले वह अपने खज़ाने, एक घोड़े, कई लोगों की उलझनों के हल और एक नई पत्नी के साथ घर लौटा।",
+     "सीख: जो दुर्भाग्य जैसा दिखता है, वह कभी-कभी अनचाहे वरदानों का द्वार बन सकता है। धैर्य, विश्वास और दूसरों की मदद के भाव से ऐसे इनाम मिल सकते हैं जिनकी किसी ने कल्पना नहीं की थी।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "unwavering",
+     "en": "steady and never changing",
+     "hi": "अटूट"
+    },
+    {
+     "w": "resolved",
+     "en": "made a firm decision",
+     "hi": "निश्चय किया"
+    },
+    {
+     "w": "bade",
+     "en": "told or asked (old word)",
+     "hi": "कहा"
+    },
+    {
+     "w": "waded",
+     "en": "walked into water",
+     "hi": "पानी में उतरा"
+    },
+    {
+     "w": "unguarded",
+     "en": "with nobody keeping watch",
+     "hi": "बिना रखवाली के"
+    },
+    {
+     "w": "frantically",
+     "en": "in a hurried, anxious way",
+     "hi": "घबराकर"
+    },
+    {
+     "w": "despair",
+     "en": "complete loss of hope",
+     "hi": "निराशा"
+    },
+    {
+     "w": "injustice",
+     "en": "unfair treatment",
+     "hi": "अन्याय"
+    },
+    {
+     "w": "astonishment",
+     "en": "great surprise",
+     "hi": "आश्चर्य"
+    },
+    {
+     "w": "trudged",
+     "en": "walked slowly and heavily",
+     "hi": "थके कदमों से चला"
+    },
+    {
+     "w": "seething",
+     "en": "very angry inside",
+     "hi": "ग़ुस्से से भरा"
+    },
+    {
+     "w": "parched",
+     "en": "very dry",
+     "hi": "सूखा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethical question",
+     "q": "The old man set out to beat God, yet ended up helping three others. Is anger ever a good starting point for a journey? What does the story suggest?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine the dog’s point of view. How might it explain what happened at the river?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "In this tale God appears as a dewar, a Baiga healer and magician, and a Baiga man talks directly and boldly to God. What might this tell us about how closeness to the divine can be imagined?"
+    },
+    {
+     "k": "Theme",
+     "q": "How does the moral, that misfortune may lead to unexpected blessings, show up in each of the four problems in the story? Does it always work like that in life?"
+    },
+    {
+     "k": "Today",
+     "q": "When something unfair happens to us, we often look for someone to blame. How can we decide whether our anger is aimed in the right direction?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   16,
+   17
+  ],
+  [
+   18,
+   19
+  ],
+  [
+   20,
+   21
+  ],
+  [
+   22,
+   23
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "The Raja rewards the old man",
+   "th": "राजा बूढ़े को इनाम देता है",
+   "p": "A Raja seated in a simple courtyard hands a large golden block to a thin, grey-haired old Baiga man (lean build, plain light cloth wrapped at the waist, white stubble, kind tired eyes) who bows with joy. Warm morning light, soft earthy colours, gentle storybook mood."
+  },
+  {
+   "t": "A dog takes the gold",
+   "th": "कुत्ता सोना ले भागता है",
+   "p": "The same old Baiga man bathing in a calm forest river, his gold block resting on the bank. In the background a lean brown dog grabs the golden block in its mouth and runs. Lively but gentle, bright greens and gold, child-friendly."
+  },
+  {
+   "t": "Angry and empty-handed",
+   "th": "गुस्से में खाली हाथ",
+   "p": "The old Baiga man stands at the riverbank looking at the empty spot, then raising a fist toward the sky in anger, holding a wooden-handled axe. Dusky sky, forest behind him, expressive but not frightening."
+  },
+  {
+   "t": "The merchant and his dry tank",
+   "th": "सौदागर और सूखा तालाब",
+   "p": "On a dusty forest road the old Baiga man with his axe speaks to a worried, well-dressed merchant with a round face and a bright turban, standing beside a large empty stone-edged water tank with cracked dry earth at the bottom. Warm midday light."
+  },
+  {
+   "t": "The horse that was never ridden",
+   "th": "वह घोड़ा जिस पर कोई सवार न हुआ",
+   "p": "A beautiful chestnut horse stands alone beside the road talking to the old Baiga man, who is listening with his axe over his shoulder. Tall grass and trees, soft golden light, friendly mood."
+  },
+  {
+   "t": "The Gond man and his sister",
+   "th": "गोंड आदमी और उसकी बहन",
+   "p": "At the edge of a small village with mud-walled, tiled-roof houses, the old Baiga man speaks with a sad Gond man while the man’s sister stands quietly nearby. Evening light, respectful and warm depiction of both people."
+  },
+  {
+   "t": "Bhagavan, the dewar, smiles",
+   "th": "भगवान देवार के रूप में मुस्कुराते हैं",
+   "p": "On a forest path the old Baiga man faces Bhagavan, who appears as a calm dewar (Baiga healer) with a kind, glowing smile and a simple cloth bag, as if an ordinary wise man. The old man holds his axe lowered. Soft light through the trees, gentle mood."
+  },
+  {
+   "t": "Writing down the answers",
+   "th": "जवाब लिख लिए गए",
+   "p": "Bhagavan the dewar writes the three answers on a small piece of paper, handing it to the old Baiga man, who listens carefully; in the background faint small images of a ring, a horse, and two figures walking together. Warm, quiet scene."
+  },
+  {
+   "t": "Helping the Gond man and the horse",
+   "th": "गोंड और घोड़े की मदद",
+   "p": "Split scene in one frame: the old Baiga man delivering the message to the Gond man, who walks off with his sister; then the old man climbing onto the chestnut horse that is happy to carry him. Cheerful daylight, countryside path."
+  },
+  {
+   "t": "Water for the tank, gold at home",
+   "th": "तालाब में पानी, घर में सोना",
+   "p": "The merchant buries a small ring in the dry tank as clear water begins to bubble up; then the old man arrives home on horseback where his wife and the dog guard the golden block by the door. Joyful warm colours, happy faces."
+  },
+  {
+   "t": "Unexpected blessings",
+   "th": "अनपेक्षित वरदान",
+   "p": "The old Baiga man, now smiling and relaxed, stands in front of his home with his treasure, his horse, and his new wife (the Gond man’s sister); the friendly dog sits beside them. Sunset glow, peaceful ending, gentle storybook style."
+  }
+ ],
+ "artStyle": {
+  "region": "Madhya Pradesh, Baiga community (Mandla, Dindori and neighbouring districts)",
+  "verified": true,
+  "tradition": "Baiga godna (traditional tattooing) motifs",
+  "note": "A reliable source describes Baiga godna designs as drawn mainly from nature: triangular lines for mountains, a circle for the sun, dots, crosses and symmetrical lines. These can inspire decorative borders and patterns only. We could not verify a single named Baiga painting style to copy, so a warm, earthy, neutral storybook style (forest greens, ochre, clay red) is proposed. Clothing and houses should be kept simple and not stereotyped.",
+  "characters": [
+   {
+    "name": "Old Baiga man",
+    "look": "Thin elderly man, grey hair and stubble, plain light cloth at the waist and a shoulder cloth, carries a wooden-handled axe once he sets out."
+   },
+   {
+    "name": "Raja",
+    "look": "Dignified man in a simple court setting, light turban and shawl."
+   },
+   {
+    "name": "Merchant",
+    "look": "Round-faced man in a bright turban and good cloth."
+   },
+   {
+    "name": "Gond man and his sister",
+    "look": "A man with a worried face in village clothes; his sister in a plain sari, quiet and calm."
+   },
+   {
+    "name": "Horse",
+    "look": "Beautiful strong chestnut horse, alone and hopeful."
+   },
+   {
+    "name": "Dog",
+    "look": "Lean brown village dog."
+   },
+   {
+    "name": "Bhagavan as dewar",
+    "look": "Calm, middle-aged man with a kind glowing smile, simple cloth bag, looks like an ordinary healer."
+   }
+  ],
+  "sources": [
+   [
+    "Baiga godna tattooing, Art Monthly Australasia",
+    "https://www.artmonthly.org.au/blog/mangala-bai-maravi-baiga-tattooing"
+   ],
+   [
+    "Baiga people, Wikipedia",
+    "https://en.wikipedia.org/wiki/Baiga_people"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the dog at the river. Why did you take the shiny block, and what happened on your way home? Tell the story from the dog’s side.",
+ "create": "Draw the old man’s journey as a map with four stops: the merchant’s tank, the horse, the Gond man’s village and Bhagavan. Next to each stop, write or draw the problem and its answer.",
+ "about": {
+  "where": "This story comes from the Baiga people of central India. The source records it from Taliyapani in Bilaspur District, and the Baiga live mainly in Madhya Pradesh, especially around Mandla and Balaghat, with smaller groups in nearby states. The repository describes it as coming from Eastern Mandla.",
+  "community": "The Baiga are an Adivasi (indigenous) community of central India. The 2011 census counted about 552,000 Baiga people. In this story the hero is a Baiga man and the helper he meets is a dewar, a Baiga healer and ritual specialist.",
+  "tradition": "The story was recorded in writing by Verrier Elwin in Folk-Tales of Mahakoshal (1944) from a Kath-Bhaina Baiga storyteller, and later reproduced by Riddhi Pandey on Sahapedia. The Baiga also have a rich tradition of godna (tattooing), songs and dances.",
+  "shared": "Tales like this are told aloud, so many versions exist. The story shows a Baiga man and a Gond man meeting and helping each other, and Bhagavan, God, appearing as a humble Baiga healer. This is one version from one source, not the only one.",
+  "matters": "The tale is funny and wise: a man sets out to punish God and ends up carrying other people’s troubles. It reminds us that kindness and patience can turn bad luck into good fortune. Please treat the people in it with respect, as a living community and not a story-book stereotype.",
+  "links": [
+   [
+    "Some Legends and Folk Stories of the Baiga People of Central India (Sahapedia)",
+    "https://www.sahapedia.org/some-legends-and-folk-stories-of-the-baiga-people-of-central-india"
+   ],
+   [
+    "Baiga people (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Baiga_people"
+   ],
+   [
+    "Baiga godna tattooing (Art Monthly Australasia)",
+    "https://www.artmonthly.org.au/blog/mangala-bai-maravi-baiga-tattooing"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "A Kath-Bhaina Baiga story from Taliyapani, Bilaspur District, recorded in Verrier Elwin, Folk-Tales of Mahakoshal (Oxford University Press, 1944); reproduced in Riddhi Pandey, Some Legends and Folk Stories of the Baiga People of Central India (Sahapedia)",
+   "url": "https://www.sahapedia.org/some-legends-and-folk-stories-of-the-baiga-people-of-central-india",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied Level 2 version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Supplied English is a retelling; its exact relationship to Elwin’s 1944 text and Pandey/Sahapedia is not confirmed",
+  "Licence not confirmed: Sahapedia CC BY-NC-SA 4.0 may not cover this retelling, and the project is likely not non-commercial/share-alike compatible; check",
+  "Title Hindi rendering and Hindi text unreviewed by a fluent reader",
+  "Story features marriage to the Gond man’s sister and five wives who ‘run away’; confirm it is handled appropriately for grades 4-10",
+  "Depicts a Baiga and a Gond character; check depiction is respectful and not stereotyped",
+  "Wikipedia does not mention dewar; dewar gloss (healer, magician, ritual specialist) is from the supplied text",
+  "Art tradition note: only godna motifs verified; no single Baiga painting style confirmed"
+ ]
+}

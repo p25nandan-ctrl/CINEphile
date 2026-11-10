@@ -1,0 +1,238 @@
+{
+ "id": "dhola-maru",
+ "state": "rj",
+ "title": "Dhola–Maru — The Journey Across the Desert",
+ "titleHi": "ढोला और मारू का मिलन",
+ "genre": "Folk ballad",
+ "levelTitles": {
+  "1": {
+   "en": "Dhola and Maru Find Each Other",
+   "hi": "ढोला और मारू का मिलन"
+  },
+  "2": {
+   "en": "The Message Across the Desert",
+   "hi": "रेगिस्तान के पार आया संदेश"
+  },
+  "3": {
+   "en": "Dhola–Maru: A Ballad of Separation and Return",
+   "hi": "ढोला–मारू: विरह और वापसी की लोकगाथा"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the sandy lands of Rajasthan, two children named Dhola and Maru were married when they were very young. They lived in different kingdoms and grew up far apart.",
+     "As the years passed, Dhola forgot about the marriage. Maru, however, remembered him.",
+     "When Maru grew older, she wondered why Dhola had never come to meet her. She asked a messenger to travel to his kingdom and tell him that she was waiting.",
+     "The messenger travelled across villages, sandy roads and wide stretches of desert. At last, he reached Dhola and told him about Maru.",
+     "Dhola was surprised. He had forgotten that he was married, but the messenger's words reminded him. He decided that he must travel to meet her.",
+     "He prepared his camel and set out across the desert. The journey was long. The sun was hot during the day, and the nights were cold. But Dhola kept going.",
+     "When he finally reached Maru's home, she was overjoyed. The two met after many years and were happy to see each other.",
+     "Soon, they began their journey back together. They travelled across the desert, with their camel carrying them through the golden sand.",
+     "Their journey was not easy, but they stayed together and helped each other.",
+     "And so, the story of Dhola and Maru became one of Rajasthan's most loved tales—a story of remembering someone, keeping a promise and finding your way home."
+    ],
+    "hi": [
+     "बहुत समय पहले राजस्थान की रेतीली धरती पर ढोला और मारू नाम के दो बच्चों का विवाह बहुत छोटी उम्र में कर दिया गया था। वे अलग-अलग राज्यों में रहते थे और बड़े होते हुए एक-दूसरे से दूर रहे।",
+     "समय बीतता गया और ढोला अपने विवाह की बात भूल गया। लेकिन मारू को सब याद था।",
+     "जब मारू बड़ी हुई, तो वह सोचने लगी कि ढोला उससे मिलने कभी क्यों नहीं आया। उसने एक संदेशवाहक को उसके राज्य भेजा और कहलवाया कि वह उसकी प्रतीक्षा कर रही है।",
+     "संदेशवाहक गाँवों, रेतीले रास्तों और दूर-दूर तक फैले रेगिस्तान को पार करता हुआ ढोला तक पहुँचा। उसने ढोला को मारू का संदेश दिया।",
+     "ढोला यह सुनकर हैरान रह गया। वह विवाह की बात भूल चुका था, लेकिन संदेश सुनकर उसे सब याद आ गया। उसने मारू से मिलने जाने का निर्णय लिया।",
+     "उसने अपने ऊँट को तैयार किया और रेगिस्तान की यात्रा पर निकल पड़ा। सफ़र लंबा था। दिन में सूरज बहुत तेज़ चमकता और रातें ठंडी होतीं। फिर भी ढोला आगे बढ़ता रहा।",
+     "आखिरकार वह मारू के घर पहुँच गया। मारू उसे देखकर बहुत खुश हुई। कई वर्ष बाद दोनों एक-दूसरे से मिले।",
+     "जल्द ही वे साथ-साथ वापस जाने लगे। सुनहरी रेत के बीच उनका ऊँट उन्हें आगे ले जा रहा था।",
+     "उनकी यात्रा आसान नहीं थी, लेकिन वे एक-दूसरे का साथ देते रहे।",
+     "इस तरह ढोला और मारू की कहानी राजस्थान की सबसे प्रिय कथाओं में से एक बन गई—एक-दूसरे को याद रखने, वादा निभाने और घर लौटने की कहानी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the old kingdoms of Rajasthan, a marriage was arranged between two children, Dhola and Maru. They were too young to understand what marriage meant, and soon they were taken to their respective homes, far apart from one another.",
+     "Years passed. Dhola grew up in his own kingdom and gradually forgot about the girl he had once been married to. Maru, however, remembered. She often wondered whether Dhola knew that she was waiting for him.",
+     "At last, she decided to send him a message. A messenger was entrusted with the task of crossing the desert and finding Dhola.",
+     "The journey was difficult. The messenger passed through villages, crossed stretches of dry land and travelled beneath the burning sun. But he did not give up. When he finally reached Dhola, he delivered Maru's message.",
+     "Dhola was startled. The memory of his childhood marriage returned to him. He realised that Maru had been waiting all these years, and he decided to travel to her.",
+     "He prepared his camel and set out. The desert stretched endlessly around him. During the day, the sand shimmered in the heat; at night, the air grew cold. He travelled through the changing landscape, determined to reach Maru.",
+     "When he arrived, Maru welcomed him with joy. The two had spent years apart, but the meeting gave them a chance to begin their life together.",
+     "They prepared to return across the desert. Their journey was threatened by danger in some versions of the tale, but they faced it together and continued towards home.",
+     "The ballad of Dhola and Maru has travelled through Rajasthan for generations. It is remembered not simply as a story of romance, but as a tale of longing, determination and the distances people cross to find one another."
+    ],
+    "hi": [
+     "राजस्थान के पुराने राज्यों में ढोला और मारू नाम के दो बच्चों का विवाह तय कर दिया गया था। वे इतने छोटे थे कि विवाह का अर्थ भी नहीं समझते थे। कुछ समय बाद दोनों को उनके अपने-अपने घरों में भेज दिया गया और वे एक-दूसरे से बहुत दूर रहने लगे।",
+     "वर्ष बीतते गए। ढोला अपने राज्य में बड़ा हुआ और धीरे-धीरे उस लड़की को भूल गया, जिससे उसका बचपन में विवाह हुआ था। लेकिन मारू को सब याद था। वह अक्सर सोचती कि क्या ढोला जानता भी है कि वह उसकी प्रतीक्षा कर रही है।",
+     "आखिरकार उसने उसे संदेश भेजने का निर्णय लिया। एक संदेशवाहक को रेगिस्तान पार करके ढोला तक पहुँचने की ज़िम्मेदारी दी गई।",
+     "यात्रा कठिन थी। संदेशवाहक गाँवों से गुज़रा, सूखी ज़मीन पार की और तेज़ धूप में चलता रहा। लेकिन उसने हार नहीं मानी। जब वह ढोला तक पहुँचा, तो उसने मारू का संदेश उसे दे दिया।",
+     "ढोला चौंक गया। उसे अपने बचपन के विवाह की याद आ गई। उसे समझ आया कि मारू इतने वर्ष से उसकी प्रतीक्षा कर रही थी। उसने उससे मिलने जाने का निश्चय किया।",
+     "उसने अपने ऊँट को तैयार किया और यात्रा शुरू कर दी। चारों ओर दूर-दूर तक फैला रेगिस्तान था। दिन में रेत गर्म से चमकती और रात में हवा ठंडी हो जाती। वह बदलते मौसम और कठिन रास्तों के बीच आगे बढ़ता रहा।",
+     "जब वह मारू के पास पहुँचा, तो उसने खुशी से उसका स्वागत किया। दोनों कई वर्ष से अलग थे, लेकिन अब उन्हें साथ जीवन शुरू करने का अवसर मिला था।",
+     "उन्होंने रेगिस्तान पार करके वापस जाने की तैयारी की। कहानी के कुछ रूपों में उनकी यात्रा के दौरान ख़तरा भी आता है, लेकिन दोनों मिलकर उसका सामना करते हैं और घर की ओर बढ़ते रहते हैं।",
+     "ढोला और मारू की गाथा पीढ़ियों से राजस्थान में गाई और सुनाई जाती रही है। इसे केवल प्रेमकथा के रूप में नहीं, बल्कि विरह, दृढ़ निश्चय और एक-दूसरे तक पहुँचने के लिए तय की गई दूरियों की कहानी के रूप में भी याद किया जाता है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Among Rajasthan's most enduring folk narratives is the ballad of Dhola and Maru. It belongs to a tradition in which stories are not confined to written pages: they travel through song, performance and the voices of storytellers.",
+     "In one familiar version, Dhola and Maru are married in childhood. Their marriage is arranged before either can understand its meaning. They are separated and return to their respective homes. As Dhola grows older, the memory of the marriage fades. Maru, however, remembers the bond and waits for him.",
+     "Eventually, she sends a messenger across the desert to find Dhola. The messenger's journey is itself a reminder of the landscape in which the story unfolds: long distances between settlements, difficult travel, intense heat and the importance of communication across a vast region.",
+     "When Dhola receives the message, he remembers Maru and decides to travel to her. He crosses the desert on camelback, enduring the hardships of the journey. Their reunion marks the beginning of a new phase in their lives. But the journey is not over. In several versions, danger and opposition threaten their return, making their eventual arrival home a triumph of perseverance.",
+     "The Dhola–Maru narrative has many regional variations. Its characters and episodes have been reimagined through oral performance, song and visual storytelling. The ballad is also closely associated with Rajasthan's musical traditions, in which the emotional force of a story is carried as much by its performance as by its plot.",
+     "For younger readers, the story can introduce the themes of memory, separation and reunion. For older readers, it offers a way to explore how oral traditions preserve ideas about marriage, social obligation, longing and individual choice. It is important, however, not to present a childhood marriage as a romantic ideal. The adaptation should retain the historical setting while allowing readers to question the social world in which the story takes place."
+    ],
+    "hi": [
+     "राजस्थान की सबसे लंबे समय तक जीवित रहने वाली लोककथाओं में ढोला–मारू की गाथा शामिल है। यह उस परंपरा का हिस्सा है जिसमें कहानियाँ केवल लिखित पन्नों तक सीमित नहीं रहतीं। वे गीतों, प्रस्तुतियों और कहानी सुनाने वालों की आवाज़ों के माध्यम से यात्रा करती हैं।",
+     "इस कथा के एक प्रसिद्ध रूप में ढोला और मारू का विवाह बचपन में कर दिया जाता है। विवाह का अर्थ समझने से पहले ही उनका रिश्ता तय हो जाता है। इसके बाद वे अलग हो जाते हैं और अपने-अपने घर लौट जाते हैं। ढोला बड़ा होते-होते उस विवाह को भूल जाता है, लेकिन मारू उस रिश्ते को याद रखती है और उसकी प्रतीक्षा करती है।",
+     "आखिरकार वह एक संदेशवाहक को रेगिस्तान पार करके ढोला तक पहुँचने के लिए भेजती है। संदेशवाहक की यात्रा स्वयं उस भूगोल की याद दिलाती है जिसमें यह कहानी घटित होती है—बस्तियों के बीच लंबी दूरियाँ, कठिन रास्ते, तेज़ गर्म और विशाल क्षेत्र में संदेश पहुँचाने का महत्व।",
+     "जब ढोला को संदेश मिलता है, तो उसे मारू की याद आती है और वह उससे मिलने जाने का निर्णय करता है। वह ऊँट पर सवार होकर रेगिस्तान पार करता है और यात्रा की कठिनाइयों का सामना करता है। दोनों का मिलन उनके जीवन के एक नए अध्याय की शुरुआत है। लेकिन यात्रा यहीं समाप्त नहीं होती। कहानी के कई रूपों में उनके लौटने के रास्ते में ख़तरे और विरोध आते हैं। अंततः घर पहुँचना उनके धैर्य और दृढ़ निश्चय की जीत बन जाता है।",
+     "ढोला–मारू की कथा के अनेक क्षेत्रीय रूप हैं। इसके पात्रों और घटनाओं को मौखिक प्रस्तुतियों, गीतों और चित्रकथाओं के माध्यम से बार-बार नया रूप दिया गया है। यह गाथा राजस्थान की संगीत परंपराओं से भी जुड़ी है, जहाँ कहानी का भाव केवल कथानक से नहीं, बल्कि उसकी प्रस्तुति से भी पैदा होता है।",
+     "छोटे पाठकों के लिए यह कहानी स्मृति, बिछड़ने और फिर मिलने जैसे विषयों का परिचय दे सकती है। बड़े पाठकों के लिए यह समझने का अवसर है कि मौखिक परंपराएँ विवाह, सामाजिक दायित्व, विरह और व्यक्तिगत चुनाव के विचारों को कैसे सहेजती हैं। हालाँकि, बचपन में तय किए गए विवाह को प्रेम का आदर्श रूप बताने से बचना चाहिए। कहानी का ऐतिहासिक परिवेश बनाए रखते हुए पाठकों को उस सामाजिक दुनिया पर प्रश्न करने का अवसर भी मिलना चाहिए जिसमें यह कथा घटित होती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Marwar and the wider Rajasthan region",
+  "community": "Rajasthani",
+  "tradition": "Folk ballad and romantic legend, preserved through oral singing, storytelling and visual traditions. It exists in multiple versions."
+ },
+ "sources": [
+  {
+   "l": "Sources",
+   "v": "Dina Nath Dube, Folk Tales of Rajasthan (Publications Division, Government of India) lists Dhola–Marooni among its tales. The IGNCA National Cultural Audiovisual Archives holds an oral recording, Dhola Maru ki Katha, recorded by Komal Kothari and held by Rupayan Sansthan.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-125-012",
+ "meta": [
+  "Region: Marwar and the wider Rajasthan region · Genre: Folk ballad / romantic legend · Themes: Love, memory, perseverance, loyalty",
+  "About the story and its origins",
+  "Dhola–Maru is one of Rajasthan's best-known romantic folk narratives. It has been preserved through oral singing, storytelling and visual traditions. The story exists in multiple versions, with variations in the characters, journey and ending.",
+  "In a familiar version, Dhola and Maru are married as children. They grow up apart, and Dhola eventually forgets the marriage. Maru, however, remembers him. When she becomes an adult, she sends a message asking him to come and claim her. After overcoming obstacles and opposition, Dhola travels across the desert to reunite with her. Their journey home is threatened by danger, but they survive and return together.",
+  "The story is especially suited to a repository because it can introduce children to Rajasthan's desert geography, camel journeys, folk music and the tradition of oral ballads.",
+  "Source and attribution: Dina Nath Dube's Folk Tales of Rajasthan, published by the Government of India's Publications Division, lists Dhola–Marooni among its tales. The IGNCA National Cultural Audiovisual Archives also holds a Rajasthani-language oral recording titled Dhola Maru ki Katha, recorded by Komal Kothari and held by Rupayan Sansthan.",
+  "Google Books+1"
+ ]
+}

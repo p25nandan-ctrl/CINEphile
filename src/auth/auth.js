@@ -50,7 +50,7 @@ function invalid(input, on) { input.setAttribute('aria-invalid', on ? 'true' : '
 /* ---------- views inside the modal ---------- */
 const VIEWS = {
   login:  { title: 'Welcome back', sub: 'Log in to keep your stories and progress with you.', go: 'Log in', fields: ['email', 'pass'], pw: 'current-password', tabs: true },
-  signup: { title: 'Join Kathaa Sangam', sub: 'Create your free account. We will email you a link to confirm it.', go: 'Create account', fields: ['name', 'email', 'pass'], pw: 'new-password', tabs: true },
+  signup: { title: 'Join Kathaa Sangam', sub: 'For parents and teachers. Create a free adult account, then add a simple nickname profile for each child. We will email you a link to confirm it.', go: 'Create account', fields: ['name', 'email', 'pass'], pw: 'new-password', tabs: true },
   forgot: { title: 'Forgot password?', sub: 'Enter your email and we will send you a link to choose a new password.', go: 'Send reset link', fields: ['email'], tabs: false },
   reset:  { title: 'Choose a new password', sub: 'Pick something at least 8 characters long.', go: 'Save new password', fields: ['pass', 'pass2'], pw: 'new-password', tabs: false },
   sent:   { title: 'Check your email', sub: '', go: '', fields: [], tabs: false },
@@ -314,11 +314,12 @@ async function submitArtwork({ storyId, file, title, description, consent }) {
   const type = await sniff(file);
   if (!type) return FAIL('Please choose a JPG, PNG or WebP picture.');
   title = (title || '').trim().slice(0, 80); description = (description || '').trim().slice(0, 300);
+  const childId = (window.KathaaLearn && window.KathaaLearn.childId && window.KathaaLearn.childId()) || null;
   const path = session.user.id + '/' + crypto.randomUUID() + '.' + ART.ext[type];
   const up = await sb.storage.from(ART.bucket).upload(path, file, { contentType: type, upsert: false, cacheControl: '3600' });
   if (up.error) return FAIL('We could not save the picture. Nothing was sent. Please try again.');
   const ins = await sb.from('artwork_submissions').insert({ story_id: storyId, storage_path: path, content_type: type, size_bytes: file.size,
-    title: title || null, description: description || null, consent_confirmed: true }).select('id,created_at,status').single();
+    title: title || null, description: description || null, consent_confirmed: true, ...(childId ? { child_id: childId } : {}) }).select('id,created_at,status').single();
   if (ins.error || !ins.data) {
     await sb.storage.from(ART.bucket).remove([path]); // do not leave an orphan file behind
     return FAIL('We could not save your submission. Nothing was sent. Please try again.');
@@ -379,5 +380,6 @@ async function mountAdmin(root) {
   sel.onchange = load; load();
 }
 window.KathaaArt = { configured: CONFIGURED, ready: whenReady, signedIn: () => !!session, isAdmin, submit: submitArtwork, mountAdmin, login: () => openModal('login') };
+window.KathaaSB = { client: sb, ready: whenReady, user: () => (session && session.user) || null, isAdmin };
 window.KathaaAuth = { showAccount, open: openModal, logout, configured: CONFIGURED };
 boot();

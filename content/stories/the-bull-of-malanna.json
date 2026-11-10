@@ -1,0 +1,548 @@
+{
+ "id": "the-bull-of-malanna",
+ "state": "ap",
+ "title": "The Bull of Malanna",
+ "titleHi": "मल्लन्ना का बैल",
+ "summary": "A farmer's missing bull turns up in the market, held by a thief. Malanna's clever wife uses one simple question about the bull's eyes to show who is telling the truth.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Folktale, Andhra Pradesh (retelling attributed to Rachna Bhola Yamini)",
+ "origLevel": 2,
+ "levelReason": "The supplied text uses mostly clear, medium-length sentences (about 11 words on average) with connectors such as 'however' and 'but', plus some moderately demanding words (exhausted, confronted, defective, prominent, contradicted). It is more complex than simple Level 1 sentences, but it lacks the long, layered sentences and atmosphere of Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a farmer named Malanna lived in a small village in Andhra Pradesh. He had a fine bull. He used it to plough his fields. One day the bull was gone. Malanna looked everywhere. He asked the villagers. Nobody knew where it had gone.",
+     "After many days, Malanna came home. He was tired and worried.",
+     "“Dear wife,” he said, “how can I plough without our bull? Then we cannot grow crops. We will have no grain. Soon we will have nothing to eat.”",
+     "His wife was wise and sensible. “We must buy another bull,” she said. “You are easy to fool. So I will come with you to the market.”",
+     "Malanna agreed. The two went off together.",
+     "At the market, they looked at the cattle for sale. Suddenly, Malanna’s wife saw something she knew. There stood their lost bull! A thief had stolen it. He had brought it to the market to sell.",
+     "Malanna knew his bull at once. He went to the seller. “That is our bull!” he said. “You stole it from us!”",
+     "The thief would not give it back. “This bull is mine,” he said. “Yours may look like it, but this one is mine.”",
+     "Many people in the market came to watch. Malanna’s wife stayed calm. She knew that arguing would not help.",
+     "She stepped forward. She covered the bull’s eyes with her hands. Then she turned to the thief.",
+     "“If this bull is really yours, you must know it well. Tell us, which of its eyes is bad?”",
+     "The thief had no idea. He had never looked at the bull closely. He wanted to sound sure. So he guessed. “Its left eye is bad!”",
+     "Malanna’s wife looked at him. She told him to think again. The thief grew nervous. He changed his answer fast.",
+     "“No, no! Now I remember. It is the right eye that is bad!”",
+     "By now, some important people from the market had gathered around.",
+     "Malanna’s wife took her hands away. Everyone saw that both eyes were healthy. The thief had given two different answers. He had shown his own lie.",
+     "The villagers knew that Malanna and his wife spoke the truth. They caught the thief. The farmer got his bull back.",
+     "Malanna and his wife went home happy. His wife’s quick thinking had saved the day. Now they had a bull for their land.",
+     "Moral: A clever mind and careful eyes can beat a lie. Never think a thoughtful mind is weak."
+    ],
+    "hi": [
+     "बहुत समय पहले आंध्र प्रदेश के एक छोटे गाँव में मल्लन्ना नाम का एक किसान रहता था। उसके पास एक अच्छा बैल था। वह उसी से अपने खेत जोतता था। एक दिन बैल गायब हो गया। मल्लन्ना ने हर जगह ढूँढा। उसने गाँव वालों से पूछा। किसी को पता नहीं था कि बैल कहाँ गया।",
+     "कई दिनों बाद मल्लन्ना घर लौटा। वह थका हुआ और चिंतित था।",
+     "“प्यारी पत्नी,” उसने कहा, “हम बैल के बिना खेत कैसे जोतेंगे? तब फ़सल नहीं उगेगी। हमारे पास अनाज नहीं होगा। जल्दी ही खाने को कुछ नहीं बचेगा।”",
+     "उसकी पत्नी समझदार थी। “हमें दूसरा बैल खरीदना होगा,” उसने कहा। “पर तुम्हें आसानी से बेवकूफ़ बनाया जा सकता है। इसलिए मैं भी तुम्हारे साथ बाज़ार चलूँगी।”",
+     "मल्लन्ना मान गया। दोनों साथ चल पड़े।",
+     "बाज़ार में वे बिकने आए पशुओं को देखने लगे। अचानक मल्लन्ना की पत्नी को कुछ जाना-पहचाना दिखा। वहाँ उनका खोया हुआ बैल खड़ा था! एक चोर उसे चुराकर बेचने के लिए बाज़ार ले आया था।",
+     "मल्लन्ना ने अपने बैल को तुरंत पहचान लिया। वह बेचने वाले के पास गया। “यह हमारा बैल है!” उसने कहा। “तुमने इसे हमसे चुराया है!”",
+     "चोर बैल लौटाने को तैयार नहीं हुआ। “यह बैल मेरा है,” उसने कहा। “तुम्हारा बैल शायद ऐसा ही दिखता होगा, पर यह मेरा है।”",
+     "बाज़ार के बहुत से लोग तमाशा देखने आ गए। मल्लन्ना की पत्नी शांत रही। वह जानती थी कि बहस करने से कुछ नहीं होगा।",
+     "वह आगे बढ़ी। उसने अपने हाथों से बैल की आँखें ढक दीं। फिर वह चोर की ओर मुड़ी।",
+     "“अगर यह बैल सच में तुम्हारा है, तो तुम इसे अच्छी तरह जानते होगे। बताओ, इसकी कौन-सी आँख खराब है?”",
+     "चोर को कुछ पता नहीं था। उसने बैल को कभी ध्यान से देखा ही नहीं था। वह पक्का दिखना चाहता था। इसलिए उसने अंदाज़ा लगाया। “इसकी बाईं आँख खराब है!”",
+     "मल्लन्ना की पत्नी ने उसे देखा। उसने उसे फिर से सोचने को कहा। चोर घबरा गया। उसने जल्दी से अपना जवाब बदल दिया।",
+     "“नहीं, नहीं! अब मुझे याद आया। दाईं आँख खराब है!”",
+     "तब तक बाज़ार के कुछ बड़े और जाने-माने लोग वहाँ इकट्ठा हो गए थे।",
+     "मल्लन्ना की पत्नी ने हाथ हटा लिए। सबने देखा कि दोनों आँखें बिलकुल ठीक थीं। चोर ने दो अलग बातें कही थीं। उसका झूठ खुद खुल गया।",
+     "गाँव वाले समझ गए कि मल्लन्ना और उसकी पत्नी सच बोल रहे हैं। चोर पकड़ा गया। किसान को उसका बैल वापस मिल गया।",
+     "मल्लन्ना और उसकी पत्नी खुशी-खुशी घर लौटे। पत्नी की तेज़ सोच ने सब ठीक कर दिया। अब उनके पास अपनी ज़मीन के लिए बैल था।",
+     "सीख: समझदारी और ध्यान से देखना झूठ को हरा सकता है। सोचने वाले दिमाग़ को कभी कमज़ोर मत समझो।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "plough",
+     "en": "to turn over the soil in a field before planting",
+     "hi": "हल चलाना, खेत जोतना"
+    },
+    {
+     "w": "crops",
+     "en": "plants that farmers grow for food",
+     "hi": "फ़सलें"
+    },
+    {
+     "w": "grain",
+     "en": "seeds like rice or wheat that we eat",
+     "hi": "अनाज"
+    },
+    {
+     "w": "sensible",
+     "en": "having good, practical sense",
+     "hi": "समझदार"
+    },
+    {
+     "w": "cattle",
+     "en": "cows and bulls kept on a farm",
+     "hi": "पशु, मवेशी"
+    },
+    {
+     "w": "thief",
+     "en": "a person who steals",
+     "hi": "चोर"
+    },
+    {
+     "w": "calm",
+     "en": "quiet and not upset",
+     "hi": "शांत"
+    },
+    {
+     "w": "nervous",
+     "en": "a little afraid or worried",
+     "hi": "घबराया हुआ"
+    },
+    {
+     "w": "healthy",
+     "en": "well, with nothing wrong",
+     "hi": "स्वस्थ, ठीक"
+    },
+    {
+     "w": "moral",
+     "en": "the lesson of a story",
+     "hi": "सीख"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and what",
+     "q": "What did Malanna lose, and why did he need it so much?"
+    },
+    {
+     "k": "Events",
+     "q": "Where did Malanna and his wife find the bull?"
+    },
+    {
+     "k": "The test",
+     "q": "What did Malanna’s wife do before she asked the thief her question?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think the thief felt when he had to guess which eye was bad? Why?"
+    },
+    {
+     "k": "Your life",
+     "q": "Have you ever solved a problem by thinking calmly instead of arguing? Tell about it if you like."
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived a farmer named Malanna in a small village in Andhra Pradesh. Malanna owned a fine bull that he depended upon to plough his fields. One day, however, the animal disappeared. He searched everywhere, asking villagers whether they had seen it, but nobody could tell him where it had gone.",
+     "After several days of searching, Malanna returned home exhausted and worried.",
+     "“My dear wife,” he said, “how will I plough our fields without our bull? If we cannot plough, we cannot grow crops. Without a harvest, we will have no grain, and soon we will have nothing to eat.”",
+     "His wife was a practical and intelligent woman. “We must buy another bull,” she replied. “But knowing how easily you can be fooled, I shall come with you to the market.”",
+     "Malanna agreed, and the two set off together.",
+     "At the marketplace, they began looking at the cattle being offered for sale. Suddenly, Malanna’s wife noticed something familiar. There, standing among the other animals, was their missing bull! A thief had stolen the animal and brought it to the market to sell.",
+     "Malanna immediately recognised his bull and confronted the seller. “That is our bull! You have stolen it from us,” he declared.",
+     "The thief refused to surrender the animal. “This bull belongs to me,” he insisted. “Your animal may look similar, but this one is mine.”",
+     "The argument attracted the attention of several people in the marketplace. Malanna’s wife, however, remained calm. She knew that simply arguing would not help them recover their property.",
+     "She stepped forward and covered the bull’s eyes with her hands. Then she turned to the thief.",
+     "“If this bull truly belongs to you, surely you know its features. Tell us: which of its eyes is defective?”",
+     "The thief had no idea. He had stolen the animal and had never paid attention to its appearance. Trying to appear confident, he guessed, “Its left eye is defective!”",
+     "Malanna’s wife looked at him and asked him to think carefully before answering. The thief became nervous. He reconsidered his answer and quickly changed it.",
+     "“No, no! I remember now. It is the right eye that is defective!”",
+     "By this time, several prominent people from the marketplace had gathered around them.",
+     "Malanna’s wife removed her hands from the bull’s eyes. Everyone could see that both eyes were perfectly healthy. The thief had contradicted himself and exposed his own lie.",
+     "The assembled villagers realised that Malanna and his wife were telling the truth. The thief was caught, and the farmer recovered his stolen bull.",
+     "Malanna and his wife returned home delighted. Thanks to his wife’s quick thinking, they had recovered the animal they needed to cultivate their land.",
+     "Moral: Intelligence and careful observation can defeat dishonesty. Never underestimate the power of a thoughtful mind."
+    ],
+    "hi": [
+     "बहुत समय पहले आंध्र प्रदेश के एक छोटे-से गाँव में मल्लन्ना नाम का एक किसान रहता था। उसके पास एक बढ़िया बैल था, जिस पर वह खेत जोतने के लिए निर्भर था। लेकिन एक दिन बैल गायब हो गया। उसने हर जगह ढूँढा और गाँव वालों से पूछा, पर कोई नहीं बता सका कि वह कहाँ गया।",
+     "कई दिन खोजने के बाद मल्लन्ना थका-हारा और चिंतित होकर घर लौटा।",
+     "“मेरी प्यारी पत्नी,” उसने कहा, “बैल के बिना हम अपने खेत कैसे जोतेंगे? अगर खेत नहीं जुते तो फ़सल नहीं होगी। फ़सल के बिना अनाज नहीं होगा, और जल्दी ही हमारे पास खाने को कुछ नहीं बचेगा।”",
+     "उसकी पत्नी व्यावहारिक और बुद्धिमान औरत थी। “हमें दूसरा बैल खरीदना होगा,” उसने जवाब दिया। “लेकिन मैं जानती हूँ कि तुम्हें आसानी से बेवकूफ़ बनाया जा सकता है, इसलिए मैं भी तुम्हारे साथ बाज़ार चलूँगी।”",
+     "मल्लन्ना मान गया और दोनों साथ चल पड़े।",
+     "बाज़ार में वे बिक्री के लिए रखे गए पशुओं को देखने लगे। अचानक मल्लन्ना की पत्नी को कुछ जाना-पहचाना लगा। वहाँ दूसरे जानवरों के बीच उनका खोया हुआ बैल खड़ा था! एक चोर उसे चुराकर बेचने के लिए बाज़ार ले आया था।",
+     "मल्लन्ना ने अपने बैल को तुरंत पहचान लिया और बेचने वाले का सामना किया। “यह हमारा बैल है! तुमने इसे हमसे चुराया है,” उसने कहा।",
+     "चोर ने बैल सौंपने से इनकार कर दिया। “यह बैल मेरा है,” उसने ज़ोर देकर कहा। “तुम्हारा जानवर शायद ऐसा ही दिखता हो, पर यह मेरा है।”",
+     "इस बहस ने बाज़ार के कई लोगों का ध्यान खींच लिया। फिर भी मल्लन्ना की पत्नी शांत रही। वह जानती थी कि सिर्फ़ बहस करने से उनकी चीज़ वापस नहीं मिलेगी।",
+     "वह आगे आई और उसने अपने हाथों से बैल की आँखें ढक दीं। फिर वह चोर की ओर मुड़ी।",
+     "“अगर यह बैल सचमुच तुम्हारा है, तो तुम्हें इसकी पहचान ज़रूर पता होगी। बताओ, इसकी कौन-सी आँख खराब है?”",
+     "चोर को कुछ पता नहीं था। उसने बैल को चुराया था, पर कभी उसे ध्यान से देखा नहीं था। आत्मविश्वास दिखाने की कोशिश में उसने अंदाज़ा लगाया, “इसकी बाईं आँख खराब है!”",
+     "मल्लन्ना की पत्नी ने उसकी ओर देखा और उससे सोच-समझकर जवाब देने को कहा। चोर घबरा गया। उसने अपने जवाब पर दोबारा सोचा और जल्दी से उसे बदल दिया।",
+     "“नहीं, नहीं! अब मुझे याद आया। खराब तो दाईं आँख है!”",
+     "तब तक बाज़ार के कई जाने-माने लोग उनके चारों ओर इकट्ठा हो चुके थे।",
+     "मल्लन्ना की पत्नी ने बैल की आँखों से हाथ हटा लिए। सबने देखा कि दोनों आँखें बिलकुल ठीक हैं। चोर अपनी ही बात काट बैठा था और उसका झूठ खुल गया।",
+     "इकट्ठा हुए गाँव वाले समझ गए कि मल्लन्ना और उसकी पत्नी सच कह रहे हैं। चोर पकड़ा गया और किसान को उसका चोरी हुआ बैल वापस मिल गया।",
+     "मल्लन्ना और उसकी पत्नी खुशी-खुशी घर लौटे। पत्नी की तेज़ सूझ-बूझ की वजह से उन्हें वह जानवर वापस मिल गया था, जिसकी उन्हें अपनी ज़मीन पर खेती के लिए ज़रूरत थी।",
+     "सीख: बुद्धि और ध्यान से देखने की आदत बेईमानी को हरा सकती है। सोचने-समझने वाले दिमाग़ की ताक़त को कभी कम मत आँको।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "exhausted",
+     "en": "very, very tired",
+     "hi": "बहुत थका हुआ"
+    },
+    {
+     "w": "practical",
+     "en": "good at sensible, everyday thinking",
+     "hi": "व्यावहारिक"
+    },
+    {
+     "w": "familiar",
+     "en": "known, something you have seen before",
+     "hi": "जाना-पहचाना"
+    },
+    {
+     "w": "confronted",
+     "en": "faced someone and spoke to them boldly about a wrong",
+     "hi": "सामना किया"
+    },
+    {
+     "w": "surrender",
+     "en": "to give something up",
+     "hi": "सौंप देना"
+    },
+    {
+     "w": "defective",
+     "en": "not working properly; faulty",
+     "hi": "खराब, दोषपूर्ण"
+    },
+    {
+     "w": "reconsidered",
+     "en": "thought about again",
+     "hi": "दोबारा सोचा"
+    },
+    {
+     "w": "prominent",
+     "en": "important and well known",
+     "hi": "जाने-माने"
+    },
+    {
+     "w": "contradicted",
+     "en": "said the opposite of what you said before",
+     "hi": "अपनी ही बात काटी"
+    },
+    {
+     "w": "exposed",
+     "en": "showed what was hidden",
+     "hi": "उजागर किया"
+    },
+    {
+     "w": "assembled",
+     "en": "gathered together",
+     "hi": "इकट्ठा हुए"
+    },
+    {
+     "w": "cultivate",
+     "en": "to farm land and grow crops",
+     "hi": "खेती करना"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did Malanna’s wife decide to go to the market with him instead of letting him go alone?"
+    },
+    {
+     "k": "Calm choices",
+     "q": "Why did she stay calm and not argue with the thief? What would have happened if she had just shouted?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "How did covering the bull’s eyes lead the thief to give himself away?"
+    },
+    {
+     "k": "The thief",
+     "q": "The thief changed his answer when he was asked to think again. What does this tell you about him?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The story says never to underestimate a thoughtful mind. Who in the story might have underestimated Malanna’s wife, and why would that be a mistake?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in a small village in Andhra Pradesh, there lived a farmer named Malanna, whose fine bull was the very heart of his livelihood, for it drew the plough through his fields. One morning the animal had vanished. He searched far and wide, questioning every villager he met, but not one of them could say where it had gone.",
+     "After many days of fruitless searching, Malanna trudged home, weary in body and heavy with worry.",
+     "“My dear wife,” he lamented, “how are we to plough our fields without our bull? Without ploughing there can be no crops, and without a harvest there will be no grain. Before long, we shall have nothing left to eat.”",
+     "His wife was a woman of sound judgement and a sharp mind. “We shall have to buy another bull,” she replied. “But since you are so easily taken in by clever talkers, I shall come with you to the market myself.”",
+     "Malanna agreed, and the two of them set off together.",
+     "In the bustling marketplace they moved slowly among the cattle that were offered for sale. All at once, Malanna’s wife caught sight of something familiar. There, standing among the other animals, was their own missing bull! A thief had stolen it and brought it here to sell.",
+     "Malanna recognised his bull in an instant and strode up to the seller. “That is our bull!” he declared. “You have stolen it from us!”",
+     "The thief flatly refused to give the animal up. “This bull belongs to me,” he insisted. “Yours may look much the same, but this one is mine.”",
+     "The quarrel soon drew a crowd of curious onlookers. Malanna’s wife, however, stayed perfectly calm. She understood that mere shouting would never win back their property.",
+     "She stepped forward and gently covered the bull’s eyes with her hands. Then she turned to the thief and fixed him with a steady gaze.",
+     "“If this bull truly belongs to you, you must surely know its marks and features. Tell us, then: which of its eyes is defective?”",
+     "The thief had no idea. He had stolen the animal and had never once looked closely at it. Hoping to seem confident, he took a guess. “Its left eye is defective!” he said.",
+     "Malanna’s wife regarded him quietly and asked him to think carefully before he answered. The thief’s confidence crumbled and he grew nervous. He hastily reconsidered and changed his reply.",
+     "“No, no! Now I remember. It is the right eye that is defective!”",
+     "By now, several prominent people of the marketplace had gathered around them to see how the matter would end.",
+     "Malanna’s wife lifted her hands from the bull’s eyes. Everyone could see that both eyes were perfectly healthy. The thief had contradicted himself and exposed his own lie before the whole crowd.",
+     "The assembled villagers realised that Malanna and his wife had told the truth. The thief was caught, and the farmer got back his stolen bull.",
+     "Malanna and his wife returned home overjoyed. Thanks to the wife’s quick thinking, they once again had the animal they needed to cultivate their land.",
+     "Moral: Dishonesty can be defeated by intelligence and careful observation, and the power of a thoughtful mind should never be underestimated."
+    ],
+    "hi": [
+     "बहुत पहले आंध्र प्रदेश के एक छोटे-से गाँव में मल्लन्ना नाम का किसान रहता था। उसका बढ़िया बैल ही उसकी रोज़ी-रोटी की जान था, क्योंकि वही उसके खेतों में हल खींचता था। एक सुबह वह जानवर अचानक ग़ायब हो गया। मल्लन्ना ने दूर-दूर तक ढूँढा और मिलने वाले हर गाँववाले से पूछा, पर कोई भी न बता सका कि वह कहाँ चला गया।",
+     "कई दिनों की बेकार खोज के बाद मल्लन्ना तन से थका और चिंता से बोझिल होकर घर लौटा।",
+     "“मेरी प्यारी पत्नी,” उसने दुखी स्वर में कहा, “हमारे बैल के बिना हम खेत कैसे जोतेंगे? जुताई के बिना फ़सल नहीं होगी, और फ़सल के बिना अनाज नहीं मिलेगा। जल्दी ही हमारे पास खाने को कुछ भी नहीं रहेगा।”",
+     "उसकी पत्नी सूझ-बूझ वाली और तेज़ दिमाग़ की स्त्री थी। “हमें दूसरा बैल खरीदना ही पड़ेगा,” उसने उत्तर दिया। “पर तुम चालाक लोगों की बातों में बड़ी आसानी से आ जाते हो, इसलिए बाज़ार मैं खुद तुम्हारे साथ चलूँगी।”",
+     "मल्लन्ना मान गया और दोनों साथ-साथ निकल पड़े।",
+     "चहल-पहल भरे बाज़ार में वे बिक्री के लिए लाए गए पशुओं के बीच धीरे-धीरे घूमने लगे। अचानक मल्लन्ना की पत्नी की नज़र किसी जानी-पहचानी चीज़ पर पड़ी। दूसरे जानवरों के बीच उनका अपना खोया हुआ बैल खड़ा था! एक चोर उसे चुराकर बेचने यहाँ ले आया था।",
+     "मल्लन्ना ने पल भर में अपने बैल को पहचान लिया और बेचने वाले के पास जा पहुँचा। “यह हमारा बैल है!” उसने ऊँची आवाज़ में कहा। “तुमने इसे हमसे चुराया है!”",
+     "चोर ने जानवर लौटाने से साफ़ इनकार कर दिया। “यह बैल मेरा है,” उसने अड़कर कहा। “तुम्हारा बैल शायद बहुत कुछ ऐसा ही दिखता होगा, पर यह मेरा है।”",
+     "इस झगड़े ने जल्दी ही उत्सुक तमाशबीनों की भीड़ जमा कर दी। फिर भी मल्लन्ना की पत्नी पूरी तरह शांत रही। वह समझती थी कि सिर्फ़ चिल्लाने से उनकी चीज़ वापस नहीं मिलेगी।",
+     "वह आगे बढ़ी और उसने कोमलता से अपने हाथों से बैल की आँखें ढक दीं। फिर वह चोर की ओर मुड़ी और उसे स्थिर नज़र से देखा।",
+     "“अगर यह बैल सचमुच तुम्हारा है, तो तुम्हें इसके निशान और ख़ासियतें ज़रूर पता होंगी। तो बताओ, इसकी कौन-सी आँख खराब है?”",
+     "चोर को कुछ भी पता नहीं था। उसने जानवर को चुराया था, पर कभी ग़ौर से उसे देखा नहीं था। भरोसे वाला दिखने की आस में उसने तुक्का लगाया। “इसकी बाईं आँख खराब है!” उसने कहा।",
+     "मल्लन्ना की पत्नी ने चुपचाप उसे देखा और कहा कि जवाब देने से पहले ज़रा ध्यान से सोच ले। चोर का आत्मविश्वास डगमगा गया और वह घबरा उठा। उसने हड़बड़ाकर अपने उत्तर पर फिर विचार किया और उसे बदल दिया।",
+     "“नहीं, नहीं! अब मुझे याद आया। खराब तो दाईं आँख है!”",
+     "तब तक बाज़ार के कई प्रतिष्ठित लोग यह देखने के लिए उनके चारों ओर आ जुटे थे कि मामला कैसे निपटता है।",
+     "मल्लन्ना की पत्नी ने बैल की आँखों से हाथ उठा लिए। सबने देखा कि दोनों आँखें बिलकुल स्वस्थ हैं। चोर ने अपनी ही बात काट दी थी और पूरी भीड़ के सामने अपना झूठ उजागर कर दिया था।",
+     "इकट्ठा हुए गाँववाले समझ गए कि मल्लन्ना और उसकी पत्नी ने सच कहा था। चोर पकड़ा गया और किसान को उसका चुराया हुआ बैल वापस मिल गया।",
+     "मल्लन्ना और उसकी पत्नी खुशी से भरे घर लौटे। पत्नी की तुरंत सूझी चतुराई की बदौलत उनके पास फिर वह जानवर था जिसकी उन्हें अपनी ज़मीन जोतने के लिए ज़रूरत थी।",
+     "सीख: बुद्धि और बारीक अवलोकन से बेईमानी को हराया जा सकता है, और सोचने-समझने वाले मन की ताक़त को कभी कम नहीं आँकना चाहिए।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "livelihood",
+     "en": "the work or means a person uses to earn a living",
+     "hi": "रोज़ी-रोटी, आजीविका"
+    },
+    {
+     "w": "vanished",
+     "en": "disappeared suddenly",
+     "hi": "अचानक गायब हो गया"
+    },
+    {
+     "w": "lamented",
+     "en": "said sadly, in sorrow",
+     "hi": "दुखी होकर कहा"
+    },
+    {
+     "w": "judgement",
+     "en": "the ability to decide wisely",
+     "hi": "विवेक, सूझ-बूझ"
+    },
+    {
+     "w": "recognised",
+     "en": "knew again because it had been seen before",
+     "hi": "पहचान लिया"
+    },
+    {
+     "w": "onlookers",
+     "en": "people who watch something happen",
+     "hi": "तमाशबीन, देखने वाले"
+    },
+    {
+     "w": "defective",
+     "en": "faulty; not right or sound",
+     "hi": "दोषपूर्ण, खराब"
+    },
+    {
+     "w": "prominent",
+     "en": "important and respected in a community",
+     "hi": "प्रतिष्ठित"
+    },
+    {
+     "w": "contradicted",
+     "en": "said something that went against his own earlier words",
+     "hi": "अपनी ही बात काटी"
+    },
+    {
+     "w": "exposed",
+     "en": "made a hidden thing plainly visible",
+     "hi": "उजागर किया"
+    },
+    {
+     "w": "dishonesty",
+     "en": "lying, cheating or stealing",
+     "hi": "बेईमानी"
+    },
+    {
+     "w": "underestimated",
+     "en": "judged to be less strong or able than it really is",
+     "hi": "कम आँका गया"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The thief stole the bull and then lied to keep it. Is a lie that is exposed by the liar’s own words a kind of justice? Why or why not?"
+    },
+    {
+     "k": "Another view",
+     "q": "Imagine you are the thief standing at the market. What might you be thinking as the crowd gathers and the questions begin?"
+    },
+    {
+     "k": "Culture",
+     "q": "Why might a bull be so valuable to a farming family in a village like Malanna’s? What does this tell you about how people lived?"
+    },
+    {
+     "k": "Theme",
+     "q": "Malanna’s wife won without force, using only a question. What does the story suggest about the difference between being loud and being wise?"
+    },
+    {
+     "k": "Today",
+     "q": "How do careful questions and observation help people today to tell what is true from what is false, for example when reading news or messages online?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3,
+   4
+  ],
+  [
+   5,
+   6,
+   7
+  ],
+  [
+   8,
+   9,
+   10
+  ],
+  [
+   11,
+   12,
+   13
+  ],
+  [
+   14,
+   15,
+   16
+  ],
+  [
+   17,
+   18
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Malanna’s bull goes missing",
+   "th": "मल्लन्ना का बैल खो गया",
+   "p": "A small Andhra village in warm morning light. Malanna, a lean middle-aged farmer with a kind, worried face, stands by an empty cattle shed with a plough resting nearby, asking a neighbour if they have seen his bull. Later he trudges home, shoulders drooping. Gentle, sad mood. Consistent characters: Malanna in a plain cotton dhoti and a cloth wrapped on his head; his sturdy bull is dark brown with a pale patch on the forehead and two clear, healthy eyes."
+  },
+  {
+   "t": "A plan to go to market",
+   "th": "बाज़ार जाने की योजना",
+   "p": "Inside the humble village home, Malanna sits tired and anxious while his wife, a calm and sharp-eyed woman in a plain cotton saree with her hair tied back, listens and speaks firmly. In the next moment, the two set off together down a village path toward the market. Warm, earthy colours; hopeful mood."
+  },
+  {
+   "t": "The lost bull is found",
+   "th": "खोया बैल मिल गया",
+   "p": "A busy village cattle market with many cows and bulls tied in rows and people bargaining. Malanna’s wife points in surprise at their dark brown bull with the pale forehead patch; Malanna confronts a shifty-looking seller who holds the bull’s rope and shakes his head, insisting the bull is his. Lively, tense mood, child-friendly, no violence."
+  },
+  {
+   "t": "Hands over the bull’s eyes",
+   "th": "बैल की आँखों पर हाथ",
+   "p": "A crowd of curious villagers gathers in a circle. Malanna’s wife, calm and composed, gently covers the bull’s eyes with both hands and looks steadily at the thief, asking him a question. Malanna watches nervously behind her. The bull stands patient and quiet. Focused, suspenseful mood."
+  },
+  {
+   "t": "The thief guesses twice",
+   "th": "चोर के दो जवाब",
+   "p": "Close view of the thief, sweating and wide-eyed, first pointing to the left then changing his mind and pointing to the right, while Malanna’s wife, hands still over the bull’s eyes, watches him patiently. Onlookers lean in, whispering. Comic, tense mood."
+  },
+  {
+   "t": "Both eyes are healthy",
+   "th": "दोनों आँखें ठीक",
+   "p": "Malanna’s wife lifts her hands away and the bull’s two clear, healthy eyes are visible to everyone. Well-dressed elders and villagers murmur and nod, pointing at the thief who looks down in shame. Malanna smiles in relief. Moment of revelation, bright mood."
+  },
+  {
+   "t": "Home with the bull",
+   "th": "बैल के साथ घर वापसी",
+   "p": "Golden evening light. Malanna and his wife walk happily home along a village lane, leading their dark brown bull with the pale forehead patch between them, green fields ahead. Warm, joyful, peaceful mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Andhra Pradesh, India (rural village and market)",
+  "verified": true,
+  "tradition": "Tholu Bommalata (Andhra Pradesh leather shadow puppetry)",
+  "note": "Verified source: Andhra Pradesh leather puppets are made from thin, translucent goat hide, with black outlines, colours mainly black, red and green (yellow often for women and sages), and delicate cut-out patterns. The tradition is associated with the state, but it does not depict this particular story, so we suggest it only as loose inspiration for palette and line (strong outlines, cut-out patterns on borders, warm earthy colours), not as a claim that this story was told in that art form. A neutral storybook village style is also acceptable.",
+  "characters": [
+   {
+    "name": "Malanna",
+    "look": "Lean middle-aged farmer, kind worried face, short moustache, plain cotton dhoti and a cloth wrapped on his head."
+   },
+   {
+    "name": "Malanna’s wife",
+    "look": "Calm, sharp-eyed woman in a plain cotton saree in muted green with hair tied back; steady, confident posture."
+   },
+   {
+    "name": "The thief",
+    "look": "Thinner man with shifty eyes, dull-coloured shirt and lungi, hair untidy; gets visibly nervous."
+   },
+   {
+    "name": "The bull",
+    "look": "Sturdy dark brown bull with a pale patch on the forehead, a hump, and two clear, healthy eyes."
+   }
+  ],
+  "sources": [
+   [
+    "Andhra Pradesh Leather Puppetry, Development Commissioner (Handicrafts), Government of India",
+    "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_Articles/Andhra_Pradesh_Leather_Puppetry/APLeatherPuppetryWebPage.html"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are standing in the crowd at the market when Malanna’s wife covers the bull’s eyes. What do you see, hear and smell around you, and what are you thinking before the thief answers?",
+ "create": "Draw the moment when the wife lifts her hands and everyone sees both eyes are healthy. Or write a short thank-you note from Malanna to his wife.",
+ "about": {
+  "where": "This story comes from Andhra Pradesh, a state in south-eastern India where Telugu is widely spoken. It is set in a small farming village and its nearby market, where animals like bulls were important for ploughing.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. Our supplied text says only that it is a Telugu-region folk tale, attributed to Rachna Bhola Yamini’s book Folk Tales of Andhra Pradesh.",
+  "tradition": "Clever-witness and trick-the-liar stories are told in many parts of the world. Here, instead of force, a wise woman uses a simple test. Andhra Pradesh also has its own visual traditions such as Tholu Bommalata leather puppetry, but we do not know of any link between those and this story.",
+  "shared": "The project team’s repository says this is a modern, readable retelling, not a word-for-word copy of any older text. We have not been able to check the original book ourselves.",
+  "matters": "The story shows that calm thinking and careful attention can solve problems that shouting cannot. It also gives the spotlight to a practical, clever woman. Remember, this is one version from one source, and other tellers may tell it differently.",
+  "links": [
+   [
+    "Andhra Pradesh Leather Puppetry (Government of India, Handicrafts)",
+    "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_Articles/Andhra_Pradesh_Leather_Puppetry/APLeatherPuppetryWebPage.html"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (as given by the repository)",
+   "v": "Rachna Bhola Yamini, Folk Tales of Andhra Pradesh, as cited by the Centre for Contemporary Folklore (CCF)",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (which we judged to be Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Art context",
+   "v": "Andhra Pradesh Leather Puppetry, Development Commissioner (Handicrafts), Government of India",
+   "url": "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_Articles/Andhra_Pradesh_Leather_Puppetry/APLeatherPuppetryWebPage.html",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Source attribution: only the project team’s citation (Yamini via CCF) is available; verify book, publisher, year and that the retelling is permitted for reuse.",
+  "Licence and permission for Yamini’s book and the repository text not confirmed.",
+  "Hindi translations (all three levels) need review by a fluent reader; the Hindi title and the spelling of the name मल्लन्ना should be confirmed.",
+  "Level 1 and 3 versions were written by AI and need educator review for reading level.",
+  "Art tradition (Tholu Bommalata) is verified as an Andhra Pradesh tradition but is only suggested as loose style inspiration, not linked to this story; confirm with an art specialist.",
+  "The wife’s remark that her husband is easily fooled is kept from the source; consider whether to discuss gently in class.",
+  "Level 1 vocabulary includes the word 'moral'; check this is the best choice."
+ ]
+}

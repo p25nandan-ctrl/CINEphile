@@ -1,0 +1,237 @@
+{
+ "id": "panna-dhai",
+ "state": "rj",
+ "title": "Panna Dhai — The Mother Who Saved a Kingdom",
+ "titleHi": "पन्ना धाय और नन्हे राजकुमार",
+ "genre": "Historical legend",
+ "levelTitles": {
+  "1": {
+   "en": "Panna Dhai and the Little Prince",
+   "hi": "पन्ना धाय और नन्हे राजकुमार"
+  },
+  "2": {
+   "en": "The Night Panna Dhai Made Her Choice",
+   "hi": "वह रात जब पन्ना धाय ने कठिन निर्णय लिया"
+  },
+  "3": {
+   "en": "Panna Dhai: A Sacrifice Remembered by Mewar",
+   "hi": "पन्ना धाय: मेवाड़ की स्मृति में अमर बलिदान"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in Mewar, there lived a brave woman named Panna Dhai. She cared for a young prince named Udai Singh.",
+     "Udai Singh was still a child. His father, the ruler of Mewar, had died, and the kingdom was facing a difficult time. Some people wanted to take the throne for themselves.",
+     "Panna Dhai knew that the little prince was in danger. She loved him and wanted to keep him safe.",
+     "One night, danger came to the palace. Panna heard that men were coming to harm the prince. She had to act quickly.",
+     "She carried Udai Singh away from his room and found a safe place for him to hide. To protect him, she placed her own little son in the prince's bed.",
+     "The men entered the room and mistook Panna's son for the prince. They killed him.",
+     "Panna was heartbroken. She had lost her own child, but the young prince was safe.",
+     "She took Udai Singh away from the palace and helped him reach a place where he could grow up safely.",
+     "Years later, Udai Singh became the ruler of Mewar. People remembered Panna Dhai for her courage and for protecting the young prince during a dangerous time."
+    ],
+    "hi": [
+     "बहुत समय पहले मेवाड़ में पन्ना धाय नाम की एक साहसी महिला रहती थीं। वे उदय सिंह नाम के एक छोटे राजकुमार की देखभाल करती थीं।",
+     "उदय सिंह अभी बच्चा ही था। उसके पिता, मेवाड़ के शासक, का निधन हो चुका था और राज्य कठिन समय से गुज़र रहा था। कुछ लोग स्वयं सिंहासन पर बैठना चाहते थे।",
+     "पन्ना धाय जानती थीं कि छोटे राजकुमार की जान खतरे में है। वे उससे बहुत प्रेम करती थीं और उसे सुरक्षित रखना चाहती थीं।",
+     "एक रात महल में संकट आ पहुँचा। पन्ना को पता चला कि कुछ लोग राजकुमार को मारने आ रहे हैं। उन्हें तुरंत कुछ करना था।",
+     "वे उदय सिंह को उसके कमरे से बाहर ले गईं और उसे छिपाने के लिए एक सुरक्षित जगह खोजी। उसकी रक्षा करने के लिए उन्होंने अपने ही छोटे बेटे को राजकुमार के बिस्तर पर सुला दिया।",
+     "वे लोग कमरे में आए और पन्ना के बेटे को राजकुमार समझ बैठे। उन्होंने उसे मार डाला।",
+     "पन्ना का हृदय दुख से भर गया। उन्होंने अपना बेटा खो दिया था, लेकिन छोटा राजकुमार सुरक्षित था।",
+     "वे उदय सिंह को महल से दूर ले गईं और उसे ऐसी जगह पहुँचाने में मदद की, जहाँ वह सुरक्षित बड़ा हो सके।",
+     "कई वर्ष बाद उदय सिंह मेवाड़ के शासक बने। लोग पन्ना धाय को उनके साहस और कठिन समय में राजकुमार की रक्षा करने के लिए याद करने लगे।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Mewar was passing through a troubled period. After the death of Rana Sanga, the kingdom faced uncertainty over who would rule next. The young prince Udai Singh was still a child, and his safety was threatened by Banvir, who wanted to take control of the throne.",
+     "Panna Dhai was the prince's nurse and caregiver. She had looked after him since he was very young and was deeply devoted to him.",
+     "One night, she learned that Banvir's men were approaching the palace to kill the prince. There was little time to escape, and every moment mattered.",
+     "Panna made a terrible decision. She placed her own young son in Udai Singh's bed and carried the prince away. She hoped that the men would mistake her child for the royal heir.",
+     "When Banvir's men entered the room, they saw the child in the bed and believed that he was Udai Singh. Panna's son was killed.",
+     "Panna was devastated, but she could not stop. She had to make sure the prince survived. She carried him away from the palace and travelled towards a safer place.",
+     "The journey was difficult, and she had to keep the prince hidden. But she succeeded in protecting him.",
+     "Udai Singh grew up and eventually became the ruler of Mewar. He later established the city of Udaipur.",
+     "Panna Dhai's story is remembered as one of the most powerful legends of Mewar. It speaks of extraordinary courage, but it also asks us to remember the terrible personal cost of her decision."
+    ],
+    "hi": [
+     "मेवाड़ एक कठिन दौर से गुज़र रहा था। राणा सांगा की मृत्यु के बाद राज्य में यह अनिश्चितता पैदा हो गई थी कि अगला शासक कौन होगा। छोटा राजकुमार उदय सिंह अभी बच्चा ही था और उसकी जान को बनवीर से खतरा था, जो सिंहासन पर अधिकार करना चाहता था।",
+     "पन्ना धाय राजकुमार की देखभाल करती थीं। उन्होंने उसे बचपन से पाला था और उससे बहुत लगाव रखती थीं।",
+     "एक रात उन्हें पता चला कि बनवीर के सैनिक राजकुमार को मारने के लिए महल की ओर आ रहे हैं। भागने के लिए बहुत कम समय था और हर पल महत्वपूर्ण था।",
+     "पन्ना ने एक अत्यंत कठिन निर्णय लिया। उन्होंने अपने छोटे बेटे को उदय सिंह के बिस्तर पर सुला दिया और राजकुमार को वहाँ से बाहर ले गईं। उन्हें उम्मीद थी कि सैनिक उनके बेटे को राजकुमार समझ लेंगे।",
+     "जब बनवीर के सैनिक कमरे में पहुँचे, तो उन्होंने बिस्तर पर सोए बच्चे को उदय सिंह समझ लिया। पन्ना के बेटे की हत्या कर दी गई।",
+     "पन्ना का हृदय टूट गया, लेकिन वे रुक नहीं सकती थीं। उन्हें यह सुनिश्चित करना था कि राजकुमार जीवित रहे। वे उसे महल से दूर ले गईं और एक सुरक्षित स्थान की ओर चल पड़ीं।",
+     "यात्रा कठिन थी और उन्हें राजकुमार को छिपाकर रखना पड़ा। लेकिन वे उसकी रक्षा करने में सफल रहीं।",
+     "उदय सिंह बड़े हुए और अंततः मेवाड़ के शासक बने। बाद में उन्होंने उदयपुर नगर की स्थापना की।",
+     "पन्ना धाय की कहानी मेवाड़ की सबसे प्रभावशाली लोक-स्मृतियों में से एक है। यह असाधारण साहस की बात करती है, लेकिन हमें उनके निर्णय की भयानक व्यक्तिगत कीमत भी याद दिलाती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "The history of Mewar in the sixteenth century was marked by political instability and struggles over succession. After Rana Sanga's death, the question of who would inherit the throne became a source of conflict. Among those caught in this struggle was the young Udai Singh, whose claim to the throne threatened Banvir's ambitions.",
+     "Panna Dhai, Udai Singh's nurse and caregiver, occupies a central place in the memory of this period. She was entrusted with the care of the young prince and is remembered for her extraordinary loyalty to him.",
+     "According to the celebrated account, Panna learned that Banvir's men were coming to kill Udai Singh. Realising that the prince could not escape unnoticed, she devised a desperate plan. She placed her own young son in the prince's bed and carried Udai Singh away from the palace.",
+     "The men who entered the room mistook Panna's child for the prince and killed him. Panna had lost her son, but Udai Singh survived. She continued to protect him, taking him away from the palace and helping him reach safety.",
+     "Udai Singh eventually became the ruler of Mewar and founded Udaipur. Panna Dhai's name came to represent loyalty and sacrifice in the region's historical memory.",
+     "The story is often told as an example of devotion to duty. But its emotional force lies in the impossible choice it describes: a woman protecting a child entrusted to her at the cost of losing her own. The story should therefore be told with sensitivity, without presenting the loss of her son as something simple or inevitable.",
+     "Panna Dhai's legacy also offers an opportunity to discuss how societies remember courage. Her story has been preserved through public memory, historical writing and heritage institutions in Rajasthan. It is a reminder that history is shaped not only by rulers and battles, but also by the people whose actions alter the course of events."
+    ],
+    "hi": [
+     "सोलहवीं शताब्दी में मेवाड़ का इतिहास राजनीतिक अस्थिरता और उत्तराधिकार के संघर्ष से भरा था। राणा सांगा की मृत्यु के बाद सिंहासन पर अगला अधिकार किसका होगा, यह प्रश्न संघर्ष का कारण बन गया। इस संघर्ष के बीच छोटा उदय सिंह भी था, जिसका सिंहासन पर दावा बनवीर की महत्वाकांक्षाओं के रास्ते में बाधा था।",
+     "उदय सिंह की देखभाल करने वाली पन्ना धाय इस दौर की स्मृति में एक महत्वपूर्ण स्थान रखती हैं। उन्हें राजकुमार की ज़िम्मेदारी सौंपी गई थी और उनकी असाधारण निष्ठा के लिए याद किया जाता है।",
+     "प्रसिद्ध कथा के अनुसार, पन्ना को पता चला कि बनवीर के सैनिक उदय सिंह को मारने आ रहे हैं। उन्हें समझ आ गया कि राजकुमार को बिना किसी की नज़र में आए वहाँ से निकालना कठिन होगा। उन्होंने एक बेहद कठिन योजना बनाई। अपने बेटे को राजकुमार के बिस्तर पर सुलाकर वे उदय सिंह को महल से बाहर ले गईं।",
+     "कमरे में आए सैनिकों ने पन्ना के बेटे को राजकुमार समझ लिया और उसकी हत्या कर दी। पन्ना ने अपना बेटा खो दिया था, लेकिन उदय सिंह जीवित बच गया। उन्होंने उसकी रक्षा जारी रखी, उसे महल से दूर ले गईं और सुरक्षित स्थान तक पहुँचाने में सहायता की।",
+     "उदय सिंह आगे चलकर मेवाड़ के शासक बने और उन्होंने उदयपुर की स्थापना की। पन्ना धाय का नाम क्षेत्र की ऐतिहासिक स्मृति में निष्ठा और त्याग का प्रतीक बन गया।",
+     "यह कहानी अक्सर कर्तव्य के प्रति समर्पण के उदाहरण के रूप में सुनाई जाती है। लेकिन इसका भावनात्मक महत्व उस असंभव निर्णय में है, जिसका वर्णन यह करती है: एक स्त्री उस बच्चे की रक्षा करती है जिसे उसकी देखभाल सौंपी गई है, लेकिन इसके लिए उसे अपना बच्चा खोना पड़ता है। इसलिए इस कथा को संवेदनशीलता के साथ सुनाना चाहिए। उसके बेटे की मृत्यु को कोई सरल या स्वाभाविक घटना मानकर प्रस्तुत नहीं करना चाहिए।",
+     "पन्ना धाय की विरासत हमें यह समझने का अवसर भी देती है कि समाज साहस को कैसे याद रखते हैं। उनकी कहानी राजस्थान की सार्वजनिक स्मृति, ऐतिहासिक लेखन और विरासत संस्थानों के माध्यम से संरक्षित रही है। यह याद दिलाती है कि इतिहास केवल शासकों और युद्धों से नहीं बनता, बल्कि उन लोगों के कार्य से भी बनता है जो घटनाओं की दिशा बदल देते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Mewar, Rajasthan",
+  "community": "Mewar",
+  "tradition": "Historical legend remembered in Mewar."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Panna Dhai is remembered in Mewar; the Rajasthan government’s Panna Dhai Panorama page records her life and her association with Pandoli village near Chittorgarh.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-130-013",
+ "meta": [
+  "Region: Mewar, Rajasthan · Genre: Historical legend · Themes: Courage, loyalty, duty, sacrifice",
+  "About the story and its origins",
+  "Panna Dhai is remembered in Mewar for saving the young prince Udai Singh, the future founder of Udaipur, during a period of political turmoil in the sixteenth century.",
+  "After the death of Rana Sanga, Mewar faced a succession struggle. Udai Singh was a young child and was in danger from Banvir, who sought power. Panna Dhai, his nurse and caregiver, is remembered for protecting him. In the best-known account, she placed her own young son in the prince's bed and secretly carried Udai Singh away. Banvir's men killed her son, believing him to be the prince.",
+  "The story is celebrated as an act of extraordinary courage and sacrifice. It is also a painful account of a mother losing her child. The Rajasthan government's Panna Dhai Panorama page records her life and her association with Pandoli village near Chittorgarh.",
+  "JKK Art and Culture"
+ ]
+}

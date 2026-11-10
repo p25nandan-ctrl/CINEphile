@@ -1,0 +1,484 @@
+{
+ "id": "the-story-of-janakye-bai",
+ "state": "ga",
+ "title": "The Story of Janakye Bai",
+ "titleHi": "जनकये बाई की कहानी",
+ "summary": "Janakye Bai is a young Velip woman who refuses a marriage that her community’s moral rules forbid, even though the pressure comes from her own family. This short retelling honours a story passed down by Velip women storytellers.",
+ "summarySource": "written for this site",
+ "genre": "Folktale (interpretive retelling)",
+ "from": "Velip community oral tradition, Goa",
+ "origLevel": 3,
+ "levelReason": "The supplied text is formal and abstract. It has long, complex sentences (about 17 words on average) and words such as governed, violates, defiance and abstract ideas like ‘the misuse of family authority’, and it asks readers to think about themes rather than follow action. That matches Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "In the forest villages of Goa live the Velip people. They keep old stories that tell about their past and their beliefs.",
+     "One story is about Janakye Bai. She is a young woman, and she is very brave.",
+     "Janakye Bai lives in a community with strong family ties. Everyone is expected to follow its rules.",
+     "One day, she has a big problem. Someone tries to make her marry a person from her own close family.",
+     "This marriage would break the rules of her community. Janakye Bai does not stay quiet. She says no.",
+     "Her story shows a person’s dignity against a family that uses its power in a wrong way.",
+     "Nature and the world of spirits are also in the story. They show how the Velip people see people, nature and unseen forces as linked.",
+     "Janakye Bai says no for a bigger reason. She protects the rules that keep a community strong.",
+     "Women storytellers have kept this story alive. They have passed it down for many years.",
+     "Leelavati Zaraunkar and Sita Vaiz told this story for a project in the community. Salil Chaturvedi put it into English.",
+     "Now people outside the Velip community can read it too. It is a part of Goa’s spoken stories.",
+     "Moral: Being brave can mean saying no to what is wrong, even when the push comes from your own family."
+    ],
+    "hi": [
+     "गोवा के जंगलों के पास बसे गाँवों में वेलिप लोग रहते हैं। वे पुरानी कहानियाँ सँभालकर रखते हैं, जो उनके बीते कल और उनकी मान्यताओं के बारे में बताती हैं।",
+     "एक कहानी जनकये बाई की है। वह एक युवा स्त्री है और बहुत बहादुर है।",
+     "जनकये बाई ऐसे समुदाय में रहती है जहाँ परिवार के रिश्ते बहुत मज़बूत हैं। सबसे उम्मीद की जाती है कि वे उसके नियम मानें।",
+     "एक दिन उसके सामने एक बड़ी मुश्किल आती है। कोई उसे अपने ही क़रीबी परिवार के किसी व्यक्ति से शादी करने के लिए मजबूर करने की कोशिश करता है।",
+     "यह शादी उसके समुदाय के नियमों को तोड़ देती। जनकये बाई चुप नहीं रहती। वह मना कर देती है।",
+     "उसकी कहानी एक इंसान के आत्मसम्मान और एक ऐसे परिवार की टकराहट दिखाती है जो अपनी ताक़त का ग़लत इस्तेमाल करता है।",
+     "कहानी में प्रकृति और आत्माओं की दुनिया भी है। इनसे पता चलता है कि वेलिप लोग इंसानों, प्रकृति और अनदेखी शक्तियों को आपस में जुड़ा हुआ मानते हैं।",
+     "जनकये बाई एक बड़ी वजह से मना करती है। वह उन नियमों को बचाती है जो समुदाय को मज़बूत रखते हैं।",
+     "औरतें कहानी सुनाने वाली इस कहानी को ज़िंदा रखती आई हैं। वे इसे कई सालों से आगे बढ़ाती आई हैं।",
+     "लीलावती ज़रौंकर और सीता वैज़ ने समुदाय की एक परियोजना के लिए यह कहानी सुनाई। सलिल चतुर्वेदी ने इसे अंग्रेज़ी में लिखा।",
+     "अब वेलिप समुदाय के बाहर के लोग भी इसे पढ़ सकते हैं। यह गोवा की मौखिक कहानियों का एक हिस्सा है।",
+     "सीख: बहादुरी का मतलब कभी-कभी ग़लत बात को मना करना होता है, तब भी जब दबाव अपने ही परिवार से आए।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "Velip",
+     "en": "an Indigenous community of Goa",
+     "hi": "वेलिप, गोवा का एक आदिवासी समुदाय"
+    },
+    {
+     "w": "beliefs",
+     "en": "things people think are true and important",
+     "hi": "मान्यताएँ"
+    },
+    {
+     "w": "brave",
+     "en": "not afraid to do the right thing",
+     "hi": "बहादुर"
+    },
+    {
+     "w": "community",
+     "en": "a group of people who live and share together",
+     "hi": "समुदाय"
+    },
+    {
+     "w": "expected",
+     "en": "thought to be right or needed",
+     "hi": "उम्मीद की जाती है"
+    },
+    {
+     "w": "dignity",
+     "en": "feeling of self-respect",
+     "hi": "आत्मसम्मान"
+    },
+    {
+     "w": "power",
+     "en": "the strength to make others do things",
+     "hi": "ताक़त, अधिकार"
+    },
+    {
+     "w": "spirits",
+     "en": "unseen beings in a story or belief",
+     "hi": "आत्माएँ"
+    },
+    {
+     "w": "storytellers",
+     "en": "people who tell stories aloud",
+     "hi": "कहानी सुनाने वाले"
+    },
+    {
+     "w": "project",
+     "en": "a planned piece of work",
+     "hi": "परियोजना"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who is she?",
+     "q": "Who is Janakye Bai, and where does her story come from?"
+    },
+    {
+     "k": "The problem",
+     "q": "What does Janakye Bai do when someone tries to make her do something that is wrong?"
+    },
+    {
+     "k": "Rules",
+     "q": "Why does the story say the marriage would break her community’s rules?"
+    },
+    {
+     "k": "Storytellers",
+     "q": "Who kept this story alive, and how did it reach readers who are not Velip?"
+    },
+    {
+     "k": "Your own life",
+     "q": "Think of a time you said no to something you felt was not right. How did you feel afterwards? You do not need to share anything private."
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "In the forest villages of Goa, the Velip community keeps stories that hold its history, beliefs and ideas about the world.",
+     "One of these stories is about Janakye Bai, a young woman whose courage is at the heart of the tale.",
+     "Janakye Bai lives in a community where family ties are strong and people are expected to follow certain rules.",
+     "One day, she faces a very troubling problem. Someone tries to force her into a marriage with a person who is a close member of her own family.",
+     "This marriage would break the moral rules of her community. Janakye Bai does not stay silent and accept it. She refuses.",
+     "Her story is about a struggle between a person’s dignity and the wrong use of a family’s power.",
+     "Nature and the spirit world are also part of the story. They show how the Velip people understand the link between humans, nature and unseen forces.",
+     "Janakye Bai’s refusal is more than a personal protest. It shows why it matters to protect the values that keep a community together.",
+     "Women storytellers have remembered this story and passed it down through many generations.",
+     "Leelavati Zaraunkar and Sita Vaiz told the story for a project in which the community recorded its own tales, and Salil Chaturvedi translated it into English.",
+     "Because of their work, readers outside the Velip community can now meet a part of Goa’s oral heritage.",
+     "Moral: Courage sometimes means refusing to accept what is wrong, even when the pressure comes from your own family or community."
+    ],
+    "hi": [
+     "गोवा के जंगलों के पास बसे गाँवों में वेलिप समुदाय ऐसी कहानियाँ सँभालकर रखता है, जिनमें उसका इतिहास, उसकी मान्यताएँ और दुनिया को देखने का उसका नज़रिया बसा है।",
+     "इन्हीं कहानियों में से एक जनकये बाई की है, एक युवा स्त्री, जिसका साहस इस कथा का केंद्र है।",
+     "जनकये बाई ऐसे समुदाय में रहती है जहाँ पारिवारिक रिश्ते मज़बूत हैं और लोगों से कुछ नियमों का पालन करने की उम्मीद की जाती है।",
+     "एक दिन वह एक बहुत परेशान करने वाली स्थिति में पड़ जाती है। कोई उसे अपने ही परिवार के एक क़रीबी सदस्य से शादी करने के लिए मजबूर करने की कोशिश करता है।",
+     "यह शादी उसके समुदाय के नैतिक नियमों को तोड़ती। जनकये बाई चुपचाप इसे स्वीकार नहीं करती। वह इनकार कर देती है।",
+     "उसकी कहानी एक व्यक्ति के आत्मसम्मान और परिवार की ताक़त के ग़लत इस्तेमाल के बीच की लड़ाई की कहानी है।",
+     "प्रकृति और आत्माओं की दुनिया भी इस कथा का हिस्सा हैं। वे दिखाती हैं कि वेलिप लोग इंसानों, प्रकृति और अनदेखी शक्तियों के बीच के रिश्ते को कैसे समझते हैं।",
+     "जनकये बाई का इनकार सिर्फ़ उसका निजी विरोध नहीं है। यह दिखाता है कि उन मूल्यों की रक्षा करना क्यों ज़रूरी है जो एक समुदाय को जोड़े रखते हैं।",
+     "कहानी सुनाने वाली औरतों ने इस कथा को याद रखा है और कई पीढ़ियों तक आगे बढ़ाया है।",
+     "लीलावती ज़रौंकर और सीता वैज़ ने यह कहानी एक ऐसी परियोजना के लिए सुनाई जिसमें समुदाय ने अपनी ही कथाएँ दर्ज कीं, और सलिल चतुर्वेदी ने इसका अंग्रेज़ी में अनुवाद किया।",
+     "उनके काम की वजह से वेलिप समुदाय के बाहर के पाठक अब गोवा की मौखिक विरासत के एक हिस्से से मिल सकते हैं।",
+     "सीख: साहस का मतलब कभी-कभी उस बात को मानने से इनकार करना होता है जो ग़लत है, तब भी जब दबाव अपने ही परिवार या समुदाय से आए।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "beliefs",
+     "en": "ideas people hold to be true",
+     "hi": "मान्यताएँ"
+    },
+    {
+     "w": "courage",
+     "en": "bravery to do what is right even when afraid",
+     "hi": "साहस"
+    },
+    {
+     "w": "troubling",
+     "en": "causing worry or distress",
+     "hi": "परेशान करने वाली"
+    },
+    {
+     "w": "force",
+     "en": "to make someone do something against their will",
+     "hi": "मजबूर करना"
+    },
+    {
+     "w": "moral",
+     "en": "about what is right and wrong",
+     "hi": "नैतिक"
+    },
+    {
+     "w": "refuses",
+     "en": "says no and will not do it",
+     "hi": "इनकार करती है"
+    },
+    {
+     "w": "dignity",
+     "en": "the feeling of being worthy of respect",
+     "hi": "आत्मसम्मान"
+    },
+    {
+     "w": "values",
+     "en": "beliefs about what is important and good",
+     "hi": "मूल्य"
+    },
+    {
+     "w": "generations",
+     "en": "groups of people born around the same time, such as grandparents, parents and children",
+     "hi": "पीढ़ियाँ"
+    },
+    {
+     "w": "heritage",
+     "en": "traditions and stories passed down from the past",
+     "hi": "विरासत"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why do you think Janakye Bai refuses instead of staying silent? What might she be thinking?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "The story says her refusal protects ‘the values that keep a community together’. How can one person’s choice affect a whole community?"
+    },
+    {
+     "k": "Decisions",
+     "q": "Standing up to someone in your own family can be hard. What might make it difficult, and what might give a person strength?"
+    },
+    {
+     "k": "Nature and spirits",
+     "q": "Why might a community include nature and the spirit world in its important stories?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "Why do you think women storytellers kept this story alive for so many generations?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the forested villages of Goa, the Velip community has preserved stories that carry its history, beliefs and understanding of the world.",
+     "One such story is that of Janakye Bai, a young woman whose courage becomes the centre of a remarkable tale.",
+     "Janakye Bai lives within a society governed by strong family relationships and community expectations.",
+     "One day, she faces a deeply troubling situation: an attempt is made to force her into a marriage with someone who should never have been considered a suitable husband — her own close family member.",
+     "The proposed marriage violates the moral boundaries that govern her community. Rather than silently accepting what is being demanded of her, Janakye Bai resists.",
+     "Her story explores the conflict between individual dignity and the misuse of family authority.",
+     "The natural world and the spiritual realm are also woven into the narrative, reflecting the Velip community’s understanding of the relationship between human beings, nature and the forces beyond the visible world.",
+     "Janakye Bai’s refusal is not simply an act of personal defiance. It represents the importance of protecting the moral principles that hold a community together.",
+     "Her story has been remembered and passed down through generations by traditional women storytellers.",
+     "Leelavati Zaraunkar and Sita Vaiz narrated the tale for a community-led documentation project, while Salil Chaturvedi translated it into English.",
+     "Through their work, the story has found a wider audience, allowing readers outside the Velip community to encounter a part of Goa’s oral heritage.",
+     "Moral: Courage sometimes means refusing to accept what is wrong, even when the pressure comes from within one’s own family or community."
+    ],
+    "hi": [
+     "गोवा के वनों से घिरे गाँवों में वेलिप समुदाय ने ऐसी कहानियाँ सहेजकर रखी हैं जो उसके इतिहास, उसकी मान्यताओं और दुनिया को समझने के उसके नज़रिये को आगे ले जाती हैं।",
+     "ऐसी ही एक कहानी जनकये बाई की है, एक युवा स्त्री, जिसका साहस एक अनोखी कथा का केंद्र बन जाता है।",
+     "जनकये बाई एक ऐसे समाज में रहती है जो मज़बूत पारिवारिक रिश्तों और सामुदायिक अपेक्षाओं से बँधा हुआ है।",
+     "एक दिन वह एक गहरी परेशानी में डालने वाली स्थिति का सामना करती है: उसे ऐसे व्यक्ति से विवाह के लिए मजबूर करने की कोशिश की जाती है जिसे कभी उपयुक्त वर माना ही नहीं जाना चाहिए था, क्योंकि वह उसके अपने ही परिवार का क़रीबी सदस्य है।",
+     "प्रस्तावित विवाह उन नैतिक सीमाओं को लाँघता है जो उसके समुदाय को चलाती हैं। जो कुछ उससे माँगा जा रहा है, उसे चुपचाप स्वीकार करने के बजाय जनकये बाई उसका विरोध करती है।",
+     "उसकी कथा व्यक्ति की गरिमा और परिवार के अधिकार के दुरुपयोग के बीच के संघर्ष को टटोलती है।",
+     "प्राकृतिक संसार और आत्माओं का लोक भी इस कथा में बुना हुआ है, जो मनुष्य, प्रकृति और अदृश्य शक्तियों के आपसी रिश्ते को लेकर वेलिप समुदाय की समझ को दर्शाता है।",
+     "जनकये बाई का इनकार केवल निजी विद्रोह नहीं है। वह उन नैतिक सिद्धांतों की रक्षा के महत्त्व को दर्शाता है जो एक समुदाय को एक सूत्र में बाँधे रखते हैं।",
+     "इस कथा को पारंपरिक स्त्री कथावाचकों ने पीढ़ी-दर-पीढ़ी याद रखा और आगे बढ़ाया है।",
+     "लीलावती ज़रौंकर और सीता वैज़ ने समुदाय के नेतृत्व में चल रही एक दस्तावेज़ीकरण परियोजना के लिए यह कथा सुनाई, और सलिल चतुर्वेदी ने इसका अंग्रेज़ी में अनुवाद किया।",
+     "उनके काम से यह कथा एक बड़े श्रोता वर्ग तक पहुँची है, और वेलिप समुदाय के बाहर के पाठक गोवा की मौखिक विरासत के एक हिस्से से रू-ब-रू हो सके हैं।",
+     "सीख: साहस का अर्थ कभी-कभी उस बात को स्वीकार करने से इनकार करना होता है जो ग़लत है, तब भी जब दबाव अपने ही परिवार या समुदाय के भीतर से आए।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "preserved",
+     "en": "kept safe so it is not lost",
+     "hi": "सहेजकर रखा"
+    },
+    {
+     "w": "governed",
+     "en": "controlled or guided by rules",
+     "hi": "संचालित"
+    },
+    {
+     "w": "expectations",
+     "en": "what others think you should do",
+     "hi": "अपेक्षाएँ"
+    },
+    {
+     "w": "violates",
+     "en": "breaks a rule or a boundary",
+     "hi": "उल्लंघन करता है"
+    },
+    {
+     "w": "resists",
+     "en": "refuses to give in",
+     "hi": "विरोध करती है"
+    },
+    {
+     "w": "dignity",
+     "en": "the sense of being worthy of respect",
+     "hi": "गरिमा"
+    },
+    {
+     "w": "authority",
+     "en": "the power to give orders",
+     "hi": "अधिकार"
+    },
+    {
+     "w": "realm",
+     "en": "a world or area of life",
+     "hi": "लोक"
+    },
+    {
+     "w": "defiance",
+     "en": "open refusal to obey",
+     "hi": "अवज्ञा, विद्रोह"
+    },
+    {
+     "w": "principles",
+     "en": "basic beliefs about right and wrong",
+     "hi": "सिद्धांत"
+    },
+    {
+     "w": "documentation",
+     "en": "recording information so it can be kept",
+     "hi": "दस्तावेज़ीकरण"
+    },
+    {
+     "w": "heritage",
+     "en": "traditions and culture handed down from the past",
+     "hi": "विरासत"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The story suggests that a family member can misuse authority. Where is the line between respecting elders and refusing something that is wrong? How might a person decide?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine the story from the viewpoint of someone who pressures Janakye Bai. What reasons might they believe they have, and why does the story still treat her refusal as right?"
+    },
+    {
+     "k": "Culture",
+     "q": "The Velip community has kept stories mainly through women storytellers. What does this tell us about who holds a community’s memory, and why does it matter that the story is now being told from within the community?"
+    },
+    {
+     "k": "Theme",
+     "q": "The retelling links nature, the spirit world and moral rules in one story. How might this show a way of seeing the world in which people, nature and values are all connected?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do people today still find it hard to say no to pressure from family, friends or groups? What can others do to support them?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8
+  ],
+  [
+   9,
+   10,
+   11
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Stories of the Velip forest villages",
+   "th": "वेलिप वनग्रामों की कहानियाँ",
+   "p": "A calm, respectful storybook scene: a Goan forest village with a few simple mud-and-thatch or tiled-roof houses among tall green trees and red earth paths, evening light. Janakye Bai, a young woman with a determined, thoughtful face, long dark hair tied back, wearing a simple everyday sari with practical drape, stands at the edge of the village looking toward the forest. Warm, dignified mood."
+  },
+  {
+   "t": "A community of strong family ties",
+   "th": "मज़बूत पारिवारिक रिश्तों वाला समुदाय",
+   "p": "Janakye Bai at the doorway of her family home, with several elders and relatives sitting in the courtyard around her, their faces serious. She looks troubled but steady. Show tension only through posture and expression; no wedding ceremony or any romantic imagery. Same young woman, same simple sari, soft shadows, earthy colours."
+  },
+  {
+   "t": "Janakye Bai says no",
+   "th": "जनकये बाई मना करती है",
+   "p": "Janakye Bai stands tall and calm in the village courtyard, one hand slightly raised as a sign of refusal, while some family members look surprised and others uneasy. Her expression is firm, dignified and gentle, not angry. Mid-morning light, earthy palette, simple village surroundings. No violence and no marriage imagery."
+  },
+  {
+   "t": "Nature and the world of spirits",
+   "th": "प्रकृति और आत्माओं की दुनिया",
+   "p": "A quiet forest at dusk with gently glowing, friendly shapes suggesting unseen forces among tree roots and leaves, drawn in a soft, non-scary way. Janakye Bai walks among the trees, touching a tree trunk with respect. Green, gold and deep-blue palette, mystical and peaceful mood, no specific deity or ritual depicted."
+  },
+  {
+   "t": "Women pass the story on",
+   "th": "औरतें कहानी आगे बढ़ाती हैं",
+   "p": "A group of older and younger women of a Goan forest village sit together on a verandah at dusk, one older woman telling a story with expressive hands while the others listen closely. Warm lamp light, simple saris, rice-straw mats, a sense of generations sharing. Gentle, respectful mood."
+  },
+  {
+   "t": "The story reaches new readers",
+   "th": "कहानी नए पाठकों तक पहुँची",
+   "p": "An open picture book resting on a wooden table, with a woman reading aloud to a small circle of children, while a smaller scene or shadow of forest villagers and storytellers glows behind the book. Warm indoor light, children listening attentively, respectful and hopeful mood. Do not copy any real book illustration."
+  }
+ ],
+ "artStyle": {
+  "region": "Forest villages of Goa (Velip community)",
+  "verified": false,
+  "tradition": null,
+  "note": "We could not verify a specific visual art tradition linked to this story or to the Velip community from reliable sources. The published book was illustrated by Asavari Gurav, but we have not seen those illustrations and do not copy or describe them. A neutral, warm storybook style is proposed: earthy reds, forest greens and golds, simple village architecture and everyday clothing, shown respectfully without costume stereotypes. Keep the sensitive plot point implied only through posture and expression.",
+  "characters": [
+   {
+    "name": "Janakye Bai",
+    "look": "Young woman with a calm, determined face, dark hair tied back, a simple everyday sari in earthy colours, no heavy ornaments."
+   },
+   {
+    "name": "Elders and relatives",
+    "look": "Mixed ages in simple everyday clothes, serious but not villainous expressions."
+   },
+   {
+    "name": "Women storytellers",
+    "look": "Older and younger women in simple saris, expressive hands, warm lamplight."
+   }
+  ],
+  "sources": [
+   [
+    "The Story of Janakye Bai by Vithai Zaraunker brings to fore a long-preserved Velip folktale from Goa (Navhind Times)",
+    "https://www.navhindtimes.in/kuriocity/?p=3523"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are standing in a Velip forest village in the evening, listening to the women storytellers. What do you hear, smell and see around you as the story begins?",
+ "create": "Write or draw a message of encouragement that a friend could give to someone who has to say no to something they know is wrong. Or draw a picture of Janakye Bai standing strong, using only colours and shapes from the forest.",
+ "about": {
+  "where": "The story is from the forested villages of Goa, on India’s western coast. The repository places it with the Velip community of Goa.",
+  "community": "The Velip are an Indigenous community of Goa. A Navhind Times report says their stories are largely kept alive by women, and that the author of the book hopes young Velips will feel proud of their culture and wants the stories told from within the community.",
+  "tradition": "According to the repository, the story was passed down by traditional women storytellers and was narrated by Leelavati Zaraunkar and Sita Vaiz for the project Old Songs, New Stories: Tales from the Velips of Goa, supported by the Sangeet Natak Akademi. It was translated by Salil Chaturvedi and illustrated by Asavari Gurav. The Navhind Times says oral stories can shift a little with the teller, while the meaning stays.",
+  "shared": "This is one short retelling, not the full published story. The repository’s own note says the available description confirms the main conflict and Janakye Bai’s resistance, but does not give the complete plot or ending. The full book is available in English and Konkani, and other tellers may tell it differently.",
+  "matters": "The story shows the courage of saying no to something wrong, even when it comes from family. It also shows how a community’s own storytellers can keep their history alive and share it with the wider world.",
+  "links": [
+   [
+    "The Story of Janakye Bai ... brings to fore a long-preserved Velip folktale from Goa (Navhind Times)",
+    "https://www.navhindtimes.in/kuriocity/?p=3523"
+   ],
+   [
+    "Goa 1556 (publisher)",
+    "https://www.goa1556.in/?p=2497"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (as given by the repository)",
+   "v": "The Story of Janakye Bai, narrated by Leelavati Zaraunkar and Sita Vaiz, illustrated by Asavari Gurav, translated by Salil Chaturvedi. Documented through the project Old Songs, New Stories: Tales from the Velips of Goa, supported by the Sangeet Natak Akademi’s intangible cultural heritage programme.",
+   "url": "https://www.navhindtimes.in/kuriocity/?p=3523",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1). The supplied text is an interpretive retelling, not the complete published story (see repository editorial note).",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version (Level 3)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Publisher",
+   "v": "Goa 1556 (book available in English and Konkani, per repository)",
+   "url": "https://www.goa1556.in/?p=2497",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Supplied text is an interpretive summary, not the full plot or ending; no outcome of Janakye Bai’s story is given, so none is invented. Consider obtaining the full story with permission.",
+  "Sensitive content: attempted marriage to a close family member. Kept as supplied and phrased gently at Level 1; educator should decide suitability for grades 4-5 and how to frame discussion.",
+  "Community, ownership and consent: Velip oral material; confirm permission from the narrators, author and publisher, and the right to adapt.",
+  "Name spellings differ across sources (Zaraunkar and Zaraunker; Vaiz); verify with the publisher.",
+  "Author credit unclear: repository credits narrators and translator, while the Navhind Times names Vithai Zaraunker as author; confirm attribution.",
+  "No Velip-specific art tradition verified; Asavari Gurav’s illustrations not seen and must not be copied.",
+  "Hindi translations (e.g., वेलिप, परियोजना, दस्तावेज़ीकरण) need review by a fluent Hindi reader. Licence not confirmed.",
+  "Navhind Times article was read for the community and author details; the Velip’s legal or tribal status was not verified, so we make no claim."
+ ]
+}

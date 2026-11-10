@@ -1,0 +1,492 @@
+{
+ "id": "tell-it-to-the-walls",
+ "state": "tn",
+ "title": "Tell It to the Walls",
+ "titleHi": "दीवारों से कह दो",
+ "summary": "A lonely old widow, mocked by her family, finds an empty ruin and tells her sorrows to its four walls. One by one the walls fall, and she walks home feeling light and free.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Tamil folktale, Tamil Nadu",
+ "origLevel": 2,
+ "levelReason": "The supplied text averages about 10 words per sentence, with mostly plain, direct sentences and clear connectors, which fits Level 2 (Growing Sapling, grades 6-7). It does use some more advanced words (affection, ridicule, tremendous, grievance), but the structure and emotional treatment stay moderate, so Level 3 here is written with richer vocabulary, longer sentences and more atmosphere.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in a small village, an old woman lived. She was a widow. She lived with her two sons and their wives.",
+     "But she was not happy. Her sons and their wives were not kind to her. They said she did everything wrong. If she talked, they shouted. If she was quiet, they laughed at her.",
+     "She had no one to tell her sad feelings to. She kept them all inside. Slowly, her body became heavier and heavier.",
+     "Her family did not ask why she was sad. They laughed at her again. “Why are you so fat?” they said. “Do you only eat?” Their words hurt her.",
+     "One day, everyone went out. The old woman was alone. The quiet house felt too heavy. She walked out of the village.",
+     "After a while, she found an old empty building. It had no roof. But four old walls still stood. She went inside.",
+     "Nobody was there. It was very quiet. All her sadness came up inside her. “I must tell someone,” she thought. “Or my heart will burst.”",
+     "She stood in front of the first wall. “Do you know how my eldest son is mean to me?” she said. She told the wall everything. She cried as she talked.",
+     "When she finished, the wall fell down with a loud crash! She felt a little lighter. Her body felt lighter, and so did her heart.",
+     "She turned to the second wall. She spoke about her eldest son’s wife and the trouble she gave. The second wall fell too. She felt even lighter.",
+     "She told the third wall about her second son. It fell down too. Then she told the fourth wall about her younger daughter-in-law. The fourth wall fell down.",
+     "Now the old woman stood in broken bricks and dust. All four walls were gone. But something else had changed.",
+     "The heavy feeling inside her was gone. She looked at her body. The heaviness had gone away. She was just as before.",
+     "She took a deep, calm breath. She felt free for the first time in many days. At last, she had said her sad words out loud.",
+     "With a light heart, the old woman walked home quietly."
+    ],
+    "hi": [
+     "बहुत पहले एक छोटे गाँव में एक बूढ़ी विधवा रहती थी। वह अपने दो बेटों और उनकी पत्नियों के साथ रहती थी।",
+     "पर वह खुश नहीं थी। बेटे और बहुएँ उससे प्यार से बात नहीं करते थे। वे कहते थे कि वह हर काम गलत करती है। वह बोलती तो वे चिल्लाते। वह चुप रहती तो वे हँसते।",
+     "उसके पास अपना दुख सुनाने के लिए कोई नहीं था। वह सब कुछ मन में रखती थी। धीरे-धीरे उसका शरीर और भारी होता गया।",
+     "घरवालों ने यह नहीं पूछा कि वह उदास क्यों है। वे फिर उस पर हँसे। “तुम इतनी मोटी क्यों हो?” वे बोले। “क्या तुम बस खाती ही रहती हो?” उनकी बातों से उसे बहुत दुख हुआ।",
+     "एक दिन सब लोग बाहर चले गए। बूढ़ी औरत अकेली थी। सूना घर उसे बहुत भारी लगा। वह चलकर गाँव के बाहर चली गई।",
+     "कुछ देर बाद उसे एक पुरानी खाली इमारत मिली। उसकी छत नहीं थी। पर चार पुरानी दीवारें खड़ी थीं। वह अंदर चली गई।",
+     "वहाँ कोई नहीं था। बहुत शांति थी। उसका सारा दुख उसके मन में उठने लगा। “मुझे किसी से कहना होगा,” उसने सोचा। “नहीं तो मेरा दिल फट जाएगा।”",
+     "वह पहली दीवार के सामने खड़ी हुई। “क्या तुम जानती हो, मेरा बड़ा बेटा मुझसे कैसा बुरा बरताव करता है?” उसने कहा। उसने दीवार को सब बता दिया। बोलते-बोलते वह रो पड़ी।",
+     "जैसे ही उसने बात खत्म की, दीवार ज़ोर की आवाज़ के साथ गिर पड़ी! उसे थोड़ा हल्का लगा। उसका शरीर भी हल्का हुआ और मन भी।",
+     "वह दूसरी दीवार की ओर मुड़ी। उसने बड़े बेटे की पत्नी के बारे में बताया कि उसने कितना दुख दिया। दूसरी दीवार भी गिर गई। अब वह और हल्की हो गई।",
+     "उसने तीसरी दीवार को दूसरे बेटे के बारे में बताया। वह भी गिर गई। फिर उसने चौथी दीवार को छोटी बहू के बारे में बताया। चौथी दीवार भी गिर गई।",
+     "अब बूढ़ी औरत टूटी ईंटों और धूल के बीच खड़ी थी। चारों दीवारें गिर चुकी थीं। पर कुछ और बदल गया था।",
+     "उसके भीतर का भारीपन चला गया था। उसने अपने शरीर को देखा। वह फिर पहले जैसी हो गई थी।",
+     "उसने एक गहरी, शांत साँस ली। कई दिनों बाद उसे आज़ादी महसूस हुई। आख़िर उसने अपने दुख ज़ोर से कह दिए थे।",
+     "हल्के मन से बूढ़ी औरत चुपचाप घर लौट गई।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "widow",
+     "en": "a woman whose husband has died",
+     "hi": "वह औरत जिसके पति की मृत्यु हो गई हो"
+    },
+    {
+     "w": "kind",
+     "en": "gentle and caring",
+     "hi": "दयालु, प्यार भरा"
+    },
+    {
+     "w": "heavier",
+     "en": "weighing more",
+     "hi": "ज़्यादा भारी"
+    },
+    {
+     "w": "roof",
+     "en": "the top cover of a building",
+     "hi": "छत"
+    },
+    {
+     "w": "cried",
+     "en": "wept tears",
+     "hi": "रोई"
+    },
+    {
+     "w": "crash",
+     "en": "a very loud noise",
+     "hi": "धमाका, ज़ोर की आवाज़"
+    },
+    {
+     "w": "bricks",
+     "en": "hard blocks used to build walls",
+     "hi": "ईंटें"
+    },
+    {
+     "w": "lighter",
+     "en": "weighing less",
+     "hi": "ज़्यादा हल्का"
+    },
+    {
+     "w": "calm",
+     "en": "quiet and peaceful",
+     "hi": "शांत"
+    },
+    {
+     "w": "free",
+     "en": "not held back or burdened",
+     "hi": "आज़ाद"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who",
+     "q": "Who is the main character in the story, and who does she live with?"
+    },
+    {
+     "k": "What happened",
+     "q": "What did the old woman find when she walked out of the village?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the old woman feel at the start of the story, and how did she feel at the end?"
+    },
+    {
+     "k": "Events",
+     "q": "What happened to each wall after she finished talking to it?"
+    },
+    {
+     "k": "Think of you",
+     "q": "Is there someone you like to talk to when you feel sad? Why does talking help?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once, in a small village, there lived an elderly widow with her two sons. Both sons were married, and the old woman shared their home with her daughters-in-law.",
+     "But she was not happy. Her sons and their wives treated her without affection. Whatever she did, they found fault with her. When she spoke, they scolded her. When she remained silent, they mocked her.",
+     "The old woman had nobody to whom she could speak about her suffering. She kept every sorrow buried inside herself. As the days passed, something strange happened. Her body grew heavier and heavier.",
+     "Instead of wondering why she was unhappy, her family found another reason to ridicule her. “Why have you become so fat?” they demanded. “Do you do nothing but eat?” Their words caused her even greater pain.",
+     "One day, everyone in the household went out, leaving the widow alone. Unable to bear the silence of the house, she wandered beyond the village.",
+     "After walking for some time, she came upon an abandoned building. Its roof had disappeared long ago, but four old walls were still standing. She stepped inside.",
+     "There was nobody there. Surrounded by the silence of the ruins, she felt all the grief she had kept hidden rising within her. “I must tell somebody about my troubles,” she thought. “Otherwise, my heart will burst.”",
+     "She stood before the first wall. “Do you know how cruelly my eldest son treats me?” she began. She told the wall everything: every harsh word, every insult, and every unkind act. She wept as she spoke.",
+     "The moment she finished, the wall collapsed with a tremendous crash. To her astonishment, she felt a little lighter, both in body and in spirit.",
+     "She turned toward the second wall. This time, she spoke of her eldest son’s wife and all the misery she had caused her. When the widow finished, the second wall also fell. She felt lighter still.",
+     "To the third wall, she described her second son’s unkindness. That wall collapsed too. Finally, she faced the fourth wall and poured out every grievance she had against her younger daughter-in-law. The fourth wall fell to the ground.",
+     "Now the old woman stood among heaps of broken bricks and dust. All four walls had collapsed, but something else had changed.",
+     "The terrible weight she had carried within herself was gone. She looked down at her body. The heaviness that had grown with her suffering had vanished. She was once again as she had been before.",
+     "She drew a deep, peaceful breath. For the first time in many days, she felt free. She had finally spoken aloud the sorrows she had been forced to keep to herself.",
+     "With a lighter heart, the old woman quietly returned home."
+    ],
+    "hi": [
+     "एक बार की बात है, एक छोटे गाँव में एक बूढ़ी विधवा अपने दो बेटों के साथ रहती थी। दोनों बेटों की शादी हो चुकी थी, इसलिए वह अपनी दोनों बहुओं के साथ ही घर में रहती थी।",
+     "पर बूढ़ी माँ खुश नहीं थी। उसके बेटे और बहुएँ उसके साथ कभी प्यार से पेश नहीं आते थे। वह जो भी करती, वे उसमें गलती ढूँढ़ लेते। वह बोलती तो डाँटते, और चुप रहती तो उसका मज़ाक बनाते।",
+     "उसके पास अपनी परेशानियाँ बाँटने के लिए कोई नहीं था, इसलिए वह सारा दुख अपने भीतर रखती थी। दिन बीतते गए और एक अजीब बात हुई। उसका शरीर भारी, और भारी होता गया।",
+     "घरवालों ने यह नहीं सोचा कि वह दुखी क्यों है। उलटे वे उसे चिढ़ाने लगे। “तुम इतनी मोटी क्यों हो गई हो?” उन्होंने पूछा। “क्या तुम खाने के सिवा कुछ नहीं करतीं?” उनकी बातों से उसे और भी चोट लगी।",
+     "एक दिन घर के सब लोग बाहर चले गए और विधवा को अकेला छोड़ गए। खाली घर की चुप्पी सहना उसके लिए मुश्किल था, इसलिए वह घूमती हुई गाँव से बाहर निकल गई।",
+     "कुछ देर चलने के बाद वह एक पुरानी, खाली इमारत के पास पहुँची। उसकी छत बहुत पहले गिर चुकी थी, पर चार पुरानी दीवारें अब भी खड़ी थीं। वह अंदर चली गई।",
+     "वहाँ कोई नहीं था। खंडहर की चुप्पी में उसका छिपाया हुआ सारा दुख मन में उठने लगा। “मुझे किसी को अपनी परेशानियाँ बतानी ही होंगी,” उसने सोचा। “नहीं तो मेरा दिल फट जाएगा।”",
+     "वह पहली दीवार के सामने खड़ी हुई। “क्या तुम जानती हो कि मेरा बड़ा बेटा मुझसे कितनी निर्दयता से पेश आता है?” उसने शुरू किया। उसने दीवार को सब बता दिया: हर कड़वी बात, हर अपमान और हर बुरा बरताव। बोलते हुए वह रो पड़ी।",
+     "जैसे ही उसने बात पूरी की, दीवार बड़े धमाके के साथ गिर गई। उसे हैरानी हुई कि वह शरीर और मन, दोनों से थोड़ी हल्की महसूस कर रही थी।",
+     "वह दूसरी दीवार की ओर मुड़ी। इस बार उसने बड़े बेटे की पत्नी के बारे में बताया और उन सब दुखों के बारे में जो उसने दिए थे। जब वह बोल चुकी, तो दूसरी दीवार भी गिर गई। अब वह और भी हल्की हो गई।",
+     "तीसरी दीवार को उसने दूसरे बेटे की बेरुखी बताई, और वह दीवार भी गिर गई। आख़िर में वह चौथी दीवार के सामने आई और छोटी बहू की सारी शिकायतें उसे सुना दीं। चौथी दीवार ज़मीन पर आ गिरी।",
+     "अब बूढ़ी औरत टूटी ईंटों और धूल के ढेरों के बीच खड़ी थी। चारों दीवारें गिर चुकी थीं, पर कुछ और बदल गया था।",
+     "उसके भीतर का भारी बोझ उतर गया था। उसने अपने शरीर को देखा। दुख के साथ बढ़ा हुआ भारीपन गायब हो गया था। वह फिर वैसी ही हो गई थी जैसी पहले थी।",
+     "उसने एक गहरी, शांत साँस ली। कई दिनों में पहली बार उसे आज़ादी महसूस हुई। आख़िरकार उसने वे दुख ज़ोर से कह दिए थे जिन्हें उसे चुपचाप सहना पड़ा था।",
+     "हल्के मन से बूढ़ी औरत चुपचाप घर लौट गई।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "widow",
+     "en": "a woman whose husband has died",
+     "hi": "वह औरत जिसके पति की मृत्यु हो गई हो"
+    },
+    {
+     "w": "affection",
+     "en": "warm, caring feeling for someone",
+     "hi": "स्नेह, प्यार"
+    },
+    {
+     "w": "mocked",
+     "en": "made fun of in a cruel way",
+     "hi": "मज़ाक उड़ाया"
+    },
+    {
+     "w": "ridicule",
+     "en": "to laugh at someone unkindly",
+     "hi": "हँसी उड़ाना"
+    },
+    {
+     "w": "abandoned",
+     "en": "left empty and no longer used",
+     "hi": "उजाड़, छोड़ा हुआ"
+    },
+    {
+     "w": "ruins",
+     "en": "the broken remains of a building",
+     "hi": "खंडहर"
+    },
+    {
+     "w": "astonishment",
+     "en": "great surprise",
+     "hi": "हैरानी"
+    },
+    {
+     "w": "tremendous",
+     "en": "very big or strong",
+     "hi": "बहुत बड़ा"
+    },
+    {
+     "w": "grievance",
+     "en": "a complaint about unfair treatment",
+     "hi": "शिकायत"
+    },
+    {
+     "w": "collapsed",
+     "en": "fell down suddenly",
+     "hi": "ढह गई"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Why she left",
+     "q": "Why do you think the old woman walked out of the village instead of staying in the empty house?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "What do you think made her body grow heavier, and what made it return to normal?"
+    },
+    {
+     "k": "Her choice",
+     "q": "Why did she choose to speak to the walls and not to her family? Was this a wise choice?"
+    },
+    {
+     "k": "Family",
+     "q": "How could her sons and their wives have treated her differently when they saw her so quiet and sad?"
+    },
+    {
+     "k": "Meaning",
+     "q": "What do you think the falling walls show about talking about our sorrows?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in a modest village, there lived an elderly widow who shared her household with her two married sons and their wives, the women who had come into the family as her daughters-in-law.",
+     "Yet contentment never found her. Her sons and their wives treated her with a coldness that bordered on contempt, finding fault with whatever she did, scolding her whenever she spoke, and mocking her whenever, weary of being scolded, she chose silence.",
+     "There was no one to whom she could confide her suffering, so she buried every sorrow deep within herself. As the days dragged on, something strange began to happen: her body grew heavier and heavier, as though her unspoken grief had acquired weight.",
+     "Rather than asking why she was so unhappy, her family discovered a fresh excuse to humiliate her. “Why have you grown so fat?” they demanded. “Do you do nothing but eat?” Their taunts wounded her more deeply than any of the earlier insults.",
+     "One day, the entire household went out, leaving the widow alone. The stillness of the house pressed upon her until she could no longer endure it, and she drifted out beyond the edge of the village.",
+     "After walking for some time, she came upon an abandoned building. Its roof had long since vanished, yet four weathered walls still stood, open to the sky. She stepped inside.",
+     "No one was there. Wrapped in the silence of the ruins, she felt all the grief she had hidden begin to rise within her. “I must tell somebody about my troubles,” she thought. “Otherwise, my heart will burst.”",
+     "She stood before the first wall and began, “Do you know how cruelly my eldest son treats me?” Everything poured out of her: every harsh word, every insult, every small unkindness. Tears streamed down her face as she spoke.",
+     "The instant she finished, the wall gave way with a thunderous crash. To her astonishment, she felt a little lighter, in her body and in her spirit alike.",
+     "She turned to the second wall and spoke of her eldest son’s wife, and of all the misery that woman had brought into her life. When her story was told, the second wall crumbled as well, and she felt lighter still.",
+     "To the third wall she described her second son’s unkindness, and it too collapsed. At last she faced the fourth wall and poured out every grievance she held against her younger daughter-in-law. The final wall tumbled to the ground.",
+     "Now the old woman stood among mounds of broken brick and drifting dust. Four walls lay in ruins around her, yet it was something within her that had truly changed.",
+     "The crushing weight she had carried inside was gone. She looked down at her own body and saw that the heaviness born of her suffering had vanished. She was herself again, just as she had been before.",
+     "She drew a long, peaceful breath. For the first time in many days, she felt free. At last she had spoken aloud the sorrows she had been forced to carry in silence.",
+     "With a lighter heart, the old woman walked quietly home."
+    ],
+    "hi": [
+     "बहुत समय पहले एक साधारण-से गाँव में एक बूढ़ी विधवा रहती थी। वह अपने दो विवाहित बेटों और उनकी पत्नियों, यानी अपनी दोनों बहुओं, के साथ एक ही घर में रहती थी।",
+     "फिर भी उसे कभी संतोष नहीं मिला। बेटे और बहुएँ उससे इतनी रुखाई से पेश आते थे कि वह तिरस्कार जैसा लगता था। वह जो भी करती, उसमें दोष निकालते; बोलती तो डाँटते, और डाँट से थककर चुप हो जाती तो उसका मज़ाक उड़ाते।",
+     "उसके पास ऐसा कोई नहीं था जिसे वह अपना दुख बता पाती, इसलिए उसने हर पीड़ा को अपने भीतर गहरे दबा लिया। दिन बीतते गए और एक अजीब बात होने लगी: उसका शरीर भारी, और भारी होता गया, मानो उसके अनकहे दुख में भी वज़न आ गया हो।",
+     "यह पूछने के बजाय कि वह इतनी दुखी क्यों है, घरवालों को उसे अपमानित करने का एक नया बहाना मिल गया। “तुम इतनी मोटी कैसे हो गई हो?” वे पूछते। “क्या तुम खाने के सिवा और कुछ नहीं करतीं?” उनके ताने उसे पहले के सब अपमानों से ज़्यादा गहरा चुभते थे।",
+     "एक दिन पूरा परिवार बाहर चला गया और विधवा घर में अकेली रह गई। घर की ख़ामोशी उस पर इतनी भारी पड़ी कि वह उसे सह न सकी, और वह धीरे-धीरे चलती हुई गाँव की सीमा के पार निकल गई।",
+     "कुछ देर चलने के बाद उसे एक उजाड़ इमारत दिखाई दी। उसकी छत बहुत पहले ग़ायब हो चुकी थी, फिर भी मौसम की मार झेलती चार दीवारें अब भी खड़ी थीं, खुले आसमान के नीचे। वह भीतर चली गई।",
+     "वहाँ कोई नहीं था। खंडहर की चुप्पी में लिपटी हुई, उसने महसूस किया कि उसका छिपाया हुआ सारा दुख भीतर से उमड़ रहा है। “मुझे किसी को अपनी तकलीफ़ें बतानी ही होंगी,” उसने सोचा। “वरना मेरा दिल फट जाएगा।”",
+     "वह पहली दीवार के सामने खड़ी हुई और बोली, “क्या तुम जानती हो कि मेरा बड़ा बेटा मुझसे कितनी निर्दयता से पेश आता है?” सब कुछ उसके भीतर से बह निकला: हर कठोर शब्द, हर अपमान, हर छोटी-बड़ी बेरुखी। बोलते हुए उसके गालों पर आँसू बहते रहे।",
+     "जैसे ही उसने बात पूरी की, दीवार गरजती हुई आवाज़ के साथ ढह गई। उसे हैरानी हुई कि वह शरीर और आत्मा, दोनों में थोड़ी हल्की हो गई थी।",
+     "वह दूसरी दीवार की ओर मुड़ी और बड़े बेटे की पत्नी के बारे में बताने लगी, और उन सारे कष्टों के बारे में जो उस औरत ने उसके जीवन में भर दिए थे। जब उसकी बात पूरी हुई, तो दूसरी दीवार भी भरभराकर गिर गई, और वह और हल्की हो गई।",
+     "तीसरी दीवार से उसने दूसरे बेटे की निष्ठुरता कही, और वह भी गिर पड़ी। अंत में वह चौथी दीवार के सामने आई और छोटी बहू के प्रति अपनी सारी शिकायतें उँडेल दीं। आख़िरी दीवार भी ज़मीन पर आ गिरी।",
+     "अब बूढ़ी औरत टूटी ईंटों के ढेरों और उड़ती धूल के बीच खड़ी थी। चारों दीवारें खंडहर बनकर बिखरी थीं, पर असली बदलाव तो उसके भीतर हुआ था।",
+     "जो कुचलने वाला बोझ वह भीतर लिए फिरती थी, वह उतर चुका था। उसने अपने शरीर को देखा और पाया कि उसके दुख से जन्मा भारीपन ग़ायब हो चुका है। वह फिर अपने पुराने रूप में लौट आई थी।",
+     "उसने एक लंबी, शांत साँस ली। कई दिनों में पहली बार उसे आज़ादी का एहसास हुआ। आख़िरकार उसने वे दुख ज़ोर से कह डाले थे जिन्हें उसे चुपचाप ढोना पड़ा था।",
+     "हल्के मन से बूढ़ी औरत चुपचाप घर चली गई।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "contentment",
+     "en": "a calm feeling of being happy with life",
+     "hi": "संतोष"
+    },
+    {
+     "w": "contempt",
+     "en": "a feeling that someone is worth no respect",
+     "hi": "तिरस्कार"
+    },
+    {
+     "w": "confide",
+     "en": "to tell private feelings to someone you trust",
+     "hi": "मन की बात बताना"
+    },
+    {
+     "w": "humiliate",
+     "en": "to make someone feel ashamed",
+     "hi": "अपमानित करना"
+    },
+    {
+     "w": "endure",
+     "en": "to bear something painful",
+     "hi": "सहना"
+    },
+    {
+     "w": "weathered",
+     "en": "worn by sun, wind and rain",
+     "hi": "मौसम की मार से घिसी हुई"
+    },
+    {
+     "w": "thunderous",
+     "en": "very loud, like thunder",
+     "hi": "गरजती हुई"
+    },
+    {
+     "w": "astonishment",
+     "en": "great surprise",
+     "hi": "हैरानी"
+    },
+    {
+     "w": "crumbled",
+     "en": "broke apart into pieces",
+     "hi": "भरभराकर गिर गई"
+    },
+    {
+     "w": "grievance",
+     "en": "a complaint about unfair treatment",
+     "hi": "शिकायत"
+    },
+    {
+     "w": "mounds",
+     "en": "small hills or heaps",
+     "hi": "ढेर"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The family never asked why the widow was unhappy and instead mocked her. What responsibilities do family members have toward an older relative who is suffering in silence?"
+    },
+    {
+     "k": "Another view",
+     "q": "How might the sons and daughters-in-law have described their own behaviour? Does understanding their view change how you judge them?"
+    },
+    {
+     "k": "Culture",
+     "q": "In the story, the old woman is alone and has no one to confide in. What might this tell us about the place of older women in many families and communities, and how can we be sure not to generalise from one story?"
+    },
+    {
+     "k": "Theme",
+     "q": "The collapsing walls and her lightening body are symbols. What do you think each stands for, and why might the storyteller have chosen walls rather than a person to listen?"
+    },
+    {
+     "k": "Today",
+     "q": "Today people can share feelings with friends, counsellors, writing or art. What are the strengths and limits of ‘telling it to the walls’ compared with telling a trusted person?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "A widow in an unkind home",
+   "th": "अनचाहे घर में विधवा",
+   "p": "Inside a modest Tamil village house, the elderly widow stands quietly at the edge of the room while her two sons and two daughters-in-law point and scold her. Mood: lonely, heavy, muted warm colours. Characters: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face; her two grown sons and two daughters-in-law in everyday cotton clothes (men in shirts and dhotis, women in saris)."
+  },
+  {
+   "t": "Her sorrow grows heavy",
+   "th": "उसका दुख भारी होता गया",
+   "p": "The same widow sits alone on the house step, shoulders bowed, looking rounder and heavy with sorrow, while her family laughs and teases her from the doorway. Mood: sad, quiet. Characters: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face; her two grown sons and two daughters-in-law in everyday cotton clothes (men in shirts and dhotis, women in saris)."
+  },
+  {
+   "t": "Walking to the ruined building",
+   "th": "खंडहर की ओर",
+   "p": "Empty house behind her, the widow walks along a dusty village path and finds a roofless ruined building with four old brick walls standing open to the sky. Mood: hushed, curious, soft afternoon light. Character: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face."
+  },
+  {
+   "t": "She tells the first wall",
+   "th": "पहली दीवार से बात",
+   "p": "Inside the roofless ruin, the widow stands before the first old brick wall, hands clasped to her chest, tears on her cheeks, speaking her sorrows aloud. Mood: emotional but gentle. Character: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face."
+  },
+  {
+   "t": "The walls fall, one by one",
+   "th": "एक-एक कर दीवारें गिरीं",
+   "p": "The widow turns from wall to wall as the walls crumble into soft clouds of dust and bricks behind her; she looks surprised and a little lighter, with a faint smile. Child-friendly, no danger, she is unharmed. Character: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face."
+  },
+  {
+   "t": "Standing among the broken bricks",
+   "th": "टूटी ईंटों के बीच",
+   "p": "The widow stands among heaps of bricks and drifting dust under the open sky, looking down at herself and discovering her body is light again, wonder on her face. Character: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face."
+  },
+  {
+   "t": "A light heart, a quiet walk home",
+   "th": "हल्के मन से घर वापसी",
+   "p": "The widow takes a deep breath, then walks home along the village path at golden dusk, standing taller and peaceful. Mood: calm, hopeful. Character: a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face."
+  }
+ ],
+ "artStyle": {
+  "region": "Tamil Nadu, South India",
+  "verified": false,
+  "tradition": null,
+  "note": "We did not verify a specific traditional visual art that belongs to this story or to its tellers, so we are not claiming one. A neutral, warm storybook style is proposed: soft earthy palette (terracotta, brick red, faded green, ochre), simple rounded shapes, small tiled-roof or thatched village houses and brick walls, everyday cotton clothing for the family. Do not present the pictures as a named folk-art style.",
+  "characters": [
+   {
+    "name": "The old widow",
+    "look": "a small elderly Tamil village woman with grey hair in a bun, a plain cotton sari in faded green with a narrow border, bare simple bangles, a kind, tired face"
+   },
+   {
+    "name": "Her sons and daughters-in-law",
+    "look": "her two grown sons and two daughters-in-law in everyday cotton clothes (men in shirts and dhotis, women in saris)"
+   }
+  ],
+  "sources": []
+ },
+ "imagine": "Imagine you are standing in the ruin beside the old woman. What do the four walls look and sound like before they fall, and what is the first thing you would say to her?",
+ "create": "Draw the old woman standing among the fallen bricks, or write a short letter in which she tells her story to someone she can trust.",
+ "about": {
+  "where": "The Centre for Contemporary Folklore lists this story under Tamil Nadu, a state in southern India where Tamil is the main language. The story is set in a small village and an old ruined building, but it does not name a particular place.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. The Centre for Contemporary Folklore only names the region, Tamil Nadu, and credits the story to A. K. Ramanujan’s book Folktales from India.",
+  "tradition": "The project team describes it as part of the Tamil storytelling tradition, with themes of family, suffering and emotional release. It is a folktale, told aloud and passed on from person to person, and it can be told in many ways.",
+  "shared": "The story is shared by the Centre for Contemporary Folklore, a not-for-profit organisation that collects and shares folklore, and it appears in A. K. Ramanujan’s collection. This is one version from one source, not the only way the story is told.",
+  "matters": "Many people feel better when they can say hard feelings out loud instead of hiding them. The idea that the walls fell is editorial, not a quotation from a storyteller, but it is a gentle way to think about why sharing sorrow can bring relief. The story also reminds us to notice when someone around us is sad.",
+  "links": [
+   [
+    "Centre for Contemporary Folklore: Tell it to the Walls (Tamil Nadu)",
+    "https://centreforcontemporaryfolklore.org/2024/09/10/tell-it-to-the-wallstamil-nadu/"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Centre for Contemporary Folklore, “Tell it to the Walls (Tamil Nadu),” attributed there to A. K. Ramanujan, Folktales from India (published 10 September 2024 on the CCF site).",
+   "url": "https://centreforcontemporaryfolklore.org/2024/09/10/tell-it-to-the-wallstamil-nadu/",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Interpretive note (editorial)",
+   "v": "The repository adds: ‘The collapsing walls represent accumulated suffering; telling one’s sorrows offers relief.’ It states this is editorial, not a quotation from an original storyteller. Kept here as a note, not as part of the story.",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Copyright and permission: CCF page is marked all rights reserved and the status of Ramanujan's book text is unchecked",
+  "Story text attribution: CCF credits A. K. Ramanujan, Folktales from India, but gives no edition, year or original teller; the English is the CCF retelling and should be checked against the book",
+  "Community of origin is not named in any source",
+  "Sensitive content: family cruelty, body-shaming of an older woman; Level 1 keeps the ‘fat’ taunt (as supplied) so teachers may wish to review",
+  "Interpretive note is editorial, not from a storyteller; kept out of the story text",
+  "Hindi (all levels) and Levels 1 and 3 English are AI-written and unreviewed; check Hindi title and idiom",
+  "No art tradition verified; neutral storybook style proposed"
+ ]
+}

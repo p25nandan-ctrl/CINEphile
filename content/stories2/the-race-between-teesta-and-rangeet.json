@@ -1,0 +1,246 @@
+{
+ "id": "the-race-between-teesta-and-rangeet",
+ "state": "sk",
+ "title": "The Race between Teesta and Rangeet — The Two Rivers of Sikkim",
+ "titleHi": "तीस्ता और रंगीत की यात्रा",
+ "genre": "Landscape legend",
+ "levelTitles": {
+  "1": {
+   "en": "Teesta and Rangeet's Journey",
+   "hi": "तीस्ता और रंगीत की यात्रा"
+  },
+  "2": {
+   "en": "The Race to the Plains",
+   "hi": "मैदानों तक पहुँचने की दौड़"
+  },
+  "3": {
+   "en": "Where Two Rivers Meet",
+   "hi": "जहाँ दो नदियाँ मिलती हैं"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "High in the mountains of Sikkim, two rivers began their journeys.",
+     "One was Teesta. The other was Rangeet.",
+     "They flowed through green valleys, past tall trees and around rocky hills. Both wanted to reach the great plains beyond the mountains.",
+     "One day, they heard that the river which reached the plains first would win a special prize.",
+     "“Let us race!” said Teesta.",
+     "“Let us race!” replied Rangeet.",
+     "Teesta rushed forward, tumbling over rocks and rushing through narrow valleys. Rangeet took a different path, winding between hills and passing quiet villages.",
+     "They could hear each other in the distance. Sometimes Teesta moved ahead. Sometimes Rangeet seemed closer.",
+     "But the mountains were full of surprises. There were steep cliffs, deep valleys and forests to cross.",
+     "At last, the two rivers came together. Their waters joined, and they continued their journey as one.",
+     "They realised that the most wonderful part of their journey was not winning a race. It was travelling through the mountains and bringing life to the places they passed."
+    ],
+    "hi": [
+     "सिक्किम के ऊँचे पहाड़ों में दो नदियों ने अपनी यात्रा शुरू की।",
+     "एक का नाम तीस्ता था। दूसरी का नाम रंगीत।",
+     "वे हरी-भरी घाटियों से बहतीं, ऊँचे पेड़ों के पास से गुज़रतीं और चट्टानी पहाड़ियों के चारों ओर घूमतीं। दोनों पहाड़ों से आगे फैले विशाल मैदानों तक पहुँचना चाहती थीं।",
+     "एक दिन उन्हें पता चला कि जो नदी सबसे पहले मैदानों तक पहुँचेगी, उसे एक विशेष पुरस्कार मिलेगा।",
+     "तीस्ता ने कहा, “चलो, दौड़ लगाते हैं!”",
+     "रंगीत ने जवाब दिया, “चलो!”",
+     "तीस्ता तेज़ी से आगे बढ़ी। वह चट्टानों से टकराकर झाग बनाती और सँकरी घाटियों से होकर बहती। रंगीत ने दूसरा रास्ता चुना। वह पहाड़ियों के बीच से घूमती हुई शांत गाँवों के पास से गुज़री।",
+     "दोनों को दूर से एक-दूसरे की आवाज़ सुनाई देती थी। कभी तीस्ता आगे निकल जाती, तो कभी रंगीत उसके करीब पहुँच जाती।",
+     "लेकिन पहाड़ों में कई आश्चर्य छिपे थे। कहीं ऊँची चट्टानें थीं, कहीं गहरी घाटियाँ और कहीं घने जंगल।",
+     "आखिरकार दोनों नदियाँ एक जगह आकर मिल गईं। उनका पानी एक हो गया और वे साथ-साथ आगे बढ़ने लगीं।",
+     "तब उन्हें समझ आया कि उनकी यात्रा का सबसे सुंदर हिस्सा दौड़ जीतना नहीं था। असली खुशी पहाड़ों से गुज़रने और अपने रास्ते में आने वाली धरती को जीवन देने में थी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "The mountains of Sikkim were home to two rivers, Teesta and Rangeet. They were born in different places, but both flowed through the same beautiful landscape of forests, valleys and villages.",
+     "One morning, the rivers heard that a great race was about to begin. The first river to reach the plains would be declared the winner.",
+     "Teesta was full of energy. “I will reach the plains first!” she announced.",
+     "Rangeet smiled. “We shall see. The mountains are not always easy to cross.”",
+     "The race began. Teesta rushed through narrow valleys, splashed against stones and hurried down steep slopes. Rangeet moved through a winding route, passing forests and villages.",
+     "As they travelled, each river faced different challenges. Teesta encountered rocky stretches where the water had to squeeze through narrow passages. Rangeet had to turn around hills and find its way through uneven terrain.",
+     "Neither river gave up. They continued flowing, nourishing the land and carrying water to the people, plants and animals along their banks.",
+     "After a long journey, they reached the place where their waters met. The two rivers joined, and their separate currents became one.",
+     "The race had brought them together. But now they understood something important: rivers are not meant only to compete. Their journeys help shape the land, sustain life and connect distant places.",
+     "Today, the meeting of the Teesta and Rangeet remains one of the memorable sights of Sikkim."
+    ],
+    "hi": [
+     "सिक्किम के पहाड़ों में तीस्ता और रंगीत नाम की दो नदियाँ बहती थीं। उनका जन्म अलग-अलग स्थानों पर हुआ था, लेकिन दोनों जंगलों, घाटियों और गाँवों से भरे एक ही सुंदर भूभाग से होकर गुज़रती थीं।",
+     "एक सुबह दोनों नदियों ने सुना कि एक बड़ी दौड़ होने वाली है। जो नदी सबसे पहले मैदानों तक पहुँचेगी, उसे विजेता घोषित किया जाएगा।",
+     "तीस्ता बहुत उत्साहित थी। उसने कहा, “मैं सबसे पहले मैदानों तक पहुँचूँगी!”",
+     "रंगीत मुस्कराई। “देखते हैं। पहाड़ों को पार करना हमेशा आसान नहीं होता।”",
+     "दौड़ शुरू हुई। तीस्ता सँकरी घाटियों से तेज़ी से बहने लगी। वह पत्थरों से टकराकर उछलती और खड़ी ढलानों से नीचे उतरती। रंगीत ने घुमावदार रास्ता चुना और जंगलों तथा गाँवों के बीच से आगे बढ़ी।",
+     "यात्रा के दौरान दोनों नदियों के सामने अलग-अलग चुनौतियाँ आईं। तीस्ता को ऐसे पथरीले रास्ते मिले जहाँ पानी को बहुत सँकरी जगहों से निकलना पड़ा। रंगीत को पहाड़ियों के चारों ओर घूमकर ऊबड़-खाबड़ रास्तों से अपना मार्ग बनाना पड़ा।",
+     "दोनों ने हार नहीं मानी। वे बहती रहीं और अपने किनारों पर रहने वाले लोगों, पौधों और जानवरों को पानी देती रहीं।",
+     "लंबी यात्रा के बाद वे उस स्थान पर पहुँचीं जहाँ उनका पानी मिलता है। दोनों नदियाँ एक हो गईं और उनकी अलग-अलग धाराएँ मिलकर आगे बढ़ने लगीं।",
+     "इस दौड़ ने उन्हें एक-दूसरे के करीब ला दिया था। लेकिन अब उन्हें एक महत्वपूर्ण बात समझ आई: नदियाँ केवल प्रतिस्पर्धा करने के लिए नहीं होतीं। उनकी यात्राएँ धरती को आकार देती हैं, जीवन को सहारा देती हैं और दूर-दूर के स्थानों को जोड़ती हैं।",
+     "आज भी तीस्ता और रंगीत का संगम सिक्किम के यादगार प्राकृतिक दृश्यों में से एक है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the mountains of Sikkim, two rivers travel through a landscape shaped by steep slopes, dense forests and deep valleys. The Teesta and the Rangeet begin their journeys separately, but their waters eventually meet and continue downstream together.",
+     "A local story imagines their journeys as a race. Each river wishes to reach the plains first. Teesta is quick and forceful, rushing through narrow gorges and over rocky stretches. Rangeet follows a winding course, curving around hills and moving through quieter valleys.",
+     "Their journeys are different, and each encounters obstacles that demand patience and persistence. The story imagines the rivers as travellers with distinct personalities, each determined to complete its journey.",
+     "Eventually, they arrive at the point where their waters meet. Their currents merge, and the two rivers continue as one.",
+     "The image of the meeting rivers offers more than a story about competition. It invites readers to think about how different paths can lead to a shared destination. It also makes the landscape itself part of the narrative: the rivers shape valleys, nourish forests and sustain settlements along their banks.",
+     "The Teesta–Rangeet confluence is a real geographical feature of Sikkim. The tale gives this landscape a human imagination, turning two waterways into characters whose journeys can be remembered and retold."
+    ],
+    "hi": [
+     "सिक्किम के पहाड़ों में दो नदियाँ ऐसे भूभाग से होकर बहती हैं, जिसे ऊँची ढलानों, घने जंगलों और गहरी घाटियों ने आकार दिया है। तीस्ता और रंगीत अपनी यात्राएँ अलग-अलग शुरू करती हैं, लेकिन अंततः उनका पानी एक स्थान पर मिलता है और वे साथ-साथ आगे बढ़ती हैं।",
+     "एक स्थानीय कथा उनकी यात्राओं को एक दौड़ के रूप में कल्पना करती है। दोनों नदियाँ चाहती हैं कि वे सबसे पहले मैदानों तक पहुँचें। तीस्ता तेज़ और शक्तिशाली है। वह सँकरी घाटियों और पथरीले रास्तों से तेज़ी से बहती है। रंगीत घुमावदार रास्ता अपनाती है और पहाड़ियों के चारों ओर घूमते हुए शांत घाटियों से गुज़रती है।",
+     "उनकी यात्राएँ अलग-अलग हैं और दोनों को ऐसी बाधाओं का सामना करना पड़ता है जिनके लिए धैर्य और दृढ़ता की आवश्यकता होती है। कहानी नदियों को अलग-अलग स्वभाव वाले यात्रियों के रूप में प्रस्तुत करती है, जो अपनी यात्रा पूरी करने के लिए प्रतिबद्ध हैं।",
+     "आखिरकार वे उस स्थान पर पहुँचती हैं जहाँ उनका पानी मिलता है। उनकी धाराएँ एक हो जाती हैं और दोनों नदियाँ मिलकर आगे बढ़ती हैं।",
+     "दो नदियों के मिलन की यह कल्पना केवल प्रतिस्पर्धा की कहानी नहीं है। यह पाठकों को सोचने का अवसर देती है कि अलग-अलग रास्ते भी एक साझा मंज़िल तक पहुँचा सकते हैं। साथ ही, यह प्राकृतिक भूगोल को कहानी का हिस्सा बनाती है: नदियाँ घाटियों को आकार देती हैं, जंगलों को पानी देती हैं और अपने किनारों पर बसे समुदायों को जीवन प्रदान करती हैं।",
+     "तीस्ता और रंगीत का संगम सिक्किम का वास्तविक भौगोलिक स्थल है। यह कथा उस भूभाग को मानवीय कल्पना देती है और दो जलधाराओं को ऐसे पात्रों में बदल देती है जिनकी यात्राएँ याद रखी और सुनाई जा सकती हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Sikkim",
+  "community": "Lepcha / Rong",
+  "tradition": "Landscape legend about two rivers of Sikkim."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Yishey Doma, Legends of the Lepchas: Folk Tales from Sikkim, includes a story titled “The Race between Teesta and Rangeet”.",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "This version is a creative adaptation inspired by the documented title and local geography. It is not a retelling of the original Lepcha tale.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-142-015",
+ "meta": [
+  "Community: Lepcha / Rong · Region: Sikkim · Genre: Landscape legend · Themes: Nature, friendship, patience, the shaping of the land",
+  "About the story and its origins",
+  "The Teesta and Rangeet are two important rivers of Sikkim. Their meeting near present-day Teesta Bazaar is a striking geographical feature, and their relationship has inspired local stories.",
+  "Yishey Doma's Legends of the Lepchas includes a story titled “The Race between Teesta and Rangeet.” It is a good choice for a children's repository because it connects a familiar natural landmark with storytelling and gives children a way to understand the rivers as part of Sikkim's cultural imagination.",
+  "CUS DSpace+1",
+  "Important source note: I can verify the story's inclusion in the collection, but not the full narrative text from the accessible extract. Rather than invent a detailed plot and attribute it to the Lepcha tradition, the six versions below are clearly labelled as creative adaptations inspired by the documented title and local geography. They should not be presented as faithful retellings of the original oral tale until checked against the complete source text and, ideally, a Lepcha reviewer."
+ ]
+}

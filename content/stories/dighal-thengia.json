@@ -1,0 +1,552 @@
+{
+ "id": "dighal-thengia",
+ "state": "as",
+ "title": "Dighal Thengia — The Long-Legged One",
+ "titleHi": "दीघल ठेंगिया — लंबे पैरों वाला",
+ "summary": "An old woman’s bedtime prayer sends a thief and a hungry tiger running from each other, each sure the other is a monster. A funny Assamese tale about fear and mistaken identity.",
+ "summarySource": "written for this site",
+ "genre": "Folktale (humorous)",
+ "from": "Assamese folktale, Assam",
+ "origLevel": 3,
+ "levelReason": "The supplied text has long, layered sentences (many 14-20 words), advanced words such as hindquarters, bolted, convinced and narrowly, and a reflective moral about fear and imagination, which matches Mighty Tree (grades 8-10) more than the simpler levels.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "An old woman lived in a village in Assam. She kept cows. She sold their milk to earn money.",
+     "Her room was old. Her roof was made of thatch, and it had worn out. When it rained, water dripped in.",
+     "One cloudy evening, she ate dinner and got ready for bed. She prayed, “Oh Lord, keep me safe from Dighal Thengia!”",
+     "Dighal Thengia means “the long-legged one.” But nobody in the house knew what she meant.",
+     "That night, two visitors hid nearby. One was a thief. He wanted to steal a cow. The other was a hungry tiger. It had come into the cowshed to catch a cow.",
+     "Both hid in the dark. They waited for the old woman to sleep. They heard her prayer. They felt curious and scared. “What is Dighal Thengia?” they wondered. “What creature has long legs and scares the old woman?”",
+     "Then the thief went into the cowshed. It was very dark. He could not see the animals well. He would touch their backs to find a strong cow.",
+     "“If it jumps, it is strong,” he thought. He touched the animals one by one. Then his hand touched the tiger. The tiger jumped up in surprise.",
+     "The thief was happy. “This must be the strongest cow! I will take it!” He grabbed what he thought was its tail. He pulled it toward the door.",
+     "The tiger was very scared. It remembered the old woman’s prayer. “This must be Dighal Thengia!” it thought.",
+     "The thief jumped onto the tiger’s back. He thought he was riding a cow. The tiger ran out of the cowshed toward the forest. The thief was shocked. “This is not a cow! It is Dighal Thengia!” he thought.",
+     "The tiger was just as scared. It thought the strange thing on its back was Dighal Thengia. Both of them wanted to run away from a monster.",
+     "The tiger ran faster and faster in the dark. The thief held on tight to its back. They came close to the forest.",
+     "The thief tried to twist the tiger’s neck to stop it. That scared the tiger even more. It ran wildly. At last the thief could not hold on. He fell off.",
+     "The tiger ran into the forest. It was glad to get away. The thief got up and ran the other way. He thought he had escaped a monster.",
+     "The next morning, the old woman found all her cows safe. Nothing was stolen. She did not know her little prayer had caused such a mix-up.",
+     "So a hungry tiger and a scared thief ran away from each other all night. They never learned the truth.",
+     "Moral: Fear and mix-ups can turn a plain night into a big adventure. Sometimes what scares us is only in our imagination."
+    ],
+    "hi": [
+     "असम के एक गाँव में एक बूढ़ी औरत रहती थी। वह गायें पालती थी। वह उनका दूध बेचकर पैसे कमाती थी।",
+     "उसका कमरा पुराना था। फूस की छत घिस गई थी। बारिश में पानी अंदर टपकता था।",
+     "एक बादलों भरी शाम उसने खाना खाया और सोने चली। उसने प्रार्थना की, “हे प्रभु, मुझे दीघल ठेंगिया से बचाना!”",
+     "दीघल ठेंगिया का मतलब है “लंबे पैरों वाला”। पर घर में किसी को नहीं पता था कि वह क्या है।",
+     "उस रात दो मेहमान पास में छिपे थे। एक चोर था। वह गाय चुराना चाहता था। दूसरा भूखा बाघ था। वह गाय पकड़ने गोशाला में आया था।",
+     "दोनों अँधेरे में छिपे थे। वे बुढ़िया के सोने का इंतज़ार कर रहे थे। उन्होंने उसकी प्रार्थना सुनी। वे उत्सुक हुए और डर गए। “दीघल ठेंगिया क्या है?” उन्होंने सोचा। “कौन-सा जीव है जिसके पैर लंबे हैं और जिससे बुढ़िया डरती है?”",
+     "फिर चोर गोशाला में गया। वहाँ बहुत अँधेरा था। उसे जानवर साफ़ नहीं दिखे। उसने सोचा कि वह पीठ छूकर मज़बूत गाय ढूँढेगा।",
+     "“जो उछले, वह मज़बूत होगी,” उसने सोचा। वह एक-एक जानवर को छूने लगा। फिर उसका हाथ बाघ पर पड़ा। बाघ चौंककर उछल पड़ा।",
+     "चोर खुश हुआ। “यही सबसे मज़बूत गाय है! मैं इसे ले जाऊँगा!” उसने जिसे पूँछ समझा, उसे पकड़ा। वह उसे दरवाज़े की ओर खींचने लगा।",
+     "बाघ बहुत डर गया। उसे बुढ़िया की प्रार्थना याद आई। उसने सोचा, “यही दीघल ठेंगिया है!”",
+     "चोर बाघ की पीठ पर चढ़ गया। उसने सोचा कि वह गाय पर बैठा है। बाघ गोशाला से जंगल की ओर भागा। चोर घबरा गया। “यह गाय नहीं है! यह दीघल ठेंगिया है!” उसने सोचा।",
+     "बाघ भी उतना ही डरा था। उसे लगा कि पीठ पर दीघल ठेंगिया बैठा है। दोनों राक्षस से भागना चाहते थे।",
+     "बाघ अँधेरे में और तेज़ भागा। चोर उसकी पीठ पर कसकर चिपका रहा। वे जंगल के पास पहुँच गए।",
+     "चोर ने बाघ की गर्दन मरोड़नी चाही ताकि वह रुक जाए। इससे बाघ और डर गया। वह बेतहाशा भागा। आख़िर चोर की पकड़ छूटी और वह गिर पड़ा।",
+     "बाघ भागकर जंगल में चला गया। वह खुश था कि बच गया। चोर उठा और उलटी तरफ़ भागा। उसे लगा कि वह राक्षस से बच गया।",
+     "अगली सुबह बुढ़िया ने देखा कि उसकी सारी गायें सुरक्षित हैं। कुछ चोरी नहीं हुआ। उसे नहीं पता था कि उसकी छोटी-सी प्रार्थना से इतनी गड़बड़ हुई।",
+     "इस तरह एक भूखा बाघ और एक डरा चोर रात भर एक-दूसरे से भागते रहे। उन्हें सच कभी पता नहीं चला।",
+     "सीख: डर और ग़लतफ़हमी एक साधारण रात को बड़ा रोमांच बना सकती है। कभी-कभी जो हमें डराता है, वह बस हमारी कल्पना होती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "thatch",
+     "en": "dried straw or reeds used to make a roof",
+     "hi": "फूस"
+    },
+    {
+     "w": "prayer",
+     "en": "words said to God",
+     "hi": "प्रार्थना"
+    },
+    {
+     "w": "thief",
+     "en": "a person who steals",
+     "hi": "चोर"
+    },
+    {
+     "w": "cowshed",
+     "en": "a house for cows",
+     "hi": "गोशाला"
+    },
+    {
+     "w": "curious",
+     "en": "wanting to know more",
+     "hi": "उत्सुक"
+    },
+    {
+     "w": "scared",
+     "en": "afraid",
+     "hi": "डरा हुआ"
+    },
+    {
+     "w": "grabbed",
+     "en": "took quickly and held",
+     "hi": "पकड़ा"
+    },
+    {
+     "w": "wildly",
+     "en": "in a crazy, fast way",
+     "hi": "बेतहाशा"
+    },
+    {
+     "w": "monster",
+     "en": "a scary creature",
+     "hi": "राक्षस"
+    },
+    {
+     "w": "shocked",
+     "en": "very surprised",
+     "hi": "हैरान"
+    },
+    {
+     "w": "tail",
+     "en": "the part at the back of an animal",
+     "hi": "पूँछ"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and where",
+     "q": "Who lives in the house, and what is her work?"
+    },
+    {
+     "k": "What happened",
+     "q": "What did the old woman say in her prayer? Who heard it?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the thief and the tiger feel when they heard the prayer? Why?"
+    },
+    {
+     "k": "What the thief thought",
+     "q": "What did the thief think he was riding?"
+    },
+    {
+     "k": "Your link",
+     "q": "Have you ever been scared of something and later found it was nothing? What was it?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, an old woman lived in a village in Assam. She kept cows and earned her living by selling their milk.",
+     "Her bedroom was old, and the thatched roof had worn thin over the years. Whenever it rained, water dripped inside.",
+     "One cloudy evening, after dinner, the old woman got ready for bed. Before she fell asleep, she prayed, “Oh Lord, please keep me safe from Dighal Thengia!”",
+     "Dighal Thengia means “the long-legged one,” but nobody in the house knew what she was talking about.",
+     "That night, two unexpected visitors were hiding close by. One was a thief who had come to steal a cow. The other was a hungry tiger that had slipped into the cowshed, hoping to catch a cow for dinner.",
+     "Both waited in the dark for the old woman to fall asleep. When they heard her prayer, they felt curious and scared. “What is Dighal Thengia?” they wondered. “What kind of creature has long legs and frightens this old woman?”",
+     "Soon the thief decided it was time to steal a cow. He crept quietly into the cowshed. It was too dark to see the animals clearly, so he planned to find a healthy cow by touching its back end.",
+     "“If an animal jumps when I touch it, it must be strong and healthy,” he thought. He felt the animals one by one. At last, his hand touched the tiger, and the tiger jumped up in surprise.",
+     "The thief was delighted. “Wonderful! This must be the strongest cow in the shed. I will take this one!” He grabbed what he thought was its tail and pulled it toward the door.",
+     "The tiger was terrified. It remembered the old woman’s prayer and became sure that this was the dreadful Dighal Thengia.",
+     "The thief climbed onto the tiger’s back, thinking he was riding his new cow. The tiger suddenly dashed out of the cowshed and raced toward the forest. The thief was horrified. “This is no ordinary cow! It must be Dighal Thengia itself!” he thought.",
+     "The tiger was just as frightened. It believed the strange creature on its back was the terrible Dighal Thengia the old woman had spoken of. Both of them were trying hard to escape from what they thought was a dangerous monster.",
+     "The tiger ran faster and faster through the dark, with the scared thief on its back. As they came near the forest, the thief held on tightly and tried to control the animal.",
+     "He tried to twist its neck to make it stop. This only frightened the tiger more, and it kept running wildly. At last the thief could not hold on any longer. He lost his grip and fell off.",
+     "The tiger vanished into the forest, glad to have escaped the strange creature. The thief jumped up and ran the other way, sure he had barely escaped a terrible monster.",
+     "The next morning, the old woman found that her cows were safe and none had been stolen. She had no idea that her simple bedtime prayer had caused so much confusion.",
+     "And so, without either of them ever learning the truth, a hungry tiger and a frightened thief had spent the night running away from each other.",
+     "Moral: Fear and misunderstanding can turn ordinary things into big adventures. Sometimes what scares us is only something we imagined."
+    ],
+    "hi": [
+     "बहुत पहले असम के एक गाँव में एक बूढ़ी औरत रहती थी। वह गायें पालती थी और उनका दूध बेचकर अपना गुज़ारा करती थी।",
+     "उसका कमरा पुराना था और फूस की छत सालों में कमज़ोर हो गई थी। जब भी बारिश होती, अंदर पानी टपकता था।",
+     "एक बादलों भरी शाम, खाने के बाद बुढ़िया सोने की तैयारी करने लगी। सोने से पहले उसने प्रार्थना की, “हे प्रभु, मुझे दीघल ठेंगिया से बचाना!”",
+     "दीघल ठेंगिया का मतलब है “लंबे पैरों वाला”, पर घर में किसी को पता नहीं था कि वह किसकी बात कर रही है।",
+     "उस रात दो अनचाहे मेहमान पास में छिपे थे। एक चोर था, जो एक गाय चुराने आया था। दूसरा एक भूखा बाघ था, जो रात के खाने के लिए गाय पकड़ने की सोचकर गोशाला में घुस आया था।",
+     "दोनों अँधेरे में बुढ़िया के सोने का इंतज़ार कर रहे थे। उसकी प्रार्थना सुनकर वे उत्सुक भी हुए और डर भी गए। “दीघल ठेंगिया क्या है?” वे सोचने लगे। “कैसा जीव है जिसके पैर लंबे हैं और जिससे यह बुढ़िया डरती है?”",
+     "कुछ देर बाद चोर ने सोचा कि अब गाय चुराने का समय आ गया है। वह चुपके से गोशाला में घुसा। अँधेरा बहुत था और जानवर साफ़ नहीं दिख रहे थे, इसलिए उसने सोचा कि पीछे का हिस्सा छूकर अच्छी गाय पहचान लेगा।",
+     "“जो जानवर छूने पर उछल पड़े, वह ज़रूर ताकतवर और स्वस्थ होगा,” उसने सोचा। वह एक-एक करके जानवरों की पीठ छूने लगा। आख़िर उसका हाथ बाघ पर पड़ा और बाघ चौंककर उछल पड़ा।",
+     "चोर बहुत खुश हुआ। “वाह! यह गोशाला की सबसे ताकतवर गाय होगी। मैं इसी को ले जाऊँगा!” उसने जिसे पूँछ समझा, उसे पकड़ लिया और दरवाज़े की ओर खींचने लगा।",
+     "बाघ बहुत डर गया। उसे बुढ़िया की प्रार्थना याद आई और उसे पक्का लगा कि यही भयानक दीघल ठेंगिया है।",
+     "चोर बाघ की पीठ पर चढ़ गया, यह सोचकर कि वह अपनी नई गाय पर सवार है। बाघ अचानक गोशाला से निकलकर जंगल की ओर दौड़ पड़ा। चोर के होश उड़ गए। “यह कोई मामूली गाय नहीं है! यह तो खुद दीघल ठेंगिया है!” उसने सोचा।",
+     "बाघ भी उतना ही डरा हुआ था। उसे लगा कि पीठ पर बैठा अजीब जीव वही भयानक दीघल ठेंगिया है जिसकी बात बुढ़िया ने की थी। दोनों उस खतरनाक राक्षस से बचकर भागने की पूरी कोशिश कर रहे थे, जैसा उन्हें लग रहा था।",
+     "बाघ अँधेरे में और तेज़ दौड़ता गया और डरा हुआ चोर उसकी पीठ पर था। जंगल के पास पहुँचते ही चोर ने उसे कसकर पकड़ लिया और काबू में करने की कोशिश की।",
+     "उसने बाघ की गर्दन मरोड़कर उसे रोकना चाहा। इससे बाघ और डर गया और बेतहाशा दौड़ता रहा। आख़िर चोर की पकड़ छूट गई और वह नीचे गिर पड़ा।",
+     "बाघ जंगल में गायब हो गया और खुश था कि उस अजीब जीव से बच गया। चोर उठा और उलटी तरफ़ भाग गया। उसे यकीन था कि वह किसी भयानक राक्षस से बाल-बाल बचा है।",
+     "अगली सुबह बुढ़िया ने देखा कि उसकी सारी गायें सुरक्षित हैं और कोई चोरी नहीं हुई। उसे अंदाज़ा भी नहीं था कि उसकी छोटी-सी प्रार्थना से इतना बड़ा गड़बड़झाला हो गया।",
+     "इस तरह, बिना किसी को सच पता चले, एक भूखा बाघ और एक डरा हुआ चोर रात भर एक-दूसरे से भागते रहे।",
+     "सीख: डर और ग़लतफ़हमी साधारण बातों को बड़ा रोमांच बना सकती हैं। कभी-कभी जो हमें डराता है, वह बस हमारी कल्पना होती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "thatched",
+     "en": "covered with dried straw",
+     "hi": "फूस की बनी"
+    },
+    {
+     "w": "prayer",
+     "en": "words spoken to God, asking for help",
+     "hi": "प्रार्थना"
+    },
+    {
+     "w": "curious",
+     "en": "eager to find out",
+     "hi": "उत्सुक"
+    },
+    {
+     "w": "cowshed",
+     "en": "a building where cows are kept",
+     "hi": "गोशाला"
+    },
+    {
+     "w": "delighted",
+     "en": "very pleased",
+     "hi": "बहुत खुश"
+    },
+    {
+     "w": "terrified",
+     "en": "extremely scared",
+     "hi": "बहुत डरा हुआ"
+    },
+    {
+     "w": "dreadful",
+     "en": "very bad and frightening",
+     "hi": "भयानक"
+    },
+    {
+     "w": "horrified",
+     "en": "filled with fear and shock",
+     "hi": "भयभीत"
+    },
+    {
+     "w": "dashed",
+     "en": "ran very fast",
+     "hi": "दौड़ पड़ा"
+    },
+    {
+     "w": "grip",
+     "en": "a tight hold",
+     "hi": "पकड़"
+    },
+    {
+     "w": "vanished",
+     "en": "disappeared suddenly",
+     "hi": "गायब हो गया"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motive",
+     "q": "Why do the thief and the tiger both stay hidden and wait for the old woman to sleep?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "How does the old woman’s prayer cause the tiger and the thief to run away from each other?"
+    },
+    {
+     "k": "The thief’s plan",
+     "q": "Why does the thief touch the animals’ backs in the dark? What goes wrong with his plan?"
+    },
+    {
+     "k": "Decisions",
+     "q": "The thief tries to twist the tiger’s neck. Why does he do this, and what happens because of it?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The old woman never knows what happened. Why do you think the storyteller ends the tale this way?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, there lived an elderly woman in a village in Assam. She earned her living by selling milk from the cows she kept.",
+     "Her bedroom was old, and the thatched roof had worn out over the years. Whenever it rained, water dripped through the roof.",
+     "One cloudy evening, after finishing her dinner, the old woman prepared to go to bed. Before falling asleep, she prayed: “Oh Lord, please protect me from Dighal Thengia!”",
+     "Dighal Thengia meant “the long-legged one”, but nobody in the house knew exactly what she was referring to.",
+     "Unfortunately, two unexpected visitors were hiding nearby that night. One was a thief who had come to steal one of the woman’s cows. The other was a hungry tiger that had entered the cowshed hoping to catch a cow for its dinner.",
+     "Both were hiding in the darkness, waiting for the old woman to fall asleep. When they heard her prayer, they became curious and frightened. “What is Dighal Thengia?” they wondered. “What sort of creature has long legs and is feared by this old woman?”",
+     "Meanwhile, the thief decided that it was time to steal a cow. He quietly entered the cowshed. Because it was dark, he could not clearly see the animals. He decided to identify a healthy cow by touching its hindquarters.",
+     "“If an animal jumps when I touch it, it must be strong and healthy,” he thought. He began feeling the backs of the animals one by one. Eventually, his hand touched the tiger. The tiger immediately jumped up in surprise.",
+     "The thief was delighted. “Excellent! This must be the strongest cow in the shed. I shall take this one!” He grabbed what he believed was the animal’s tail and began pulling it towards the exit.",
+     "The tiger, meanwhile, was terrified. It remembered the old woman’s prayer and became convinced that this must be the mysterious Dighal Thengia.",
+     "The thief climbed onto the tiger’s back, believing that he was riding his newly stolen cow. The tiger suddenly bolted out of the cowshed and raced towards the forest. The thief was horrified. “This is no ordinary cow! It must be Dighal Thengia itself!” he thought.",
+     "The tiger was equally frightened. It believed that the strange creature riding on its back was the terrifying Dighal Thengia the old woman had mentioned. Both were desperately trying to escape from what they believed was a dangerous monster.",
+     "The tiger ran faster and faster through the darkness, carrying the terrified thief on its back. As they approached the forest, the thief clung tightly to the animal, desperately trying to control it.",
+     "He attempted to twist its neck and force it to stop. The tiger became even more frightened and continued running wildly. Eventually, the thief could no longer hold on. He lost his grip and fell from the tiger’s back.",
+     "The tiger disappeared into the forest, grateful to have escaped the mysterious creature. The thief scrambled to his feet and ran in the opposite direction, convinced that he had narrowly escaped a terrible monster.",
+     "The following morning, the old woman discovered that her cows were safe and that no animal had been stolen. She had no idea that her simple bedtime prayer had caused such extraordinary confusion.",
+     "And so, without either of them ever discovering the truth, a hungry tiger and a frightened thief had spent the night fleeing from one another.",
+     "Moral: Fear and misunderstanding can turn ordinary situations into extraordinary adventures. Sometimes, what frightens us is simply the result of our own imagination."
+    ],
+    "hi": [
+     "बहुत समय पहले असम के एक गाँव में एक बूढ़ी औरत रहती थी। वह अपनी पाली हुई गायों का दूध बेचकर अपना गुज़ारा करती थी।",
+     "उसका शयनकक्ष पुराना था और फूस की छत सालों में घिसकर कमज़ोर हो गई थी। जब भी बारिश होती, छत से पानी टपकने लगता।",
+     "एक बादलों भरी शाम, खाना खाने के बाद बुढ़िया सोने की तैयारी करने लगी। सोने से पहले उसने प्रार्थना की, “हे प्रभु, मुझे दीघल ठेंगिया से बचाना!”",
+     "दीघल ठेंगिया का अर्थ था “लंबे पैरों वाला”, पर घर में किसी को ठीक से पता नहीं था कि वह किसकी बात कर रही है।",
+     "दुर्भाग्य से उस रात दो अनचाहे मेहमान पास ही छिपे हुए थे। एक चोर था, जो बुढ़िया की एक गाय चुराने आया था। दूसरा एक भूखा बाघ था, जो रात के भोजन के लिए गाय पकड़ने की आशा में गोशाला में घुस आया था।",
+     "दोनों अँधेरे में छिपे हुए थे और बुढ़िया के सो जाने की प्रतीक्षा कर रहे थे। जब उन्होंने उसकी प्रार्थना सुनी तो वे उत्सुक भी हुए और डर भी गए। “यह दीघल ठेंगिया क्या है?” वे सोचने लगे। “कैसा जीव है जिसके पैर लंबे हैं और जिससे यह बुढ़िया इतना डरती है?”",
+     "इसी बीच चोर ने तय किया कि अब गाय चुराने का समय आ गया है। वह चुपके से गोशाला में घुसा। अँधेरे के कारण उसे जानवर साफ़ दिखाई नहीं दे रहे थे, इसलिए उसने पिछले हिस्से को छूकर किसी हट्टी-कट्टी गाय को पहचानने की सोची।",
+     "“अगर कोई जानवर छूने पर उछल पड़े, तो वह ज़रूर ताकतवर और स्वस्थ होगा,” उसने सोचा। वह एक-एक करके जानवरों की पीठ टटोलने लगा। आख़िर उसका हाथ बाघ को छू गया। बाघ चौंककर तुरंत उछल पड़ा।",
+     "चोर बहुत खुश हुआ। “वाह! यह तो गोशाला की सबसे ताकतवर गाय होगी। मैं इसी को ले जाऊँगा!” उसने जिसे गाय की पूँछ समझा, उसे पकड़ लिया और उसे बाहर की ओर खींचने लगा।",
+     "उधर बाघ डर के मारे काँप रहा था। उसे बुढ़िया की प्रार्थना याद आई और उसे पक्का यकीन हो गया कि यही वह रहस्यमय दीघल ठेंगिया है।",
+     "चोर बाघ की पीठ पर चढ़ बैठा, यह सोचकर कि वह अपनी चुराई हुई नई गाय की सवारी कर रहा है। बाघ अचानक गोशाला से निकलकर जंगल की ओर भागा। चोर के होश उड़ गए। “यह कोई मामूली गाय नहीं है! यह तो खुद दीघल ठेंगिया है!” उसने सोचा।",
+     "बाघ भी उतना ही डरा हुआ था। उसे लगा कि पीठ पर बैठा अजीब जीव वही भयानक दीघल ठेंगिया है जिसका ज़िक्र बुढ़िया ने किया था। दोनों उस खतरनाक राक्षस से, जैसा वे समझ रहे थे, जान बचाकर भागने की जी-तोड़ कोशिश कर रहे थे।",
+     "बाघ अँधेरे में और तेज़, और तेज़ दौड़ता गया और डरा हुआ चोर उसकी पीठ पर सवार था। जंगल के पास पहुँचते-पहुँचते चोर जानवर से कसकर चिपक गया और उसे काबू में करने की बहुत कोशिश करने लगा।",
+     "उसने बाघ की गर्दन मरोड़कर उसे रोकने की कोशिश की। इससे बाघ और भी डर गया और बेतहाशा दौड़ता रहा। आख़िरकार चोर की पकड़ छूट गई और वह बाघ की पीठ से गिर पड़ा।",
+     "बाघ उस रहस्यमय जीव से बच निकलने पर आभार मानता हुआ जंगल में गायब हो गया। चोर हड़बड़ाकर उठा और उलटी दिशा में दौड़ पड़ा, इस यकीन के साथ कि वह किसी भयानक राक्षस से बाल-बाल बचा है।",
+     "अगली सुबह बुढ़िया ने देखा कि उसकी सारी गायें सुरक्षित हैं और कोई जानवर चोरी नहीं हुआ। उसे ज़रा भी अंदाज़ा नहीं था कि उसकी सीधी-सादी रात की प्रार्थना ने इतना बड़ा गड़बड़झाला मचा दिया था।",
+     "और इस तरह, बिना किसी को सच पता चले, एक भूखा बाघ और एक डरा हुआ चोर पूरी रात एक-दूसरे से भागते रहे।",
+     "सीख: डर और ग़लतफ़हमी साधारण बातों को असाधारण रोमांच बना सकती हैं। कभी-कभी जो चीज़ हमें डराती है, वह बस हमारी अपनी कल्पना का नतीजा होती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "thatched",
+     "en": "made of dried straw or reeds",
+     "hi": "फूस की बनी"
+    },
+    {
+     "w": "curious",
+     "en": "eager to know or learn something",
+     "hi": "जिज्ञासु"
+    },
+    {
+     "w": "cowshed",
+     "en": "a shelter where cattle are kept",
+     "hi": "गोशाला"
+    },
+    {
+     "w": "hindquarters",
+     "en": "the back part of an animal’s body",
+     "hi": "पिछला हिस्सा"
+    },
+    {
+     "w": "bolted",
+     "en": "ran off suddenly in fear",
+     "hi": "अचानक भाग निकला"
+    },
+    {
+     "w": "horrified",
+     "en": "struck with horror",
+     "hi": "भयभीत"
+    },
+    {
+     "w": "clung",
+     "en": "held on tightly",
+     "hi": "चिपका रहा"
+    },
+    {
+     "w": "scrambled",
+     "en": "moved quickly and clumsily",
+     "hi": "हड़बड़ाकर उठा"
+    },
+    {
+     "w": "convinced",
+     "en": "completely sure",
+     "hi": "पूरी तरह आश्वस्त"
+    },
+    {
+     "w": "narrowly",
+     "en": "by a very small margin",
+     "hi": "बाल-बाल"
+    },
+    {
+     "w": "desperately",
+     "en": "with great urgency, hopelessly",
+     "hi": "बेतहाशा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "An ethical question",
+     "q": "The thief meant to steal, and the tiger meant to hunt. Does it matter that neither plan worked out through anyone’s wisdom, only through a mistake? What do you think?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Retell the night from the tiger’s point of view. What does it think it is escaping from, and why does it believe the prayer so quickly?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "In many homes, people say prayers at bedtime and tell stories to children. How does this story use an ordinary bedtime prayer as the start of an adventure, and what does that tell us about everyday life in a village?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says that what frightens us may be only imagination. Where in the story do the characters add to their own fear, and how could they have stopped it?"
+    },
+    {
+     "k": "Today",
+     "q": "How do rumours and misunderstandings spread today, for example on phones or in class groups? What can we do to check the truth before we panic?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   16,
+   17
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "An old woman’s bedtime prayer",
+   "th": "बुढ़िया की रात की प्रार्थना",
+   "p": "Warm storybook illustration of a modest Assamese village homestead at cloudy dusk: a mud-and-bamboo house with a thatched roof that sags and drips in the rain, and a cowshed beside it. An elderly woman with grey hair in a simple white cotton wrap folds her hands in prayer by an oil lamp. Mood: cosy, gentle, slightly funny. No text in image."
+  },
+  {
+   "t": "Two hidden visitors",
+   "th": "दो छिपे मेहमान",
+   "p": "Night outside the cowshed: a thief in a dark cloth wrapped round his head and a plain dhoti crouches behind a bamboo post, and a large tiger crouches nearby in the shadows, each unaware of the other, both with wide curious eyes, looking toward the lit window. Humorous, suspenseful but child-friendly."
+  },
+  {
+   "t": "Feeling for a strong cow",
+   "th": "मज़बूत गाय की खोज",
+   "p": "Inside the dark cowshed with a faint moonbeam, the thief, bent over, pats the backs of the cows one by one with a hopeful face; his hand lands on the tiger’s back and the surprised tiger jumps up, ears back. Comic, not frightening."
+  },
+  {
+   "t": "A cow with a tail?",
+   "th": "गाय की पूँछ?",
+   "p": "The delighted thief grabs the tiger’s tail, thinking it is a fine cow, and tugs it toward the shed door. The tiger, wide-eyed, thinks of the old woman’s prayer, its fur on end. Funny expressions, same shed and moonlight."
+  },
+  {
+   "t": "The ride begins",
+   "th": "सवारी शुरू",
+   "p": "The thief clinging on the tiger’s back as it bolts out of the cowshed toward a dark forest edge; the thief’s eyes are huge with fright, the tiger’s too. Motion lines, bent grass, moonlit night, silly but not scary."
+  },
+  {
+   "t": "Faster and faster",
+   "th": "तेज़, और तेज़",
+   "p": "The tiger racing through the dark paddy edge with the thief gripping its neck, both terrified, bamboo groves rushing past, a few startled night birds. Wild comic energy."
+  },
+  {
+   "t": "A tumble and an escape",
+   "th": "गिरना और भागना",
+   "p": "The thief tumbling off the tiger’s back onto soft grass at the forest edge; the tiger bounds off into the trees looking relieved, the thief sprinting the other way, looking over his shoulder. Dawn-grey light."
+  },
+  {
+   "t": "Morning, all is well",
+   "th": "सुबह, सब ठीक",
+   "p": "Sunrise at the homestead: the old woman steps out smiling to see her cows safe in the cowshed, milk pail in hand, the roof still dripping gently, a little distant forest behind. Peaceful, humorous, warm gold tones."
+  }
+ ],
+ "artStyle": {
+  "region": "Assam, North-East India",
+  "verified": true,
+  "tradition": "Assamese manuscript painting (Sattriya style, painted on sanchipat bark with natural pigments)",
+  "note": "Per Sahapedia, the Sattriya manuscript style uses angular postures, strong outlines and symmetry, with no perspective, and pigments such as indigo, hengul (red), haital (yellow) and khorimati (white). Use this as loose inspiration for bold outlines and warm red, yellow and indigo colours. It was made for religious and court texts, not folktales, so we propose a playful storybook adaptation and do not claim this is how the tale is traditionally illustrated. Keep the thatched house, bamboo, paddy and forest of rural Assam simple and accurate.",
+  "characters": [
+   {
+    "name": "The old woman",
+    "look": "Elderly, grey hair in a bun, simple white cotton wrap, warm wrinkled smile, a small oil lamp."
+   },
+   {
+    "name": "The thief",
+    "look": "Thin man, dark cloth wrapped on his head, plain dhoti, big worried eyes; comic, not threatening."
+   },
+   {
+    "name": "The tiger",
+    "look": "Large orange tiger with bold black stripes and expressive wide eyes, comic and not scary."
+   }
+  ],
+  "sources": [
+   [
+    "Manuscript Painting of Assam: Historical and Contemporary Perspectives (Sahapedia)",
+    "https://www.sahapedia.org/manuscript-painting-of-assam-historical-and-contemporary-perspectives"
+   ],
+   [
+    "Assamese manuscript painting (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Assamese_manuscript_painting"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are the tiger or the thief that night. What do you hear in the dark, what do you think Dighal Thengia looks like, and what would you tell your friends about it?",
+ "create": "Draw what the thief and the tiger each imagine Dighal Thengia looks like, or write a short funny diary entry from the tiger the next morning.",
+ "about": {
+  "where": "The tale comes from Assam, in North-East India, where many families keep cows and houses often have thatched roofs. It is set in an ordinary village at night, with a cowshed and a nearby forest.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. The tale is part of the wider Assamese oral storytelling tradition and was published in Burhi Aair Sadhu (1911) by Lakshminath Bezbaroa, who collected stories from ordinary people across Assam.",
+  "tradition": "Burhi Aair Sadhu means Grandmother’s Tales, and it helped keep alive stories that people had told aloud for generations. NEZINE, a North-East India magazine, has published an English translation of a Dighal Thengia tale by Madan Sarma and Gautam Kumar Borah of Tezpur University.",
+  "shared": "Other versions of this tale exist. In the NEZINE translation, a footnote says Dighal Thengia is the old woman’s word for rain, and the story carries on with more tigers in a mango tree; the version here is shorter and ends with the confusion. Tales of the same kind, where a thief and a tiger mistake each other for a monster, are told in other parts of Asia too.",
+  "matters": "This story is a gentle joke about how fear grows from what we imagine. It also shows how a grandmother’s everyday words can become a whole adventure. This is one version from one source, not the only one.",
+  "links": [
+   [
+    "Dighal Thengia, The Long-Legged One (NEZINE)",
+    "https://www.nezine.com/info/bm1aZy9OckpaU1RDZFp4endVbTRlZz09/dighal-thengia,-the-long-legged-one--(an-assamese-folktale).html"
+   ],
+   [
+    "Burhi Aair Sadhu (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Burhi_Aair_Sadhu"
+   ],
+   [
+    "Manuscript Painting of Assam (Sahapedia)",
+    "https://www.sahapedia.org/manuscript-painting-of-assam-historical-and-contemporary-perspectives"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Lakshminath Bezbaroa, Burhi Aair Sadhu (1911), Assamese folktale collection",
+   "url": "https://en.wikipedia.org/wiki/Burhi_Aair_Sadhu",
+   "s": "ok"
+  },
+  {
+   "l": "Translation and retelling cited by repository",
+   "v": "English translation credited to Madan Sarma and Gautam Kumar Borah (Tezpur University), published on NEZINE; repository says the supplied text is a newly written retelling of the documented story, and mentions an oral episode narrated by Monisha Kalita (23 August 2021)",
+   "url": "https://www.nezine.com/info/bm1aZy9OckpaU1RDZFp4endVbTRlZz09/dighal-thengia,-the-long-legged-one--(an-assamese-folktale).html",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Mixed attributions: the repository lists a ‘Jenny Lee - The Tiger and the Dried Persimmon’ (jennysang.com) credit under this story’s heading; that is a Korean tale. Confirm it was not used as a source, and do not mix it in.",
+  "The supplied retelling differs from the NEZINE translation: no tail pulled off, no tigers on a mango tree, and no thief reform; and NEZINE’s footnote says Dighal Thengia means rain, which this version does not say. Only the supplied events were used.",
+  "Source note says the retelling is ‘newly written’; the author and rights of the supplied text are unclear. Check permission before public use.",
+  "The note about the 2021 oral episode narrated by Monisha Kalita was not verified.",
+  "Hindi spelling of Dighal Thengia (दीघल ठेंगिया) and the Assamese pronunciation should be checked by a fluent reader; the tale’s Hindi translations and L1/L2 adaptations are unreviewed (AI-written).",
+  "Art tradition: Sattriya manuscript painting is verified as an Assamese art but was used for religious and court texts; use here is only suggested inspiration.",
+  "The claim that similar thief-and-tiger tales exist in other parts of Asia is general and not cited; remove it if it cannot be confirmed."
+ ]
+}

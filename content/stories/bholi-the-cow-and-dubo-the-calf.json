@@ -1,0 +1,517 @@
+{
+ "id": "bholi-the-cow-and-dubo-the-calf",
+ "state": "ga",
+ "title": "Bholi, the Cow and Dubo, the Calf",
+ "titleHi": "भोली गाय और दुबो बछड़ा",
+ "summary": "A mother cow promises a hungry tiger she will come back, and her calf insists on coming too. Their love for each other moves the tiger to spare them and call them family.",
+ "summarySource": "written for this site",
+ "genre": "Animal fable / folk-song narrative",
+ "from": "Konkani folk-song tradition, Goa",
+ "origLevel": 2,
+ "levelReason": "The supplied text mixes short and medium sentences (about 12 words on average) with connectors and moderately advanced words such as astonished, persuade, sacrifice, embraced and predator, and it states the feelings and the moral directly. That is more varied than Level 1 but lighter than Level 3, which would use denser sentences and more atmosphere.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a cow lived in a Goan village. Her name was Bholi. She had a little calf named Dubo.",
+     "Bholi loved Dubo very much. Each day she went to the forest to eat grass. In the evening she came home and fed Dubo her milk.",
+     "One day, a hungry tiger jumped out in the forest. He was ready to eat Bholi.",
+     "Bholi was very scared. She begged him, “Please let me go for one day. My little calf is waiting for me at home. He has not had my milk today. Let me feed him and teach him to live without me. I promise I will come back tomorrow.”",
+     "The tiger was surprised. Most animals beg to stay alive, but Bholi only thought of her calf. The tiger thought about it, and then he said yes.",
+     "Bholi ran home. Dubo was waiting for her. She fed him with love and told him what had happened.",
+     "“My dear child, a tiger has caught me. I must go back to the forest tomorrow. You must learn to live without me.”",
+     "But Dubo could not bear to lose his mother. “No, Mother! I will not let you go alone. I will come with you,” he said.",
+     "Bholi asked him to stay at home. But Dubo would not leave her side.",
+     "The next morning, Bholi went to the forest with her little calf. The tiger was waiting.",
+     "The tiger was amazed. Bholi had kept her promise, even though she could have run away. And now he saw the little calf standing beside her.",
+     "Bholi begged the tiger to spare Dubo. Then Dubo begged the tiger to spare his mother. Each one was ready to give up their own life for the other.",
+     "The tiger watched them. He felt moved by their love. He knew their bond was stronger than his hunger.",
+     "He did not hurt them. He called Bholi his sister and Dubo his nephew. Then he let them go home safely.",
+     "So the love between a mother and her child changed a hungry tiger into a protector.",
+     "Moral: Love, honesty and kindness can wake up compassion even in the hardest heart."
+    ],
+    "hi": [
+     "बहुत समय पहले गोवा के एक गाँव में एक गाय रहती थी। उसका नाम भोली था। उसका एक छोटा बछड़ा था, दुबो।",
+     "भोली दुबो से बहुत प्यार करती थी। हर दिन वह जंगल में घास चरने जाती। शाम को वह घर लौटकर दुबो को दूध पिलाती।",
+     "एक दिन जंगल में एक भूखा बाघ अचानक कूद पड़ा। वह भोली को खाने के लिए तैयार था।",
+     "भोली बहुत डर गई। उसने बाघ से विनती की, “कृपया मुझे बस एक दिन के लिए जाने दो। घर पर मेरा छोटा बछड़ा मेरी राह देख रहा है। आज उसने मेरा दूध नहीं पिया है। मुझे उसे दूध पिलाने दो और उसे मेरे बिना जीना सिखाने दो। मैं वादा करती हूँ कि कल लौट आऊँगी।”",
+     "बाघ हैरान हुआ। ज़्यादातर जानवर अपनी जान की भीख माँगते हैं, पर भोली को बस अपने बछड़े की चिंता थी। बाघ ने सोचा और फिर हाँ कह दी।",
+     "भोली दौड़कर घर पहुँची। दुबो उसका इंतज़ार कर रहा था। उसने प्यार से उसे दूध पिलाया और बताया कि क्या हुआ था।",
+     "“मेरे प्यारे बच्चे, मुझे एक बाघ ने पकड़ लिया है। मुझे कल जंगल लौटना होगा। तुम्हें मेरे बिना जीना सीखना होगा।”",
+     "पर दुबो माँ को खोने की बात सह नहीं पाया। “नहीं माँ! मैं तुम्हें अकेले नहीं जाने दूँगा। मैं भी तुम्हारे साथ चलूँगा,” उसने कहा।",
+     "भोली ने उसे घर पर रुकने को कहा। पर दुबो ने उसका साथ नहीं छोड़ा।",
+     "अगली सुबह भोली अपने छोटे बछड़े के साथ जंगल गई। बाघ वहाँ इंतज़ार कर रहा था।",
+     "बाघ चकित रह गया। भोली ने अपना वादा निभाया था, जबकि वह भाग सकती थी। और अब उसने अपने पास खड़ा छोटा बछड़ा भी देखा।",
+     "भोली ने बाघ से दुबो को छोड़ देने की विनती की। फिर दुबो ने बाघ से अपनी माँ को छोड़ देने की विनती की। दोनों एक-दूसरे के लिए अपनी जान देने को तैयार थे।",
+     "बाघ उन्हें देखता रहा। उसका मन उनके प्यार से भर आया। वह समझ गया कि उनका रिश्ता उसकी भूख से ज़्यादा मज़बूत है।",
+     "उसने उन्हें कोई नुकसान नहीं पहुँचाया। उसने भोली को अपनी बहन और दुबो को अपना भांजा कहा। फिर उसने दोनों को सुरक्षित घर जाने दिया।",
+     "इस तरह माँ और बच्चे के प्यार ने एक भूखे बाघ को रक्षक बना दिया।",
+     "सीख: प्रेम, सच्चाई और निस्वार्थ भाव सबसे कठोर दिल में भी दया जगा सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "hungry",
+     "en": "wanting food",
+     "hi": "भूखा"
+    },
+    {
+     "w": "scared",
+     "en": "afraid",
+     "hi": "डरा हुआ"
+    },
+    {
+     "w": "begged",
+     "en": "asked in a very pleading way",
+     "hi": "विनती की"
+    },
+    {
+     "w": "promise",
+     "en": "to say you will surely do something",
+     "hi": "वादा"
+    },
+    {
+     "w": "surprised",
+     "en": "feeling that something was unexpected",
+     "hi": "हैरान"
+    },
+    {
+     "w": "amazed",
+     "en": "very surprised",
+     "hi": "चकित"
+    },
+    {
+     "w": "spare",
+     "en": "to not hurt or kill",
+     "hi": "छोड़ देना, बख़्श देना"
+    },
+    {
+     "w": "bond",
+     "en": "a close link of love between people",
+     "hi": "रिश्ता, बंधन"
+    },
+    {
+     "w": "protector",
+     "en": "someone who keeps others safe",
+     "hi": "रक्षक"
+    },
+    {
+     "w": "compassion",
+     "en": "kind feeling for someone who is hurting",
+     "hi": "दया, करुणा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and where",
+     "q": "Who are Bholi and Dubo, and where do they live?"
+    },
+    {
+     "k": "The promise",
+     "q": "What does Bholi ask the tiger for, and what does she promise?"
+    },
+    {
+     "k": "What Dubo does",
+     "q": "What does Dubo say when his mother tells him about the tiger? What does he do the next morning?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How does the tiger feel when he sees Bholi and Dubo at the end? How do you know?"
+    },
+    {
+     "k": "Your own life",
+     "q": "Think of a time someone showed you great kindness. How did it make you feel?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, in a Goan village, there lived a cow named Bholi and her little calf, Dubo.",
+     "Bholi loved her calf dearly. Every day she went into the forest to graze, returning home in the evening to feed Dubo with her milk.",
+     "One day, while Bholi was grazing in the forest, a hungry tiger suddenly appeared. The tiger sprang towards her, ready to make her his meal.",
+     "Terrified, Bholi pleaded with him. “Please spare my life for just one day. I have a little calf waiting for me at home. He has not yet had his mother’s milk today. Let me return to feed him and prepare him to live without me. I promise I will come back tomorrow.”",
+     "The tiger was surprised by her request. Most animals would beg for their lives, but Bholi was thinking only of her little calf. After considering her plea, the tiger agreed.",
+     "Bholi hurried home and found Dubo waiting for her. She fed him lovingly and told him what had happened.",
+     "“My dear child, I have been caught by a tiger. I must return to the forest tomorrow. You must learn to live without me.”",
+     "But Dubo could not bear the thought of losing his mother. “No, Mother! I will not let you go alone. I shall come with you,” he insisted.",
+     "Bholi tried to persuade him to stay home, but Dubo refused to leave her side.",
+     "The following morning, Bholi returned to the forest, accompanied by her little calf. The tiger was waiting for them.",
+     "He was astonished to see that Bholi had kept her promise and returned, even though she could have escaped. But what surprised him even more was the sight of the little calf standing beside her.",
+     "Bholi pleaded with the tiger to spare Dubo. Dubo, in turn, pleaded with the tiger to spare his mother. Each was willing to sacrifice their own life to save the other.",
+     "The tiger watched the mother and calf pleading for one another. He was deeply moved by their love. He realised that their bond was stronger than his hunger.",
+     "Instead of killing them, he embraced Bholi as his sister and accepted Dubo as his nephew. He allowed both of them to return safely to their home.",
+     "And so, the love between a mother and her child transformed a hungry predator into a protector.",
+     "Moral: Love, honesty and selflessness can awaken compassion even in the most unlikely hearts."
+    ],
+    "hi": [
+     "एक समय की बात है, गोवा के एक गाँव में भोली नाम की एक गाय और उसका छोटा बछड़ा दुबो रहते थे।",
+     "भोली अपने बछड़े से बहुत प्यार करती थी। हर दिन वह चरने के लिए जंगल जाती और शाम को घर लौटकर दुबो को अपना दूध पिलाती।",
+     "एक दिन जब भोली जंगल में चर रही थी, तभी अचानक एक भूखा बाघ सामने आ गया। बाघ उसे अपना शिकार बनाने के लिए उस पर झपटा।",
+     "डर से काँपती हुई भोली ने बाघ से विनती की, “कृपया मुझे सिर्फ़ एक दिन के लिए छोड़ दो। घर पर मेरा छोटा बछड़ा मेरी राह देख रहा है। आज उसे अपनी माँ का दूध नहीं मिला है। मुझे लौटकर उसे दूध पिलाने दो और उसे मेरे बिना जीने के लिए तैयार करने दो। मैं वादा करती हूँ कि कल वापस आ जाऊँगी।”",
+     "बाघ उसकी बात सुनकर हैरान हुआ। ज़्यादातर जानवर अपनी जान की भीख माँगते, पर भोली को सिर्फ़ अपने नन्हे बछड़े की फ़िक्र थी। कुछ सोचने के बाद बाघ मान गया।",
+     "भोली जल्दी से घर पहुँची और उसने दुबो को अपना इंतज़ार करते पाया। उसने प्यार से उसे दूध पिलाया और बताया कि क्या हुआ था।",
+     "“मेरे प्यारे बच्चे, मुझे एक बाघ ने पकड़ लिया है। कल मुझे जंगल लौटना होगा। तुम्हें मेरे बिना जीना सीखना होगा।”",
+     "लेकिन दुबो माँ को खोने की बात सोच भी नहीं सकता था। “नहीं माँ! मैं तुम्हें अकेले नहीं जाने दूँगा। मैं तुम्हारे साथ चलूँगा,” उसने ज़िद करके कहा।",
+     "भोली ने उसे घर पर रुकने के लिए मनाने की कोशिश की, पर दुबो ने उसका साथ छोड़ने से मना कर दिया।",
+     "अगली सुबह भोली अपने छोटे बछड़े के साथ जंगल लौटी। बाघ उनकी राह देख रहा था।",
+     "यह देखकर बाघ दंग रह गया कि भोली अपना वादा निभाने लौट आई है, जबकि वह बचकर भाग सकती थी। पर उससे भी ज़्यादा उसे यह देखकर अचरज हुआ कि उसके पास छोटा बछड़ा खड़ा है।",
+     "भोली ने बाघ से दुबो को छोड़ देने की विनती की। बदले में दुबो ने बाघ से अपनी माँ को छोड़ देने की विनती की। दोनों एक-दूसरे को बचाने के लिए अपनी जान देने को तैयार थे।",
+     "बाघ माँ और बछड़े को एक-दूसरे के लिए गिड़गिड़ाते देखता रहा। उनका प्यार देखकर उसका मन भर आया। उसे समझ आ गया कि उनका रिश्ता उसकी भूख से कहीं ज़्यादा मज़बूत है।",
+     "उन्हें मारने के बजाय उसने भोली को अपनी बहन माना और दुबो को अपना भांजा स्वीकार किया। उसने दोनों को सुरक्षित अपने घर लौट जाने दिया।",
+     "और इस तरह माँ और बच्चे के प्यार ने एक भूखे शिकारी को रक्षक बना दिया।",
+     "सीख: प्रेम, सच्चाई और निस्वार्थ भाव सबसे अनजाने दिलों में भी दया जगा सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "graze",
+     "en": "to eat grass in a field or forest",
+     "hi": "चरना"
+    },
+    {
+     "w": "terrified",
+     "en": "extremely frightened",
+     "hi": "बहुत डरा हुआ"
+    },
+    {
+     "w": "pleaded",
+     "en": "begged very strongly",
+     "hi": "गिड़गिड़ाकर विनती की"
+    },
+    {
+     "w": "persuade",
+     "en": "to talk someone into doing something",
+     "hi": "मनाना"
+    },
+    {
+     "w": "astonished",
+     "en": "very surprised",
+     "hi": "दंग, चकित"
+    },
+    {
+     "w": "sacrifice",
+     "en": "to give up something very precious for another",
+     "hi": "बलिदान करना"
+    },
+    {
+     "w": "moved",
+     "en": "touched in the heart",
+     "hi": "भावुक"
+    },
+    {
+     "w": "embraced",
+     "en": "hugged; also, welcomed as one's own",
+     "hi": "गले लगाया"
+    },
+    {
+     "w": "predator",
+     "en": "an animal that hunts others for food",
+     "hi": "शिकारी जानवर"
+    },
+    {
+     "w": "selflessness",
+     "en": "caring about others more than yourself",
+     "hi": "निस्वार्थ भाव"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why does Bholi ask the tiger for one more day? What does she want to do in that time?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why does Dubo insist on going to the forest, even though his mother asks him to stay home?"
+    },
+    {
+     "k": "Decisions",
+     "q": "The tiger first agrees to let Bholi go. Why do you think he said yes? What might have happened if he had said no?"
+    },
+    {
+     "k": "Turning point",
+     "q": "What does the tiger see and hear that changes his mind? Which moment do you think is the most important?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The story says love turned a predator into a protector. What does that tell you about how people can change?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In a quiet village in Goa, where the forest pressed close against the fields, there lived a cow named Bholi and her young calf, Dubo.",
+     "Bholi doted on her calf. Each morning she wandered into the forest to graze, and each evening, without fail, she hurried home to nurse Dubo with her warm milk.",
+     "One afternoon, as Bholi grazed deep among the trees, a famished tiger stepped out of the undergrowth. In a single bound he lunged towards her, fully intending to devour her.",
+     "Trembling with fear, Bholi pleaded for her life. “Spare me for just one day. My little calf is waiting at home, and he has not tasted his mother’s milk today. Let me return to feed him and prepare him for a life without me. I give you my word that I will come back tomorrow.”",
+     "The tiger was taken aback. Most creatures, facing death, would beg only for themselves, yet Bholi’s thoughts were entirely of her calf. After weighing her plea, he agreed.",
+     "Bholi hastened home and found Dubo waiting anxiously. She nursed him tenderly and then told him all that had happened.",
+     "“My dear child, a tiger has caught me, and tomorrow I must go back to the forest. You must learn to live without me.”",
+     "But Dubo could not bear the thought of losing his mother. “No, Mother! I will not let you go alone. I am coming with you,” he insisted.",
+     "Bholi tried gently to persuade him to stay behind, but Dubo would not leave her side, however much she begged.",
+     "At dawn the next day, Bholi walked back into the forest with her little calf at her side. The tiger was already waiting for them.",
+     "He stared in astonishment. Bholi had kept her promise, though she might easily have escaped. Yet even more startling to him was the sight of the small calf standing beside her.",
+     "Bholi pleaded with the tiger to spare Dubo, and Dubo, in turn, pleaded with the tiger to spare his mother. Each was willing to give up their own life so that the other might live.",
+     "The tiger watched the mother and her calf begging for one another, and something in him softened. He was deeply moved by their love, and he realised that such a bond was stronger than his hunger.",
+     "Rather than killing them, he embraced Bholi as his sister and welcomed Dubo as his nephew. Then he let them both return safely to their home.",
+     "And so the love between a mother and her child turned a hungry predator into a protector.",
+     "Moral: Love, honesty and selflessness can awaken compassion even in the hearts that seem hardest to reach."
+    ],
+    "hi": [
+     "गोवा के एक शांत गाँव में, जहाँ जंगल खेतों से सटा हुआ था, भोली नाम की एक गाय और उसका नन्हा बछड़ा दुबो रहते थे।",
+     "भोली अपने बछड़े पर जान छिड़कती थी। हर सुबह वह चरने के लिए जंगल की ओर निकल जाती और हर शाम, बिना चूके, भागी-भागी घर लौटकर दुबो को अपना गरम दूध पिलाती।",
+     "एक दोपहर भोली जब जंगल के बीचोंबीच चर रही थी, तभी झाड़ियों के बीच से एक भूखा बाघ निकल आया। एक ही छलाँग में वह उस पर झपटा, उसे निगल जाने का पक्का इरादा लिए हुए।",
+     "डर से काँपती भोली ने अपनी जान की भीख माँगी। “मुझे बस एक दिन के लिए बख़्श दो। घर पर मेरा नन्हा बछड़ा मेरी राह देख रहा है, और आज उसने अपनी माँ का दूध नहीं चखा है। मुझे लौटकर उसे दूध पिलाने दो और उसे मेरे बिना जीवन जीने के लिए तैयार करने दो। मैं तुम्हें वचन देती हूँ कि कल लौट आऊँगी।”",
+     "बाघ ठगा-सा रह गया। मौत सामने हो तो ज़्यादातर प्राणी सिर्फ़ अपने लिए गिड़गिड़ाते हैं, पर भोली के मन में तो बस अपने बछड़े का ख़याल था। उसकी विनती पर सोच-विचार करके बाघ मान गया।",
+     "भोली तेज़ क़दमों से घर पहुँची और उसने दुबो को बेचैनी से अपनी राह तकते पाया। उसने कोमलता से उसे दूध पिलाया और फिर जो कुछ हुआ था, सब बता दिया।",
+     "“मेरे प्यारे बच्चे, एक बाघ ने मुझे पकड़ लिया है और कल मुझे जंगल लौटना ही होगा। तुम्हें मेरे बिना जीना सीखना होगा।”",
+     "पर दुबो माँ को खोने का ख़याल बर्दाश्त नहीं कर सका। “नहीं माँ! मैं तुम्हें अकेले नहीं जाने दूँगा। मैं तुम्हारे साथ आ रहा हूँ,” उसने अड़कर कहा।",
+     "भोली ने कोमलता से उसे घर रुकने के लिए मनाना चाहा, पर चाहे वह कितनी ही मिन्नतें करती, दुबो ने उसका साथ नहीं छोड़ा।",
+     "अगले दिन भोर होते ही भोली अपने नन्हे बछड़े को साथ लिए फिर जंगल में चली आई। बाघ पहले से ही उनकी प्रतीक्षा में था।",
+     "वह आश्चर्य से देखता रह गया। भोली ने अपना वचन निभाया था, जबकि वह आसानी से बच निकल सकती थी। पर उसे इससे भी ज़्यादा चौंकाया उसके पास खड़े नन्हे बछड़े ने।",
+     "भोली ने बाघ से दुबो को बख़्श देने की गुहार लगाई, और बदले में दुबो ने बाघ से अपनी माँ को बख़्श देने की गुहार लगाई। दोनों इसके लिए तैयार थे कि अपनी जान देकर दूसरे को बचा लें।",
+     "बाघ माँ और बछड़े को एक-दूसरे के लिए गिड़गिड़ाते देखता रहा और उसके भीतर कुछ पिघलने लगा। उनके प्रेम ने उसे गहराई तक छू लिया और उसे एहसास हुआ कि ऐसा बंधन उसकी भूख से कहीं ज़्यादा मज़बूत है।",
+     "उन्हें मारने के बजाय उसने भोली को अपनी बहन के रूप में गले लगाया और दुबो को अपना भांजा मान लिया। फिर उसने दोनों को सुरक्षित उनके घर लौट जाने दिया।",
+     "और इस तरह माँ और बच्चे के प्रेम ने एक भूखे शिकारी को रक्षक बना दिया।",
+     "सीख: प्रेम, सच्चाई और निस्वार्थ भाव उन दिलों में भी करुणा जगा सकते हैं जिन तक पहुँचना सबसे कठिन लगता है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "doted",
+     "en": "loved very much and showed it (doted on)",
+     "hi": "बहुत लाड़ करना"
+    },
+    {
+     "w": "famished",
+     "en": "extremely hungry",
+     "hi": "भूख से बेहाल"
+    },
+    {
+     "w": "undergrowth",
+     "en": "bushes and small plants under the trees",
+     "hi": "झाड़ियाँ"
+    },
+    {
+     "w": "lunged",
+     "en": "moved suddenly and fast towards something",
+     "hi": "झपटा"
+    },
+    {
+     "w": "devour",
+     "en": "to eat greedily",
+     "hi": "निगलना, खा जाना"
+    },
+    {
+     "w": "hastened",
+     "en": "hurried",
+     "hi": "जल्दी पहुँची"
+    },
+    {
+     "w": "tenderly",
+     "en": "in a gentle, loving way",
+     "hi": "कोमलता से"
+    },
+    {
+     "w": "astonishment",
+     "en": "great surprise",
+     "hi": "आश्चर्य"
+    },
+    {
+     "w": "softened",
+     "en": "became gentler and kinder",
+     "hi": "नरम पड़ा"
+    },
+    {
+     "w": "predator",
+     "en": "an animal that hunts others for food",
+     "hi": "शिकारी जानवर"
+    },
+    {
+     "w": "compassion",
+     "en": "deep sympathy and the wish to help",
+     "hi": "करुणा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics of a promise",
+     "q": "Bholi could have escaped, yet she returned. Why does keeping a promise matter even when no one could force you to? Is there a promise that should not be kept?"
+    },
+    {
+     "k": "The tiger’s view",
+     "q": "Imagine the story from the tiger’s side. What might he be thinking as he waits, and what is he afraid of or hungry for besides food?"
+    },
+    {
+     "k": "Theme",
+     "q": "The tiger’s hunger did not change, but his decision did. What does the story suggest can be stronger than hunger or fear?"
+    },
+    {
+     "k": "Oral tradition",
+     "q": "This story comes from folk songs that Konkani-speaking people sang and passed on aloud. Why might a story about a mother and her child have been remembered and retold over many years?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do you see people today choosing compassion towards someone who seems powerful, frightening or unkind? What difference can such a choice make?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14,
+   15
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Bholi and little Dubo at home",
+   "th": "भोली और नन्हा दुबो घर पर",
+   "p": "A warm, gentle storybook scene in a Goan village: Bholi, a soft cream-and-brown cow with a white mark on her forehead and kind dark eyes, nuzzles Dubo, her small calf with the same colouring and a tiny white patch on his nose. Red laterite earth, coconut palms, a small tiled-roof house and green fields in the background, evening golden light. Calm, loving mood."
+  },
+  {
+   "t": "The tiger meets Bholi",
+   "th": "बाघ और भोली का सामना",
+   "p": "Deep in a leafy forest of cashew and mango trees, the cream-and-brown cow Bholi stands with trembling legs and pleading eyes while a large orange-and-black striped tiger crouches ahead, surprised and listening rather than attacking. Dappled light, tense but not frightening, no violence shown."
+  },
+  {
+   "t": "Bholi tells Dubo everything",
+   "th": "भोली दुबो को सब बताती है",
+   "p": "At the cowshed by the village house at dusk, Bholi nuzzles Dubo the calf as she feeds him and speaks to him softly; Dubo looks up with worried, determined eyes. Same cow and calf look as before, coconut palms and tiled roof behind, soft evening colours, tender mood."
+  },
+  {
+   "t": "Dubo will not let her go alone",
+   "th": "दुबो माँ को अकेले नहीं जाने देता",
+   "p": "Early morning light at the edge of the village: Dubo the small calf pressed firmly against Bholi’s side, refusing to stay behind, while Bholi looks down at him with love and worry. Red earth path leading toward the dark green forest, coconut palms, mist."
+  },
+  {
+   "t": "The tiger is amazed",
+   "th": "बाघ चकित रह जाता है",
+   "p": "In the forest clearing the orange-and-black tiger sits up, wide-eyed in astonishment, as Bholi the cow and little Dubo walk towards him side by side, calm and brave. Shafts of morning light through trees, expressive faces, gentle mood."
+  },
+  {
+   "t": "Mother and calf plead for each other",
+   "th": "माँ और बछड़ा एक-दूसरे के लिए गिड़गिड़ाते हैं",
+   "p": "Close composition: Bholi and Dubo stand together before the tiger, each leaning toward the tiger with pleading eyes as if asking him to spare the other; the tiger looks at them with a softening, thoughtful face. Warm forest light, emotional but gentle, no harm shown."
+  },
+  {
+   "t": "The tiger becomes a protector",
+   "th": "बाघ रक्षक बन जाता है",
+   "p": "The tiger bows his head and gently touches foreheads with Bholi while Dubo stands close; then they walk home along the red earth path towards the village with the tiger watching them go kindly. Golden light, coconut palms, peaceful, hopeful mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Goa (Konkani-speaking villages and forest edge)",
+  "verified": true,
+  "tradition": "Kaavi art (kaavi kalé), a Goan wall-mural tradition",
+  "note": "Kaavi is described by The Goan as a Goan wall-mural art made by coating lime plaster with red laterite pigment and scraping it to reveal white patterns, mostly in two colours, rust red and white, with floral and lotus-and-mango-leaf style motifs. A gentle option is a warm rust-red, white and soft green palette with simple rounded animal shapes and leaf borders, inspired by this tradition. We have not verified that Kaavi is linked to this particular folk song, so it is a suggestion only. Village details to use: red laterite earth, coconut palms, tiled-roof houses.",
+  "characters": [
+   {
+    "name": "Bholi",
+    "look": "Soft cream-and-brown cow with a white mark on her forehead, large kind dark eyes, rounded body."
+   },
+   {
+    "name": "Dubo",
+    "look": "Small calf with the same cream-and-brown colouring as Bholi, a tiny white patch on his nose, long thin legs, big ears."
+   },
+   {
+    "name": "The tiger",
+    "look": "Large orange tiger with bold black stripes, white chest, expressive amber eyes."
+   }
+  ],
+  "sources": [
+   [
+    "Kaavi: Goan art of uncovering beauty beneath the surface (The Goan)",
+    "https://www.thegoan.net/life-sunday/kaavi-goan-art-of-uncovering-beauty-beneath-the-surface/151276.html"
+   ],
+   [
+    "If grinding stones in Goa could talk (Gomantak Times) - mentions kaavi art images in the Grinding Stories book",
+    "https://www.gomantaktimes.com/my-goa/art-culture/if-grinding-stones-in-goa-could-talk"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are Dubo walking into the forest beside your mother. What do you see, hear and feel as you come near the tiger, and what do you say to him?",
+ "create": "Draw the moment when the tiger meets Bholi and Dubo for the second time. Or write a short thank-you letter from Bholi to the tiger, saying what she felt when he let them go.",
+ "about": {
+  "where": "The story comes from Goa, a small state on India’s western coast. The repository places it in the Konkani folk-song tradition, so it belongs to the Konkani-speaking world of Goa, with its villages, coconut palms and forests.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. We know it is discussed in Grinding Stories: Songs from Goa (2018), translated by Heta Pandit, with a foreword by Damodar Mauzo.",
+  "tradition": "Many Goan folk songs, called oviyos, were sung by women as they ground grain by hand on a stone, often in Konkani, and families passed them on by word of mouth. According to the repository, the foreword of Grinding Stories recounts the Bholi and Dubo narrative and its ending.",
+  "shared": "This is one version from one source, and it is not the only way the story is told. Stories carried in songs and speech often change a little with each teller, so other versions may differ in details. We have kept the supplied wording at Level 2.",
+  "matters": "The story shows how love and honesty can change hearts, and that even a feared animal can choose kindness. It also reminds us that stories sung at everyday work, like grinding grain, are part of Goa’s living heritage.",
+  "links": [
+   [
+    "Grinding Stories: Songs from Goa (repository source link)",
+    "https://goa.fflch.usp.br"
+   ],
+   [
+    "If grinding stones in Goa could talk (Gomantak Times)",
+    "https://www.gomantaktimes.com/my-goa/art-culture/if-grinding-stones-in-goa-could-talk"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (as given by the repository)",
+   "v": "A traditional Konkani folk-song narrative discussed in Grinding Stories: Songs from Goa (2018), translated by Heta Pandit, with a foreword by Damodar Mauzo; the foreword recounts the Bholi and Dubo narrative and its conclusion.",
+   "url": "https://goa.fflch.usp.br",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Background on grinding songs",
+   "v": "Gomantak Times article on oviyos and Heta Pandit’s book",
+   "url": "https://www.gomantaktimes.com/my-goa/art-culture/if-grinding-stones-in-goa-could-talk",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Original source is only partly identified: the repository names Grinding Stories (2018) but we did not see the book. Confirm that the text matches the book’s foreword, and the publisher and page.",
+  "Community of the tellers is not named in the sources; we avoided guessing.",
+  "Whether the Bholi and Dubo narrative is specifically an oviyo (grinding song) is not stated by the repository; we describe the book’s general tradition only.",
+  "The repository text reads as a prose retelling; check whether it is the foreword’s summary or a full folk-song version.",
+  "Kaavi art is a verified Goan tradition but is not confirmed as connected to this story; use only as an optional style.",
+  "Tiger spares predator-prey pair: mild peril (threat of being eaten); no violence shown. Educator to confirm suitability for Level 1.",
+  "Hindi translations (including words for sister and nephew relationships, भांजा) need review by a fluent Hindi reader. Licence not confirmed."
+ ]
+}

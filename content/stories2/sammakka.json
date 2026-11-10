@@ -1,0 +1,242 @@
+{
+ "id": "sammakka",
+ "state": "tg",
+ "title": "Sammakka — The Child Found in the Forest",
+ "titleHi": "जंगल की नन्ही बच्ची",
+ "genre": "Origin legend",
+ "levelTitles": {
+  "1": {
+   "en": "The Little Girl of the Forest",
+   "hi": "जंगल की नन्ही बच्ची"
+  },
+  "2": {
+   "en": "Sammakka, Daughter of the Forest",
+   "hi": "सम्मक्का, जंगल की बेटी"
+  },
+  "3": {
+   "en": "Sammakka: The Child Whose Story Began in the Forest",
+   "hi": "सम्मक्का: जिसकी कहानी जंगल से शुरू हुई"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in the forests of Telangana, a group of Koya hunters went into the woods in search of food.",
+     "As they walked through the trees, they heard a strange sound. It was not the call of a bird or the rustling of leaves. It sounded like a baby crying.",
+     "The hunters followed the sound carefully. Soon, they came upon a wonderful sight. A little girl was lying in the forest, and several tigers stood nearby, guarding her.",
+     "The hunters were amazed. The tigers did not hurt the child. They seemed to be protecting her.",
+     "When the tigers moved away, the hunters gently picked up the baby and carried her back to their village.",
+     "The village elders gathered to see the child. They wondered where she had come from and why the tigers had been watching over her. They decided to raise her as one of their own.",
+     "They named her Sammakka.",
+     "Sammakka grew up among the Koya people. She became strong, brave and kind. She cared for those around her and was always ready to help people in trouble.",
+     "As she grew older, she married Pagididda Raju, a leader of the community. Together, they became important figures in the stories of Medaram.",
+     "Even today, people remember Sammakka as the child who came from the forest and grew into a woman of great strength."
+    ],
+    "hi": [
+     "बहुत समय पहले, तेलंगाना के जंगलों में कोया समुदाय के कुछ शिकारी भोजन की तलाश में गए।",
+     "पेड़ों के बीच चलते हुए उन्हें एक अजीब आवाज़ सुनाई दी। वह न किसी पक्षी की आवाज़ थी और न पत्तों की सरसराहट। वह किसी बच्चे के रोने जैसी लग रही थी।",
+     "शिकारी सावधानी से उस आवाज़ की दिशा में आगे बढ़े। थोड़ी दूर जाने पर उन्होंने एक अद्भुत दृश्य देखा। जंगल में एक छोटी बच्ची पड़ी थी और उसके पास कई बाघ खड़े थे, मानो वे उसकी रक्षा कर रहे हों।",
+     "शिकारी यह देखकर हैरान रह गए। बाघों ने बच्ची को कोई नुकसान नहीं पहुँचाया था। ऐसा लग रहा था जैसे वे उसकी रखवाली कर रहे हों।",
+     "जब बाघ वहाँ से चले गए, तो शिकारियों ने बच्ची को प्यार से उठाया और अपने गाँव ले आए।",
+     "गाँव के बुज़ुर्ग बच्ची को देखने के लिए इकट्ठा हुए। वे सोचने लगे कि वह कहाँ से आई थी और बाघ उसकी रक्षा क्यों कर रहे थे। उन्होंने तय किया कि वे उसे अपने परिवार का हिस्सा बनाकर पालेंगे।",
+     "उन्होंने उसका नाम सम्मक्का रखा।",
+     "सम्मक्का कोया समुदाय के बीच बड़ी हुई। वह साहसी, दयालु और मज़बूत बनी। वह अपने आसपास के लोगों का ध्यान रखती और मुसीबत में पड़े लोगों की मदद करती।",
+     "बड़ी होने पर उसका विवाह समुदाय के एक नेता पगिडिद्दा राजू से हुआ। दोनों मेडारम की लोककथाओं के महत्वपूर्ण पात्र बन गए।",
+     "आज भी लोग सम्मक्का को उस बच्ची के रूप में याद करते हैं, जो जंगल में मिली थी और बड़ी होकर असाधारण साहस वाली स्त्री बनी।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "The forests around Medaram were thick and mysterious. The Koya people who lived in the region knew their paths, trees and streams well. They hunted, gathered food and depended on the forest for their daily lives.",
+     "One day, a group of Koya hunters ventured deeper into the forest than usual. As they moved through the trees, they noticed something unusual. A group of tigers had gathered in a clearing.",
+     "The hunters stopped. They were careful not to disturb the animals. But then they noticed a baby lying in the middle of the clearing. The tigers stood around her, as though they were guarding her.",
+     "The hunters watched from a distance. The child was safe, and the animals did not seem interested in harming her. After some time, the tigers moved away.",
+     "The hunters approached and carefully lifted the baby. They carried her to their settlement, where the elders gathered to decide what should be done.",
+     "The child had no family known to them. Yet the community chose to welcome her. They adopted her and named her Sammakka.",
+     "Sammakka grew up surrounded by the forests and people of the Koya community. She became known for her courage and her ability to help others. In time, she married Pagididda Raju, a leader associated with the region.",
+     "The story of her discovery remained part of the community's memory. For the Koya people, Sammakka was not simply a child who had been found in the forest. Her unusual arrival and the protection offered by the tigers gave her a special place in their tradition.",
+     "The story is remembered at Medaram, where people gather to honour Sammakka and Saralamma during the great Jatara."
+    ],
+    "hi": [
+     "मेडारम के आसपास के जंगल घने और रहस्यमय थे। वहाँ रहने वाले कोया समुदाय के लोग जंगल के रास्तों, पेड़ों और जलधाराओं को अच्छी तरह जानते थे। वे शिकार करते, जंगल से भोजन जुटाते और अपनी रोज़मर्रा की ज़रूरतों के लिए प्रकृति पर निर्भर रहते थे।",
+     "एक दिन कोया समुदाय के कुछ शिकारी सामान्य से अधिक दूर जंगल में चले गए। पेड़ों के बीच आगे बढ़ते हुए उन्होंने कुछ असामान्य देखा। एक खुले स्थान पर कई बाघ इकट्ठा थे।",
+     "शिकारी रुक गए। वे जानवरों को परेशान नहीं करना चाहते थे। तभी उन्होंने देखा कि खुले स्थान के बीचोंबीच एक छोटी बच्ची पड़ी थी। बाघ उसके चारों ओर खड़े थे, मानो उसकी रखवाली कर रहे हों।",
+     "शिकारियों ने दूर से यह दृश्य देखा। बच्ची सुरक्षित थी और जानवर उसे नुकसान पहुँचाते हुए नहीं दिख रहे थे। कुछ समय बाद बाघ वहाँ से चले गए।",
+     "शिकारी बच्ची के पास पहुँचे और उसे सावधानी से उठाया। वे उसे अपने गाँव ले आए, जहाँ बुज़ुर्ग यह तय करने के लिए इकट्ठा हुए कि आगे क्या किया जाए।",
+     "बच्ची का कोई परिवार उन्हें ज्ञात नहीं था। फिर भी समुदाय ने उसे अपनाने का निर्णय लिया। उन्होंने उसे अपने परिवार का हिस्सा बनाया और उसका नाम सम्मक्का रखा।",
+     "सम्मक्का कोया समुदाय के लोगों और जंगलों के बीच बड़ी हुई। वह अपने साहस और दूसरों की सहायता करने के लिए जानी जाने लगी। समय के साथ उसका विवाह उस क्षेत्र के एक नेता पगिडिद्दा राजू से हुआ।",
+     "उसके जंगल में मिलने की कहानी समुदाय की स्मृति का हिस्सा बनी रही। कोया लोगों के लिए सम्मक्का केवल जंगल में मिली एक बच्ची नहीं थी। उसका असाधारण आगमन और बाघों द्वारा उसकी रक्षा किया जाना उसे उनकी परंपरा में एक विशेष स्थान देता था।",
+     "आज भी मेडारम में लोग सम्मक्का और सरलम्मा को सम्मान देने के लिए विशाल जातरा में एकत्र होते हैं।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the oral traditions of the Koya community, the story of Sammakka begins deep in the forests of what is now Telangana.",
+     "A group of Koya hunters were moving through the forest when they came upon an extraordinary sight: an infant girl lying in a clearing, surrounded by tigers. The animals did not attack her. Instead, they appeared to be guarding the child.",
+     "The hunters waited until the tigers moved away. They then carried the infant to their settlement, where the elders decided to adopt her. She was given the name Sammakka and raised within the community.",
+     "The story of her discovery is significant because it connects her identity with the forest and its creatures. The tigers are not portrayed as enemies but as guardians, suggesting a relationship between the child and the natural world that is unusual and sacred.",
+     "As Sammakka grew older, she became a respected figure. Traditional accounts describe her as courageous and powerful, someone who helped those in difficulty. She married Pagididda Raju, a Koya chief associated with the Medaram region.",
+     "Her story eventually became inseparable from the history and devotional traditions of the region. At Medaram, the memory of Sammakka is honoured alongside that of her daughter Saralamma through a major community gathering.",
+     "The story invites readers to consider how communities understand belonging. Sammakka enters the Koya community not through a known family lineage but through an act of adoption. Her place is established by the community that raises her and by the story that it continues to tell about her.",
+     "It also offers a different way of thinking about the forest: not as an empty wilderness, but as a living world with which people share relationships of respect and dependence."
+    ],
+    "hi": [
+     "कोया समुदाय की मौखिक परंपराओं में सम्मक्का की कहानी आज के तेलंगाना के घने जंगलों से शुरू होती है।",
+     "कोया समुदाय के कुछ शिकारी जंगल में आगे बढ़ रहे थे, तभी उन्हें एक असाधारण दृश्य दिखाई दिया। एक खुले स्थान पर एक नवजात बच्ची पड़ी थी और उसके चारों ओर बाघ खड़े थे। जानवरों ने बच्ची पर हमला नहीं किया था। इसके बजाय, वे उसकी रक्षा करते हुए दिखाई दे रहे थे।",
+     "शिकारियों ने बाघों के वहाँ से चले जाने तक प्रतीक्षा की। फिर वे बच्ची को अपने गाँव ले आए, जहाँ बुज़ुर्ग ने उसे गोद लेने का निर्णय किया। उसका नाम सम्मक्का रखा गया और उसका पालन-पोषण समुदाय के बीच हुआ।",
+     "उसके मिलने की कहानी महत्वपूर्ण है, क्योंकि यह उसकी पहचान को जंगल और वहाँ रहने वाले जीवों से जोड़ती है। इस कथा में बाघ शत्रु नहीं, बल्कि रक्षक के रूप में दिखाई देते हैं। इससे बच्ची और प्राकृतिक संसार के बीच एक असाधारण और पवित्र संबंध का संकेत मिलता है।",
+     "सम्मक्का बड़ी होकर एक सम्मानित स्त्री बनी। पारंपरिक कथाओं में उसे साहसी और शक्तिशाली बताया गया है, जो कठिनाई में पड़े लोगों की सहायता करती थी। उसका विवाह मेडारम क्षेत्र से जुड़े कोया प्रमुख पगिडिद्दा राजू से हुआ।",
+     "आगे चलकर उसकी कहानी इस क्षेत्र के इतिहास और धार्मिक परंपराओं से जुड़ गई। मेडारम में सम्मक्का की स्मृति को उसकी बेटी सरलम्मा के साथ एक विशाल सामुदायिक आयोजन के दौरान सम्मान दिया जाता है।",
+     "यह कहानी पाठकों को यह सोचने का अवसर देती है कि समुदाय अपनेपन को किस तरह समझते हैं। सम्मक्का कोया समुदाय का हिस्सा किसी ज्ञात पारिवारिक वंश के माध्यम से नहीं, बल्कि गोद लिए जाने के माध्यम से बनती है। उसे पहचान उस समुदाय से मिलती है जिसने उसका पालन-पोषण किया और उस कहानी से मिलती है जिसे लोग पीढ़ियों से सुनाते आए हैं।",
+     "यह कथा जंगल को देखने का एक अलग दृष्टिकोण भी देती है। जंगल कोई खाली और निर्जन स्थान नहीं, बल्कि एक जीवंत संसार है जिसके साथ मनुष्य सम्मान और निर्भरता का रिश्ता साझा करता है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Medaram, Mulugu district, Telangana",
+  "community": "Koya",
+  "tradition": "Koya oral tradition associated with Medaram and the Medaram Jatara."
+ },
+ "sources": [
+  {
+   "l": "Sources",
+   "v": "Government of Telangana Endowments Department, Sthala Puranam for the Sammakka Saralamma Jatara; a Tribal Research Institute report on the discovery and adoption of Sammakka by the Koya community.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-149-016",
+ "meta": [
+  "Community: Koya · Region: Medaram, Mulugu district, Telangana · Genre: Origin legend / devotional folk narrative · Themes: Belonging, nature, courage, leadership",
+  "About the story and its origins",
+  "According to a Koya oral tradition associated with Medaram, a group of Koya hunters once came across a remarkable sight deep in the forest: a baby girl surrounded by tigers. The child appeared unharmed, and the hunters brought her back to their settlement. She was adopted and named Sammakka.",
+  "As she grew older, Sammakka became known for her strength and extraordinary abilities. She married Pagididda Raju, a Koya chief associated with the Medaram region. Their family became central to the stories remembered through the Medaram Jatara.",
+  "The discovery of Sammakka among the tigers is one of the most memorable elements of the tradition. It establishes her special relationship with the forest and the natural world.",
+  "Source and attribution: The Government of Telangana Endowments Department's Sthala Puranam for the Sammakka Saralamma Jatara records the account of the infant found in the forest, guarded by tigers. A Tribal Research Institute report also records the story of her discovery and adoption by the Koya community.",
+  "Endowments Department Telangana+1"
+ ]
+}

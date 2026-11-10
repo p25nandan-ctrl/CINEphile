@@ -2,7 +2,7 @@
 // SUPABASE_URL / SUPABASE_ANON_KEY are read from the environment (Vercel env vars or a local .env)
 // and inlined into the bundle. Only the PUBLIC anon key is ever used here.
 import { build } from 'esbuild';
-import { readFileSync, existsSync, mkdirSync, copyFileSync, rmSync } from 'node:fs';
+import { readFileSync, existsSync, mkdirSync, copyFileSync, rmSync, cpSync } from 'node:fs';
 
 if (existsSync('.env')) {
   for (const line of readFileSync('.env', 'utf8').split(/\r?\n/)) {
@@ -38,4 +38,5 @@ await build({
   },
 });
 copyFileSync('src/index.html', 'dist/index.html');
+if (existsSync('assets')) cpSync('assets', 'dist/assets', { recursive: true });
 console.log('[build] done ->', 'dist/', problems.length ? '(auth disabled)' : '(auth configured)');

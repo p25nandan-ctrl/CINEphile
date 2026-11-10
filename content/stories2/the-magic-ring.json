@@ -1,0 +1,609 @@
+{
+ "id": "the-magic-ring",
+ "state": "mh",
+ "title": "The Magic Ring",
+ "titleHi": "जादुई अंगूठी",
+ "genre": "Magical animal folktale",
+ "levelTitles": {
+  "1": {
+   "en": "The Magic Ring",
+   "hi": "जादुई अंगूठी"
+  },
+  "2": {
+   "en": "The Magic Ring",
+   "hi": "जादुई अंगूठी"
+  },
+  "3": {
+   "en": "The Magic Ring",
+   "hi": "जादुई अंगूठी"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once, there lived a poor man and his wife in a little village. They had very little food and often struggled to feed themselves. Even so, they were kind people who loved animals.",
+     "One day, the man went into the forest to look for fruits and berries. As he walked between the trees, he heard a frightened squeal.",
+     "He followed the sound and found a little pig being chased by a hungry tiger!",
+     "\"Please help me!\" cried the pig.",
+     "The man picked up a branch and shouted at the tiger. The tiger was startled and ran away into the forest.",
+     "\"Thank you for saving my life,\" said the pig. \"I want to give you something in return. Come with me.\"",
+     "The pig led the man to a cave. Inside, it found a beautiful ring.",
+     "\"Take this ring and tie it to the roof of your house,\" said the pig. \"It will bring good fortune to your family.\"",
+     "The man thanked the pig and returned home.",
+     "That night, he and his wife tied the ring to the roof and went to sleep. The next morning, they were amazed! Their house was filled with sacks of grains, pulses and spices. There were vegetables in the kitchen too.",
+     "\"We will never have to go hungry again!\" his wife exclaimed.",
+     "But soon, a greedy neighbour discovered their secret. One night, he crept into their house and stole the magic ring.",
+     "The next morning, all the food had disappeared. The man and his wife were poor again.",
+     "Their cat and dog were worried. They had always been fed by the kind couple, but now there was nothing to eat.",
+     "\"We must find the ring!\" said the cat.",
+     "Together, they went looking for it. Soon, they discovered that a thief had taken it and tied it to the roof of his house.",
+     "The cat caught a rat near the house. The other rats begged them to let him go.",
+     "\"We will let him go if you bring us the ring,\" said the dog.",
+     "The rats quickly climbed onto the roof and brought the ring down.",
+     "But on their journey home, the dog dropped the ring into a stream!",
+     "Just then, they saw some frogs having a wedding nearby. The cat caught the frog groom, and the frogs begged for his release.",
+     "\"Bring us the ring from the stream, and we will let him go,\" said the cat.",
+     "The frogs dived into the water and found it.",
+     "The cat and dog hurried home with the ring. They tied it back to the roof, and soon the house was full of food again.",
+     "The man and his wife were delighted to see their loyal friends return.",
+     "And the cat and dog? They had learnt that even the smallest creatures could help solve the biggest problems."
+    ],
+    "hi": [
+     "एक छोटे-से गाँव में एक गरीब आदमी अपनी पत्नी के साथ रहता था। उनके पास खाने के लिए बहुत कम सामान होता था। कई बार उन्हें अपना पेट भरना भी मुश्किल हो जाता था। फिर भी दोनों बहुत दयालु थे और जानवरों से बेहद प्यार करते थे।",
+     "एक दिन वह आदमी जंगल में फल और बेर खोजने गया। पेड़ों के बीच चलते हुए उसे किसी जानवर के डरने की आवाज़ सुनाई दी।",
+     "वह आवाज़ की ओर बढ़ा। वहाँ उसने देखा कि एक छोटा-सा सूअर भूखे बाघ से बचने के लिए भाग रहा था!",
+     "\"कृपया मेरी मदद करो!\" सूअर चिल्लाया।",
+     "आदमी ने एक मोटी टहनी उठाई और बाघ को ज़ोर से डराया। बाघ घबराकर जंगल में भाग गया।",
+     "\"तुमने मेरी जान बचाई है,\" सूअर ने कहा। \"मैं तुम्हें इसका बदला देना चाहता हूँ। मेरे साथ चलो।\"",
+     "सूअर आदमी को एक गुफा में ले गया। वहाँ उसने एक सुंदर अंगूठी निकाली।",
+     "\"इस अंगूठी को अपने घर की छत पर बाँध देना। इससे तुम्हारे घर में सुख-समृद्धि आएगी,\" सूअर ने कहा।",
+     "आदमी ने उसे धन्यवाद दिया और घर लौट आया।",
+     "उस रात उसने और उसकी पत्नी ने अंगूठी छत पर बाँधी और सो गए। अगली सुबह जब वे उठे, तो आश्चर्यचकित रह गए! उनका घर अनाज, दालों और मसालों की बोरियों से भरा हुआ था। रसोई में ढेर सारी सब्ज़ियाँ भी थीं।",
+     "\"अब हमें कभी भूखा नहीं रहना पड़ेगा!\" पत्नी खुशी से बोली।",
+     "लेकिन जल्द ही एक लालची पड़ोसी को उनके रहस्य का पता चल गया। एक रात वह चुपके से उनके घर में घुसा और जादुई अंगूठी चुरा ले गया।",
+     "अगली सुबह सारा खाना गायब था। आदमी और उसकी पत्नी फिर से गरीब हो गए।",
+     "उनकी बिल्ली और कुत्ता भी परेशान थे। दयालु दंपति हमेशा उन्हें खाना खिलाते थे, लेकिन अब घर में कुछ भी नहीं बचा था।",
+     "\"हमें अंगूठी वापस लानी होगी!\" बिल्ली ने कहा।",
+     "दोनों उसकी खोज में निकल पड़े। जल्द ही उन्हें पता चला कि चोर ने अंगूठी अपने घर की छत पर बाँध रखी है।",
+     "बिल्ली ने पास ही एक चूहे को पकड़ लिया। बाकी चूहे घबराकर उनसे विनती करने लगे कि वे उसे छोड़ दें।",
+     "कुत्ते ने कहा, \"हम इसे छोड़ देंगे, अगर तुम हमारे लिए अंगूठी ले आओ।\"",
+     "चूहे तुरंत छत पर चढ़े और अंगूठी उतारकर ले आए।",
+     "लेकिन घर लौटते समय कुत्ते के मुँह से अंगूठी फिसलकर एक छोटी नदी में गिर गई!",
+     "उसी समय उन्होंने पास में मेंढकों की शादी देखी। बिल्ली ने दूल्हे मेंढक को पकड़ लिया। बाकी मेंढक उसे छोड़ने की विनती करने लगे।",
+     "बिल्ली बोली, \"अगर तुम हमें नदी से अंगूठी निकालकर दोगे, तो हम तुम्हारे दूल्हे को छोड़ देंगे।\"",
+     "मेंढक पानी में कूद पड़े और अंगूठी ढूँढ़कर ले आए।",
+     "बिल्ली और कुत्ता जल्दी-जल्दी घर पहुँचे। उन्होंने अंगूठी फिर से छत पर बाँध दी। कुछ ही समय में घर दोबारा खाने-पीने की चीज़ों से भर गया।",
+     "आदमी और उसकी पत्नी अपने वफ़ादार दोस्तों को देखकर बहुत खुश हुए।",
+     "बिल्ली और कुत्ते ने भी एक बड़ी सीख सीखी—मिल-जुलकर काम करने से छोटी-सी ताकत भी बड़े से बड़ा काम कर सकती है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, in a small village in Maharashtra, there lived a poor man and his wife. They owned a little house, but their cupboards were almost always empty. They worked hard, yet there were days when they had to go to bed with very little food.",
+     "Despite their difficulties, the couple were generous and kind. They shared whatever little they had with the animals that visited their home.",
+     "One morning, the man went into the forest to gather fruits and berries. As he walked along a narrow path, he heard the sound of an animal crying for help. Following the noise, he came upon a pig being chased by a fierce tiger.",
+     "The pig was frightened and could barely run any further.",
+     "\"Please save me!\" it squealed.",
+     "The man did not have a weapon, but he picked up a sturdy branch and waved it at the tiger. He shouted as loudly as he could. Surprised by the sudden commotion, the tiger backed away and disappeared into the trees.",
+     "The pig was relieved.",
+     "\"You have saved my life,\" it said. \"I must repay your kindness. Come with me.\"",
+     "The man followed the pig to a cave hidden among the trees. The pig disappeared inside and soon returned carrying a beautiful ring.",
+     "\"This is no ordinary ring,\" it explained. \"Tie it to the roof of your house. It will bring prosperity and ensure that your family never goes hungry.\"",
+     "The man thanked the pig and hurried home. That night, he and his wife tied the ring to the roof and went to sleep.",
+     "The next morning, they woke to an astonishing sight. Their empty kitchen was filled with vegetables, their attic held sacks of grain and pulses, and jars of spices lined the shelves.",
+     "\"Where has all this come from?\" asked his wife.",
+     "\"It must be the magic of the ring!\" he replied.",
+     "For many weeks, the couple lived comfortably. Their cat and dog, who had often gone hungry with them, now had plenty to eat as well.",
+     "But their good fortune attracted attention. A neighbour began wondering how the couple had suddenly become so prosperous. He watched their house carefully and eventually discovered the secret of the ring.",
+     "One night, while the family slept, he crept inside and stole it.",
+     "The following morning, the kitchen was empty again. The couple were heartbroken. Their cat and dog were worried too.",
+     "\"Without the ring, our friends will have nothing to eat,\" said the cat.",
+     "\"We must find it,\" replied the dog.",
+     "The two friends set off together. After searching several villages, they spotted a large house that had recently become wealthy. The dog noticed something unusual nearby: a group of rats were celebrating a wedding.",
+     "\"Perhaps the thief lives here,\" he whispered.",
+     "The cat caught hold of the rat bridegroom. The other rats rushed towards them.",
+     "\"Please let him go!\" they cried.",
+     "\"We will,\" said the dog, \"if you bring us the ring tied to the roof of that house.\"",
+     "The rats hurried up the roof and returned with the ring. The cat released the groom, and the wedding continued.",
+     "The cat and dog began their journey home. But heavy rain had swollen a little stream they had crossed earlier. As they struggled through the rushing water, the ring slipped from the dog's mouth and disappeared beneath the surface.",
+     "They were dismayed. Then they noticed a wedding celebration among the frogs on the riverbank.",
+     "The cat caught the frog bridegroom, and the other frogs begged for his release.",
+     "\"We need the ring at the bottom of the stream,\" explained the dog. \"Find it for us, and we will let your groom go.\"",
+     "The frogs dived into the water. After searching carefully, they found the ring and brought it back.",
+     "The cat and dog thanked them and continued home.",
+     "When they reached the house, the cat climbed onto the roof and tied the ring back in its place. Before long, food and supplies returned to the household.",
+     "The couple welcomed their companions with great joy. They were grateful not only for the ring, but also for the loyalty and determination of their two little friends.",
+     "The magic of the ring had brought prosperity to their home. But it was the kindness of the pig, the courage of the animals and their willingness to help one another that had made the real difference."
+    ],
+    "hi": [
+     "बहुत समय पहले महाराष्ट्र के एक छोटे-से गाँव में एक गरीब आदमी अपनी पत्नी के साथ रहता था। उनका एक छोटा-सा घर था, लेकिन उसकी रसोई और अलमारियाँ अक्सर खाली रहती थीं। दोनों बहुत मेहनत करते थे, फिर भी कई बार उन्हें रात में थोड़ा-सा खाना खाकर ही सोना पड़ता था।",
+     "अपनी कठिनाइयों के बावजूद वे बहुत उदार और दयालु थे। उनके घर के आसपास आने वाले जानवरों के साथ वे अपना थोड़ा-बहुत भोजन भी बाँट लेते थे।",
+     "एक सुबह वह आदमी फल और बेर इकट्ठा करने जंगल गया। वह एक सँकरे रास्ते से गुजर रहा था, तभी उसे किसी जानवर के रोने की आवाज़ सुनाई दी। आवाज़ का पीछा करते हुए वह एक ऐसे सूअर के पास पहुँचा जिसे एक भयंकर बाघ दौड़ा रहा था।",
+     "सूअर बहुत डरा हुआ था और अब उससे और भागा नहीं जा रहा था।",
+     "\"कृपया मुझे बचा लो!\" वह चिल्लाया।",
+     "आदमी के पास कोई हथियार नहीं था। उसने एक मजबूत टहनी उठाई और बाघ की ओर लहराते हुए ज़ोर से चिल्लाया। अचानक हुए शोर से बाघ घबरा गया और पेड़ों के बीच भाग गया।",
+     "सूअर ने राहत की साँस ली।",
+     "\"तुमने मेरी जान बचाई है,\" उसने कहा। \"मैं तुम्हारी दयालुता का बदला चुकाना चाहता हूँ। मेरे साथ चलो।\"",
+     "आदमी सूअर के पीछे-पीछे पेड़ों के बीच छिपी एक गुफा तक पहुँचा। सूअर अंदर गया और थोड़ी देर बाद एक सुंदर अंगूठी लेकर लौटा।",
+     "\"यह कोई साधारण अंगूठी नहीं है,\" उसने समझाया। \"इसे अपने घर की छत पर बाँध देना। इससे तुम्हारे घर में सुख-समृद्धि आएगी और तुम्हारा परिवार कभी भूखा नहीं रहेगा।\"",
+     "आदमी ने सूअर को धन्यवाद दिया और जल्दी से घर लौट आया। उस रात उसने और उसकी पत्नी ने अंगूठी छत पर बाँध दी और सो गए।",
+     "अगली सुबह जब उनकी आँख खुली, तो वे हैरान रह गए। खाली रसोई सब्ज़ियों से भरी हुई थी, अटारी में अनाज और दालों की बोरियाँ रखी थीं और मसालों के डिब्बे अलमारियों पर सजे थे।",
+     "\"यह सब कहाँ से आया?\" पत्नी ने आश्चर्य से पूछा।",
+     "\"यह ज़रूर उस जादुई अंगूठी का कमाल है!\" आदमी ने उत्तर दिया।",
+     "कई हफ्तों तक दोनों आराम से रहने लगे। उनकी बिल्ली और कुत्ता, जिन्हें पहले अक्सर भूखा रहना पड़ता था, अब भरपेट भोजन करने लगे।",
+     "लेकिन उनकी खुशहाली ने गाँववालों का ध्यान आकर्षित किया। एक पड़ोसी सोचने लगा कि यह गरीब दंपति अचानक इतना अमीर कैसे हो गया। उसने उनके घर पर नज़र रखनी शुरू कर दी और आखिरकार अंगूठी का रहस्य जान लिया।",
+     "एक रात, जब पूरा परिवार सो रहा था, वह चुपके से घर में घुसा और अंगूठी चुरा ले गया।",
+     "अगली सुबह रसोई फिर से खाली थी। दंपति बहुत दुखी हुए। उनकी बिल्ली और कुत्ता भी परेशान थे।",
+     "\"अंगूठी के बिना हमारे दोस्तों के पास खाने के लिए कुछ नहीं बचेगा,\" बिल्ली ने कहा।",
+     "\"हमें उसे ढूँढ़ना ही होगा,\" कुत्ते ने उत्तर दिया।",
+     "दोनों दोस्त साथ-साथ निकल पड़े। कई गाँवों में खोजने के बाद उन्हें एक बड़ा घर दिखाई दिया, जहाँ हाल ही में बहुत धन-संपत्ति आई थी। कुत्ते ने पास ही कुछ अजीब देखा—चूहों का एक समूह शादी मना रहा था।",
+     "\"शायद चोर इसी घर में रहता है,\" उसने धीरे से कहा।",
+     "बिल्ली ने चूहों के दूल्हे को पकड़ लिया। बाकी चूहे घबराकर उनके पास दौड़े आए।",
+     "\"कृपया हमारे दूल्हे को छोड़ दो!\" वे विनती करने लगे।",
+     "कुत्ते ने कहा, \"हम इसे छोड़ देंगे, अगर तुम उस घर की छत पर बँधी अंगूठी हमारे लिए ले आओ।\"",
+     "चूहे जल्दी से छत पर चढ़े और अंगूठी उतारकर ले आए। बिल्ली ने दूल्हे को छोड़ दिया और शादी का उत्सव फिर से शुरू हो गया।",
+     "बिल्ली और कुत्ता अंगूठी लेकर घर की ओर चल पड़े। लेकिन रास्ते में तेज़ बारिश के कारण वह छोटी नदी उफान पर थी जिसे उन्होंने पहले पार किया था। पानी का बहाव बहुत तेज़ था। जब वे किसी तरह नदी पार करने लगे, तो अंगूठी कुत्ते के मुँह से फिसलकर पानी में गिर गई।",
+     "दोनों बहुत परेशान हुए। तभी उन्हें नदी किनारे मेंढकों की शादी दिखाई दी।",
+     "बिल्ली ने मेंढकों के दूल्हे को पकड़ लिया। बाकी मेंढक उससे उसे छोड़ने की विनती करने लगे।",
+     "कुत्ते ने समझाया, \"हमें नदी की गहराई में गिरी हुई अंगूठी चाहिए। अगर तुम उसे ढूँढ़कर ला दो, तो हम तुम्हारे दूल्हे को छोड़ देंगे।\"",
+     "मेंढक पानी में कूद पड़े। काफी खोजने के बाद उन्हें अंगूठी मिल गई और वे उसे बाहर ले आए।",
+     "बिल्ली और कुत्ते ने उन्हें धन्यवाद दिया और घर की ओर चल पड़े।",
+     "घर पहुँचकर बिल्ली छत पर चढ़ी और उसने अंगूठी वापस उसी जगह बाँध दी। कुछ ही समय बाद घर में फिर से भोजन और ज़रूरत का सामान आने लगा।",
+     "दंपति ने अपने दोनों दोस्तों का बहुत खुशी से स्वागत किया। वे केवल जादुई अंगूठी के लिए ही नहीं, बल्कि अपने साथियों की वफ़ादारी और मेहनत के लिए भी आभारी थे।",
+     "अंगूठी के जादू ने उनके घर में समृद्धि तो ला दी थी, लेकिन असली बदलाव सूअर की दयालुता, जानवरों के साहस और एक-दूसरे की सहायता करने की भावना से आया था।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18
+     ],
+     [
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26,
+      27
+     ],
+     [
+      28,
+      29,
+      30,
+      31
+     ],
+     [
+      32,
+      33,
+      34
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18
+     ],
+     [
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26
+     ],
+     [
+      27,
+      28,
+      29,
+      30,
+      31
+     ],
+     [
+      32,
+      33,
+      34
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In a small village in Maharashtra lived a poor man and his wife. Their home was modest, their belongings few, and their meals often uncertain. Yet, despite their poverty, they were known for their generosity. They never turned away a hungry animal and were always willing to share whatever little food they possessed.",
+     "One morning, the man set out towards the forest to gather fruits and berries. As he wandered along a narrow path, he heard a desperate cry. He followed the sound and discovered a pig being pursued by a hungry tiger. The frightened animal was exhausted and had nowhere left to run.",
+     "\"Please, kind stranger! Save me!\" cried the pig.",
+     "The man looked around for something he could use to frighten the tiger. Finding a strong branch nearby, he raised it above his head and shouted with all his might. The sudden noise startled the tiger, which turned and disappeared into the forest.",
+     "The pig, relieved to have escaped, approached its rescuer.",
+     "\"You have saved my life,\" it said gratefully. \"I cannot allow such kindness to go unrewarded. Come with me, and I shall give you something precious.\"",
+     "Curious, the man followed the pig through the trees until they reached a hidden cave. The pig disappeared inside and returned carrying a beautiful ring.",
+     "\"This ring possesses a special power,\" it explained. \"Tie it to the roof of your house, and prosperity will enter your home. You and your family will never have to worry about food again.\"",
+     "The man accepted the gift with gratitude and returned to his village.",
+     "That evening, he and his wife tied the ring to the roof. They wondered whether the pig's promise would truly come to pass, but they soon fell asleep.",
+     "The next morning, they awoke to an extraordinary sight. Their previously empty kitchen was filled with fresh vegetables, their attic contained sacks of grain and pulses, and their shelves were lined with jars of spices.",
+     "The wife could hardly believe her eyes.",
+     "\"Where has all this food come from?\" she asked.",
+     "\"The pig must have spoken the truth,\" replied her husband. \"The ring really is magical!\"",
+     "From then onwards, the couple lived comfortably. They had enough food for themselves and could feed their cat and dog without worrying about the next meal.",
+     "But prosperity often attracts curiosity, and curiosity can sometimes give way to greed. A villager began observing the couple and wondering how their circumstances had changed so suddenly. After keeping watch for several nights, he discovered the ring tied to their roof.",
+     "One night, when the couple were fast asleep, he crept into their house and stole it.",
+     "The consequences were immediate. The following morning, the food had vanished, the kitchen was empty, and the couple had returned to their former poverty. Their cat and dog, who had grown accustomed to being fed, were hungry once more.",
+     "The woman, unable to provide for them, sadly told them to seek another home.",
+     "The dog was bewildered. \"What has happened to our good fortune? Yesterday we had everything, and today there is nothing.\"",
+     "The cat thought for a moment. \"Remember the ring tied to the roof? I believe it was responsible for our prosperity. Someone must have taken it.\"",
+     "\"We must find it,\" said the dog. \"We cannot allow our friends to suffer because of a thief.\"",
+     "The two companions set out on a journey. They searched their village and the surrounding settlements until they came upon a prosperous house. The dog noticed an unusual celebration taking place nearby: a group of rats were holding a wedding, even though it was an unlikely time for such festivities.",
+     "\"This house must belong to the thief,\" he whispered. \"It has suddenly become wealthy, and there is a wedding of rats right beside it. Perhaps the two things are connected.\"",
+     "The cat caught hold of the rat bridegroom. Immediately, the other rats surrounded them, pleading for his release.",
+     "\"Please do not harm him! He is our bridegroom!\" they cried.",
+     "The dog explained their predicament. \"We have no wish to hurt him. But we need the ring that has been tied to the roof of that house. Bring it to us, and your bridegroom will be returned safely.\"",
+     "The rats agreed. They climbed up the roof, detached the ring and carried it down. True to their word, the cat and dog released the bridegroom, and the celebrations continued.",
+     "With the ring safely recovered, the two friends began their journey home. But the weather had changed. Heavy rain had filled the streams, and the little trickle of water they had crossed earlier had become a rushing torrent.",
+     "The cat leapt across first, but the dog struggled through the current. As he tried to make his way to the opposite bank, the ring slipped from his mouth and disappeared into the depths.",
+     "The friends were devastated. They had overcome one obstacle only to lose the ring at the very end of their journey.",
+     "Just then, they noticed another celebration along the riverbank. A group of frogs were holding a wedding. The cat, remembering how the rats had helped them, caught hold of the frog bridegroom. The frogs immediately begged for his release.",
+     "The dog explained their situation once more. \"Our ring has fallen into the river. If you help us recover it, we shall return your bridegroom unharmed.\"",
+     "The frogs agreed. They dived into the water, searched beneath the surface and eventually retrieved the ring.",
+     "Grateful for their assistance, the cat and dog released the bridegroom and continued their journey.",
+     "When they finally reached home, the cat climbed onto the roof and carefully tied the ring back in its original place. Soon, the household was filled with food and supplies once more.",
+     "The man and his wife were overjoyed to see their companions return. They welcomed the cat and dog with affection and never again underestimated the value of the little creatures who shared their home.",
+     "The ring had brought them prosperity, but the journey had revealed something far more precious. The pig had repaid kindness with generosity; the rats and frogs had offered help in return for compassion; and the cat and dog had refused to abandon their friends.",
+     "The tale reminds us that wealth may come and go, but generosity, loyalty and cooperation are treasures that cannot be stolen."
+    ],
+    "hi": [
+     "महाराष्ट्र के एक छोटे-से गाँव में एक गरीब आदमी अपनी पत्नी के साथ रहता था। उनका घर साधारण था, सामान बहुत कम था और कई बार उन्हें यह भी निश्चित नहीं होता था कि अगला भोजन कहाँ से आएगा। फिर भी अपनी गरीबी के बावजूद दोनों अपनी उदारता के लिए जाने जाते थे। वे कभी किसी भूखे जानवर को खाली हाथ नहीं लौटाते थे और अपने पास जो थोड़ा-बहुत भोजन होता, उसे भी बाँटने से पीछे नहीं हटते थे।",
+     "एक सुबह वह आदमी फल और बेर इकट्ठा करने जंगल की ओर निकला। वह एक सँकरे रास्ते से गुजर रहा था, तभी उसे किसी के चीखने की आवाज़ सुनाई दी। आवाज़ का पीछा करते हुए वह एक सूअर के पास पहुँचा, जिसका पीछा एक भूखा बाघ कर रहा था। डरा हुआ सूअर बहुत थक चुका था और उसके पास भागने का कोई रास्ता नहीं बचा था।",
+     "\"हे दयालु व्यक्ति! कृपया मेरी जान बचा लो!\" सूअर ने विनती की।",
+     "आदमी ने चारों ओर देखा कि बाघ को डराने के लिए उसे क्या मिल सकता है। पास में एक मजबूत टहनी पड़ी थी। उसने उसे उठाकर अपने सिर के ऊपर लहराया और पूरी ताकत से चिल्लाया। अचानक हुए शोर से बाघ घबरा गया और जंगल के भीतर भाग गया।",
+     "अपनी जान बच जाने पर सूअर ने राहत की साँस ली और आदमी के पास आया।",
+     "\"तुमने मेरी जान बचाई है,\" उसने कृतज्ञता से कहा। \"मैं तुम्हारी इस दयालुता का बदला अवश्य चुकाना चाहता हूँ। मेरे साथ चलो। मैं तुम्हें एक अनमोल वस्तु दूँगा।\"",
+     "जिज्ञासु आदमी सूअर के पीछे-पीछे पेड़ों के बीच छिपी एक गुफा तक पहुँचा। सूअर अंदर गया और थोड़ी देर बाद एक सुंदर अंगूठी लेकर बाहर आया।",
+     "\"इस अंगूठी में एक विशेष शक्ति है,\" उसने समझाया। \"इसे अपने घर की छत पर बाँध देना। तुम्हारे घर में सुख-समृद्धि आने लगेगी और तुम्हारे परिवार को कभी भोजन की चिंता नहीं करनी पड़ेगी।\"",
+     "आदमी ने कृतज्ञतापूर्वक वह उपहार स्वीकार किया और गाँव लौट आया।",
+     "उस शाम उसने और उसकी पत्नी ने अंगूठी को घर की छत पर बाँध दिया। दोनों सोच रहे थे कि क्या सचमुच सूअर की बात सही साबित होगी। लेकिन कुछ देर बाद वे सो गए।",
+     "अगली सुबह जब उनकी आँख खुली, तो घर का दृश्य बिल्कुल बदल चुका था। जो रसोई पहले खाली रहती थी, वह ताज़ी सब्ज़ियों से भरी हुई थी। अटारी में अनाज और दालों की बोरियाँ रखी थीं और अलमारियों में मसालों के डिब्बे सजे थे।",
+     "पत्नी को अपनी आँखों पर विश्वास नहीं हुआ।",
+     "\"इतना सारा भोजन कहाँ से आ गया?\" उसने आश्चर्य से पूछा।",
+     "\"उस सूअर ने सच ही कहा था,\" पति ने उत्तर दिया। \"यह अंगूठी सचमुच जादुई है!\"",
+     "उस दिन से दोनों आराम से रहने लगे। उनके पास इतना भोजन था कि वे स्वयं भी पेट भरकर खा सकते थे और अपनी बिल्ली तथा कुत्ते को भी बिना किसी चिंता के खिला सकते थे।",
+     "लेकिन समृद्धि अक्सर लोगों का ध्यान आकर्षित करती है और कभी-कभी जिज्ञासा लालच में बदल जाती है। गाँव का एक व्यक्ति इस दंपति पर नज़र रखने लगा। उसे आश्चर्य था कि उनकी परिस्थितियाँ अचानक इतनी बदल कैसे गईं। कई रातों तक निगरानी करने के बाद उसने उनकी छत पर बँधी अंगूठी का रहस्य जान लिया।",
+     "एक रात, जब दोनों गहरी नींद में सो रहे थे, वह चुपके से उनके घर में घुसा और अंगूठी चुराकर ले गया।",
+     "अगली सुबह इसका परिणाम तुरंत दिखाई दिया। सारा भोजन गायब हो चुका था, रसोई फिर से खाली थी और दंपति अपनी पुरानी गरीबी में लौट आए थे। उनकी बिल्ली और कुत्ता भी भूखे थे। वे पहले की तरह अब पेट भरकर खाना नहीं खा सकते थे।",
+     "पत्नी के पास उन्हें खिलाने के लिए कुछ नहीं बचा था। दुखी होकर उसने दोनों से कहा कि वे किसी दूसरे घर में चले जाएँ।",
+     "कुत्ता बहुत परेशान हुआ। \"हमारी खुशहाली को क्या हो गया? कल तक हमारे पास सब कुछ था और आज कुछ भी नहीं है!\"",
+     "बिल्ली ने कुछ देर सोचा। \"क्या तुम्हें छत पर बँधी वह अंगूठी याद है? मुझे लगता है कि हमारी खुशहाली उसी की वजह से थी। किसी ने उसे चुरा लिया होगा।\"",
+     "\"तो हमें उसे ढूँढ़ना होगा,\" कुत्ते ने कहा। \"हम अपने दोस्तों को एक चोर की वजह से दुखी नहीं रहने दे सकते।\"",
+     "दोनों साथ-साथ निकल पड़े। उन्होंने अपना गाँव और आसपास की बस्तियाँ छान डालीं। आखिरकार उन्हें एक बड़ा और समृद्ध घर दिखाई दिया। कुत्ते ने देखा कि उसके पास एक असामान्य उत्सव चल रहा है—चूहों का एक समूह शादी मना रहा था, जबकि उस मौसम में ऐसी खुशी का आयोजन होना अजीब था।",
+     "\"मुझे लगता है कि चोर इसी घर में रहता है,\" कुत्ते ने धीरे से कहा। \"यह घर अचानक अमीर हुआ है और इसके पास चूहों की शादी भी हो रही है। शायद दोनों बातों का आपस में संबंध है।\"",
+     "बिल्ली ने चूहों के दूल्हे को पकड़ लिया। बाकी चूहे तुरंत उसके चारों ओर इकट्ठा हो गए और विनती करने लगे।",
+     "\"कृपया इसे चोट मत पहुँचाना! यह हमारा दूल्हा है!\"",
+     "कुत्ते ने उन्हें अपनी परेशानी समझाई।",
+     "\"हम इसे कोई नुकसान नहीं पहुँचाना चाहते। लेकिन हमें उस घर की छत पर बँधी अंगूठी चाहिए। अगर तुम उसे हमारे पास ले आओगे, तो हम तुम्हारे दूल्हे को सुरक्षित छोड़ देंगे।\"",
+     "चूहों ने उनकी बात मान ली। वे तेजी से छत पर चढ़े, अंगूठी उतारी और उसे नीचे ले आए। अपने वादे के अनुसार बिल्ली और कुत्ते ने दूल्हे को छोड़ दिया। चूहों की शादी का उत्सव फिर से शुरू हो गया।",
+     "अंगूठी वापस मिलने पर दोनों दोस्त घर की ओर चल पड़े। लेकिन मौसम बदल चुका था। तेज़ बारिश के कारण छोटी-छोटी धाराएँ भर गई थीं। जिस पानी की पतली धारा को उन्होंने पहले पार किया था, वह अब एक तेज़ बहती नदी बन चुकी थी।",
+     "बिल्ली तो किसी तरह दूसरी ओर पहुँच गई, लेकिन कुत्ते को पानी के तेज़ बहाव में संघर्ष करना पड़ा। जैसे ही वह किनारे तक पहुँचने की कोशिश कर रहा था, अंगूठी उसके मुँह से फिसल गई और नदी की गहराई में खो गई।",
+     "दोनों बहुत निराश हुए। उन्होंने एक मुश्किल पार की थी, लेकिन अपनी यात्रा के अंतिम पड़ाव पर फिर से अंगूठी खो दी थी।",
+     "तभी उन्हें नदी किनारे एक और उत्सव दिखाई दिया। वहाँ मेंढकों की शादी हो रही थी। बिल्ली को याद आया कि चूहों ने उनकी सहायता की थी। उसने मेंढकों के दूल्हे को पकड़ लिया। बाकी मेंढक तुरंत उसे छोड़ने की विनती करने लगे।",
+     "कुत्ते ने उन्हें भी अपनी परेशानी बताई।",
+     "\"हमारी अंगूठी नदी में गिर गई है। यदि तुम उसे ढूँढ़कर वापस ला दो, तो हम तुम्हारे दूल्हे को बिना किसी नुकसान के छोड़ देंगे।\"",
+     "मेंढक उनकी सहायता करने के लिए तैयार हो गए। वे पानी में कूदे, नदी की गहराई में खोजने लगे और आखिरकार अंगूठी ढूँढ़कर बाहर ले आए।",
+     "उनकी सहायता के लिए आभार व्यक्त करते हुए बिल्ली और कुत्ते ने दूल्हे को छोड़ दिया और अपनी यात्रा आगे बढ़ाई।",
+     "आखिरकार जब वे घर पहुँचे, तो बिल्ली छत पर चढ़ी और उसने अंगूठी को सावधानी से उसकी पुरानी जगह पर बाँध दिया। कुछ ही समय में घर में फिर से भोजन और ज़रूरत की चीज़ें आने लगीं।",
+     "अपने दोनों साथियों को वापस देखकर आदमी और उसकी पत्नी बहुत खुश हुए। उन्होंने बिल्ली और कुत्ते का प्रेम से स्वागत किया और अब वे उन छोटे जीवों के महत्व को कभी कम नहीं आँकने वाले थे जो उनके घर का हिस्सा थे।",
+     "अंगूठी ने उनके घर में समृद्धि अवश्य लाई थी, लेकिन इस यात्रा ने उन्हें उससे भी अधिक अनमोल चीज़ का एहसास कराया। सूअर ने दयालुता का उत्तर उदारता से दिया था; चूहों और मेंढकों ने सहयोग और करुणा दिखाई थी; और बिल्ली तथा कुत्ते ने अपने मित्रों का साथ कभी नहीं छोड़ा था।",
+     "यह कहानी याद दिलाती है कि धन-संपत्ति कभी भी आ सकती है और जा सकती है, लेकिन उदारता, निष्ठा और सहयोग ऐसे खज़ाने हैं जिन्हें कोई चुरा नहीं सकता।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22
+     ],
+     [
+      23,
+      24,
+      25,
+      26
+     ],
+     [
+      27,
+      28,
+      29
+     ],
+     [
+      30,
+      31,
+      32
+     ],
+     [
+      33,
+      34,
+      35
+     ],
+     [
+      36,
+      37,
+      38
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22
+     ],
+     [
+      23,
+      24,
+      25,
+      26,
+      27
+     ],
+     [
+      28,
+      29,
+      30
+     ],
+     [
+      31,
+      32,
+      33,
+      34
+     ],
+     [
+      35,
+      36,
+      37
+     ],
+     [
+      38,
+      39,
+      40
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Maharashtra",
+  "community": "Regional folktale",
+  "tradition": "A poor man saves a pig from a tiger and is given a magical ring; when a thief steals it, his cat and dog set off to recover it."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Regional folktale from Maharashtra, published by the Centre for Contemporary Folklore (CCF) as “The Magic Ring”.",
+   "s": "ok"
+  },
+  {
+   "l": "Related reading",
+   "v": "“Preserving India’s biodiversity through folk art”, FairPlanet (fairplanet.org).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-014-001",
+ "meta": [
+  "जादुई अंगूठी",
+  "Maharashtra Regional folktale Preserving India's biodiversity through folk art | FairPlanet",
+  "fairplanet.org",
+  "Story background: A poor man saves a pig from a tiger. In gratitude, the pig gives him a magical ring that brings prosperity to his home. When a thief steals the ring, the man's cat and dog embark on a journey to recover it. Their adventure takes them through a rat wedding and a frog wedding, where they discover that cooperation can accomplish what individual strength cannot.",
+  "Centre for Contemporary Folklore (CCF)"
+ ]
+}

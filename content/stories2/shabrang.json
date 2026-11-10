@@ -1,0 +1,358 @@
+{
+ "id": "shabrang",
+ "state": "jk",
+ "title": "Shabrang",
+ "titleHi": "शबरंग",
+ "genre": "Clever-heroine tale",
+ "levelTitles": {
+  "1": {
+   "en": "Shabrang",
+   "hi": "शबरंग"
+  },
+  "2": {
+   "en": "Shabrang",
+   "hi": "शबरंग"
+  },
+  "3": {
+   "en": "Shabrang",
+   "hi": "शबरंग"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a king of Kashmir went hunting and lost his way. He found a beautiful garden, where a lovely young woman stood.",
+     "\"You would make a fine queen for me,\" said the king.",
+     "\"I would like to marry someone like you,\" she said. \"Then my son will marry your daughter.\"",
+     "The king went home, but he could not forget her. He learned she was a princess and asked for her hand. They were married, but afterwards the king never visited or spoke to his wife. Years passed.",
+     "The clever princess visited the king's land, dressed as a stranger. The king did not know her! He enjoyed her company so much that he asked her to stay. When she left, she asked for his ring and his handkerchief.",
+     "Her son was born dark-skinned, so she named him Shabrang, \"colour of the night\". She had him taught every trick of a clever thief. He could even steal an egg from an eagle's nest without waking the eagle!",
+     "\"Go to Kashmir,\" she told him. \"Make the king notice us.\"",
+     "Shabrang joined the king's guards. Burglaries began all over the city. The king scolded the kotwal, the police chief, who went out to watch the streets. By a well he met a woman. \"A thief is coming to steal my turnips,\" she said. \"Swap clothes with me and sit on the well pole. He will never suspect you!\" In the morning, the kotwal was found sitting high on the pole, dressed as a farmer's wife.",
+     "The wazir, the chief minister, tried next. He swapped his clothes with an old woman who was grinding corn. Next morning, there he was, grinding corn!",
+     "At last the king announced, \"If the thief surrenders, he may marry my daughter!\"",
+     "Shabrang stepped forward and showed where he had hidden everything. Then his mother brought out the ring and the handkerchief.",
+     "\"Shabrang cannot marry the princess,\" she said. \"She is his sister.\"",
+     "The king remembered the garden and laughed. He was happy to welcome his wife and son. Shabrang became the prince of Kashmir."
+    ],
+    "hi": [
+     "बहुत पहले कश्मीर का एक राजा शिकार पर गया और रास्ता भटक गया। उसे एक सुंदर बाग़ मिला, जहाँ एक सुंदर युवती खड़ी थी।",
+     "\"तुम मेरी रानी बनने के लायक़ हो,\" राजा ने कहा।",
+     "\"मैं भी आप जैसे व्यक्ति से ब्याह करना चाहूँगी,\" युवती बोली। \"तब मेरा बेटा आपकी बेटी से ब्याह करेगा।\"",
+     "राजा घर लौट आया, पर उसे भूल न सका। उसने पता लगाया कि वह राजकुमारी है और उससे ब्याह कर लिया। पर उसके बाद राजा न कभी अपनी पत्नी से मिलने गया, न उससे बात की। बरस बीतते गए।",
+     "चतुर राजकुमारी एक परदेसी का भेस बनाकर राजा के देश पहुँची। राजा ने उसे पहचाना ही नहीं! राजा ने उसे ठहरने को कहा। लौटते समय राजकुमारी ने राजा की अँगूठी और रूमाल माँग लिए।",
+     "राजकुमारी का बेटा साँवले रंग का पैदा हुआ, इसलिए माँ ने उसका नाम शबरंग रखा, यानी \"रात के रंग का\"। माँ ने उसे चतुर चोर की हर चाल सिखवाई। वह चील के घोंसले से अंडा भी चुरा लेता था!",
+     "\"कश्मीर जाओ,\" माँ ने कहा। \"राजा को हमारी ख़बर होनी चाहिए।\"",
+     "शबरंग राजा के पहरेदारों में भर्त हो गया। शहर में चोरियाँ होने लगीं। राजा ने कोतवाल को डाँटा, जो रात को पहरा देने निकला। एक कुएँ पर उसे एक औरत मिली। \"मेरी शलजम चुराने एक चोर आएगा,\" उसने कहा। \"आप मेरे कपड़े पहन लें और कुएँ के ढेंकुल पर बैठ जाएँ। उसे शक नहीं होगा!\" सुबह कोतवाल किसान की औरत के कपड़ों में ऊँचे ढेंकुल पर बैठा मिला।",
+     "फिर वज़ीर की बारी आई। उसने एक बुढ़िया से कपड़े बदले, जो चक्की पीस रही थी। अगली सुबह वज़ीर ख़ुद चक्की पीसता मिला!",
+     "आख़िर राजा ने ऐलान किया, \"चोर हाज़िर हो जाए तो मैं उसके साथ अपनी बेटी का ब्याह कर दूँगा!\"",
+     "शबरंग आगे आया और उसने सारा छिपाया हुआ माल दिखा दिया। तभी उसकी माँ ने अँगूठी और रूमाल निकाले।",
+     "\"शबरंग राजकुमारी से ब्याह नहीं कर सकता,\" उसने कहा। \"वह उसकी बहन है।\"",
+     "राजा को बाग़ की बात याद आई और वह हँस पड़ा। उसने पत्नी और बेटे को अपना लिया। शबरंग कश्मीर का राजकुमार बना।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, a king of Kashmir went hunting, but his quarry kept slipping away. He chased it so far that he lost his way and found himself in a lovely garden. There he saw a young woman. She stood among the roses, calm as the evening light.",
+     "\"How beautiful you are!\" he said. \"You would make a fine queen for me.\"",
+     "She was not embarrassed at all. \"I would like to marry someone like you,\" she replied. \"Then my son will marry your daughter.\"",
+     "The king did not know what to say. He rode home, but he could not forget her face or her words. He discovered that she was a princess and asked for her hand. A grand wedding followed.",
+     "The king never visited his wife. He never even spoke to her. Two or three years passed without a single message. One day the princess told her father, \"I want to travel abroad and learn about the world.\"",
+     "Her father refused at first, but she insisted, and he sent brave escorts with her.",
+     "At her husband's border she sent word that a princess from a far country wished to meet His Highness. The king came to welcome her himself. He did not recognise his own wife! He enjoyed her company so much that he asked her to stay. When she left, she asked him for his ring and his handkerchief.",
+     "A few months later she had a son. He was dark-skinned, so she named him Shabrang, \"colour of the night\". She had him taught every trick of a clever thief. As a test, she told him to steal an egg from an eagle's nest. Shabrang climbed a huge chinar tree and took it so quietly that the eagle never knew.",
+     "\"Go to Kashmir,\" she said. \"Your father forgot us. Make the king notice you.\"",
+     "Shabrang became a palace guard. Soon the city was shaken by burglaries. The king scolded the kotwal, the chief of police, who went out to patrol that night. The night was moonless, and his lantern threw long, shaky shadows across the lanes. By a well he met a woman.",
+     "\"A thief is coming to steal my turnips,\" she said. \"Swap clothes with me and sit on the well pole. He will never suspect you!\"",
+     "In the morning, the kotwal was found perched on the pole, dressed as a farmer's wife.",
+     "Then the wazir tried. At the edge of the city he met an old woman grinding corn. \"A thief forced me to grind this,\" she said. \"Swap clothes with me.\" Next morning, the wazir was found grinding corn! All over the court, people whispered, wondering who this clever thief could be.",
+     "At last the king declared, \"If the thief gives himself up, I will give him my daughter in marriage!\"",
+     "Shabrang walked in and showed where all the treasure was hidden. Every courtier stared as he bowed, calm and smiling. But before the wedding, his mother held up the ring and the handkerchief.",
+     "\"They cannot marry,\" she said. \"Shabrang is your son. The princess is his sister.\"",
+     "The king remembered the garden and laughed. He welcomed his wife, and Shabrang became the prince."
+    ],
+    "hi": [
+     "बहुत पहले कश्मीर का एक राजा शिकार पर निकला, पर शिकार हर बार उसके हाथ से निकल जाता था। पीछा करते-करते वह राह भूल गया और एक सुंदर बाग़ में जा पहुँचा। वहाँ एक युवती खड़ी थी। वह गुलाबों के बीच शाम की रोशनी जितनी शांत खड़ी थी।",
+     "\"कितनी सुंदर हो तुम!\" राजा ने कहा। \"तुम मेरी रानी बनने के लायक़ हो।\"",
+     "युवती ज़रा भी नहीं शरमाई। \"मैं भी आप जैसे व्यक्ति से ब्याह करना चाहूँगी,\" उसने जवाब दिया। \"तब मेरा बेटा आपकी बेटी से ब्याह करेगा।\"",
+     "राजा को समझ नहीं आया कि क्या कहे। वह घर लौटा, पर उसका चेहरा और उसकी बात भुला न सका। उसे पता चला कि वह एक राजकुमारी है। उसने दूत भेजकर उसका हाथ माँगा। शानदार ब्याह हुआ।",
+     "पर राजा कभी अपनी रानी के पास नहीं गया। उसने उससे बात तक नहीं की। दो-तीन बरस बीत गए, एक संदेश भी नहीं आया। राजकुमारी चुप रही, पर एक दिन उसने पिता से कहा, \"मैं देश-विदेश घूमकर दुनिया को जानना चाहती हूँ।\"",
+     "पिता ने पहले मना किया, पर वह अड़ी रही और उन्होंने बहादुर रक्षक उसके साथ कर दिए।",
+     "पति के राज्य की सीमा पर पहुँचकर उसने ख़बर भेजी कि एक दूर देश की राजकुमारी महाराज से मिलना चाहती है। राजा ख़ुद उसका स्वागत करने आया। उसने अपनी ही पत्नी को नहीं पहचाना! उसका साथ राजा को इतना भाया कि उसने उसे ठहरने को कहा। जाते समय राजकुमारी ने उससे उसकी अँगूठी और रूमाल माँग लिए।",
+     "कुछ महीने बाद उसने एक बेटे को जन्म दिया। वह साँवला था, इसलिए उसका नाम शबरंग रखा गया, यानी \"रात के रंग का\"। माँ ने उसे चतुर चोर की हर चाल सिखवाई। परीक्षा के लिए उसने कहा कि चील के घोंसले से अंडा ले आओ। शबरंग विशाल चिनार पर चढ़ा और इतनी चुपके से अंडा ले आया कि चील को पता भी न चला।",
+     "\"कश्मीर जाओ,\" माँ ने कहा। \"तुम्हारे पिता हमें भूल गए हैं। राजा को अपनी याद दिलाओ।\"",
+     "शबरंग महल का पहरेदार बन गया। जल्द ही शहर में चोरियाँ होने लगीं। राजा ने कोतवाल को डाँटा और वह उस रात गश्त पर निकला। रात अँधेरी थी और उसकी लालटेन गलियों में लंबी, काँपती परछाइयाँ डाल रही थी। एक कुएँ पर उसे एक औरत मिली।",
+     "\"मेरी शलजम चुराने एक चोर आएगा,\" उसने कहा। \"आप मेरे कपड़े पहन लें और कुएँ के ढेंकुल पर बैठ जाएँ। उसे कभी शक नहीं होगा!\"",
+     "सुबह कोतवाल किसान की औरत के कपड़ों में ढेंकुल पर बैठा मिला।",
+     "फिर वज़ीर निकला। शहर के किनारे उसे एक बुढ़िया चक्की पीसती मिली। \"एक चोर ने मुझसे ज़बरदस्ती यह पिसवाया है,\" वह बोली। \"आप मेरे कपड़े पहन लें।\" अगली सुबह वज़ीर चक्की पीसता मिला! पूरे दरबार में कानाफूसी होने लगी कि यह चतुर चोर आख़िर है कौन।",
+     "आख़िर राजा ने ऐलान किया, \"अगर चोर ख़ुद हाज़िर हो जाए, तो मैं उसके साथ अपनी बेटी का ब्याह कर दूँगा!\"",
+     "शबरंग दरबार में आया और उसने सारा छिपाया हुआ माल दिखा दिया। झुकते समय उसके चेहरे पर शांत मुस्कान थी और हर दरबारी उसे घूरता रह गया। पर ब्याह से पहले उसकी माँ ने अँगूठी और रूमाल दिखाए।",
+     "\"इनका ब्याह नहीं हो सकता,\" उसने कहा। \"शबरंग आपका बेटा है। राजकुमारी उसकी बहन है।\"",
+     "राजा को बाग़ की बात याद आई और वह हँस पड़ा। उसने अपनी रानी को अपना लिया और शबरंग राजकुमार बन गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14,
+      15,
+      16
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14,
+      15,
+      16
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "In the long past, a king of Kashmir rode out hunting. The chase was long, the quarry elusive, and he lost his way until he came to a garden where a young woman stood. Struck by her beauty, he spoke without knowing who she was: \"You are fit to adorn a palace and would make a pretty queen for me.\"",
+     "She did not blush. \"Yes,\" she said evenly, \"I too should like to marry someone like you, and then my son will marry your daughter.\"",
+     "The king was outwitted. Back in his capital he could not shake the image of her, nor her words. He learned that she was a princess, sent match-makers, and her father consented.",
+     "Then the king simply stopped. He never visited his queen, never spoke to her, never sent a messenger. She endured two or three years of silence before she asked her father's leave to travel. \"I know so little about the world,\" she said. When he refused, saying he could not protect a woman outside his lands, she announced that she would go alone. He relented and sent wise, gallant men with her.",
+     "At the border of her husband's kingdom she sent word that a princess from a distant land wished to pay her respects. The letter was so elegant that the king came personally to receive her. In disguise, she was a stranger to her own husband. He lost his heart to her charm, and she, by her own design, let him. When she finally took her leave, she carried his ring, his handkerchief and many gifts.",
+     "Months later she gave birth to a son, dark of complexion, whom she named Shabrang, \"of the colour of night\". Her father, furious at first, admired her cleverness once she explained. She had the boy educated in every princely art, and also trained by an expert thief. Testing him, she sent him up an ancient chinar to take an egg from an eagle's nest. He did it so gently that the bird never noticed.",
+     "\"Now you are fit for your task,\" she said. \"For years I have smarted under your father's insult. Go to Kashmir and commit such daring burglaries that the king, helpless, must offer his daughter to the thieves' captain. Send for me before accepting.\"",
+     "Shabrang reached the capital, charming and watchful. He joined the palace guard and began to steal. The city gasped, and secretly admired the thief.",
+     "The king rebuked the kotwal, his police chief, who patrolled personally that night. At a vegetable garden he met a woman drawing water. \"He will come tonight to steal my turnips,\" she said. \"Swap clothes with me and sit on the water pole, so he will not see your uniform.\" Next morning the kotwal was found aloft, dressed as a farmer's wife.",
+     "The wazir, confident of his experience, went out next. In a doorway an old woman was grinding corn. \"A devil beat me and told me to finish it before he returns,\" she wailed. The wazir took her place, and her clothes. While he ground corn in a dark house, Shabrang, wearing the wazir's robes, robbed more houses.",
+     "Humiliated, the wazir offered to resign. The king refused, and chose an extraordinary remedy. He proclaimed that the thief could marry his daughter, if he surrendered and swore to stop. Kashmir, a fertile soil for rumour, buzzed with theories. \"He is surely a foreign prince!\"",
+     "On the third day Shabrang strode into the court and confessed. He led the king to the buried goods, even the kotwal's uniform. The king offered his daughter. Shabrang sent for his mother.",
+     "She received the king with quiet dignity and refused the match. \"Shabrang can no more marry the princess than a brother can marry his sister.\" Puzzled, the king watched her produce his ring and handkerchief and recall the garden.",
+     "The riddle was solved. The king, outwitted twice by the same woman, was reconciled with his queen. Shabrang, who had come for revenge, was acknowledged as the heir-apparent, not a son-in-law."
+    ],
+    "hi": [
+     "बहुत पहले की बात है, कश्मीर का एक राजा शिकार पर निकला। पीछा लंबा चला, शिकार हाथ न आया और वह रास्ता भटककर एक बाग़ में पहुँचा, जहाँ एक युवती खड़ी थी। उसकी सुंदरता से मुग्ध होकर राजा ने बिना जाने कि वह कौन है, कह दिया, \"तुम महल की शोभा बनने के लायक़ हो, मेरी रानी बनो।\"",
+     "वह शरमाई नहीं। उसने शांति से कहा, \"हाँ, मैं भी आप जैसे व्यक्ति से ब्याह करना चाहूँगी, और तब मेरा बेटा आपकी बेटी से ब्याह करेगा।\"",
+     "राजा मात खा गया। राजधानी लौटकर वह न उसका चेहरा भूल सका, न उसकी बात। उसे पता चला कि वह एक राजकुमारी है। उसने रिश्ता भिजवाया और उसके पिता ने हामी भर दी।",
+     "फिर राजा जैसे थम गया। वह न कभी अपनी रानी से मिलने गया, न बात की, न कोई संदेश भेजा। दो-तीन बरस की इस चुप्पी को सहकर रानी ने पिता से यात्रा की इजाज़त माँगी। \"मैं दुनिया के बारे में बहुत कम जानती हूँ,\" उसने कहा। पिता ने यह कहकर मना किया कि राज्य के बाहर वह एक स्त्री की रक्षा नहीं कर",
+     "सकते, तो उसने अकेले ही निकल पड़ने की ठान ली। पिता झुके और समझदार, बहादुर आदमी उसके साथ कर दिए।",
+     "पति के राज्य की सीमा पर पहुँचकर उसने संदेश भेजा कि एक दूर देश की राजकुमारी महाराज को प्रणाम करना चाहती है। पत्र इतना सलीक़ेदार था कि राजा ख़ुद उसकी अगवानी को आया। भेस में वह अपने ही पति के लिए अजनबी थी। राजा उसके आकर्षण में खो गया। जाते समय वह राजा की अँगूठी, रूमाल और कई उपहार लेकर लौटी।",
+     "कुछ महीनों बाद उसने एक साँवले बेटे को जन्म दिया, जिसका नाम उसने शबरंग रखा, यानी \"रात के रंग का\"। उसने बेटे को राजकुमारों की हर कला सिखवाई, और एक कुशल चोर से भी प्रशिक्षण दिलवाया। परखने के लिए उसने उसे एक पुराने चिनार पर चढ़कर चील के घोंसले से अंडा लाने को कहा। शबरंग ने इतनी सफ़ाई से यह किया कि चील को भनक तक न लगी।",
+     "\"अब तुम अपने काम के लायक़ हो,\" माँ बोली। \"बरसों से मैं तुम्हारे पिता का अपमान सहती आई हूँ। कश्मीर जाओ और ऐसी साहसी चोरियाँ करो कि राजा लाचार होकर अपनी बेटी चोरों के सरदार को देने को मजबूर हो जाए। हाँ करने से पहले मुझे बुलवा लेना।\"",
+     "शबरंग राजधानी पहुँचा। वह महल के पहरे में भर्त हुआ और चोरियाँ करने लगा। शहर दंग था, और मन ही मन चोर का प्रशंसक भी।",
+     "राजा ने कोतवाल को फटकारा, जो उस रात ख़ुद गश्त पर निकला। एक सब्ज़ी के बाग़ में उसे पानी खींचती एक औरत मिली। \"वह आज रात मेरी शलजम चुराने आएगा,\" वह बोली। \"आप मेरे कपड़े पहनकर पानी के ढेंकुल पर चढ़ जाइए, ताकि उसे आपकी वर्द न दिखे।\" सुबह कोतवाल किसान की औरत के भेस में ऊँचाई पर बैठा मिला।",
+     "वज़ीर अपने तजुर्बे पर भरोसा करके निकला। एक दरवाज़े पर एक बुढ़िया चक्की पीस रही थी। \"एक शैतान ने मुझे पीटा और कहा कि उसके लौटने तक पीस दे,\" वह कराही। वज़ीर उसकी जगह बैठ गया और उसके कपड़े भी पहन लिए। जब वह अँधेरे घर में आटा पीस रहा था, शबरंग वज़ीर का लिबास पहने और घरों में चोरी कर रहा था।",
+     "राजा ने एक अनोखा उपाय खोजा। उसने ऐलान करवाया कि चोर अगर हाज़िर होकर चोरी न करने की क़सम खाए, तो वह उसे अपनी बेटी ब्याह देगा। अफ़वाहों की उपजाऊ धरती कश्मीर में तरह-तरह की बातें उड़ने लगीं। \"ज़रूर कोई परदेसी शहज़ादा होगा!\"",
+     "तीसरे दिन शबरंग दरबार में आया और उसने गुनाह क़बूल कर लिया। वह राजा को गड़ा हुआ माल दिखाने ले गया। राजा ने बेटी देने की बात दोहराई। शबरंग ने माँ को बुलवा लिया।",
+     "माँ ने राजा का शांत गरिमा से स्वागत किया और रिश्ते से इनकार कर दिया। \"शबरंग राजकुमारी से उतना ही ब्याह नहीं कर सकता, जितना कोई भाई अपनी बहन से।\" उलझन में पड़े राजा ने उसे अँगूठी और रूमाल निकालते और बाग़ की मुलाक़ात याद दिलाते देखा।",
+     "पहेली सुलझ गई। राजा, जो एक ही स्त्री से दो बार मात खा चुका था, अपनी रानी से मिल गया। बदला लेने आया शबरंग दामाद नहीं, राज्य का उत्तराधिकारी माना गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ],
+     [
+      12,
+      13
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6
+     ],
+     [
+      7,
+      8
+     ],
+     [
+      9,
+      10
+     ],
+     [
+      11,
+      12
+     ],
+     [
+      13,
+      14
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Kashmir Valley",
+  "community": "Kashmir Valley",
+  "tradition": "Clever-heroine tale of a neglected princess who wins back her father’s respect."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Kashmir Valley folk-tale tradition, as collected on ikashmir.net (Folk Tales from Kashmir, folktales2/17); the page credits the collection to S. L. Sadhu.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "scenes7": [
+  "assets/stories/shabrang/shabrang-scene-1.webp",
+  "assets/stories/shabrang/shabrang-scene-2.webp",
+  "assets/stories/shabrang/shabrang-scene-3.webp",
+  "assets/stories/shabrang/shabrang-scene-4.webp",
+  "assets/stories/shabrang/shabrang-scene-5.webp",
+  "assets/stories/shabrang/shabrang-scene-6.webp",
+  "assets/stories/shabrang/shabrang-scene-7.webp"
+ ],
+ "meta": [
+  "● Themes: wit over force, patience and agency, consequences of neglect, reconciliation instead of punishment. ● Glossary: kotwal (city police chief), wazir (chief minister), chinar (the tall plane tree of Kashmir), Shabrang (\"of the colour of night\"). ● Educator note: the plot involves a husband who neglects his wife, a disguise, and a reveal that two young people are half-siblings. The Grades 4 to 5 version keeps all of this brief and gentle; the Grades 8 to 10 version names the motive of revenge and ends in reconciliation. ● Discussion questions: Why did the princess disguise herself instead of confronting the king? How do the kotwal and wazir get fooled in different ways? Is the ending fair to everyone?"
+ ],
+ "tails": [
+  [
+   3,
+   [
+    "Word counts and review notes"
+   ]
+  ]
+ ]
+}

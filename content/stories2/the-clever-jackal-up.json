@@ -1,0 +1,312 @@
+{
+ "id": "the-clever-jackal-up",
+ "state": "up",
+ "title": "The Clever Jackal",
+ "titleHi": "चालाक सियार और बाघ",
+ "genre": "Animal trickster tale",
+ "levelTitles": {
+  "1": {
+   "en": "The Jackal Who Fooled the Tiger",
+   "hi": "चालाक सियार और बाघ"
+  },
+  "2": {
+   "en": "A Den for the Jackal’s Family",
+   "hi": "सियार के परिवार का नया घर"
+  },
+  "3": {
+   "en": "The Tiger’s Den",
+   "hi": "बाघ की गुफा"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Once upon a time, a jackal lived in the forest with his mate and their little cubs. They had no proper home. When winter arrived, the nights became very cold, and the cubs shivered beneath the tree where they slept.",
+     "The jackal went to his father and asked him to build a warm shelter for his family. His father promised to help, but he was lazy. Every time the jackal asked about the house, his father made an excuse.",
+     "Days passed, and the cubs were still cold. The jackal knew he had to find a home himself.",
+     "One afternoon, he spotted a large cave. It belonged to a tiger, but the tiger had gone out hunting. The jackal hurried back to his family and brought them to the empty cave.",
+     "“This will be our home,” he told them. “But we must be very clever. The tiger may return at any moment.”",
+     "He explained his plan. When he gave a signal, his mate and cubs had to make a great noise. The cubs would pretend to cry and say that they did not want to eat yesterday’s tiger meat. They wanted fresh tiger meat!",
+     "That evening, the tiger returned. He was surprised to see a jackal standing outside his cave. He was about to roar and chase him away when the jackal gave the signal.",
+     "Inside the cave, the cubs began to cry loudly.",
+     "Their mother called out, “Why are you crying?”",
+     "The cubs answered, “We don't want yesterday’s tiger meat! We want fresh tiger meat!”",
+     "The tiger stopped in his tracks. He thought, “What kind of creature lives in my cave? It must be so powerful that it eats tigers for dinner!”",
+     "Terrified, the tiger ran away into the forest. He never returned to the cave.",
+     "The jackal and his family finally had a warm home. The tiger was much bigger and stronger, but the jackal had used his cleverness to keep his family safe."
+    ],
+    "hi": [
+     "एक जंगल में एक सियार अपनी पत्नी और छोटे-छोटे बच्चों के साथ रहता था। उनका कोई पक्का घर नहीं था। जब सर्दियाँ आईं, तो रातें बहुत ठंडी हो गईं। पेड़ के नीचे सोते हुए सियार के बच्चे ठंड से काँपने लगे।",
+     "सियार ने अपने पिता से मदद माँगी। उसने कहा, “हमारे लिए एक छोटा-सा घर बना दीजिए। बच्चे ठंड में बहुत परेशान हैं।”",
+     "पिता ने घर बनाने का वादा तो किया, लेकिन वे बहुत आलसी थे। जब भी सियार उनसे घर के बारे में पूछता, वे कोई न कोई बहाना बना देते।",
+     "कई दिन बीत गए, लेकिन बच्चों को अब भी कोई छत नहीं मिली। सियार ने तय किया कि उसे अपने परिवार के लिए खुद ही घर ढूँढ़ना होगा।",
+     "एक दिन उसे जंगल में एक बड़ी-सी गुफा दिखाई दी। वह एक बाघ की गुफा थी, लेकिन बाघ शिकार करने बाहर गया हुआ था। सियार तुरंत अपने परिवार के पास लौटा और सबको गुफा में ले आया।",
+     "“अब यही हमारा घर होगा,” उसने कहा। “लेकिन हमें बहुत समझदारी से काम लेना होगा। बाघ कभी भी लौट सकता है।”",
+     "उसने सबको अपनी योजना समझाई। जब वह इशारा करे, तो सभी को ज़ोर-ज़ोर से आवाज़ करनी होगी। बच्चे रोने का नाटक करेंगे और कहेंगे कि उन्हें कल का बाघ का मांस नहीं खाना। उन्हें ताज़ा बाघ का मांस चाहिए!",
+     "शाम को बाघ लौट आया। उसने अपनी गुफा के बाहर सियार को खड़ा देखा। वह दहाड़ने ही वाला था कि सियार ने अपने परिवार को इशारा कर दिया।",
+     "गुफा के अंदर बच्चे ज़ोर-ज़ोर से रोने लगे।",
+     "उनकी माँ ने पूछा, “तुम क्यों रो रहे हो?”",
+     "बच्चों ने जवाब दिया, “हमें कल का बाघ का मांस नहीं खाना! हमें आज का ताज़ा बाघ का मांस चाहिए!”",
+     "बाघ यह सुनकर ठिठक गया। उसने सोचा, “मेरी गुफा में कौन रहता है? यह तो इतना ताकतवर होगा कि रोज़ बाघ खाता होगा!”",
+     "डर के मारे बाघ जंगल की ओर भाग गया। वह फिर कभी उस गुफा में नहीं लौटा।",
+     "सियार और उसका परिवार अब आराम से वहाँ रहने लगे। बाघ उनसे कहीं बड़ा और ताकतवर था, लेकिन सियार ने अपनी बुद्धि से अपने परिवार को सुरक्षित रख लिया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Deep in a forest lived a jackal with his mate and their young cubs. They had no permanent home and slept beneath a tree. When winter arrived, the cold became difficult to bear. The cubs shivered through the night, and their parents worried that they would fall ill.",
+     "The jackal approached his father and asked him to build a shelter for the family. His father agreed, but he was lazy and kept postponing the work. Whenever his son asked about the house, he claimed that the earth had collapsed or that he needed to begin digging all over again.",
+     "The jackal's mate grew impatient. She told him that the family could not continue living under a tree in such cold weather. The jackal realised that he could not depend on his father any longer.",
+     "One day, while searching through the forest, he discovered a tiger’s den. The tiger was away hunting, and the cave was empty. The jackal saw an opportunity. He hurried back, brought his mate and cubs to the den, and settled them inside.",
+     "But he knew the tiger would return. He therefore gathered his family and explained a plan. At his signal, the cubs would begin crying. Their mother would ask what was wrong, and the cubs would loudly declare that they did not want the stale flesh of yesterday’s tiger. They wanted a freshly killed tiger instead.",
+     "That evening, the tiger approached his den and saw the jackal standing at its entrance. Furious at finding an intruder, he prepared to attack. At that moment, the jackal gave the agreed signal.",
+     "The cubs began to cry. Their mother asked why they were making such a noise. The cubs replied that they were tired of eating yesterday’s tiger meat and wanted a fresh tiger for dinner.",
+     "The tiger froze. He could not imagine what kind of creature would speak so casually about eating tigers. Perhaps a monster stronger than himself had taken over his den! Without waiting to find out, he turned and fled into the forest.",
+     "The jackal’s plan had worked. His family now had a safe shelter, and the tiger was too frightened to return. The jackal had no great strength or sharp claws, but he had found a way to protect his family by thinking quickly."
+    ],
+    "hi": [
+     "घने जंगल में एक सियार अपनी पत्नी और बच्चों के साथ रहता था। उनका कोई स्थायी घर नहीं था। वे एक पेड़ के नीचे सोया करते थे। सर्दियाँ आते ही ठंड बहुत बढ़ गई। बच्चे रात भर काँपते रहते और उनके माता-पिता को डर था कि कहीं वे बीमार न पड़ जाएँ।",
+     "सियार अपने पिता के पास गया और उनसे परिवार के लिए एक आश्रय बनाने की विनती की। पिता ने हामी तो भर दी, लेकिन वे बहुत आलसी थे और काम को टालते रहते थे। जब भी बेटा घर के बारे में पूछता, वे कहते कि ज़मीन धँस गई है या उन्हें फिर से खुदाई शुरू करनी पड़ेगी।",
+     "सियार की पत्नी अब और इंतज़ार नहीं करना चाहती थी। उसने कहा कि इतनी ठंड में पेड़ के नीचे रहना अब संभव नहीं है। सियार समझ गया कि वह अपने पिता पर और भरोसा नहीं कर सकता।",
+     "एक दिन जंगल में घर ढूँढ़ते हुए उसे बाघ की एक गुफा दिखाई दी। बाघ शिकार की तलाश में बाहर गया हुआ था और गुफा खाली थी। सियार को एक उपाय सूझा। वह तुरंत अपने परिवार के पास गया और सबको गुफा में ले आया।",
+     "लेकिन उसे पता था कि बाघ लौटकर ज़रूर आएगा। इसलिए उसने अपने परिवार को इकट्ठा किया और एक योजना समझाई। उसके इशारे पर बच्चे रोने लगेंगे। उनकी माँ उनसे पूछेगी कि वे क्यों रो रहे हैं। तब बच्चे ज़ोर से कहेंगे कि उन्हें कल का बाघ का मांस नहीं खाना, उन्हें आज का ताज़ा बाघ चाहिए!",
+     "शाम को बाघ अपनी गुफा की ओर लौटा। उसने दरवाज़े पर सियार को खड़ा देखा। अपनी गुफा में किसी और को देखकर वह क्रोधित हो गया और हमला करने ही वाला था कि सियार ने अपने परिवार को संकेत दे दिया।",
+     "बच्चे रोने लगे। उनकी माँ ने पूछा कि वे इतना शोर क्यों कर रहे हैं। बच्चों ने जवाब दिया कि वे कल का बाघ का मांस खाकर ऊब गए हैं और आज रात उन्हें ताज़ा बाघ खाना है।",
+     "बाघ यह सुनकर सन्न रह गया। वह सोचने लगा कि आखिर कौन-सा जीव इतनी आसानी से बाघ को खाने की बात कर सकता है। शायद उसकी गुफा में उससे भी बड़ा और ताकतवर कोई राक्षस आ गया था! यह जानने की हिम्मत किए बिना ही वह जंगल की ओर भाग गया।",
+     "सियार की योजना सफल रही। उसके परिवार को सुरक्षित आश्रय मिल गया और बाघ दोबारा लौटने की हिम्मत नहीं कर पाया। सियार के पास न तो बाघ जैसी ताकत थी और न ही तेज़ पंजे, लेकिन उसने अपनी सूझ-बूझ से परिवार की रक्षा कर ली।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "A jackal lived in the forest with his mate and their cubs. They had no den of their own and made do with a place beneath a tree. When winter arrived, the cold nights became unbearable for the young ones. Their father grew anxious and approached his own father, asking him to build a shelter for the family.",
+     "The older jackal promised to help, but he was a creature of excuses. Days passed, and each time his son asked about the house, he claimed that the ground had caved in or that the digging had to be started again. The younger jackal's mate finally lost patience. She warned him that she could not watch their cubs suffer any longer.",
+     "The jackal understood that waiting for his father was pointless. He began searching for shelter himself. One day, he came upon a tiger’s den. The tiger was away hunting, and the cave stood empty. It was large enough for his entire family.",
+     "He returned to his mate and cubs and led them to the den. But taking possession of a tiger’s home was a dangerous decision. The owner would certainly return, and the jackal could not hope to defeat him in a fight.",
+     "Instead, he decided to use the tiger’s own imagination against him.",
+     "He explained the plan to his family. When he raised his leg as a signal, his mate would prompt the cubs to cry loudly. The cubs would then complain that they had grown tired of eating the flesh of the tiger killed the previous day. They wanted a fresh tiger.",
+     "As evening approached, the jackal stationed himself at the entrance of the den. Soon the tiger returned from his hunt. Seeing an intruder at his doorway, he was overcome with anger and prepared to spring upon him.",
+     "The jackal raised his leg.",
+     "At once, the cubs began to cry. Their mother asked what was troubling them. In response, they announced that they did not want yesterday’s tiger meat and demanded a freshly killed tiger for their meal.",
+     "The words reached the tiger. He stopped, uncertain whether to believe what he had heard. If the jackals were merely ordinary animals, why would they speak of eating tigers as though it were an everyday meal? Perhaps the den had been occupied by some enormous creature whose strength was beyond anything he knew.",
+     "The tiger's anger gave way to fear. Rather than risk discovering what waited inside, he fled into the forest and did not return.",
+     "The jackal and his family remained in the den. They had survived not because they were stronger than the tiger, but because they understood that fear could be turned against the powerful. The tale celebrates quick thinking and the courage to protect those who depend on us."
+    ],
+    "hi": [
+     "एक जंगल में एक सियार अपनी पत्नी और बच्चों के साथ रहता था। उनका अपना कोई घर नहीं था। वे एक पेड़ के नीचे किसी तरह गुज़ारा करते थे। सर्दियाँ शुरू हुईं तो रातें बहुत ठंडी हो गईं और छोटे बच्चों के लिए खुले में सोना मुश्किल हो गया। चिंतित पिता अपने पिता के पास पहुँचा और उनसे परिवार के लिए एक आश्रय बनाने की विनती की।",
+     "बूढ़े सियार ने मदद का वादा किया, लेकिन वह बहाने बनाने में माहिर था। कई दिन बीत गए। जब भी उसका बेटा घर के बारे में पूछता, वह कहता कि ज़मीन धँस गई है या खुदाई फिर से शुरू करनी पड़ेगी। आखिरकार छोटे सियार की पत्नी का धैर्य टूट गया। उसने कहा कि वह अपने बच्चों को इस तरह ठंड में तड़पते नहीं देख सकती।",
+     "सियार समझ गया कि पिता की प्रतीक्षा करना व्यर्थ है। उसने खुद ही आश्रय ढूँढ़ना शुरू किया। एक दिन उसे बाघ की गुफा दिखाई दी। बाघ शिकार पर गया हुआ था और गुफा खाली थी। वह इतनी बड़ी थी कि पूरा परिवार उसमें रह सकता था।",
+     "सियार अपनी पत्नी और बच्चों को वहाँ ले आया। लेकिन बाघ के घर में रहना बहुत ख़तरनाक था। गुफा का मालिक लौटकर ज़रूर आएगा और सियार उससे लड़कर जीत नहीं सकता था।",
+     "इसलिए उसने तय किया कि वह बाघ की ताकत से नहीं, बल्कि उसकी कल्पना से मुकाबला करेगा।",
+     "उसने अपने परिवार को योजना समझाई। जब वह अपना पैर उठाकर संकेत देगा, तो उसकी पत्नी बच्चों को ज़ोर-ज़ोर से रोने के लिए कहेगी। फिर बच्चे शिकायत करेंगे कि वे कल मारे गए बाघ का मांस खाते-खाते ऊब गए हैं। अब उन्हें ताज़ा बाघ चाहिए।",
+     "शाम होने पर सियार गुफा के प्रवेश द्वार पर खड़ा हो गया। कुछ ही देर में बाघ शिकार से लौट आया। अपने घर के बाहर एक अजनबी को देखकर वह क्रोध से भर गया और उस पर झपटने ही वाला था।",
+     "तभी सियार ने अपना पैर उठाया।",
+     "बच्चे तुरंत रोने लगे। उनकी माँ ने पूछा कि उन्हें क्या हुआ है। बच्चों ने जवाब दिया कि उन्हें कल का बाघ का मांस नहीं चाहिए। आज रात के खाने के लिए उन्हें ताज़ा बाघ चाहिए।",
+     "यह बात बाघ के कानों तक पहुँची। वह ठिठक गया। अगर गुफा में रहने वाले सियार साधारण जानवर थे, तो वे इतनी सहजता से बाघ को खाने की बात क्यों कर रहे थे? शायद उनकी गुफा में कोई ऐसा विशाल जीव आ बसा था जिसकी ताकत का उसे अंदाज़ा भी नहीं था।",
+     "बाघ का क्रोध डर में बदल गया। गुफा के भीतर क्या है, यह जानने का जोखिम उठाने के बजाय वह जंगल की ओर भाग गया। वह फिर कभी वापस नहीं लौटा।",
+     "सियार और उसका परिवार गुफा में रहने लगे। वे इसलिए नहीं बचे कि वे बाघ से अधिक ताकतवर थे, बल्कि इसलिए कि उन्होंने समझ लिया था कि भय को भी शक्तिशाली के विरुद्ध इस्तेमाल किया जा सकता है। यह कहानी सूझ-बूझ और उन लोगों की रक्षा करने के साहस का उत्सव मनाती है जो हम पर निर्भर हैं।",
+     "Source and cultural attribution register",
+     "Story Source What can responsibly be claimed",
+     "The K. P. Bahadur, Folk Tales of Uttar Published as a Uttar Pradesh folktale. Four Pradesh (Sterling Publishers, 1972); No specific district, language Fairies reproduced by Centre for community or original storyteller is Contemporary Folklore identified in the accessible record.",
+     "The Same collection; reproduced by Published as a Uttar Pradesh folktale. Clever Centre for Contemporary Folklore The accessible record does not Jackal establish a more specific community origin.",
+     "Useful source links",
+     "● The Four Fairies — Centre for Contemporary Folklore ● The Clever Jackal — Centre for Contemporary Folklore ● Folk Tales of Uttar Pradesh — Google Books catalogue ● Folk Tales of Uttar Pradesh — University of Calicut library catalogue",
+     "Uttarakhand",
+     "For Uttarakhand, I’d like to represent both the Garhwali and Kumaoni storytelling traditions, rather than treating the state’s folklore as one undifferentiated collection. A good pair should also give children two different kinds of stories: one rooted in the mountains and their relationship with the natural world, and another built around wit, courage or kindness.",
+     "I’m checking the source trails carefully so that the adaptations are based on identifiable stories, rather than simply inventing plots around familiar Himalayan settings.",
+     "The strongest documented pair I found is:",
+     "1. Fyoli — The Girl Who Became a Flower: a Garhwali literary folktale associated with the yellow spring flower fyoli. 2. Ghughutiya — The Child and the Crow: a Kumaoni origin legend associated with the Uttarayani/Ghughutiya festival and the custom of offering sweet treats to crows.",
+     "These are not identical kinds of sources: the first is explicitly attributed to Garhwali writer Govind Chatak; the second is a regional festival legend recorded in a contemporary Kumaoni cultural account. I’ll retain that distinction in the catalogue.",
+     "फ्योंली की लोककथा+1"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4,
+      5,
+      6
+     ],
+     [
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Uttar Pradesh",
+  "community": "Not attributed to a specific district or community",
+  "tradition": "Animal trickster tale."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "K. P. Bahadur, Folktales from Uttar Pradesh, as reproduced by the Centre for Contemporary Folklore (CCF).",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-180-021",
+ "meta": [
+  "Genre: Animal trickster tale · Themes: courage, quick thinking, family, intelligence over strength",
+  "Source and cultural attribution",
+  "This tale is reproduced by the Centre for Contemporary Folklore and attributed to K. P. Bahadur’s Folktales from Uttar Pradesh. It follows a jackal trying to find shelter for his mate and cubs during winter. When he discovers an empty tiger’s den, he devises a clever performance to convince the returning tiger that a much more dangerous creature is inside. The accessible source does not identify a particular district or oral community.",
+  "Centre for Contemporary Folklore (CCF)+1",
+  "Narrative note: The original version has the mother jackal bite the cubs to make them cry, as part of the trick. In the adaptations, this is softened to a harmless agreed signal or a loud cry, so the scene remains suitable for children while retaining the central deception."
+ ]
+}

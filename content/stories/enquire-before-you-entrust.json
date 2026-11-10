@@ -1,0 +1,529 @@
+{
+ "id": "enquire-before-you-entrust",
+ "state": "ap",
+ "title": "Enquire Before You Entrust",
+ "titleHi": "सौंपने से पहले जाँचो",
+ "summary": "An old king asks his three sons what they want most in life. Only the youngest dreams of serving and protecting the people, and so the king gives him the crown.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Telugu folktale, Andhra Pradesh (from G. R. Subramiah Pantulu’s Folk-lore of the Telugus)",
+ "origLevel": 3,
+ "levelReason": "The supplied text has longer, layered sentences (about 14 words on average) and abstract vocabulary such as successor, intellectual pursuits, rhetoric, prosperity, welfare and entrusted. It also asks readers to think about character and leadership, which matches Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a king named Dwijakirtti ruled Cholamaudala. He had grown old. Ruling the kingdom was now hard for him.",
+     "He began to think about who should rule next. He had three sons. He wanted the kingdom to be in good hands.",
+     "The king did not just pick his oldest son. He wanted to learn what each son wished for. He wanted to know if each could rule well.",
+     "He called his oldest son first. “My son,” he asked, “what do you want most in life?”",
+     "The oldest prince said he wanted to live near great scholars. He wanted to study all day. He wanted to learn grammar and logic and how to speak well. He also wanted to read holy books, the Ramayana and the Mahabharata.",
+     "The king listened well. He saw that this son loved learning more than ruling.",
+     "So the king gave him a few villages. Their money would give him all he needed. The king told him, “You are free to study and live as you wish.”",
+     "Next, the king called his second son. “What do you want most?” he asked.",
+     "The second prince said he wanted to get great wealth. He wanted to travel to far-off holy places.",
+     "The king saw that this son cared more about riches and holy journeys than about ruling. So he gave him the money he needed. He sent him on his pilgrimage.",
+     "Last, the king called his youngest son. “My son, tell me what you want most.”",
+     "The youngest prince thought before he spoke. “Father, I want to build a kingdom of my own. I want a strong army. I want to keep our people safe. I want our lands to grow rich. I want everyone to live in peace. I want to rule fairly. I want people to speak well of me for what I do.”",
+     "The king was very happy with this answer. His youngest son was not thinking only of money or learning or fun. He was thinking about the people. He was thinking about a leader’s duty.",
+     "The king knew these were the qualities he wanted. He put the royal crown in his youngest son’s hands. He trusted him with the kingdom.",
+     "The young prince took up the duty. He ruled with fairness and kindness. The people grew rich. The lands did well. The kingdom was at peace.",
+     "The king’s choice was a wise one. He had not picked by age or by love. He had taken time to know each son.",
+     "So the story teaches us this. Before we trust someone with big work, we must know what they can do, what they are like, and what they plan.",
+     "Moral: Give big work to people who are able, good and ready to serve others."
+    ],
+    "hi": [
+     "बहुत पहले द्विजकीर्ति नाम का एक राजा चोलमंडल पर राज करता था। वह बूढ़ा हो गया था। अब राज चलाना उसके लिए कठिन था।",
+     "वह सोचने लगा कि आगे कौन राज करेगा। उसके तीन बेटे थे। वह चाहता था कि राज्य अच्छे हाथों में जाए।",
+     "राजा ने बस बड़े बेटे को नहीं चुना। वह जानना चाहता था कि हर बेटा क्या चाहता है। वह देखना चाहता था कि कौन अच्छा राज कर सकता है।",
+     "उसने पहले बड़े बेटे को बुलाया। “बेटा,” उसने पूछा, “तुम जीवन में सबसे ज़्यादा क्या चाहते हो?”",
+     "बड़े राजकुमार ने कहा कि वह बड़े-बड़े विद्वानों के पास रहना चाहता है। वह दिन भर पढ़ना चाहता है। वह व्याकरण, तर्कशास्त्र और अच्छा बोलना सीखना चाहता है। वह रामायण और महाभारत जैसे पवित्र ग्रंथ भी पढ़ना चाहता है।",
+     "राजा ने ध्यान से सुना। वह समझ गया कि इस बेटे को राज करने से ज़्यादा पढ़ना पसंद है।",
+     "इसलिए राजा ने उसे कुछ गाँव दे दिए। उनकी कमाई से उसकी सब ज़रूरतें पूरी हो जातीं। राजा ने कहा, “तुम अपनी इच्छा से पढ़ो और जैसे चाहो रहो।”",
+     "फिर राजा ने दूसरे बेटे को बुलाया। “तुम सबसे ज़्यादा क्या चाहते हो?” उसने पूछा।",
+     "दूसरे राजकुमार ने कहा कि वह बहुत धन कमाना चाहता है। वह दूर-दूर के तीर्थ स्थानों की यात्रा करना चाहता है।",
+     "राजा ने देखा कि इस बेटे को राज करने से ज़्यादा धन और तीर्थ यात्रा की चाह है। इसलिए उसने उसे ज़रूरी धन दिया और तीर्थ यात्रा पर भेज दिया।",
+     "आख़िर में राजा ने सबसे छोटे बेटे को बुलाया। “बेटा, बताओ, तुम सबसे ज़्यादा क्या चाहते हो?”",
+     "सबसे छोटे राजकुमार ने सोचकर जवाब दिया। “पिताजी, मैं अपना एक राज्य बनाना चाहता हूँ। मैं एक मज़बूत सेना चाहता हूँ। मैं अपनी प्रजा को सुरक्षित रखना चाहता हूँ। मैं चाहता हूँ कि हमारे प्रांत खुशहाल हों। मैं चाहता हूँ कि सब शांति से रहें। मैं न्याय से राज करना चाहता हूँ। मैं चाहता हूँ कि लोग मेरे कामों के लिए मुझे अच्छा कहें।”",
+     "राजा इस जवाब से बहुत खुश हुआ। उसका सबसे छोटा बेटा सिर्फ़ धन, विद्या या मौज के बारे में नहीं सोच रहा था। वह प्रजा के बारे में सोच रहा था। वह एक नेता के कर्तव्य के बारे में सोच रहा था।",
+     "राजा समझ गया कि उसे यही गुण चाहिए थे। उसने शाही मुकुट अपने सबसे छोटे बेटे के हाथों में रख दिया। उसने उसे राज्य सौंप दिया।",
+     "युवा राजकुमार ने यह ज़िम्मेदारी संभाल ली। वह न्याय और दया से राज करने लगा। प्रजा खुशहाल हुई। प्रांत फले-फूले। राज्य में शांति रही।",
+     "राजा का फ़ैसला समझदारी भरा था। उसने उम्र या प्यार देखकर नहीं चुना था। उसने हर बेटे को जानने में समय लगाया था।",
+     "इसलिए यह कहानी हमें सिखाती है कि किसी को बड़ा काम सौंपने से पहले हमें जानना चाहिए कि वह क्या कर सकता है, कैसा इंसान है और क्या चाहता है।",
+     "सीख: बड़ा काम उन्हीं को दो जो सक्षम हों, अच्छे हों और दूसरों की सेवा करने को तैयार हों।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "villages",
+     "en": "small towns in the countryside",
+     "hi": "गाँव"
+    },
+    {
+     "w": "scholars",
+     "en": "people who study and know a lot",
+     "hi": "विद्वान"
+    },
+    {
+     "w": "grammar",
+     "en": "the rules of a language",
+     "hi": "व्याकरण"
+    },
+    {
+     "w": "holy",
+     "en": "sacred; special to a religion",
+     "hi": "पवित्र"
+    },
+    {
+     "w": "riches",
+     "en": "a lot of money and treasure",
+     "hi": "धन-दौलत"
+    },
+    {
+     "w": "pilgrimage",
+     "en": "a journey to a holy place",
+     "hi": "तीर्थ यात्रा"
+    },
+    {
+     "w": "army",
+     "en": "a large group of soldiers",
+     "hi": "सेना"
+    },
+    {
+     "w": "fairly",
+     "en": "in a way that is just and equal for all",
+     "hi": "न्याय से"
+    },
+    {
+     "w": "crown",
+     "en": "the royal headpiece a king or queen wears",
+     "hi": "मुकुट"
+    },
+    {
+     "w": "wise",
+     "en": "showing good thinking and sense",
+     "hi": "समझदारी भरा"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and why",
+     "q": "Why did the old king start to think about who should rule after him?"
+    },
+    {
+     "k": "Events",
+     "q": "What did each of the three princes say they wanted most?"
+    },
+    {
+     "k": "Feelings",
+     "q": "Why was the king so happy with his youngest son’s answer?"
+    },
+    {
+     "k": "Fair or not",
+     "q": "Do you think the king was kind to his two older sons? Why?"
+    },
+    {
+     "k": "Your life",
+     "q": "If you could choose one thing to do when you grow up, what would it be?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, a king named Dwijakirtti ruled the land of Cholamaudala. He had grown old, and ruling the kingdom had become hard for him.",
+     "He began to think about who should rule after him. He had three sons, and he wanted the kingdom to pass into good hands.",
+     "The king did not simply choose his eldest son. Instead, he decided to find out what each son truly wanted and whether he had what it takes to rule.",
+     "He called his eldest son first. “My son,” he asked, “what do you want most in life?”",
+     "The eldest prince said he wanted to be surrounded by the greatest scholars in the land. He wanted to spend his days studying grammar, logic, the art of public speaking and other kinds of knowledge. He also wanted to read holy books like the Ramayana and the Mahabharata.",
+     "The king listened carefully. He understood that his eldest son cared more about learning than about the duties of ruling.",
+     "So the king gave him a few villages, whose income would take care of his needs. He told the prince he was free to study and live the life he wished for.",
+     "Next, the king called his second son. “And what do you want most?” he asked.",
+     "The second prince said he wanted to gain great wealth and travel to faraway holy places.",
+     "The king saw that this son cared more about his own riches and spiritual journeys than about governing. So he gave him the money he needed and sent him on his pilgrimage.",
+     "Finally, the king called his youngest son. “My son, tell me what you want most.”",
+     "The youngest prince answered thoughtfully. “Father, I want to build a kingdom of my own. I want to raise a strong army, protect our people, help our provinces grow rich, and make sure everyone in the kingdom can live in peace. I want to rule fairly and earn a good name through my deeds.”",
+     "The king was delighted by this answer. He saw that his youngest son was not thinking only of his own wealth, learning or pleasure. He was thinking about the good of the people and the duties of a leader.",
+     "The king knew these were the qualities he had been looking for. He placed the royal crown in his youngest son’s hands and trusted him with the kingdom.",
+     "The young prince accepted the duty and began to rule with justice and kindness. Under him, the people prospered, the provinces flourished and the kingdom enjoyed peace.",
+     "The king’s decision proved wise. He had not chosen his heir by birth order or by affection. He had taken the time to understand each son’s character, wishes and abilities.",
+     "And so the story teaches us that before we trust someone with an important duty, we must first understand what they can do, what kind of person they are and what they intend.",
+     "Moral: Responsibility should be given to those who have the ability, the character and the willingness to serve others."
+    ],
+    "hi": [
+     "बहुत समय पहले द्विजकीर्ति नाम का एक राजा चोलमंडल देश पर राज करता था। वह बूढ़ा हो गया था और राज्य चलाना उसके लिए कठिन होता जा रहा था।",
+     "वह सोचने लगा कि उसके बाद गद्दी पर कौन बैठेगा। उसके तीन बेटे थे और वह चाहता था कि राज्य योग्य हाथों में जाए।",
+     "राजा ने सीधे बड़े बेटे को नहीं चुना। उसने तय किया कि वह पता लगाएगा कि हर बेटा सच में क्या चाहता है और क्या उसमें राज करने के गुण हैं।",
+     "उसने सबसे पहले बड़े बेटे को बुलाया। “बेटा,” उसने पूछा, “तुम जीवन में सबसे ज़्यादा क्या चाहते हो?”",
+     "बड़े राजकुमार ने कहा कि वह देश के सबसे महान विद्वानों के बीच रहना चाहता है। वह अपने दिन व्याकरण, तर्कशास्त्र, भाषण-कला और ज्ञान की दूसरी शाखाओं को पढ़ने में बिताना चाहता था। वह रामायण और महाभारत जैसे पवित्र ग्रंथ भी पढ़ना चाहता था।",
+     "राजा ने ध्यान से सुना। वह समझ गया कि उसका बड़ा बेटा राज करने की ज़िम्मेदारियों से ज़्यादा विद्या को महत्व देता है।",
+     "इसलिए राजा ने उसे कुछ गाँव दे दिए, जिनकी आमदनी से उसकी ज़रूरतें पूरी होतीं। उसने राजकुमार से कहा कि वह अपनी पढ़ाई करने और अपनी पसंद का जीवन जीने के लिए आज़ाद है।",
+     "इसके बाद राजा ने दूसरे बेटे को बुलाया। “और तुम सबसे ज़्यादा क्या चाहते हो?” उसने पूछा।",
+     "दूसरे राजकुमार ने कहा कि वह बहुत धन कमाना और दूर-दूर के तीर्थ स्थानों की यात्रा करना चाहता है।",
+     "राजा ने देखा कि यह बेटा राज करने से ज़्यादा अपनी दौलत और आध्यात्मिक यात्राओं में दिलचस्पी रखता है। इसलिए उसने उसे ज़रूरी धन दिया और तीर्थ यात्रा पर भेज दिया।",
+     "आख़िर में राजा ने सबसे छोटे बेटे को बुलाया। “बेटा, बताओ, तुम सबसे ज़्यादा क्या चाहते हो।”",
+     "सबसे छोटे राजकुमार ने सोच-समझकर जवाब दिया। “पिताजी, मैं अपना एक राज्य बनाना चाहता हूँ। मैं एक ताक़तवर सेना खड़ी करना, अपनी प्रजा की रक्षा करना और अपने प्रांतों को समृद्ध बनाना चाहता हूँ। मैं चाहता हूँ कि राज्य में हर कोई शांति से रह सके। मैं निष्पक्षता से शासन करना और अपने कामों से अच्छा नाम कमाना चाहता हूँ।”",
+     "राजा इस उत्तर से बहुत प्रसन्न हुआ। उसने देखा कि उसका सबसे छोटा बेटा सिर्फ़ अपने धन, विद्या या सुख के बारे में नहीं सोच रहा। वह प्रजा की भलाई और एक नेता की ज़िम्मेदारियों के बारे में सोच रहा था।",
+     "राजा जान गया कि वह जिन गुणों की तलाश में था, ये वही हैं। उसने शाही मुकुट अपने सबसे छोटे बेटे के हाथों में रखा और उसे राज्य सौंप दिया।",
+     "युवा राजकुमार ने यह ज़िम्मेदारी स्वीकार की और न्याय और उदारता से शासन करने लगा। उसके नेतृत्व में प्रजा समृद्ध हुई, प्रांत फले-फूले और राज्य में शांति रही।",
+     "राजा का फ़ैसला सही साबित हुआ। उसने अपना उत्तराधिकारी जन्म के क्रम या अपने लगाव से नहीं चुना था। उसने हर बेटे के चरित्र, इच्छाओं और क्षमताओं को समझने में समय लगाया था।",
+     "इस तरह कहानी हमें सिखाती है कि किसी को कोई बड़ी ज़िम्मेदारी सौंपने से पहले हमें समझना चाहिए कि वह क्या कर सकता है, कैसा इंसान है और उसके इरादे क्या हैं।",
+     "सीख: ज़िम्मेदारी उन्हीं को सौंपी जानी चाहिए जिनमें योग्यता, चरित्र और दूसरों की सेवा करने की इच्छा हो।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "scholars",
+     "en": "people who have studied a subject deeply",
+     "hi": "विद्वान"
+    },
+    {
+     "w": "logic",
+     "en": "the study of clear, correct reasoning",
+     "hi": "तर्कशास्त्र"
+    },
+    {
+     "w": "income",
+     "en": "money that comes in regularly",
+     "hi": "आमदनी"
+    },
+    {
+     "w": "riches",
+     "en": "great wealth",
+     "hi": "दौलत"
+    },
+    {
+     "w": "pilgrimage",
+     "en": "a journey to a holy place for religious reasons",
+     "hi": "तीर्थ यात्रा"
+    },
+    {
+     "w": "provinces",
+     "en": "regions or parts of a kingdom",
+     "hi": "प्रांत"
+    },
+    {
+     "w": "delighted",
+     "en": "very pleased",
+     "hi": "बहुत प्रसन्न"
+    },
+    {
+     "w": "prospered",
+     "en": "became rich and successful",
+     "hi": "समृद्ध हुए"
+    },
+    {
+     "w": "flourished",
+     "en": "grew well and did very well",
+     "hi": "फले-फूले"
+    },
+    {
+     "w": "heir",
+     "en": "the person who will take over after someone",
+     "hi": "उत्तराधिकारी"
+    },
+    {
+     "w": "willingness",
+     "en": "being ready and happy to do something",
+     "hi": "इच्छा, तत्परता"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did the king ask each son the same question instead of simply choosing the eldest?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "How did each prince’s answer lead to what the king gave him?"
+    },
+    {
+     "k": "Decisions",
+     "q": "The king did not punish the two older sons. What did he do for them, and what does that show about him?"
+    },
+    {
+     "k": "What mattered",
+     "q": "What was different about the youngest prince’s wish compared with his brothers’ wishes?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The eldest loved learning and the second loved travel. Are these bad wishes? Why were they not right for ruling?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, there ruled a king named Dwijakirtti, the ruler of Cholamaudala. The king had grown old, and the responsibilities of governing his kingdom had become increasingly difficult for him.",
+     "He began thinking about his successor. He had three sons, and he wanted to make sure that the kingdom would pass into capable hands.",
+     "Rather than simply choosing his eldest son, the king decided to discover what each of his sons truly desired and whether they possessed the qualities required to rule.",
+     "He summoned his eldest son first. “My son,” he asked, “what do you desire most in life?”",
+     "The eldest prince replied that he wished to surround himself with the greatest scholars in the land. He wanted to spend his days studying grammar, logic, rhetoric and other branches of knowledge. He also wished to read sacred works such as the Ramayana and the Mahabharata.",
+     "The king listened carefully. He understood that his eldest son valued learning and intellectual pursuits above the responsibilities of ruling a kingdom.",
+     "The king therefore granted him a few villages whose income would provide for his needs. He told the prince that he was free to pursue his studies and live the life he desired.",
+     "Next, the king summoned his second son. “And what is it that you desire most?” he asked.",
+     "The second prince replied that he wished to acquire great wealth and travel to distant places of pilgrimage.",
+     "The king recognised that his son was more interested in personal prosperity and spiritual journeys than in governing a kingdom. He therefore provided him with the money he needed and sent him on his pilgrimage.",
+     "Finally, the king called his youngest son. “My son, tell me what you desire most.”",
+     "The youngest prince answered thoughtfully. “Father, I wish to build a kingdom of my own. I want to raise a powerful army, protect our people, make our provinces prosperous and ensure that everyone in the kingdom can live in peace. I wish to govern fairly and earn a good reputation through my actions.”",
+     "The king was delighted by this answer. He saw that his youngest son was not thinking merely of personal wealth, scholarship or pleasure. He was thinking about the welfare of the people and the responsibilities of leadership.",
+     "The king realised that these were the qualities he had been searching for. He placed the royal crown in the hands of his youngest son and entrusted him with the kingdom.",
+     "The young prince accepted the responsibility and began governing with justice and generosity. Under his leadership, the people prospered, the provinces flourished and the kingdom enjoyed peace.",
+     "The king’s decision proved wise. He had not chosen his successor simply by birth order or personal affection. He had taken the time to understand the character, ambitions and abilities of each of his sons.",
+     "And so the story teaches us that before entrusting someone with an important responsibility, we must first understand their capabilities, character and intentions.",
+     "Moral: Responsibility should be entrusted to those who possess the ability, character and willingness to serve others."
+    ],
+    "hi": [
+     "बहुत पहले द्विजकीर्ति नाम का एक राजा था, जो चोलमंडल पर शासन करता था। राजा वृद्ध हो चला था और राज्य के शासन की ज़िम्मेदारियाँ उसके लिए दिन-ब-दिन कठिन होती जा रही थीं।",
+     "वह अपने उत्तराधिकारी के बारे में सोचने लगा। उसके तीन पुत्र थे और वह यह सुनिश्चित करना चाहता था कि राज्य सक्षम हाथों में पहुँचे।",
+     "केवल बड़े बेटे को चुन लेने के बजाय राजा ने यह जानने का निश्चय किया कि उसके हर पुत्र की सच्ची इच्छा क्या है और क्या उनमें शासन करने के लिए ज़रूरी गुण हैं।",
+     "उसने सबसे पहले अपने ज्येष्ठ पुत्र को बुलवाया। “बेटा,” उसने पूछा, “जीवन में तुम सबसे अधिक क्या चाहते हो?”",
+     "ज्येष्ठ राजकुमार ने उत्तर दिया कि वह देश के सबसे महान विद्वानों से घिरे रहना चाहता है। वह अपने दिन व्याकरण, तर्कशास्त्र, वाक्पटुता और ज्ञान की अन्य शाखाओं के अध्ययन में बिताना चाहता था। वह रामायण और महाभारत जैसे पवित्र ग्रंथों को भी पढ़ना चाहता था।",
+     "राजा ने ध्यान से सुना। वह समझ गया कि उसका बड़ा बेटा राज्य चलाने की ज़िम्मेदारियों से ऊपर विद्या और बौद्धिक कामों को महत्व देता है।",
+     "इसलिए राजा ने उसे कुछ गाँव प्रदान किए, जिनकी आय से उसकी आवश्यकताएँ पूरी हो सकें। उसने राजकुमार से कहा कि वह अपने अध्ययन में लगने और अपनी मनचाही ज़िंदगी जीने के लिए स्वतंत्र है।",
+     "इसके बाद राजा ने अपने दूसरे पुत्र को बुलवाया। “और तुम सबसे अधिक क्या चाहते हो?” उसने पूछा।",
+     "दूसरे राजकुमार ने उत्तर दिया कि वह अपार धन अर्जित करना और दूर-दूर के तीर्थ स्थानों की यात्रा करना चाहता है।",
+     "राजा ने भाँप लिया कि उसके इस पुत्र की रुचि राज्य चलाने से अधिक निजी समृद्धि और आध्यात्मिक यात्राओं में है। इसलिए उसने उसे आवश्यक धन दिया और तीर्थ यात्रा पर भेज दिया।",
+     "अंत में राजा ने अपने सबसे छोटे पुत्र को बुलाया। “बेटा, बताओ, तुम सबसे अधिक क्या चाहते हो?”",
+     "सबसे छोटे राजकुमार ने सोच-समझकर उत्तर दिया। “पिताजी, मैं अपना एक राज्य बनाना चाहता हूँ। मैं एक शक्तिशाली सेना खड़ी करना, अपनी प्रजा की रक्षा करना, अपने प्रांतों को समृद्ध बनाना और यह सुनिश्चित करना चाहता हूँ कि राज्य में हर कोई शांति से जी सके। मैं निष्पक्षता से शासन करना और अपने कर्मों से अच्छी प्रतिष्ठा कमाना चाहता हूँ।”",
+     "राजा इस उत्तर से अत्यंत प्रसन्न हुआ। उसने देखा कि उसका सबसे छोटा पुत्र केवल निजी धन, विद्वत्ता या सुख की नहीं सोच रहा था। वह प्रजा के कल्याण और नेतृत्व की ज़िम्मेदारियों के बारे में सोच रहा था।",
+     "राजा को एहसास हुआ कि वह जिन गुणों की खोज में था, वे यही थे। उसने शाही मुकुट अपने सबसे छोटे पुत्र के हाथों में रखा और राज्य उसे सौंप दिया।",
+     "युवा राजकुमार ने ज़िम्मेदारी स्वीकार की और न्याय तथा उदारता के साथ शासन करने लगा। उसके नेतृत्व में प्रजा समृद्ध हुई, प्रांत फले-फूले और राज्य में शांति बनी रही।",
+     "राजा का निर्णय बुद्धिमानी भरा साबित हुआ। उसने अपना उत्तराधिकारी केवल जन्म के क्रम या निजी स्नेह के आधार पर नहीं चुना था। उसने अपने हर पुत्र के चरित्र, महत्वाकांक्षाओं और क्षमताओं को समझने में समय लगाया था।",
+     "इस प्रकार कहानी हमें सिखाती है कि किसी को महत्वपूर्ण ज़िम्मेदारी सौंपने से पहले हमें उसकी क्षमताओं, चरित्र और इरादों को समझ लेना चाहिए।",
+     "सीख: ज़िम्मेदारी उन्हीं को सौंपी जानी चाहिए जिनमें योग्यता, चरित्र और दूसरों की सेवा करने की इच्छा हो।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "successor",
+     "en": "the person who takes over a position after someone",
+     "hi": "उत्तराधिकारी"
+    },
+    {
+     "w": "capable",
+     "en": "having the skill and ability to do something well",
+     "hi": "सक्षम"
+    },
+    {
+     "w": "rhetoric",
+     "en": "the art of speaking or writing persuasively",
+     "hi": "वाक्पटुता"
+    },
+    {
+     "w": "intellectual",
+     "en": "to do with study and thinking",
+     "hi": "बौद्धिक"
+    },
+    {
+     "w": "pursuits",
+     "en": "activities or interests that someone follows",
+     "hi": "रुचियाँ, कार्य"
+    },
+    {
+     "w": "prosperity",
+     "en": "success and good fortune, especially wealth",
+     "hi": "समृद्धि"
+    },
+    {
+     "w": "reputation",
+     "en": "what people generally think of someone",
+     "hi": "प्रतिष्ठा"
+    },
+    {
+     "w": "welfare",
+     "en": "the health, happiness and well-being of people",
+     "hi": "कल्याण"
+    },
+    {
+     "w": "entrusted",
+     "en": "gave someone the responsibility for something",
+     "hi": "सौंपा"
+    },
+    {
+     "w": "generosity",
+     "en": "willingness to give and be kind",
+     "hi": "उदारता"
+    },
+    {
+     "w": "flourished",
+     "en": "grew and thrived",
+     "hi": "फले-फूले"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The king gave the two older sons what they wished for and chose the youngest to rule. Was this fair to all three? Explain your thinking."
+    },
+    {
+     "k": "Another view",
+     "q": "Imagine you are the eldest prince. How might you feel about being passed over, and how might you see the king’s decision?"
+    },
+    {
+     "k": "Culture",
+     "q": "The princes mention studying texts such as the Ramayana and the Mahabharata and going on pilgrimage. What does this suggest about the values of learning and faith in the society of the story?"
+    },
+    {
+     "k": "Theme",
+     "q": "The title says to enquire before you entrust. Why is asking what someone truly wants a better test than birth order or affection?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do we choose leaders or give responsibility today, for example for a class monitor, team captain or elected leader? What should we ask before we decide?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4,
+   5,
+   6
+  ],
+  [
+   7,
+   8,
+   9
+  ],
+  [
+   10,
+   11,
+   12
+  ],
+  [
+   13,
+   14
+  ],
+  [
+   15,
+   16,
+   17
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "An old king worries about succession",
+   "th": "बूढ़ा राजा उत्तराधिकारी सोचता है",
+   "p": "A dignified elderly king, Dwijakirtti, with a white beard, a simple gold crown and rich yet modest robes, sits thoughtfully in a pillared royal hall, looking tired but wise. Soft light falls through carved windows. Three empty seats suggest the three princes he is about to call. Calm, reflective mood."
+  },
+  {
+   "t": "The eldest prince wants learning",
+   "th": "बड़े राजकुमार को विद्या चाहिए",
+   "p": "The king, seated, listens closely to his eldest son, a gentle, bookish young prince in simple pale robes who speaks with shining eyes, hands raised as if holding books. Behind him, a dreamy impression of palm-leaf manuscripts and robed scholars. The king gestures kindly, giving him village lands. Warm, respectful mood."
+  },
+  {
+   "t": "The second prince seeks wealth and pilgrimage",
+   "th": "दूसरा राजकुमार धन और तीर्थ चाहता है",
+   "p": "The second prince, a lively young man in travelling clothes with a cloth bundle, describes his dreams of far-off holy places while the king listens and nods. Next, a small scene of him setting off along a road with a purse and a few travelling companions. Hopeful, adventurous mood."
+  },
+  {
+   "t": "The youngest prince’s promise",
+   "th": "छोटे राजकुमार का संकल्प",
+   "p": "The youngest prince, earnest and straight-backed in a dark-blue and gold tunic, stands before his father speaking with confidence. A dream-like image above him shows a peaceful kingdom: farmers in green fields, a strong guard at the gate, and busy town streets. The king smiles with delight. Bright, inspiring mood."
+  },
+  {
+   "t": "The crown is handed over",
+   "th": "ताज सौंपा गया",
+   "p": "In the royal hall, the old king gently places the royal crown into the youngest prince’s hands as courtiers look on respectfully. The young prince bows his head, accepting the responsibility. Solemn, warm light. Then a small inset of the young ruler listening to villagers."
+  },
+  {
+   "t": "A wise choice brings peace",
+   "th": "समझदारी भरा चुनाव, शांति का राज",
+   "p": "A peaceful, thriving kingdom seen from above: farmers harvesting, markets busy, children playing, with the young king sitting fairly among his people and the old king watching contentedly from a balcony. Golden, joyful, harmonious mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Andhra Pradesh, India (Telugu-speaking region; royal court of the story’s kingdom of Cholamaudala)",
+  "verified": true,
+  "tradition": "Tholu Bommalata (Andhra Pradesh leather shadow puppetry)",
+  "note": "Verified source: Andhra Pradesh leather puppets are made from thin, translucent goat hide with black outlines, mainly in black, red and green (yellow often for women and sages), with delicate cut-out patterns, and their traditional themes are the Ramayana and Mahabharata. It is an Andhra Pradesh tradition but it is not tied to this story, so we propose it only as loose inspiration for outlines, ornamental borders and palette. We could not verify a specific style for the kingdom ‘Cholamaudala’, so no historical period-style claim is made; a neutral storybook court style is acceptable.",
+  "characters": [
+   {
+    "name": "King Dwijakirtti",
+    "look": "Elderly king with a white beard, kind tired eyes, a simple gold crown and modest rich robes in deep red and cream."
+   },
+   {
+    "name": "The eldest prince",
+    "look": "Gentle, bookish young man in pale robes, often shown with books or palm-leaf manuscripts."
+   },
+   {
+    "name": "The second prince",
+    "look": "Lively young man in travelling clothes with a cloth bundle and a walking staff."
+   },
+   {
+    "name": "The youngest prince",
+    "look": "Earnest, straight-backed young man in a dark-blue tunic with gold edging; steady, confident gaze."
+   }
+  ],
+  "sources": [
+   [
+    "Andhra Pradesh Leather Puppetry, Development Commissioner (Handicrafts), Government of India",
+    "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_Articles/Andhra_Pradesh_Leather_Puppetry/APLeatherPuppetryWebPage.html"
+   ]
+  ]
+ },
+ "imagine": "Imagine the king is asking you the same question: what do you want most in life? Close your eyes and picture your answer. Would you be a good ruler or helper for others, and why?",
+ "create": "Write the youngest prince’s speech to his people on his first day as ruler, or draw the kingdom as he imagines it, with the army, the peaceful provinces and the happy people.",
+ "about": {
+  "where": "The story comes from the Telugu-speaking region of Andhra Pradesh in southern India. The kingdom in the story is named Cholamaudala; the sources we have do not say exactly where or when that was.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. The project’s repository says it is a retelling of a tale in G. R. Subramiah Pantulu’s collection of Telugu stories.",
+  "tradition": "Pantulu’s book, Folk-lore of the Telugus, collects forty-two tales described as amusing and instructive, published by G. A. Natesan and Co. Stories about kings testing their children or ministers are found in many storytelling traditions.",
+  "shared": "The project team’s notes say this version is a modern, readable English retelling, not a word-for-word copy of the older text. We have not read Pantulu’s original ourselves, so details may differ.",
+  "matters": "The story shows a leader who listens first and decides carefully. It also treats the two older sons with respect: their wishes are not wrong, only different from what ruling needs. This is one version from one source, not the only one.",
+  "links": [
+   [
+    "Folk-lore of the Telugus, HathiTrust catalogue record",
+    "https://catalog.hathitrust.org/Record/004739459"
+   ],
+   [
+    "Andhra Pradesh Leather Puppetry (Government of India, Handicrafts)",
+    "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_Articles/Andhra_Pradesh_Leather_Puppetry/APLeatherPuppetryWebPage.html"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (as given by the repository)",
+   "v": "G. R. Subramiah Pantulu, Folk-lore of the Telugus: a collection of forty-two highly amusing and instructive tales, G. A. Natesan & Co., as cited by the Centre for Contemporary Folklore (CCF)",
+   "url": "https://catalog.hathitrust.org/Record/004739459",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version (which we judged to be Level 3)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  },
+  {
+   "l": "Art context",
+   "v": "Andhra Pradesh Leather Puppetry, Development Commissioner (Handicrafts), Government of India",
+   "url": "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Leather/Leather_Articles/Andhra_Pradesh_Leather_Puppetry/APLeatherPuppetryWebPage.html",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Place name: the source spells the kingdom 'Cholamaudala'; the Hindi uses चोलमंडल (likely Cholamandala). Verify spelling and whether it is a real place.",
+  "Hindi title and the name द्विजकीर्ति need review by a fluent reader; all Hindi unreviewed.",
+  "Original publication date, edition and rights status of Pantulu’s book not confirmed.",
+  "Repository text is a modern retelling; the original tale’s details were not checked against Pantulu.",
+  "Levels 1 and 2 are AI-written and need educator review.",
+  "References to the Ramayana, Mahabharata and pilgrimage are kept as in the source; check respectful handling for diverse classrooms.",
+  "Art tradition (Tholu Bommalata) is suggested only as loose inspiration, not tied to this story."
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "id": "the-frog-and-the-lizard",
+ "state": "ct",
+ "title": "The Frog and the Lizard",
+ "titleHi": "मेंढक और छिपकली",
+ "summary": "A thoughtful lizard keeps warning its proud frog friend about small dangers, but the frog angrily refuses every warning. In the end the lizard learns when it is wiser to step back.",
+ "summarySource": "written for this site",
+ "genre": "Animal fable",
+ "from": "Animal fable, Chhattisgarh (from Twente, Folk Tales of Chhattisgarh India)",
+ "origLevel": 2,
+ "levelReason": "The supplied text uses clear, everyday words with a few harder ones (retorted, flatterers, interfering, offended). Sentences average about 10 words and are joined with simple connectors such as \"But\" and \"After some time\". The ending states the lesson in plain words. That fits Level 2 better than the very short sentences of Level 1 or the richer style of Level 3.",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a frog and a lizard lived near a river in Chhattisgarh. They were very good friends. They spent their days together.",
+     "The lizard was thoughtful and careful. The frog was proud. He did not like being told what to do.",
+     "One morning, the frog jumped into the river. He swam along with the water. The lizard watched from the bank. It felt worried.",
+     "“My friend!” it called. “Be careful! You may drown!”",
+     "The frog was annoyed. “Let your mother and sister drown!” he shouted. “Why should I drown? Can’t you see I am swimming across just fine?”",
+     "The lizard said nothing. Soon the frog climbed out. He sat on a big pile of thorns.",
+     "The lizard saw him there. “Oh, my friend! Be careful! The thorns may prick you!” it said.",
+     "The frog was upset again. “Let your parents be pricked!” he said. “Can’t you see I am moving the thorns away?”",
+     "The lizard did not argue. After a while, the frog sat down on a heap of dung. He looked happy there.",
+     "The lizard looked at him with worry. “My poor friend! You are getting so dirty!” it said.",
+     "The frog was angry a third time. “Your parents are dirty!” he said. “Can’t you see I am making cakes for people who flatter me?”",
+     "Now the lizard understood. Its friend did not want any advice. There was no use in warning him more. From that day, the lizard stopped getting into the frog’s business. The frog did what he liked. The lizard quietly did its own work.",
+     "So the lizard learned something. Some people get angry even when you try to help them.",
+     "Moral: Advice helps only when a person wants to listen. If someone keeps refusing kind help, it is sometimes wiser to step back."
+    ],
+    "hi": [
+     "बहुत पहले की बात है। छत्तीसगढ़ में एक नदी के पास एक मेंढक और एक छिपकली रहते थे। वे बहुत अच्छे दोस्त थे। वे अपने दिन साथ बिताते थे।",
+     "छिपकली समझदार और सावधान थी। मेंढक घमंडी था। उसे कोई कुछ करने को कहे, यह उसे पसंद नहीं था।",
+     "एक सुबह मेंढक नदी में कूद गया। वह पानी के साथ तैरने लगा। छिपकली किनारे से देख रही थी। उसे चिंता हुई।",
+     "“मेरे दोस्त!” उसने पुकारा। “सँभलकर! तुम डूब सकते हो!”",
+     "मेंढक चिढ़ गया। “तेरी माँ और बहन डूबें!” वह चिल्लाया। “मैं क्यों डूबूँगा? क्या तुझे दिखता नहीं कि मैं आराम से नदी पार कर रहा हूँ?”",
+     "छिपकली चुप रही। थोड़ी देर में मेंढक बाहर निकल आया। वह काँटों के एक बड़े ढेर पर बैठ गया।",
+     "छिपकली ने उसे वहाँ देखा। “अरे मेरे दोस्त! सँभलकर! काँटे चुभ सकते हैं!” उसने कहा।",
+     "मेंढक फिर नाराज़ हो गया। “तेरे माँ-बाप को चुभें!” उसने कहा। “क्या तुझे दिखता नहीं कि मैं काँटे हटा रहा हूँ?”",
+     "छिपकली ने बहस नहीं की। कुछ देर बाद मेंढक गोबर के एक ढेर पर जा बैठा। वह वहाँ खुश दिख रहा था।",
+     "छिपकली ने चिंता से उसे देखा। “मेरे बेचारे दोस्त! तुम तो बहुत गंदे हो रहे हो!” उसने कहा।",
+     "मेंढक तीसरी बार गुस्सा हो गया। “तेरे माँ-बाप गंदे हैं!” उसने कहा। “क्या तुझे दिखता नहीं कि मैं चापलूसों के लिए पकवान बना रहा हूँ?”",
+     "अब छिपकली समझ गई। उसका दोस्त कोई सलाह सुनना ही नहीं चाहता था। उसे और टोकने का कोई फ़ायदा नहीं था। उस दिन से छिपकली ने मेंढक के मामलों में दखल देना छोड़ दिया। मेंढक अपनी मर्ज़ी से चलता रहा। छिपकली चुपचाप अपना काम करती रही।",
+     "इस तरह छिपकली ने एक बात सीखी। कुछ लोग मदद करने पर भी गुस्सा हो जाते हैं।",
+     "सीख: सलाह तभी काम आती है जब कोई सुनना चाहे। जब कोई बार-बार भली बात ठुकराए, तो कभी-कभी पीछे हट जाना ही समझदारी है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "thoughtful",
+     "en": "thinking carefully about others",
+     "hi": "समझदार, विचारशील"
+    },
+    {
+     "w": "proud",
+     "en": "thinking you are better than others",
+     "hi": "घमंडी"
+    },
+    {
+     "w": "worried",
+     "en": "feeling that something bad may happen",
+     "hi": "चिंतित"
+    },
+    {
+     "w": "drown",
+     "en": "to die by being under water",
+     "hi": "डूबना"
+    },
+    {
+     "w": "annoyed",
+     "en": "a little angry",
+     "hi": "चिढ़ा हुआ"
+    },
+    {
+     "w": "thorns",
+     "en": "sharp points on a plant",
+     "hi": "काँटे"
+    },
+    {
+     "w": "prick",
+     "en": "to poke with something sharp",
+     "hi": "चुभना"
+    },
+    {
+     "w": "dung",
+     "en": "animal waste",
+     "hi": "गोबर"
+    },
+    {
+     "w": "argue",
+     "en": "to speak against someone angrily",
+     "hi": "बहस करना"
+    },
+    {
+     "w": "advice",
+     "en": "words that help someone decide what to do",
+     "hi": "सलाह"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Characters",
+     "q": "Where did the frog and the lizard live, and what were they like?"
+    },
+    {
+     "k": "Events",
+     "q": "What three places did the frog go, and what did the lizard say each time?"
+    },
+    {
+     "k": "What happened",
+     "q": "What did the frog say each time the lizard warned him?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think the lizard felt when the frog shouted at it? Why?"
+    },
+    {
+     "k": "Your life",
+     "q": "Has a friend ever given you advice you did not want? How did you feel?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, a frog and a lizard lived near a river in the countryside of Chhattisgarh. They were very good friends and often spent their days together.",
+     "The lizard was thoughtful and cautious, while the frog was rather proud and disliked being told what to do.",
+     "One morning, the frog jumped into a river and began swimming along with the current. The lizard, watching from the riverbank, became worried.",
+     "“My friend!” it called out. “Be careful! I am afraid you might drown!”",
+     "The frog became annoyed. “Let your mother and sister drown!” he shouted. “Why should I drown? Can’t you see that I am crossing the river perfectly well?”",
+     "The lizard fell silent. A little later, the frog climbed out of the water and sat on a large pile of thorns.",
+     "The lizard noticed where its friend had settled. “Oh, my friend! Be careful. Those thorns might prick you!” it warned.",
+     "But the frog was offended once again. “Let your parents be pricked!” he replied. “Can’t you see that I am simply removing the thorns?”",
+     "The lizard decided not to argue. After some time, the frog moved to a nearby heap of dung and settled down comfortably.",
+     "The lizard looked at him with concern. “My poor friend! You are getting yourself terribly dirty!” it exclaimed.",
+     "The frog became angry for the third time. “Your parents are dirty!” he retorted. “Can’t you see that I am preparing cakes for flatterers?”",
+     "The lizard finally understood that its friend had no intention of listening to any advice. It decided that there was no point in warning him any further. From that day onwards, the lizard stopped interfering in the frog’s affairs. The frog continued doing whatever he pleased, while the lizard quietly went about its own business.",
+     "And so, the lizard learned that some people become angry even when others are trying to help them.",
+     "Moral: Advice is useful only when someone is willing to listen. When a person repeatedly rejects good intentions, sometimes it is wiser to step back."
+    ],
+    "hi": [
+     "बहुत समय पहले की बात है। छत्तीसगढ़ के देहात में एक नदी के पास एक मेंढक और एक छिपकली रहते थे। वे बहुत अच्छे दोस्त थे और अक्सर अपने दिन साथ बिताते थे।",
+     "छिपकली समझदार और सतर्क थी, जबकि मेंढक काफ़ी घमंडी था और उसे किसी का कुछ कहना पसंद नहीं था।",
+     "एक सुबह मेंढक नदी में कूद पड़ा और धारा के साथ तैरने लगा। किनारे से देखती हुई छिपकली को चिंता होने लगी।",
+     "“मेरे दोस्त!” उसने पुकारा। “सँभलकर रहो! मुझे डर है कि तुम डूब जाओगे!”",
+     "मेंढक को बुरा लगा और वह चिढ़ गया। “तेरी माँ और बहन डूबें!” वह चिल्लाया। “मैं क्यों डूबूँगा? क्या तुझे दिखता नहीं कि मैं नदी बिलकुल ठीक से पार कर रहा हूँ?”",
+     "छिपकली चुप हो गई। कुछ देर बाद मेंढक पानी से बाहर निकला और काँटों के एक बड़े ढेर पर जा बैठा।",
+     "छिपकली ने देखा कि उसका दोस्त कहाँ बैठा है। “अरे मेरे दोस्त! सँभलकर। ये काँटे तुम्हें चुभ सकते हैं!” उसने चेताया।",
+     "लेकिन मेंढक फिर बुरा मान गया। “तेरे माँ-बाप को चुभें!” उसने जवाब दिया। “क्या तुझे दिखता नहीं कि मैं तो बस काँटे हटा रहा हूँ?”",
+     "छिपकली ने बहस न करने का फ़ैसला किया। कुछ समय बाद मेंढक पास के गोबर के ढेर पर चला गया और आराम से बैठ गया।",
+     "छिपकली ने चिंता के साथ उसे देखा। “मेरे बेचारे दोस्त! तुम तो अपने आपको बहुत गंदा कर रहे हो!” उसने कहा।",
+     "मेंढक तीसरी बार गुस्से में आ गया। “तेरे माँ-बाप गंदे हैं!” उसने पलटकर कहा। “क्या तुझे दिखता नहीं कि मैं चापलूसों के लिए पकवान बना रहा हूँ?”",
+     "आख़िरकार छिपकली समझ गई कि उसका दोस्त कोई सलाह सुनना ही नहीं चाहता। उसने तय किया कि अब उसे और चेताने का कोई मतलब नहीं। उस दिन के बाद छिपकली ने मेंढक के मामलों में दखल देना बंद कर दिया। मेंढक जो मन में आया करता रहा, और छिपकली चुपचाप अपने काम में लगी रही।",
+     "इस तरह छिपकली ने सीखा कि कुछ लोग तब भी गुस्सा हो जाते हैं जब दूसरे उनकी मदद करना चाहते हैं।",
+     "सीख: सलाह तभी काम की होती है जब कोई सुनने को तैयार हो। जब कोई बार-बार अच्छी नीयत को ठुकराता है, तो कभी-कभी पीछे हट जाना ही समझदारी होती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "thoughtful",
+     "en": "caring and careful in your thinking",
+     "hi": "विचारशील"
+    },
+    {
+     "w": "cautious",
+     "en": "careful to avoid danger",
+     "hi": "सतर्क"
+    },
+    {
+     "w": "annoyed",
+     "en": "a little angry",
+     "hi": "चिढ़ा हुआ"
+    },
+    {
+     "w": "offended",
+     "en": "hurt or upset by what someone said",
+     "hi": "बुरा माना हुआ"
+    },
+    {
+     "w": "settled",
+     "en": "sat down and got comfortable",
+     "hi": "आराम से बैठ गया"
+    },
+    {
+     "w": "concern",
+     "en": "worry about someone",
+     "hi": "चिंता"
+    },
+    {
+     "w": "retorted",
+     "en": "answered back quickly and sharply",
+     "hi": "पलटकर जवाब दिया"
+    },
+    {
+     "w": "flatterers",
+     "en": "people who praise you too much to win your favour",
+     "hi": "चापलूस"
+    },
+    {
+     "w": "interfering",
+     "en": "getting involved in something that is not your business",
+     "hi": "दखल देना"
+    },
+    {
+     "w": "intentions",
+     "en": "what a person means to do",
+     "hi": "नीयत, इरादे"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why did the lizard keep warning the frog? What did it want for its friend?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "Why did the frog get angry each time the lizard spoke? What does that tell you about him?"
+    },
+    {
+     "k": "Pattern",
+     "q": "The frog goes into the river, onto the thorns, and onto the dung. How does each answer he gives show that he will not admit a mistake?"
+    },
+    {
+     "k": "Decision",
+     "q": "After the third time, the lizard stopped warning the frog. Was this a good decision? Explain."
+    },
+    {
+     "k": "Interpretation",
+     "q": "What do you think \"cakes for flatterers\" means in the frog's answer? What was he really doing?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Once upon a time, a frog and a lizard lived beside a river in the Chhattisgarh countryside. They were the best of friends and passed most of their days together.",
+     "The lizard was thoughtful and cautious by nature, while the frog was proud and bristled whenever anyone tried to tell him what to do.",
+     "One morning, the frog leapt into the river and let the current carry him along. From the bank, the lizard watched anxiously.",
+     "“My friend!” it called out. “Do be careful! I am afraid you might drown!”",
+     "The frog flared up in annoyance. “Let your mother and sister drown!” he shouted. “Why should I drown? Can’t you see I am crossing this river perfectly well?”",
+     "The lizard fell silent. Some time later, the frog climbed out of the water and settled himself on a great pile of thorns.",
+     "The lizard noticed where its friend had sat down. “Oh, my friend, take care! Those thorns might prick you!” it warned.",
+     "Once again, the frog took offence. “Let your parents be pricked!” he snapped. “Can’t you see I am simply clearing away the thorns?”",
+     "The lizard chose not to argue. After a while, the frog moved to a nearby heap of dung and sat down there, quite at ease.",
+     "The lizard watched him with deep concern. “My poor friend!” it cried. “You are getting yourself terribly dirty!”",
+     "For the third time, the frog’s temper boiled over. “Your parents are dirty!” he retorted. “Can’t you see I am preparing cakes for flatterers?”",
+     "At last the lizard understood that its friend had no intention of heeding any advice, and that further warnings would be pointless. From that day on, it stopped meddling in the frog’s affairs. The frog went on doing exactly as he pleased, while the lizard quietly minded its own business.",
+     "And so the lizard learned a hard truth: some people grow angry even when others are only trying to help them.",
+     "Moral: Advice is useful only when someone is willing to listen. When a person repeatedly rejects good intentions, it can be wiser to step back."
+    ],
+    "hi": [
+     "बहुत पुरानी बात है। छत्तीसगढ़ के देहात में एक नदी के किनारे एक मेंढक और एक छिपकली रहते थे। दोनों गहरे दोस्त थे और अपना ज़्यादातर समय साथ ही बिताते थे।",
+     "छिपकली स्वभाव से विचारशील और सतर्क थी, जबकि मेंढक घमंडी था और जब भी कोई उसे कुछ करने को कहता, वह तुनक उठता था।",
+     "एक सुबह मेंढक नदी में छलाँग लगाकर धारा के साथ बहता हुआ तैरने लगा। किनारे से छिपकली उसे बेचैनी से देखती रही।",
+     "“मेरे दोस्त!” उसने आवाज़ लगाई। “ज़रा सँभलकर! मुझे डर है कि कहीं तुम डूब न जाओ!”",
+     "मेंढक झुँझलाकर भड़क उठा। “तेरी माँ और बहन डूबें!” वह चीखा। “मैं भला क्यों डूबूँगा? क्या तुझे दिखता नहीं कि मैं इस नदी को बिलकुल ठीक से पार कर रहा हूँ?”",
+     "छिपकली चुप हो गई। कुछ देर बाद मेंढक पानी से बाहर आया और काँटों के एक बड़े ढेर पर जम कर बैठ गया।",
+     "छिपकली ने देखा कि उसका दोस्त कहाँ बैठा है। “अरे मेरे दोस्त, ध्यान रखो! ये काँटे तुम्हें चुभ सकते हैं!” उसने चेताया।",
+     "मेंढक ने एक बार फिर बुरा मान लिया। “तेरे माँ-बाप को चुभें!” उसने तुनककर कहा। “क्या तुझे दिखता नहीं कि मैं तो बस काँटे साफ़ कर रहा हूँ?”",
+     "छिपकली ने बहस न करना ही ठीक समझा। कुछ देर बाद मेंढक पास के गोबर के ढेर पर जा पहुँचा और वहाँ बड़े आराम से बैठ गया।",
+     "छिपकली ने गहरी चिंता से उसे देखा। “मेरे बेचारे दोस्त!” वह बोल उठी। “तुम तो अपने आपको बुरी तरह गंदा कर रहे हो!”",
+     "तीसरी बार मेंढक का गुस्सा फूट पड़ा। “तेरे माँ-बाप गंदे हैं!” उसने पलटकर कहा। “क्या तुझे दिखता नहीं कि मैं चापलूसों के लिए पकवान तैयार कर रहा हूँ?”",
+     "अंत में छिपकली समझ गई कि उसके दोस्त का किसी की सलाह मानने का कोई इरादा नहीं है और आगे चेताना बेकार है। उस दिन के बाद उसने मेंढक के मामलों में टाँग अड़ाना छोड़ दिया। मेंढक जो चाहता वही करता रहा, और छिपकली चुपचाप अपने काम में लगी रही।",
+     "और इस तरह छिपकली ने एक कड़वी सच्चाई सीखी: कुछ लोग तब भी नाराज़ हो जाते हैं जब दूसरे सिर्फ़ उनकी मदद करना चाहते हैं।",
+     "सीख: सलाह तभी काम की होती है जब कोई उसे सुनने को तैयार हो। जब कोई बार-बार भली नीयत को ठुकराता है, तो पीछे हट जाना ज़्यादा समझदारी हो सकती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "cautious",
+     "en": "careful to avoid risks",
+     "hi": "सतर्क"
+    },
+    {
+     "w": "bristled",
+     "en": "reacted angrily, like an animal raising its fur",
+     "hi": "तुनक उठा"
+    },
+    {
+     "w": "anxiously",
+     "en": "in a worried, uneasy way",
+     "hi": "बेचैनी से"
+    },
+    {
+     "w": "offence",
+     "en": "a feeling of being insulted or hurt",
+     "hi": "बुरा मानना"
+    },
+    {
+     "w": "concern",
+     "en": "a feeling of worry for someone you care about",
+     "hi": "चिंता"
+    },
+    {
+     "w": "temper",
+     "en": "a person's tendency to become angry",
+     "hi": "गुस्सा"
+    },
+    {
+     "w": "retorted",
+     "en": "answered back sharply",
+     "hi": "पलटकर जवाब दिया"
+    },
+    {
+     "w": "flatterers",
+     "en": "people who give false praise to win favour",
+     "hi": "चापलूस"
+    },
+    {
+     "w": "heeding",
+     "en": "paying attention to and following",
+     "hi": "ध्यान देकर मानना"
+    },
+    {
+     "w": "meddling",
+     "en": "getting involved in other people's matters",
+     "hi": "टाँग अड़ाना"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "When should we keep giving a friend advice, and when is it right to step back? Was the lizard right to stop?"
+    },
+    {
+     "k": "Another view",
+     "q": "How might the frog describe what happened? Why might he have felt that the lizard was treating him like a child?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral says advice is useful only when someone is willing to listen. Why do you think some people find it hard to accept help or a warning?"
+    },
+    {
+     "k": "Interpretation",
+     "q": "The frog turns each mistake into a boast, as if he meant to do it. What does this tell you about pride and the fear of being seen as wrong?"
+    },
+    {
+     "k": "Today",
+     "q": "In school, online or at home, how can we give advice in a way that someone is more likely to hear? How can we become better listeners ourselves?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3,
+   4
+  ],
+  [
+   5,
+   6,
+   7
+  ],
+  [
+   8,
+   9,
+   10
+  ],
+  [
+   11
+  ],
+  [
+   12,
+   13
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Two friends by the river",
+   "th": "नदी किनारे दो दोस्त",
+   "p": "A quiet riverbank in the Chhattisgarh countryside with reeds, a few mango trees and a sandy shore in warm morning light. A small green frog with a puffed-up chest and a slender brown-grey house lizard with a long curved tail sit side by side on a flat rock, friendly together. Soft storybook illustration, same character looks in every scene."
+  },
+  {
+   "t": "The frog swims, the lizard worries",
+   "th": "मेंढक तैरता है, छिपकली चिंता करती है",
+   "p": "The green frog swims confidently in the river current, chin raised and proud, while the slender brown-grey lizard on the bank leans forward with an anxious face and one hand raised, calling a warning. The frog looks back annoyed. Sunlit water, ripples. Mood: worry against stubbornness."
+  },
+  {
+   "t": "The frog sits on thorns",
+   "th": "मेंढक काँटों पर बैठा",
+   "p": "The green frog sits on a large pile of thorny branches on the bank, proudly lifting a few thorns aside with a hand while looking cross, as if he is clearing them. The brown-grey lizard stands a few steps away, concerned, finger raised in warning. Midday light, dry scrub behind. Mood: stubborn pride."
+  },
+  {
+   "t": "The frog and the dung heap",
+   "th": "मेंढक और गोबर का ढेर",
+   "p": "The green frog sits on a heap of cow dung at the edge of a village path, looking smug, shaping little round lumps like cakes, his skin streaked with brown, drawn in a funny, gentle, non-gross cartoon way. The lizard looks at him with deep concern from a stone wall. Late afternoon light. Mood: gentle comedy and worry."
+  },
+  {
+   "t": "The lizard stops warning",
+   "th": "छिपकली ने टोकना छोड़ दिया",
+   "p": "The brown-grey lizard turns away and walks along the bank with a calm, thoughtful face, while the green frog behind it carries on, busy with his own doings, not noticing. Evening glow on the river, long shadows. Mood: quiet, bittersweet."
+  },
+  {
+   "t": "What the lizard learned",
+   "th": "छिपकली ने क्या सीखा",
+   "p": "The brown-grey lizard rests alone on a warm rock beside the river at sunset, gazing at the water with a wise, peaceful look; far away in the background, the small green frog is splashing at the water's edge. Mood: calm, reflective, with a touch of sadness."
+  }
+ ],
+ "artStyle": {
+  "region": "Chhattisgarh, central India",
+  "verified": true,
+  "tradition": "Bastar tribal wall painting (Chhattisgarh)",
+  "note": "Bastar wall painting, made by communities such as the Gond, Halba and Bhatra, traditionally uses a limited palette of white lime, red ochre, charcoal black and yellow clay, with strongly outlined, flat figures and geometric borders, and animals are a common subject. We could not confirm that this fable belongs to those communities, so use this only as gentle inspiration for colour and line: warm earth tones, bold outlines, simple geometric borders. Do not label the images as Bastar art.",
+  "characters": [
+   {
+    "name": "The frog",
+    "look": "Small green frog with a puffed-up chest, a bright yellow-cream belly and a proud, stubborn expression."
+   },
+   {
+    "name": "The lizard",
+    "look": "Slender brown-grey house lizard with a long curved tail, soft round eyes and a kind, careful expression."
+   }
+  ],
+  "sources": [
+   [
+    "Bastar tribal painting (Rooftop art wiki)",
+    "https://rooftopapp.com/art-wiki/bastar-tribal-painting"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are sitting on the riverbank beside the lizard when the frog climbs onto the thorns. What do you whisper to the lizard? What sounds do you hear around the river?",
+ "create": "Draw the frog on the heap and write one speech bubble for each of them. Or write a short ending where the frog finally asks the lizard for help, and decide how the lizard replies.",
+ "about": {
+  "where": "Chhattisgarh is a state in central India, with villages, forests and rivers. This story is listed as a folktale of Chhattisgarh, in a book of tales published in 1938.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing. This is one version from one source, and other tellers may tell it differently.",
+  "tradition": "Animal fables, in which small creatures behave like people, are told to children in many parts of India and the world. They often end with a short saying that tells listeners what to think about.",
+  "shared": "Stories about a friend who will not take advice are told in many cultures. Here the frog's answers are funny but also sharp, and the lizard's choice at the end is the heart of the story.",
+  "matters": "The story helps us think about listening, pride and kindness. It reminds us that good advice is given with care and also that we are free to choose when to step back.",
+  "links": [
+   [
+    "List of folktales of Chhattisgarh (Wikipedia)",
+    "https://en.wikipedia.org/wiki/List_of_folktales_of_Chhattisgarh"
+   ],
+   [
+    "Bastar tribal painting (Rooftop art wiki)",
+    "https://rooftopapp.com/art-wiki/bastar-tribal-painting"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source",
+   "v": "Theophil H. Twente, Folk Tales of Chhattisgarh India (The Bodoni Press, North Tonawanda, NY, 1938), as named in the repository; the source version is recorded by the Centre for Contemporary Folklore (CCF).",
+   "url": "https://en.wikipedia.org/wiki/List_of_folktales_of_Chhattisgarh",
+   "s": "ok"
+  },
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Insulting retorts (\"Let your mother and sister drown!\", \"Your parents are dirty!\") are kept from the source; check they suit the target age and school context.",
+  "Level 1 Hindi softens none of the curses; educator may want a gentler wording.",
+  "Meaning of \"cakes for flatterers\" is unclear (possibly an idiom); the repository gives no explanation, so verify.",
+  "Repository image credit \"Cuento con Luna y con Sol - Adriana Keselman\" appears to be a photo caption, not a story source; confirm and do not reuse the image.",
+  "Licence and permission not confirmed for Twente's text or CCF's reproduction.",
+  "Community that told the tale is not named; Bastar wall painting is regional inspiration only.",
+  "Hindi renderings need native-reader review; Levels 1 and 3 written by AI, educator review pending."
+ ]
+}

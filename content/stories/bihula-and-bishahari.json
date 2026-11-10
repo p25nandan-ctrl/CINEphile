@@ -1,0 +1,571 @@
+{
+ "id": "bihula-and-bishahari",
+ "state": "br",
+ "title": "Bihula and Bishahari",
+ "titleHi": "बिहुला और बिषहरी",
+ "summary": "A proud merchant refuses to worship the snake goddess Bishahari, and his son dies on his wedding night. His bride Bihula sails down the river to the gods to win back her husband's life.",
+ "summarySource": "written for this site",
+ "genre": "Folk legend / devotional tale",
+ "from": "Angika folktale, Anga region (Bhagalpur), Bihar",
+ "origLevel": 3,
+ "levelReason": "The supplied text uses words such as prosperous, deity, defiance, intervention, devastated and perseverance, and many long sentences with abstract ideas (about 14 words per sentence). It also talks about themes such as pride, devotion and despair, which fits Level 3 (Mighty Tree).",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, a rich trader lived in the city of Champanagar. His name was Chando Saudagar.",
+     "Chando had many ships. He sold goods in faraway lands. He loved Lord Shiva very much.",
+     "But there was one goddess he would not pray to. She was Bishahari, the goddess of snakes.",
+     "Bishahari wanted Chando to bow to her. Chando was proud, and he said no. The goddess became very angry.",
+     "She sent snakes to his home. One by one, Chando’s sons died. Still, Chando would not give in.",
+     "His youngest son was Bala. He grew up and married Bihula. She loved her husband, and he loved her.",
+     "But Bishahari was still angry. Chando built a strong room for the new couple. It was made of iron and bamboo. No snake could get in, he thought.",
+     "On the wedding night, Bala and Bihula went inside. A tiny snake found a way in. It bit Bala. By morning, Bala was dead.",
+     "Bihula was heartbroken. Her new life had just begun. But she would not believe it was the end.",
+     "People there had a custom. They put a person who died of snakebite on a raft. The river carried the raft away. Maybe someone could bring the person back to life.",
+     "Bihula chose to go herself. She made a special boat. In Manjusha paintings, it looks like a decorated boat with Bala’s body on it. She laid Bala on it and floated down the river.",
+     "The trip was long and hard. She passed strange places. She felt scared and alone. But she did not give up. She thought, “Somewhere in the heavens, there must be a way.”",
+     "On the way, she met a washerwoman named Neta. Neta had special powers. She knew the world of the gods. Bihula begged her for help.",
+     "Neta took Bihula to the court of the gods. Bihula told them her sad story.",
+     "She did not just ask and demand. She showed her love and courage. In some tellings, she danced for the gods. They were touched by her honest heart.",
+     "Bishahari made a rule. Chando must pray to her at last. Bihula said she would take the message home.",
+     "Chando heard it. He still did not want to bow. But he wanted his son back more than he wanted to be proud. So he prayed to Bishahari, though not happily.",
+     "The goddess took his prayer. Bala came back to life. The sad days of the family were over. Bihula went home with her husband. She had done something that seemed impossible.",
+     "Her trip showed courage and love. People still remember it in folk songs, in festivals, and in the Manjusha paintings of Bhagalpur.",
+     "Moral: Be brave and never give up. Love, patience and humility can help us beat even big problems."
+    ],
+    "hi": [
+     "बहुत पहले चम्पानगर शहर में एक अमीर व्यापारी रहता था। उसका नाम चंदो सौदागर था।",
+     "चंदो के पास बहुत से जहाज़ थे। वह दूर-दूर के देशों में सामान बेचता था। वह भगवान शिव को बहुत मानता था।",
+     "पर एक देवी को वह नहीं पूजता था। वह साँपों की देवी बिषहरी थीं।",
+     "बिषहरी चाहती थीं कि चंदो उनके आगे सिर झुकाए। चंदो को घमंड था, उसने मना कर दिया। देवी को बहुत गुस्सा आया।",
+     "उन्होंने उसके घर साँप भेजे। एक-एक करके चंदो के बेटे मर गए। फिर भी चंदो ने हार नहीं मानी।",
+     "उसका सबसे छोटा बेटा बाला था। वह बड़ा हुआ और उसकी शादी बिहुला से हुई। बिहुला अपने पति को चाहती थी, और पति उसे।",
+     "पर बिषहरी का गुस्सा अभी बाकी था। चंदो ने नए जोड़े के लिए एक मज़बूत कमरा बनवाया। वह लोहे और बाँस का बना था। उसने सोचा, इसमें कोई साँप नहीं घुस सकेगा।",
+     "शादी की रात बाला और बिहुला कमरे में गए। एक छोटा-सा साँप अंदर आने का रास्ता खोज लाया। उसने बाला को डस लिया। सुबह तक बाला मर चुका था।",
+     "बिहुला का दिल टूट गया। उसका नया जीवन अभी शुरू ही हुआ था। पर उसने नहीं माना कि सब खत्म हो गया।",
+     "वहाँ एक रिवाज़ था। साँप के काटने से मरे इंसान को बेड़े पर रखकर नदी में बहा देते थे। शायद कोई उसे फिर ज़िंदा कर दे।",
+     "बिहुला ने खुद जाने का फैसला किया। उसने एक खास नाव बनाई। मंजूषा चित्रों में वह सजी हुई नाव जैसी दिखती है, जिस पर बाला का शरीर है। उसने बाला को उस पर लिटाया और नदी में चल पड़ी।",
+     "सफ़र लंबा और कठिन था। वह अनजानी जगहों से गुज़री। उसे डर लगा और अकेलापन भी लगा। पर उसने हार नहीं मानी। उसने सोचा, “स्वर्ग में कहीं कोई उपाय ज़रूर होगा।”",
+     "रास्ते में उसे नेता नाम की एक धोबिन मिली। नेता के पास खास शक्तियाँ थीं। वह देवताओं की दुनिया को जानती थी। बिहुला ने उससे मदद की विनती की।",
+     "नेता बिहुला को देवताओं की सभा तक ले गई। बिहुला ने उन्हें अपना दुख सुनाया।",
+     "उसने सिर्फ़ माँगा नहीं। उसने अपना प्रेम और साहस दिखाया। कुछ कथाओं में वह देवताओं के सामने नाची भी। देवता उसके सच्चे मन से प्रभावित हुए।",
+     "बिषहरी ने एक शर्त रखी। चंदो को आखिर उनकी पूजा करनी होगी। बिहुला ने यह संदेश घर ले जाना मान लिया।",
+     "चंदो ने यह सुना। वह अब भी झुकना नहीं चाहता था। पर बेटे को वापस पाने की चाह उसके घमंड से बड़ी थी। इसलिए उसने बिषहरी की पूजा की, हालाँकि खुशी से नहीं।",
+     "देवी ने उसकी पूजा स्वीकार कर ली। बाला फिर ज़िंदा हो गया। परिवार के बुरे दिन खत्म हो गए। बिहुला अपने पति के साथ घर लौटी। उसने वह कर दिखाया जो नामुमकिन लगता था।",
+     "उसकी यात्रा साहस और प्रेम की निशानी बन गई। लोग आज भी उसे लोकगीतों, त्योहारों और भागलपुर की मंजूषा चित्रकला में याद करते हैं।",
+     "सीख: साहस रखो और कभी हार मत मानो। प्रेम, धीरज और विनम्रता बड़ी से बड़ी मुश्किल को पार करा सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "trader",
+     "en": "a person who buys and sells goods",
+     "hi": "व्यापारी"
+    },
+    {
+     "w": "goddess",
+     "en": "a female god",
+     "hi": "देवी"
+    },
+    {
+     "w": "bamboo",
+     "en": "a tall, strong, hollow grass used to build things",
+     "hi": "बाँस"
+    },
+    {
+     "w": "custom",
+     "en": "something people in a place have done for a long time",
+     "hi": "रिवाज़, प्रथा"
+    },
+    {
+     "w": "raft",
+     "en": "a flat boat made to float on water",
+     "hi": "बेड़ा"
+    },
+    {
+     "w": "heartbroken",
+     "en": "very, very sad",
+     "hi": "दिल टूटा हुआ"
+    },
+    {
+     "w": "washerwoman",
+     "en": "a woman whose work is washing clothes",
+     "hi": "धोबिन"
+    },
+    {
+     "w": "courage",
+     "en": "being brave when things are scary",
+     "hi": "साहस"
+    },
+    {
+     "w": "humility",
+     "en": "not being too proud",
+     "hi": "विनम्रता"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who and what",
+     "q": "Who was Chando Saudagar? Which goddess would he not pray to?"
+    },
+    {
+     "k": "What happened",
+     "q": "What happened to Bala on the wedding night?"
+    },
+    {
+     "k": "The journey",
+     "q": "How did Bihula take Bala down the river? Who helped her on the way?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How do you think Bihula felt when she set out on the river? What helped her keep going?"
+    },
+    {
+     "k": "Think of you",
+     "q": "Think of a time when you kept trying even though it was hard. What helped you keep going?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Long ago, in the rich city of Champanagar in the land of Anga, there lived a merchant named Chando Saudagar.",
+     "Chando owned ships and traded in faraway lands. He was also a faithful follower of Lord Shiva.",
+     "But there was one goddess he refused to worship. She was Bishahari, also called Manasa, the goddess of snakes.",
+     "Bishahari wanted Chando to respect her power and worship her. But the proud merchant said no. The goddess grew very angry.",
+     "To show her power, she brought sorrow to his family. One by one, Chando’s sons died from snakebites. Even after these terrible losses, Chando would not give in.",
+     "Later, his youngest son, Bala Lakhindar, grew up and married a lovely young woman named Bihula. She was loyal to him, and the two loved each other deeply.",
+     "But Bishahari’s anger had not gone away. Chando feared she would strike again, so he had a special room built for the newly married pair. It was made of iron and bamboo and sealed tightly so that not even a tiny snake could enter. He hoped it would keep his son safe.",
+     "On their wedding night, Bala and Bihula went into the room. But Bishahari was determined to keep her threat. A snake found a way into the room and bit Bala. By morning, Bala was dead.",
+     "Bihula was heartbroken. Her married life had hardly begun, and she had already lost the person she loved most. Still, she would not accept that her husband was gone forever.",
+     "In that region, there was a custom. The body of a person who died of a snakebite could be put on a raft and sent down the river, in the hope that someone would be able to bring the person back to life.",
+     "Bihula decided to make this journey herself. She prepared a special boat, which Manjusha paintings show as a decorated vessel carrying her husband’s body. She laid Bala on it and set off down the river.",
+     "The journey was long and hard. Bihula passed through strange places and faced danger, loneliness and fear. Yet she stayed determined. She believed that somewhere in the heavens there was a way to bring her husband back.",
+     "Along the way, she met a washerwoman named Neta, who had remarkable powers. Bihula learned that Neta was linked to the world of the gods and might help her reach them. She begged Neta to guide her.",
+     "In the end, Neta helped Bihula reach the heavenly court. There, Bihula stood before the gods and goddesses and told them about her suffering.",
+     "She did not just demand that her husband be given back. She showed her love, courage and strength through what she did. In some tellings, she danced before the gods, and her sincerity touched them.",
+     "Bishahari said she would give Bala his life back only if Chando Saudagar finally accepted her and worshipped her. Bihula agreed to take this message home.",
+     "When Chando heard it, he still did not want to give in completely. But his wish to have his son back was stronger than his pride. At last he worshipped Bishahari, although he did it unwillingly.",
+     "The goddess accepted his offering. Bala came back to life, and the family’s troubles came to an end. Bihula went home with her husband, having done what had seemed impossible.",
+     "Her journey became a symbol of courage, love and the will to beat death and sadness. The story of Bihula and Bishahari still lives on in folk songs, religious festivals and the beautiful Manjusha paintings of Bhagalpur.",
+     "Moral: Courage and determination can carry us through great hardships. Love, patience and humility can overcome even the biggest obstacles."
+    ],
+    "hi": [
+     "बहुत समय पहले अंग प्रदेश के समृद्ध शहर चम्पानगर में चंदो सौदागर नाम का एक व्यापारी रहता था।",
+     "चंदो के पास जहाज़ थे और वह दूर-दूर के देशों में व्यापार करता था। वह भगवान शिव का सच्चा भक्त भी था।",
+     "लेकिन एक देवी की पूजा करने से उसने साफ़ मना कर रखा था। वे थीं बिषहरी, जिन्हें मनसा भी कहते हैं, साँपों की देवी।",
+     "बिषहरी चाहती थीं कि चंदो उनकी शक्ति को माने और उनकी पूजा करे। पर घमंडी व्यापारी ने मना कर दिया। देवी बहुत क्रोधित हो गईं।",
+     "अपनी शक्ति दिखाने के लिए उन्होंने उसके परिवार पर दुख बरसाया। एक-एक करके चंदो के बेटे साँप के काटने से मर गए। इतने बड़े नुकसान के बाद भी चंदो ने हार नहीं मानी।",
+     "आगे चलकर उसका सबसे छोटा बेटा बाला लखिंदर बड़ा हुआ और उसका विवाह बिहुला नाम की सुंदर युवती से हुआ। वह अपने पति के प्रति निष्ठावान थी और दोनों एक-दूसरे को बहुत प्यार करते थे।",
+     "पर बिषहरी का क्रोध गया नहीं था। चंदो को डर था कि देवी फिर वार करेंगी, इसलिए उसने नवविवाहित जोड़े के लिए एक खास कमरा बनवाया। वह लोहे और बाँस का था और इतनी कसकर बंद किया गया था कि छोटा-सा साँप भी भीतर न आ सके। उसे आशा थी कि इससे बेटा सुरक्षित रहेगा।",
+     "शादी की रात बाला और बिहुला उस कमरे में गए। पर बिषहरी अपनी धमकी पूरी करने पर अड़ी थीं। एक साँप कमरे में घुसने का रास्ता खोज ही लाया और उसने बाला को डस लिया। सुबह होते-होते बाला की मृत्यु हो चुकी थी।",
+     "बिहुला का दिल टूट गया। उसका वैवाहिक जीवन अभी शुरू ही हुआ था और उसने अपने सबसे प्यारे इंसान को खो दिया था। फिर भी उसने यह नहीं माना कि उसके पति का जीवन सदा के लिए खत्म हो गया है।",
+     "उस इलाके में एक रिवाज़ था। साँप के काटने से मरे व्यक्ति के शरीर को बेड़े पर रखकर नदी में बहा दिया जाता था, इस आशा में कि कोई उसे फिर जीवन दे सके।",
+     "बिहुला ने यह यात्रा खुद करने का निश्चय किया। उसने एक विशेष नाव तैयार की, जिसे मंजूषा चित्रों में सजे हुए जलयान की तरह दिखाया जाता है, जिस पर उसके पति का शरीर रखा है। उसने बाला को उस पर लिटाया और नदी की राह पर निकल पड़ी।",
+     "यात्रा लंबी और कठिन थी। बिहुला अनजान जगहों से गुज़री और उसने खतरे, अकेलेपन और डर का सामना किया। फिर भी वह डटी रही। उसे विश्वास था कि स्वर्ग में कहीं पति को लौटाने का कोई रास्ता ज़रूर है।",
+     "रास्ते में उसे नेता नाम की एक धोबिन मिली, जिसके पास अनोखी शक्तियाँ थीं। बिहुला को पता चला कि नेता देवताओं की दुनिया से जुड़ी है और उन तक पहुँचने में मदद कर सकती है। उसने नेता से राह दिखाने की विनती की।",
+     "आखिरकार नेता ने बिहुला को स्वर्ग की सभा तक पहुँचा दिया। वहाँ बिहुला ने देवी-देवताओं के सामने खड़े होकर अपना दुख बताया।",
+     "उसने सिर्फ़ यह नहीं माँगा कि उसका पति लौटा दिया जाए। उसने अपने कामों से अपना प्रेम, साहस और दृढ़ता दिखाई। कुछ कथाओं में वह देवताओं के सामने नाची, और उसकी सच्चाई ने देवताओं का मन छू लिया।",
+     "बिषहरी ने कहा कि वे बाला को जीवन तभी लौटाएँगी जब चंदो सौदागर उन्हें मानकर उनकी पूजा करेगा। बिहुला यह संदेश घर ले जाने को तैयार हो गई।",
+     "जब यह बात चंदो के सामने आई, तब भी वह पूरी तरह झुकना नहीं चाहता था। पर बेटे को वापस पाने की इच्छा उसके घमंड से बड़ी निकली। आखिरकार उसने बिषहरी की पूजा की, भले ही बेमन से।",
+     "देवी ने उसकी भेंट स्वीकार कर ली। बाला फिर जीवित हो उठा और परिवार के दुख खत्म हो गए। बिहुला अपने पति के साथ घर लौटी; उसने वह कर दिखाया जो असंभव लगता था।",
+     "उसकी यात्रा साहस, प्रेम और मृत्यु व निराशा को हराने के संकल्प का प्रतीक बन गई। बिहुला और बिषहरी की कथा आज भी लोकगीतों, धार्मिक उत्सवों और भागलपुर की सुंदर मंजूषा चित्रकला में जीवित है।",
+     "सीख: साहस और दृढ़ निश्चय हमें बड़ी कठिनाइयों से पार करा सकते हैं। प्रेम, धैर्य और विनम्रता सबसे बड़ी बाधाओं को भी जीत सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "merchant",
+     "en": "a person who buys and sells goods, often far away",
+     "hi": "व्यापारी, सौदागर"
+    },
+    {
+     "w": "faithful",
+     "en": "loyal and true to someone or something",
+     "hi": "निष्ठावान, सच्चा"
+    },
+    {
+     "w": "determined",
+     "en": "firmly decided not to give up",
+     "hi": "दृढ़ निश्चयी"
+    },
+    {
+     "w": "custom",
+     "en": "a way of doing things that people in a place have followed for a long time",
+     "hi": "रिवाज़, प्रथा"
+    },
+    {
+     "w": "raft",
+     "en": "a flat boat made to float on water",
+     "hi": "बेड़ा"
+    },
+    {
+     "w": "vessel",
+     "en": "a boat or ship",
+     "hi": "जलयान, नाव"
+    },
+    {
+     "w": "remarkable",
+     "en": "very unusual and worth noticing",
+     "hi": "अनोखा, असाधारण"
+    },
+    {
+     "w": "sincerity",
+     "en": "being honest and truly meaning what you do",
+     "hi": "सच्चाई, निष्कपटता"
+    },
+    {
+     "w": "pride",
+     "en": "too high an opinion of yourself",
+     "hi": "घमंड"
+    },
+    {
+     "w": "unwillingly",
+     "en": "not wanting to do it, but doing it anyway",
+     "hi": "बेमन से"
+    },
+    {
+     "w": "hardships",
+     "en": "times of great difficulty or suffering",
+     "hi": "कठिनाइयाँ"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Motivation",
+     "q": "Why do you think Chando refused to worship Bishahari, even after he lost so many sons?"
+    },
+    {
+     "k": "Cause and effect",
+     "q": "How did Chando’s pride lead to the troubles in the story?"
+    },
+    {
+     "k": "A big decision",
+     "q": "Bihula decided to take the journey herself. What do her choices tell you about her? What might have happened if she had stayed home?"
+    },
+    {
+     "k": "Her way",
+     "q": "Bihula did not only demand her husband back. Why might showing her love and courage have worked better?"
+    },
+    {
+     "k": "The ending",
+     "q": "Chando worshipped Bishahari unwillingly. Do you think this was a good ending? Why or why not?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in the prosperous city of Champanagar in the ancient region of Anga, there lived a wealthy merchant named Chando Saudagar.",
+     "Chando was a successful trader who owned ships and conducted business across distant lands. He was also a devoted follower of Lord Shiva.",
+     "However, there was one deity he refused to worship: Bishahari, also known as Manasa, the goddess associated with snakes.",
+     "Bishahari wanted Chando to acknowledge her divine power and offer her worship. But the proud merchant refused. The goddess became furious at his defiance.",
+     "She decided to demonstrate her power by bringing misfortune upon his household. One after another, Chando’s sons died through the intervention of snakes. Despite his terrible losses, Chando refused to surrender.",
+     "Eventually, his youngest son, Bala Lakhindar, grew up and married a beautiful young woman named Bihula. Bihula was devoted to her husband, and the two were deeply in love.",
+     "But the threat of Bishahari had not disappeared. Chando knew that the goddess might strike again, so he ordered a special chamber to be built for the newly married couple. It was made of iron and bamboo and carefully sealed to prevent even the smallest snake from entering. He believed that this would protect his son.",
+     "On their wedding night, Bala and Bihula entered the chamber. But Bishahari was determined to fulfil her threat. A serpent managed to find its way into the supposedly secure chamber and bit Bala. By morning, Bala was dead.",
+     "Bihula was devastated. She had barely begun her married life, and already she had lost the person she loved most. But she refused to accept that her husband’s life had ended forever.",
+     "According to the custom of the region, the body of someone who died from a snakebite could be placed on a raft and sent down the river in the hope of finding someone capable of restoring life.",
+     "Bihula decided to undertake this journey herself. She prepared a special boat, traditionally represented in Manjusha paintings as a decorated vessel carrying her husband’s body. She placed Bala upon it and set out along the river.",
+     "The journey was long and difficult. Bihula travelled through unfamiliar places, facing danger, loneliness and uncertainty. Yet she remained determined. She believed that somewhere in the heavens there must be a way to bring her husband back.",
+     "During her journey, she encountered a washerwoman named Neta, who possessed extraordinary powers. Bihula learned that Neta was connected to the divine world and might be able to help her reach the gods. She pleaded with the woman to guide her.",
+     "Neta eventually helped Bihula reach the heavenly court. There, Bihula faced the gods and goddesses and explained her suffering.",
+     "She did not simply demand that her husband be restored. She demonstrated her devotion, determination and courage through her actions. In some tellings, she performed a dance before the divine assembly, moving the gods with her sincerity and perseverance.",
+     "Bishahari’s condition for restoring Bala’s life was that Chando Saudagar must finally acknowledge her and offer her worship. Bihula agreed to carry this message back.",
+     "When the matter was finally brought before Chando, he remained unwilling to surrender completely. Yet the desire to have his son restored was greater than his pride. He finally offered worship to Bishahari, even though he did so reluctantly.",
+     "The goddess accepted the offering. Bala was restored to life, and the family’s misfortunes were brought to an end. Bihula returned home with her husband, having accomplished what seemed impossible.",
+     "Her journey became a symbol of courage, devotion and the determination to overcome death and despair. The story of Bihula and Bishahari continues to live through folk songs, religious celebrations and the beautiful Manjusha paintings of Bhagalpur.",
+     "Moral: Courage and determination can carry us through extraordinary hardships. Love, perseverance and humility can overcome even the greatest obstacles."
+    ],
+    "hi": [
+     "बहुत पहले, प्राचीन अंग प्रदेश के समृद्ध नगर चम्पानगर में चंदो सौदागर नाम का एक धनी व्यापारी रहा करता था।",
+     "चंदो एक सफल व्यापारी था, जिसके जहाज़ थे और जिसका कारोबार दूर-दराज़ के देशों तक फैला था। वह भगवान शिव का अनन्य भक्त भी था।",
+     "फिर भी एक देवी ऐसी थीं जिनकी पूजा करने से उसने साफ़ इनकार कर रखा था: साँपों से जुड़ी देवी बिषहरी, जिन्हें मनसा भी कहा जाता है।",
+     "बिषहरी चाहती थीं कि चंदो उनकी दैवी शक्ति को स्वीकार करे और उनकी पूजा करे। पर अभिमानी व्यापारी ने मना कर दिया। उसकी अवहेलना से देवी क्रोध से भर उठीं।",
+     "उन्होंने अपनी शक्ति दिखाने के लिए उसके घर पर विपत्ति बरसाने का निश्चय किया। एक के बाद एक, साँपों के प्रकोप से चंदो के पुत्र मरते चले गए। इतनी भारी क्षति के बावजूद चंदो झुकने को तैयार न हुआ।",
+     "समय बीता और उसका सबसे छोटा पुत्र बाला लखिंदर बड़ा होकर बिहुला नाम की एक रूपवती युवती से ब्याहा गया। बिहुला अपने पति को समर्पित थी, और दोनों में गहरा प्रेम था।",
+     "पर बिषहरी का संकट टला नहीं था। चंदो जानता था कि देवी फिर प्रहार कर सकती हैं, इसलिए उसने नवविवाहित जोड़े के लिए एक विशेष कक्ष बनवाने का आदेश दिया। वह लोहे और बाँस से बना था और इतनी सावधानी से बंद किया गया था कि छोटे-से-छोटा साँप भी भीतर न घुस सके। उसे विश्वास था कि इससे उसका पुत्र सुरक्षित रहेगा।",
+     "विवाह की रात बाला और बिहुला उस कक्ष में गए। पर बिषहरी अपनी धमकी पूरी करने पर अडिग थीं। एक नाग उस कथित रूप से सुरक्षित कक्ष में भी राह बना ही गया और उसने बाला को डस लिया। भोर होते-होते बाला के प्राण जा चुके थे।",
+     "बिहुला पर मानो वज्रपात हो गया। उसका वैवाहिक जीवन अभी शुरू ही हुआ था और वह अपने सबसे प्रिय व्यक्ति को खो चुकी थी। फिर भी उसने यह स्वीकार नहीं किया कि उसके पति का जीवन सदा के लिए समाप्त हो गया है।",
+     "उस क्षेत्र की प्रथा के अनुसार, साँप के डसने से मरे व्यक्ति की देह को बेड़े पर रखकर नदी की धारा में बहा दिया जाता था, इस आशा में कि कोई ऐसा समर्थ व्यक्ति मिल जाए जो प्राण लौटा सके।",
+     "बिहुला ने यह यात्रा स्वयं करने का निर्णय लिया। उसने एक विशेष नौका तैयार की, जिसे परंपरागत रूप से मंजूषा चित्रों में सजे हुए जलयान के रूप में दिखाया जाता है, जो उसके पति की देह को लिए हुए है। उसने बाला को उस पर लिटाया और नदी की राह पर चल पड़ी।",
+     "यात्रा लंबी और कष्टदायी थी। बिहुला अनजाने स्थानों से गुज़री और उसने संकट, अकेलेपन और अनिश्चितता का सामना किया। फिर भी उसका संकल्प नहीं डिगा। उसे विश्वास था कि कहीं स्वर्ग में अवश्य कोई उपाय है जो उसके पति को लौटा सकता है।",
+     "यात्रा के दौरान उसकी भेंट नेता नाम की एक धोबिन से हुई, जो असाधारण शक्तियों की स्वामिनी थी। बिहुला को ज्ञात हुआ कि नेता का देवलोक से संबंध है और वह देवताओं तक पहुँचने में उसकी सहायता कर सकती है। उसने नेता से मार्ग दिखाने की प्रार्थना की।",
+     "अंततः नेता ने बिहुला को स्वर्ग की सभा तक पहुँचा दिया। वहाँ बिहुला ने देवी-देवताओं के समक्ष खड़े होकर अपनी व्यथा कह सुनाई।",
+     "उसने केवल यह माँग नहीं रखी कि उसका पति लौटा दिया जाए। उसने अपने कर्मों से अपनी भक्ति, दृढ़ता और साहस का परिचय दिया। कुछ कथाओं में कहा जाता है कि उसने देव-सभा के सामने नृत्य किया और अपनी सच्चाई तथा धैर्य से देवताओं का मन मोह लिया।",
+     "बाला के प्राण लौटाने के लिए बिषहरी की शर्त यह थी कि चंदो सौदागर अंततः उन्हें मानकर उनकी पूजा करे। बिहुला यह संदेश घर तक ले जाने को तैयार हो गई।",
+     "जब यह बात अंततः चंदो के सामने रखी गई, तब भी वह पूरी तरह झुकने को तैयार नहीं था। फिर भी पुत्र को वापस पाने की चाह उसके अभिमान से कहीं बड़ी थी। उसने अंत में बिषहरी की पूजा की, यद्यपि यह उसने अनमने ढंग से किया।",
+     "देवी ने वह भेंट स्वीकार कर ली। बाला को जीवन मिल गया और परिवार की विपत्तियों का अंत हो गया। बिहुला अपने पति के साथ घर लौटी, उसने वह कर दिखाया था जो असंभव प्रतीत होता था।",
+     "उसकी यात्रा साहस, भक्ति और मृत्यु तथा निराशा पर विजय पाने के संकल्प का प्रतीक बन गई। बिहुला और बिषहरी की कथा आज भी लोकगीतों, धार्मिक उत्सवों और भागलपुर की सुंदर मंजूषा चित्रकला के माध्यम से जीवित है।",
+     "सीख: साहस और दृढ़ निश्चय हमें असाधारण कठिनाइयों से पार करा सकते हैं। प्रेम, धैर्य और विनम्रता सबसे बड़ी बाधाओं पर भी विजय पा सकते हैं।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "prosperous",
+     "en": "rich and successful",
+     "hi": "समृद्ध"
+    },
+    {
+     "w": "deity",
+     "en": "a god or goddess",
+     "hi": "देवता, देवी"
+    },
+    {
+     "w": "acknowledge",
+     "en": "to accept that something is true or important",
+     "hi": "स्वीकार करना, मान्यता देना"
+    },
+    {
+     "w": "defiance",
+     "en": "openly refusing to obey or give respect",
+     "hi": "अवहेलना, अवज्ञा"
+    },
+    {
+     "w": "intervention",
+     "en": "stepping in to change what happens",
+     "hi": "हस्तक्षेप"
+    },
+    {
+     "w": "devastated",
+     "en": "shattered by grief or loss",
+     "hi": "व्यथित, टूटा हुआ"
+    },
+    {
+     "w": "custom",
+     "en": "a traditional practice of a community",
+     "hi": "प्रथा, रिवाज़"
+    },
+    {
+     "w": "vessel",
+     "en": "a boat or ship",
+     "hi": "जलयान, नौका"
+    },
+    {
+     "w": "perseverance",
+     "en": "keeping going despite difficulty",
+     "hi": "दृढ़ता, धैर्य"
+    },
+    {
+     "w": "sincerity",
+     "en": "honesty of feeling and purpose",
+     "hi": "सच्चाई, निष्कपटता"
+    },
+    {
+     "w": "reluctantly",
+     "en": "unwillingly, with hesitation",
+     "hi": "अनमने ढंग से"
+    },
+    {
+     "w": "humility",
+     "en": "a modest view of oneself; freedom from pride",
+     "hi": "विनम्रता"
+    }
+   ],
+   "questions": [
+    {
+     "k": "An ethical question",
+     "q": "Bishahari’s condition was that Chando must worship her, and he agreed only because he wanted his son back. Is worship that is given reluctantly meaningful? Was her condition fair?"
+    },
+    {
+     "k": "Another point of view",
+     "q": "Imagine part of the story told by Bishahari. Why might she have wanted to be acknowledged, and how might she see Chando’s refusal?"
+    },
+    {
+     "k": "Cultural understanding",
+     "q": "Manjusha paintings and folk songs keep this story alive in eastern Bihar. What does it say about a community when its stories are carried in art, song and festivals?"
+    },
+    {
+     "k": "Theme",
+     "q": "The moral names love, perseverance and humility. Which does Bihula show, and which does Chando have to learn? How can you tell?"
+    },
+    {
+     "k": "Today",
+     "q": "Where do people today show great determination to help someone they love through a very hard time? What can we learn from Bihula’s way of asking, which was not only demanding?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1,
+   2
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   11,
+   12,
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   16,
+   17
+  ],
+  [
+   18,
+   19
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "Chando, the proud merchant",
+   "th": "घमंडी व्यापारी चंदो",
+   "p": "Soft storybook illustration of a prosperous river-port city, Champanagar, with moored wooden trading ships and bales of goods. In the foreground Chando Saudagar, a stout middle-aged merchant with a grey-streaked moustache, white dhoti, gold-edged shoulder cloth and a string of beads, stands proudly before a small Shiva shrine with his arms folded, turning away from a modest empty alcove meant for a snake goddess. Warm morning light, confident mood. No violence."
+  },
+  {
+   "t": "Bishahari’s anger",
+   "th": "बिषहरी का क्रोध",
+   "p": "A stern, regal goddess Bishahari (also called Manasa) with a calm, serious face, seated beneath a canopy of cobra hoods, in a green and gold sari, looking down at Chando's house far below. Dim, stormy twilight sky, a few snakes slipping quietly through grass toward the house. In the house, Chando stands alone and unmoving in the courtyard with an empty row of small seats beside him, shown gently without any harm depicted. Mood: solemn and tense, not frightening."
+  },
+  {
+   "t": "Bala and Bihula are married",
+   "th": "बाला और बिहुला का विवाह",
+   "p": "Young Bala Lakhindar (slim, white dhoti, orange scarf) and Bihula (young woman with a long black braid, red-and-yellow sari with a gold border, simple jewellery) sit together at a wedding, smiling at each other. Behind them a freshly built sealed chamber made of iron plates and woven bamboo, with Chando watching hopefully from the side. Warm lamp light, marigold garlands, joyful but slightly watchful mood."
+  },
+  {
+   "t": "The snake in the chamber",
+   "th": "कक्ष में साँप",
+   "p": "Night inside the iron and bamboo chamber lit by one small oil lamp. Bala lies still on the bed, a tiny snake slipping away through a small gap in the wall. Bihula, in her red-and-yellow wedding sari, kneels beside him with her hands to her face in sorrow. Cool blue night colours with a single warm lamp glow. Sad but gentle, no blood or injury shown."
+  },
+  {
+   "t": "Bihula’s boat on the river",
+   "th": "नदी में बिहुला की नाव",
+   "p": "At dawn on a wide river bank, Bihula in her red-and-yellow sari lays Bala gently on a decorated bamboo boat covered with a painted canopy, then pushes it off into the current. Villagers watch quietly from the shore. Pink-gold sunrise, rippling water, mood of quiet determination and grief."
+  },
+  {
+   "t": "Neta guides Bihula",
+   "th": "नेता का मार्गदर्शन",
+   "p": "On a long river journey, Bihula's boat drifts past strange banks under a wide sky. At a washing ghat, Neta, a middle-aged washerwoman in a plain blue-grey sari with a bundle of cloth beside her, greets Bihula and points her toward a glowing path in the clouds leading to the heavens. Soft light, mood of hope after loneliness."
+  },
+  {
+   "t": "Bihula before the gods",
+   "th": "देवताओं के सामने बिहुला",
+   "p": "In the heavenly court, gods and goddesses sit in a half-circle on cloud-like seats, among them Bishahari under her cobra-hood canopy. Bihula stands in the middle with her hands folded, dancing gracefully with a sincere, open face, her red-and-yellow sari swirling. Luminous gold and blue colours, respectful mood."
+  },
+  {
+   "t": "Chando bows; Bala returns",
+   "th": "चंदो झुका, बाला लौटा",
+   "p": "In the courtyard of Chando's house, Chando kneels reluctantly before a small shrine to Bishahari, offering flowers, his face troubled but softened. Beside him, Bala stands up alive and well, and Bihula smiles through happy tears. A gentle snake-hood symbol glows over the shrine. Warm morning light, relieved and humble mood."
+  },
+  {
+   "t": "A story that lives on",
+   "th": "साहस की कहानी आज भी",
+   "p": "A celebratory scene in a village near Bhagalpur: women and children sit around painted Manjusha-style boxes decorated with wave-pattern borders and snakes, listening to a folk singer. Bihula and Bala appear as a small painted couple on a box. Warm festive evening lamps, proud and peaceful mood."
+  }
+ ],
+ "artStyle": {
+  "region": "Anga region (Bhagalpur), eastern Bihar",
+  "verified": true,
+  "tradition": "Manjusha art (Bhagalpur, Anga region)",
+  "note": "Sahapedia describes Manjusha art as practised in the Anga region of eastern Bihar, originally linked to the box (manjusha) used in Bishahari Puja and illustrating the Bihula and Bishahari story. Outlines are usually green (sometimes black), and borders often end in a solid band of yellow, green or pink. Motifs described include snakes (sarp ladi), river ripples (leheriya), belpatra leaves, champa flowers, fish scales and a nectar pot. Use these as decorative borders and symbols around soft, flat-colour illustrations; we have not verified a full palette or figure style, so the images should be inspired by, not presented as, Manjusha paintings.",
+  "characters": [
+   {
+    "name": "Chando Saudagar",
+    "look": "Stout middle-aged merchant, grey-streaked moustache, white dhoti, gold-edged shoulder cloth, string of beads."
+   },
+   {
+    "name": "Bihula",
+    "look": "Young woman with a long black braid, red-and-yellow sari with a gold border, simple gold jewellery, determined expression."
+   },
+   {
+    "name": "Bala Lakhindar",
+    "look": "Slim young man, white dhoti, orange scarf, gentle face."
+   },
+   {
+    "name": "Bishahari (Manasa)",
+    "look": "Regal goddess with a calm, stern face, green and gold sari, seated beneath a canopy of cobra hoods."
+   },
+   {
+    "name": "Neta",
+    "look": "Middle-aged washerwoman, plain blue-grey sari, bundle of cloth, kind eyes."
+   }
+  ],
+  "sources": [
+   [
+    "Sahapedia: Manjusha, Exploring the Traditional Art Form of Anga Pradesh",
+    "https://www.sahapedia.org/manjusha-exploring-traditional-art-form-anga-pradesh"
+   ],
+   [
+    "Folkartopedia: Bihula-Bisahari, Folklore of Anga Region",
+    "https://www.folkartopedia.com/oral-traditions/folklores/folklore-angika-bihula-bisahari-bhagalpur-sk/"
+   ]
+  ]
+ },
+ "imagine": "Imagine you are Bihula on the boat, floating down the river at night. What do you see, hear and feel? What do you say to yourself to keep going?",
+ "create": "Draw Bihula’s boat on the river, with a border of waves and snakes around the edge, like the borders in Manjusha art. Or write a short song Bihula might sing to the river.",
+ "about": {
+  "where": "This story comes from the Anga region of eastern Bihar, around the city of Bhagalpur. Sahapedia places Champa, the old Champanagar of the story, about 9 km west of Bhagalpur, and a place called Bihula Ghat is linked to the tale.",
+  "community": "The sources we have call this Angika, or Anga-region, folklore. Sahapedia says the Malakar community made and painted the manjusha boxes and the Kumbhakar community made the clay pots, but that is about the art, not about who first told this version of the story. The sources do not say which community first told this version, so we are not guessing.",
+  "tradition": "The story is tied to Bishahari Puja and to Manjusha art. The word manjusha means box, and Sahapedia describes temple-shaped boxes of bamboo, jute straw and paper used in the puja. The art is also painted on clay pots and walls and, more recently, on cloth and canvas.",
+  "shared": "The story has been shared through folk songs, worship, and paintings that show it scene by scene. Folkartopedia says the oral songs once used to tell it have become less common, and there are efforts to bring them back.",
+  "matters": "Bihula’s story is about courage, love and humility, and about a family that learns to give up pride. This is one version from one source; other tellings differ, for example in how many snake goddesses there are and in how Bihula wins her husband’s life back.",
+  "links": [
+   [
+    "Sahapedia: Manjusha, Exploring the Traditional Art Form of Anga Pradesh",
+    "https://www.sahapedia.org/manjusha-exploring-traditional-art-form-anga-pradesh"
+   ],
+   [
+    "Folkartopedia: Bihula-Bisahari, Folklore of Anga Region",
+    "https://www.folkartopedia.com/oral-traditions/folklores/folklore-angika-bihula-bisahari-bhagalpur-sk/"
+   ]
+  ]
+ },
+ "sources": [
+  {
+   "l": "Original source (per repository)",
+   "v": "Angika/Anga-region folklore associated with Champanagar and Bhagalpur. References listed: Bihar Museum, Bihulla Vishari Folklore; Sahapedia, Manjusha Art of Eastern Bihar; Anurag Kumar Pandey, A Narration of a Folktale: Bihula-Bishahari.",
+   "s": "ok"
+  },
+  {
+   "l": "Repository text",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Art and folklore context",
+   "v": "Sahapedia, Manjusha: Exploring the Traditional Art Form of Anga Pradesh; Folkartopedia, Bihula-Bisahari: Folklore of Anga Region (credits UMSAS, Patna, partially edited)",
+   "url": "https://www.sahapedia.org/manjusha-exploring-traditional-art-form-anga-pradesh",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 2 written for this website by Claude (an AI assistant) from the supplied version",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "Source retelling: the repository gives no author or URL for the exact text; confirm which reference it follows and its licence.",
+  "Sensitive content: the deaths of Chando's sons and of Bala (snakebite) are kept as in the source; check that the handling suits Level 1 readers (grades 4-5).",
+  "Details vary between tellings: other sources (Folkartopedia) have five Bishahari sisters, a Vishwakarma-built iron house, Chando worshipping with his left hand, and no dance; the supplied text says the dance is only in some tellings.",
+  "Name spellings differ across sources (Lakhindar/Lakhendra, Bishahari/Bisahari/Vishahari); Hindi spellings chosen by the AI need a native check.",
+  "The supplied text says Bala was placed on a raft, while Sahapedia describes a covered manjusha box; the Manjusha-painting description is kept as supplied.",
+  "Art details (colours, motifs) come from Sahapedia only; verify with an artist or another source before using in published illustrations.",
+  "Hindi has not been reviewed by a fluent reader; Level 3 Hindi is deliberately formal."
+ ]
+}

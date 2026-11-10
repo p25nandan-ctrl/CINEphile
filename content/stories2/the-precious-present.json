@@ -1,0 +1,341 @@
+{
+ "id": "the-precious-present",
+ "state": "jk",
+ "title": "The Precious Present",
+ "titleHi": "अनमोल तोहफ़ा",
+ "genre": "Humorous village tale",
+ "levelTitles": {
+  "1": {
+   "en": "The Precious Present",
+   "hi": "अनमोल तोहफ़ा"
+  },
+  "2": {
+   "en": "The Precious Present",
+   "hi": "अनमोल तोहफ़ा"
+  },
+  "3": {
+   "en": "The Precious Present",
+   "hi": "अनमोल तोहफ़ा"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, on the bank of the great Wular Lake in Kashmir, there was a tiny village. The villagers grew maize and vegetables and caught fish and water-nuts. They traded dried fish for salt and cloth. Nobody there used money.",
+     "One day, a shiny silver rupee found its way into the village. It had the Queen's picture on it. Nobody had ever seen such a thing!",
+     "The headman, called the nambardar, kept the coin safe. He thought about it all day and all night. In the morning he said, \"Brothers, this coin has the face of our ruler's own ruler. Let us give it to His Highness as a gift!\"",
+     "\"Yes! Yes!\" everyone cheered.",
+     "The villagers made a little palanquin and decorated it with silk and a soft blanket. They laid the rupee inside and drew the curtains, as if a bride were riding within. Six elders lifted it. A boat carried them toward the capital.",
+     "For three days they travelled, guarding the palanquin day and night. When people asked what was inside, the headman said, \"A precious present for His Highness. It is a secret!\"",
+     "At the palace they were welcomed like honoured guests. Then the ruler called them in. \"Place your gift before us,\" he said kindly.",
+     "The headman drew back the curtain and reached inside. Nothing! He lifted the blanket. Nothing! The elders searched every corner. Still nothing!",
+     "\"Sire,\" the headman said in a small voice, \"the gift has fallen out somewhere on the road.\"",
+     "\"Liars!\" shouted the prime minister. \"Throw them in prison!\"",
+     "The ruler looked at the frightened villagers and saw simple, honest people. He had them put in a room with food and a box of matches. The villagers had never seen matches! They could not light a fire, so they ate their food raw.",
+     "When the ruler heard this, he laughed and laughed. \"These men are honest,\" he said. He gave the headman a rupee, took it back as their gift, and sent them home with presents."
+    ],
+    "hi": [
+     "बहुत समय पहले की बात है। कश्मीर में वुलर झील के किनारे एक छोटा-सा गाँव था। गाँव वाले मक्का और सब्ज़ियाँ उगाते और झील से मछली और सिंघाड़े पकड़ते थे। वे सूखी मछली के बदले नमक और कपड़ा ले लेते थे। वहाँ कोई पैसे का इस्तेमाल नहीं करता था।",
+     "एक दिन गाँव में चाँदी का एक चमचमाता रुपया आ पहुँचा। उस पर रानी की तस्वीर बनी थी।",
+     "गाँव के मुखिया, यानी नंबरदार, ने सिक्का सँभालकर रख लिया। वह सारा दिन और सारी रात उसके बारे में सोचता रहा। सुबह उसने कहा, \"भाइयो, इस सिक्के पर हमारे राजा के भी राजा की तस्वीर है। चलो, इसे महाराज को तोहफ़े में दें!\"",
+     "\"हाँ! हाँ!\" सबने ख़ुशी से कहा।",
+     "गाँव वालों ने एक छोटी-सी पालकी बनाई और उसे रेशम और नरम कंबल से सजाया। उन्होंने रुपया भीतर रखा और परदे गिरा दिए, जैसे अंदर कोई दुल्हन बैठी हो। छह बुज़ुर्ग ने पालकी उठाई। एक नाव उन्हें राजधानी की ओर ले चली।",
+     "तीन दिन तक वे सफ़र करते रहे और दिन-रात पालकी की रखवाली करते रहे। कोई पूछता कि अंदर क्या है, तो नंबरदार कहता, \"महाराज के लिए एक अनमोल तोहफ़ा। यह राज़ है!\"",
+     "महल में स्वागत के बाद राजा ने उन्हें बुलाया। \"अपना तोहफ़ा हमारे सामने रखो,\" उन्होंने कहा।",
+     "नंबरदार ने परदा हटाया और हाथ भीतर डाला। कुछ नहीं! बुज़ुर्ग ने हर कोना टटोल डाला। फिर भी कुछ नहीं!",
+     "\"महाराज,\" नंबरदार ने धीमी आवाज़ में कहा, \"तोहफ़ा रास्ते में कहीं गिर गया।\"",
+     "\"झूठे!\" प्रधानमंत्री चिल्लाया। \"इन्हें जेल में डाल दो!\"",
+     "राजा ने डरे हुए गाँव वालों को देखा और समझ गया कि ये सीधे-सादे, ईमानदार लोग हैं। उसने उन्हें एक कमरे में खाने का सामान और माचिस की एक डिबिया देकर बंद करवा दिया। गाँव वालों ने माचिस कभी देखी ही नहीं थी! वे आग नहीं जला सके और उन्होंने कच्चा खाना ही खा लिया।",
+     "यह सुनकर राजा खूब हँसा। \"ये लोग सच्चे हैं,\" उसने कहा। उसने नंबरदार को एक रुपया दिया, फिर वही रुपया उनके तोहफ़े के रूप में वापस ले लिया और उन्हें उपहारों के साथ घर भेज दिया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Many years ago, on the shore of the great Wular Lake in Kashmir, there stood a village the world had almost forgotten. The only ways in were narrow mountain tracks or the lake itself, which looked lovely when calm but turned deadly when the wind rose. The villagers grew maize and vegetables and caught fish and water-nuts. Salt and cloth were bought with dried fish and ghee. Coins were so rare that nobody had ever seen a silver rupee.",
+     "Then, by some mysterious route, one arrived. It gleamed in the sun and carried the face of Queen Victoria. Soon the coin was handed to the nambardar, the village headman, for safe keeping. Children crowded round to stare at it, and old men turned it over and over in their rough palms.",
+     "The headman thought about it through one long day and one dark, sleepless night. In the morning he faced the villagers.",
+     "\"Brothers,\" he said, \"this is the first coin of its kind any of us has seen. It carries the face of our ruler's own ruler.\" His hand rose to his forehead in a salute, and everyone's followed. \"Let us offer it to His Highness himself!\"",
+     "Nobody disagreed. The villagers built a palanquin fit for a bride, with a soft blanket inside, silk over it, and bright cloth outside. In front of all the elders the rupee was laid within and the curtains were drawn. The women sang songs of good luck as six elders lowered the palanquin into a boat.",
+     "The journey took three days. Mist floated over the water at dawn, and the oars dipped softly while the elders sat stiff as statues. No one dared sit with his back to the palanquin, and each night a lamp burned beside it. When travellers asked their purpose, the answer was always the same: \"A precious present for His Highness.\" Not a word more.",
+     "On the third morning they lifted the palanquin onto their shoulders, barefoot, in their best scarves, one man marching ahead with a flag. \"Nobody but His Highness will look inside,\" the headman told the curious guards.",
+     "At the palace they were welcomed as honoured guests. Courtiers in embroidered robes glanced at their bare, dusty feet, but the villagers held their heads high. \"What reward will be too big for us?\" the headman whispered happily.",
+     "That afternoon they stood before the ruler.",
+     "\"Place your nazar before us,\" he said.",
+     "The headman drew back the curtain and slid his hand inside. His smile slipped. He raised all four curtains. The elders fumbled through the blanket and rummaged in every corner. The nazar was gone.",
+     "\"Sire,\" the headman said, his voice trembling, \"we have dropped the gift somewhere on the way.\"",
+     "\"Such daring!\" thundered the prime minister. \"Take them to prison!\"",
+     "The ruler saw that these were plainly simple, good-hearted people. Still, to be sure, he had them locked in a room with food and a box of safety matches. The villagers had never seen a matchstick. They could not light a fire, so they ate part of their food raw.",
+     "When the captain of the guards reported this, the ruler laughed. He heard the whole story, gave the headman a rupee, and accepted it back as their gift. The villagers went home with presents, and their land tax was reduced."
+    ],
+    "hi": [
+     "बहुत साल पहले कश्मीर की विशाल वुलर झील के किनारे एक ऐसा गाँव था, जिसे दुनिया लगभग भूल चुकी थी। वहाँ पहुँचने के दो ही रास्ते थे: पहाड़ की तंग पगडंडियाँ, या फिर झील, जो शांत हो तो बड़ी सुंदर लगती थी, पर हवा चलते ही जानलेवा बन जाती थी। गाँव वाले मक्का और सब्ज़ियाँ उगाते और मछली व सिंघाड़े पकड़ते थे। नमक और कपड़ा वे सूखी मछली और घी के बदले लेते थे। सिक्के इतने कम थे कि किसी ने कभी चाँदी का रुपया देखा ही नहीं था।",
+     "फिर एक दिन, न जाने किस रास्ते, एक रुपया गाँव में आ पहुँचा। वह धूप में चमकता था और उस पर महारानी विक्टोरिया का चेहरा बना था। जल्द ही सिक्का गाँव के मुखिया, यानी नंबरदार, के पास सँभालकर रखने के लिए पहुँचा दिया गया। बच्चे उसे घेरकर देखते रहे और बूढ़े अपनी खुरदरी हथेलियों में उसे बार-बार पलटते रहे।",
+     "नंबरदार एक लंबे दिन और एक काली, जागती रात तक सोचता रहा। सुबह उसने गाँव वालों से कहा।",
+     "\"भाइयो,\" वह बोला, \"ऐसा सिक्का हममें से किसी ने पहले नहीं देखा। इस पर हमारे राजा के भी राजा का चेहरा है।\" उसका हाथ सम्मान से माथे तक उठा, और सबके हाथ उसके पीछे उठ गए। \"चलो, इसे ख़ुद महाराज को भेंट करें!\"",
+     "किसी ने विरोध नहीं किया। गाँव वालों ने दुल्हन के लायक़ एक पालकी बनाई: भीतर नरम कंबल, उस पर रेशम, और बाहर चटकीला कपड़ा। सब बुज़ुर्ग के सामने रुपया अंदर रखा गया और परदे गिरा दिए गए। औरतों ने शुभ गीत गाए और छह बुज़ुर्ग ने पालकी नाव में उतारी।",
+     "सफ़र तीन दिन का था। भोर में पानी पर धुंध तैरती और चप्पू धीरे-धीरे उठते-गिरते, जबकि बुज़ुर्ग मूर्तियों की तरह तने बैठे रहते। पालकी की ओर पीठ करके कोई नहीं बैठा, और हर रात उसके पास दीया जलता रहा। राह में कोई पूछता कि मक़सद क्या है, तो जवाब हमेशा एक ही होता: \"महाराज के लिए एक अनमोल तोहफ़ा।\" इससे ज़्यादा एक शब्द नहीं।",
+     "तीसरी सुबह उन्होंने पालकी कंधों पर उठा ली। नंगे पाँव, अपने सबसे अच्छे दुपट्टे ओढ़े, और एक आदमी झंडा लिए आगे-आगे। उत्सुक पहरेदारों ने झाँकना चाहा तो नंबरदार ने कहा, \"महाराज के सिवा कोई भीतर नहीं देखेगा।\"",
+     "महल में उनका मेहमानों जैसा स्वागत हुआ। कढ़ाईदार चोगे पहने दरबारियों ने उनके नंगे, धूल भरे पाँवों को देखा, पर गाँव वालों ने सिर ऊँचा रखा।",
+     "दोपहर बाद वे राजा के सामने खड़े थे।",
+     "\"अपनी भेंट हमारे सामने रखो,\" राजा ने कहा।",
+     "नंबरदार ने परदा हटाया और भीतर हाथ डाला। उसने चारों परदे उठा दिए। बुज़ुर्ग ने कंबल टटोला, हर कोना खँगाला।",
+     "\"महाराज,\" नंबरदार की आवाज़ काँप रही थी, \"तोहफ़ा रास्ते में कहीं गिर गया।\"",
+     "\"कितनी हिम्मत!\" प्रधानमंत्री गरजा। \"इन्हें जेल में डाल दो!\"",
+     "राजा में अक्ल थी। उसने भाँप लिया कि ये सीधे-सादे, नेक दिल लोग हैं। फिर भी परखने के लिए उसने उन्हें खाने के सामान और माचिस की डिबिया के साथ एक कमरे में बंद करवा दिया। गाँव वालों ने माचिस कभी देखी नहीं थी। आग जली ही नहीं, और उन्होंने आधा खाना कच्चा ही खा लिया।",
+     "यह सुनकर राजा खिलखिलाकर हँस पड़ा। उसने पूरी कहानी सुनी, नंबरदार को एक रुपया दिया और उसे उनकी भेंट के तौर पर वापस ले लिया। गाँव वाले तोहफ़े लेकर घर लौटे, और उनका लगान भी घटा दिया गया।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7,
+      8
+     ],
+     [
+      9,
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Many years ago, a village stood on the bank of the Wular, one of the largest freshwater lakes in India. The only approach was over mountain tracks or across the lake, alluring to the eye when calm and impassable when not. Their land gave them maize, pulses and vegetables, and the lake gave them fish and water-nuts. Salt and cloth were exchanged for dried fish, ghee and maize. Coins were scarce; even officials were often paid in khirwars, or ass-loads, of grain. Nobody in the village had ever seen the silver rupee stamped with the effigy of Queen Victoria, Empress of India.",
+     "By some mysterious process, one found its way there, and it caused a sensation. The coin was handed to the nambardar, the headman, who pondered over it for a day and a sleepless night.",
+     "\"Brethren,\" he announced, \"this is the first coin of its kind any of us has seen. It is stamped with the figure of our ruler's own sovereign.\" His hand rose involuntarily to his forehead in salute, and the listeners followed. \"It is only fitting that we present it to His Highness in person.\"",
+     "The proposal was accepted at once; the headman was regarded as the wisest man alive. Under his instructions the villagers decorated a dainty palanquin with their finest cloth. In front of the assembled elders the rupee was placed within and the curtains drawn, as though the palanquin carried a bride. Village women sang songs of good fortune as it was lowered into a doongha, the traditional Kashmiri boat.",
+     "Going upstream is tiresome. The palanquin sat in the seat of honour, no one could sit with his back to it, and a lamp burned beside it until dawn. Whenever anyone asked their purpose, they said only that they carried \"a precious present for His Highness.\"",
+     "On the third morning they left the boat. Barefoot, legs bound in woollen puttees, backs draped in scarves like ancient courtiers, four men raised the palanquin while one walked ahead with a flag. At the octroi-post, tax collectors wished to look inside. \"Nobody except His Highness will cast a look inside,\" said the headman, and the guards gave way.",
+     "At Shergarhi, the palace on the bank of the Jhelum, they were received with the utmost hospitality. \"What reward will His Highness feel too high for us?\" the headman whispered.",
+     "In the afternoon they stood before the ruler. The headman made a flowery speech, calling his village \"famous for its fish, caltrops and deadly waves\", and begged permission to lay the nazar, the ceremonial offering, at the royal feet.",
+     "\"Let it be placed before us,\" the ruler replied.",
+     "The headman drew the curtain and thrust in his hand. He looked perplexed. He raised all four curtains. In their rustic merriment they had carried the palanquin so carelessly that the coin had slipped out somewhere on the road. At last the headman confessed.",
+     "The court turned cold. The ministers saw an insult to the throne. \"What astounds me,\" said the prime minister, \"is the daring of these uncouth rustics. Let them be imprisoned.\"",
+     "The elders looked like sheep at the gate of the shambles, yet the headman bore it with fortitude. \"Who is so unworthy of his salt,\" he declared, \"as to hold anything but affection for our lord and father? I invoke your mercy.\"",
+     "The ruler had common sense. He saw loyalty, not mockery, and devised a test. The villagers were placed in a cell with rations, but instead of a burning coal he sent a box of safety matches. They had no idea what a matchstick was. They ate part of their food raw and left the rest untouched.",
+     "Hearing this, the ruler was convinced of their innocence. He heard their story, laughed at their simple faith, and handed the headman a rupee, then received it back as the nazar. They were sent home with gifts, and their land rent was reduced. Back in the village, the tale of their narrow escape was told until it was imprinted on the minds of all."
+    ],
+    "hi": [
+     "बहुत पहले की बात है। भारत की सबसे बड़ी मीठे पानी की झीलों में से एक, वुलर, के किनारे एक गाँव बसा था। तब वहाँ पहुँचने का रास्ता या तो पहाड़ी पगडंडियाँ थीं या झील, जो शांत हो तो आँखों को लुभाती और उग्र हो तो पार करना नामुमकिन। गाँव वालों की ज़मीन मक्का, दालें और सब्ज़ियाँ देती थी और झील मछली और सिंघाड़े, जिनकी गिरी उनका मुख्य भोजन थी। सूखी मछली, घी और मक्का के बदले नमक और कपड़ा मिलता था। सिक्के कम थे, यहाँ तक कि सरकारी कर्मचारियों को भी अक्सर तनख़्वाह अनाज में, यानी \"ख़िरवार\" (गधे के बोझ) के हिसाब से मिलती थी। इसलिए गाँव में किसी ने महारानी विक्टोरिया की तस्वीर वाला चाँदी का रुपया कभी नहीं देखा था।",
+     "न जाने किस तरह ऐसा एक रुपया वहाँ पहुँच गया, और गाँव में हलचल मच गई। सिक्का नंबरदार, यानी गाँव के मुखिया, को सौंप दिया गया। वह एक दिन और एक जागती रात उस पर सोचता रहा।",
+     "\"भाइयो,\" उसने घोषणा की, \"ऐसा सिक्का हममें से किसी ने पहली बार देखा है। इस पर हमारे राजा के भी सम्राट की तस्वीर बनी है।\" उसका हाथ अपने आप माथे तक उठ गया और सुनने वालों के भी। \"उचित यही है कि हम इसे ख़ुद महाराज की सेवा में भेंट करें।\"",
+     "प्रस्ताव तुरंत मान लिया गया, क्योंकि नंबरदार को सबसे बुद्धिमान माना जाता था। उसके निर्देश पर गाँव वालों ने अपने बेहतरीन कपड़ों से एक सुंदर पालकी सजाई। इकट्ठे बुज़ुर्ग के सामने रुपया भीतर रखा गया और परदे गिरा दिए गए, मानो भीतर कोई दुल्हन हो। गाँव की औरतों ने मंगल गीत गाए और पालकी \"डूँगा\" में उतारी गई, जो कश्मीर की पारंपरिक नाव है।",
+     "धारा के विरुद्ध सफ़र थकाऊ होता है। पालकी को आदर का आसन मिला, कोई उसकी ओर पीठ करके नहीं बैठता था, और भोर तक उसके पास दीया जलता था। कोई मक़सद पूछता तो वे बस इतना कहते कि वे \"महाराज के लिए एक अनमोल तोहफ़ा\" ले जा रहे हैं।",
+     "तीसरी सुबह उन्होंने नाव छोड़ दी। नंगे पाँव, टाँगों पर ऊनी पट्टियाँ, पीठ पर पुराने दरबारियों की तरह सूती दुपट्टे; चार आदमियों ने पालकी उठाई और एक झंडा लिए आगे चला। चुंगी-चौकी पर कर वसूलने वाले भीतर झाँकना चाहते थे। \"महाराज के सिवा कोई भीतर नहीं देखेगा,\" नंबरदार ने कहा, और पहरेदार पीछे हट गए।",
+     "झेलम के तट पर बने शेरगढ़ी महल में उनका भरपूर आदर-सत्कार हुआ। \"महाराज को कौन-सा इनाम हमारे लिए ज़्यादा लगेगा?\" नंबरदार ने फुसफुसाकर कहा।",
+     "दोपहर बाद वे राजा के सामने पेश हुए। नंबरदार ने एक लंबा, अलंकृत भाषण दिया, जिसमें उसने अपने गाँव को \"मछली, सिंघाड़ों और जानलेवा लहरों के लिए मशहूर\" बताया, और राजा के चरणों में \"नज़र\", यानी औपचारिक भेंट, रखने की इजाज़त माँगी।",
+     "\"रखो हमारे सामने,\" राजा ने कहा।",
+     "नंबरदार ने परदा हटाया और हाथ भीतर डाला। वह उलझन में दिखा। उसने चारों परदे उठा दिए। अपनी मस्ती में उन्होंने पालकी इतनी लापरवाही से उठाई थी कि सिक्का रास्ते में कहीं फिसल गया था। आख़िर नंबरदार ने सच कह दिया।",
+     "मंत्रियों को सिंहासन का अपमान दिखा। \"हैरत है,\" प्रधानमंत्री बोला, \"इन गँवारों की हिम्मत पर। इन्हें क़ैद कर लिया जाए।\"",
+     "बुज़ुर्ग क़साई के दरवाज़े पर खड़ी भेड़ों जैसे दिख रहे थे, फिर भी नंबरदार ने धैर्य से सब सहा। \"ऐसा कौन नमकहराम होगा,\" उसने कहा, \"जो अपने मालिक और पिता तुल्य राजा के लिए स्नेह के सिवा कुछ रखे? मैं आपकी दया की दुहाई देता हूँ।\"",
+     "राजा में सूझ-बूझ थी। उसने इन चेहरों में उपहास नहीं, निष्ठा देखी, और एक परीक्षा सोची। गाँव वालों को राशन के साथ एक कोठरी में रखा गया, पर जलता कोयला देने के बजाय माचिस की डिबिया भेजी गई। उन्हें पता ही नहीं था कि तीली क्या होती है। उन्होंने आधा खाना कच्चा खाया और बाक़ी छोड़ दिया।",
+     "यह सुनकर राजा को उनकी बेगुनाही का यक़ीन हो गया। उसने उन्हें बुलाया, पूरी कथा सुनी और उनके सरल विश्वास पर हँस पड़ा। उसने नंबरदार को एक रुपया दिया और उसे ही नज़र के रूप में वापस ले लिया। उन्हें उपहारों के साथ विदा किया गया और उनका लगान घटा दिया गया। गाँव लौटकर उन्होंने अपने बाल-बाल बचने की कहानी सुनाई, और वह लोगों के दिलों में बस गई।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      3
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13
+     ]
+    ],
+    "hi": [
+     [
+      0
+     ],
+     [
+      1
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      4
+     ],
+     [
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12
+     ],
+     [
+      13
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Wular Lake shore, Kashmir Valley",
+  "community": "Kashmir Valley",
+  "tradition": "Humorous village tale about honesty and a ruler who tests the truth."
+ },
+ "sources": [
+  {
+   "l": "Source",
+   "v": "Kashmir Valley folk-tale tradition, as collected on ikashmir.net (Folk Tales from Kashmir, folktales2/1); the page credits the collection to S. L. Sadhu. Told as a Kashmir Valley tale; a specific community is not attributed.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "scenes7": [
+  "assets/stories/the-precious-present/the-precious-present-scene-1.webp",
+  "assets/stories/the-precious-present/the-precious-present-scene-2.webp",
+  "assets/stories/the-precious-present/the-precious-present-scene-3.webp",
+  "assets/stories/the-precious-present/the-precious-present-scene-4.webp",
+  "assets/stories/the-precious-present/the-precious-present-scene-5.webp",
+  "assets/stories/the-precious-present/the-precious-present-scene-6.webp",
+  "assets/stories/the-precious-present/the-precious-present-scene-7.webp"
+ ],
+ "meta": [
+  "● Themes: honesty against suspicion, sincerity of intention, how a wise ruler tests truth. ● Glossary: nambardar (village headman), palanquin (a covered seat carried on shoulders), doongha (a traditional Kashmiri boat), nazar (a ceremonial offering to a ruler), khirwar (an ass-load of grain, used as a unit of payment), Shergarhi (the ruler's palace on the Jhelum), water-nut or caltrop (the lake plant villagers eat, called singhara in Hindi). ● Discussion questions: Why did the villagers carry the palanquin as if it held a bride? How did the matchbox prove they were telling the truth? What would you have done as the ruler?"
+ ],
+ "tails": []
+}

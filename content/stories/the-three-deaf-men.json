@@ -1,0 +1,534 @@
+{
+ "id": "the-three-deaf-men",
+ "state": "tn",
+ "title": "The Three Deaf Men",
+ "titleHi": "तीन बहरे आदमी",
+ "summary": "A deaf husband and wife keep a strict cabbage routine. When the husband storms out in anger, a shepherd and a clever traveller misread his gestures, and the muddle ends in a calf changing hands.",
+ "summarySource": "written for this site",
+ "genre": "Folktale",
+ "from": "Tamil folktale, Tamil Nadu",
+ "origLevel": 2,
+ "levelReason": "The supplied text has sentences of about 12 words, clear sequencing and cause-and-effect, everyday vocabulary with a few harder words (furious, interpreted, assumed, persuade), and a humorous plot built on misunderstandings, which fits Level 2 (Growing Sapling, grades 6-7).",
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "Long ago, in a Tamil village, there lived a husband and wife. Both of them were deaf.",
+     "They ate by a set plan. One day, the wife made cabbage with tamarind and soup without tamarind. The next day, she made cabbage without tamarind and soup with tamarind. They did this again and again, day after day.",
+     "One day, the husband loved the tamarind cabbage. He wanted it again the next day. He tried to tell his wife. But she did not understand him.",
+     "The next day, she made the cabbage the usual way, without tamarind. The husband sat down to eat. He was very angry! He threw the cabbage at the wall and ran out of the house.",
+     "His wife did not know he was angry. She ate her food. Then she made tamarind cabbage for him. The husband went to sit at a crossroads to cool down.",
+     "A shepherd walked by. He had lost his cow and her calf. He had looked for them for many days. He saw the man sitting quietly and thought, “He must be a fortune-teller.”",
+     "“Sir, where are my cow and calf?” he asked. The husband could not hear him. He thought the shepherd was bothering him. So he pointed one way and waved his hand angrily.",
+     "The shepherd thought this was an answer. He went that way. And he found the cow and the calf! He was so surprised.",
+     "He was happy. He ran back to the crossroads. He wanted to give the calf to the fortune-teller as a gift. He pointed to the calf and held it out to the husband.",
+     "But the calf had a bent, broken tail. The husband thought the shepherd was blaming him for hurting it. He waved his hand to say no.",
+     "The shepherd got it wrong. He thought the man did not want only the calf. He thought he wanted the cow too. “You are so greedy!” he cried. “I said the calf, not the cow!”",
+     "The husband could not hear. He said he knew nothing about the cow or the calf. He said he did not break the tail. They kept on arguing. Neither one understood the other.",
+     "Just then, a traveller came by. He quickly saw what was going on. He decided to use the mix-up for himself.",
+     "He spoke in a loud whisper. The shepherd could hear, but the deaf husband could not. “Shepherd, take your cow and go. This man is greedy. Leave the calf with me. I will make him take it.”",
+     "The shepherd felt better. He took his cow and went home. He left the calf behind.",
+     "The traveller turned to the husband. “Poor man!” he said. “The shepherd blamed you for no reason. Do not worry. I will tell him you did nothing wrong. I will give the calf back.”",
+     "The husband was happy. At last, someone seemed to understand him! He hurried home. The traveller walked away with the calf. So, after a chain of mix-ups, the traveller got the calf. He had done nothing to earn it.",
+     "Meanwhile, the husband got home and sat down to eat. His wife gave him the tamarind cabbage. While he ate, he touched the spot on his leaf where the cabbage without tamarind had been. He found a little left there. It was very tasty. He asked his wife for more.",
+     "She told him the pot was empty. “Then scrape out what is stuck at the bottom!” he said. His wife did just that.",
+     "That is how the story of the three deaf men explains a well-known Tamil saying. It is about a thing that ends in total confusion."
+    ],
+    "hi": [
+     "बहुत पहले एक तमिल गाँव में एक पति और पत्नी रहते थे। दोनों बहरे थे।",
+     "वे एक तय नियम से खाते थे। एक दिन पत्नी इमली वाली पत्ता गोभी और बिना इमली का सूप बनाती। अगले दिन वह बिना इमली की पत्ता गोभी और इमली वाला सूप बनाती। ऐसा बारी-बारी से चलता था।",
+     "एक दिन पति को इमली वाली पत्ता गोभी बहुत पसंद आई। वह उसे अगले दिन भी चाहता था। उसने पत्नी को बताना चाहा। पर पत्नी समझ नहीं पाई।",
+     "अगले दिन पत्नी ने रोज़ की तरह बिना इमली की पत्ता गोभी बनाई। पति खाने बैठा। उसे बहुत गुस्सा आया! उसने पत्ता गोभी दीवार पर फेंक दी और घर से निकल गया।",
+     "पत्नी को पता नहीं था कि पति गुस्से में है। उसने अपना खाना खाया। फिर उसने पति के लिए इमली वाली पत्ता गोभी बनाई। पति शांत होने के लिए एक चौराहे पर जा बैठा।",
+     "एक चरवाहा वहाँ से गुज़रा। उसकी गाय और बछड़ा खो गए थे। वह कई दिनों से उन्हें ढूँढ़ रहा था। उसने आदमी को चुपचाप बैठे देखा और सोचा, “यह ज़रूर भविष्य बताने वाला होगा।”",
+     "“साहब, मेरी गाय और बछड़ा कहाँ हैं?” उसने पूछा। पति को सुनाई नहीं दिया। उसे लगा चरवाहा उसे तंग कर रहा है। उसने गुस्से में एक तरफ़ इशारा किया और हाथ हिलाया।",
+     "चरवाहे ने सोचा कि यह जवाब है। वह उसी तरफ़ गया। और उसे गाय और बछड़ा मिल गए! उसे बहुत हैरानी हुई।",
+     "वह खुश हुआ। वह दौड़कर चौराहे पर लौटा। वह बछड़ा भविष्य बताने वाले को इनाम में देना चाहता था। उसने बछड़े की ओर इशारा किया और उसे पति की तरफ़ बढ़ाया।",
+     "पर बछड़े की पूँछ टेढ़ी और टूटी थी। पति ने सोचा कि चरवाहा उस पर बछड़े को चोट पहुँचाने का दोष लगा रहा है। उसने हाथ हिलाकर मना किया।",
+     "चरवाहा गलत समझ गया। उसे लगा कि आदमी को सिर्फ़ बछड़ा नहीं चाहिए। उसे गाय भी चाहिए। “तुम कितने लालची हो!” वह चिल्लाया। “मैंने बछड़ा कहा था, गाय नहीं!”",
+     "पति सुन नहीं सकता था। उसने कहा कि वह गाय और बछड़े के बारे में कुछ नहीं जानता। उसने पूँछ नहीं तोड़ी। वे बहस करते रहे। कोई किसी की बात नहीं समझा।",
+     "तभी एक यात्री वहाँ से गुज़रा। वह जल्दी समझ गया कि क्या हो रहा है। उसने इस गड़बड़ी का फ़ायदा उठाने की सोची।",
+     "वह ज़ोर से फुसफुसाया। चरवाहा सुन सकता था, पर बहरा पति नहीं। “चरवाहे, अपनी गाय लेकर जाओ। यह आदमी लालची है। बछड़ा मेरे पास छोड़ दो। मैं इसे मना लूँगा।”",
+     "चरवाहे को चैन मिला। वह अपनी गाय लेकर घर चला गया। उसने बछड़ा वहीं छोड़ दिया।",
+     "यात्री पति की ओर मुड़ा। “बेचारे!” उसने कहा। “चरवाहे ने तुम्हें बेकार में दोष दिया। चिंता मत करो। मैं उसे बता दूँगा कि तुमने कुछ नहीं किया। मैं बछड़ा लौटा दूँगा।”",
+     "पति खुश हुआ। आख़िर कोई उसे समझ गया था! वह जल्दी से घर गया। यात्री बछड़ा लेकर चला गया। इस तरह गलतफ़हमियों के बाद यात्री को बछड़ा मिल गया। उसने इसके लिए कुछ नहीं किया था।",
+     "इधर पति घर पहुँचकर खाने बैठा। पत्नी ने उसे इमली वाली पत्ता गोभी दी। खाते हुए उसने पत्ते पर वह जगह छुई जहाँ पहले बिना इमली की पत्ता गोभी रखी गई थी। वहाँ थोड़ी-सी बची थी। वह बहुत स्वादिष्ट थी। उसने पत्नी से और माँगा।",
+     "पत्नी ने कहा कि बर्तन खाली है। “तो बर्तन की तली में जो चिपका है, वही खुरच दो!” उसने कहा। पत्नी ने बिलकुल वैसा ही किया।",
+     "इसी तरह तीन बहरे आदमियों की कहानी एक जानी-पहचानी तमिल कहावत को समझाती है। यह कहावत उस बात के लिए है जो पूरी गड़बड़ी में खत्म होती है।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "deaf",
+     "en": "not able to hear",
+     "hi": "बहरा, जो सुन नहीं सकता"
+    },
+    {
+     "w": "tamarind",
+     "en": "a sour brown fruit used in cooking",
+     "hi": "इमली"
+    },
+    {
+     "w": "cabbage",
+     "en": "a round green leafy vegetable",
+     "hi": "पत्ता गोभी"
+    },
+    {
+     "w": "shepherd",
+     "en": "a person who looks after animals like sheep and cows",
+     "hi": "चरवाहा"
+    },
+    {
+     "w": "calf",
+     "en": "a baby cow",
+     "hi": "बछड़ा"
+    },
+    {
+     "w": "crossroads",
+     "en": "a place where two roads meet",
+     "hi": "चौराहा"
+    },
+    {
+     "w": "angry",
+     "en": "very cross and upset",
+     "hi": "गुस्से में"
+    },
+    {
+     "w": "greedy",
+     "en": "wanting too much for yourself",
+     "hi": "लालची"
+    },
+    {
+     "w": "traveller",
+     "en": "a person who is on a journey",
+     "hi": "यात्री"
+    },
+    {
+     "w": "empty",
+     "en": "with nothing inside",
+     "hi": "खाली"
+    },
+    {
+     "w": "tail",
+     "en": "the part at the back of an animal",
+     "hi": "पूँछ"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Who",
+     "q": "Who are the people in the story, and what can the husband and wife not do?"
+    },
+    {
+     "k": "Why angry",
+     "q": "Why was the husband angry when he sat down to eat?"
+    },
+    {
+     "k": "What happened",
+     "q": "What did the shepherd find, and why did he think the husband had helped him?"
+    },
+    {
+     "k": "Feelings",
+     "q": "How did the shepherd feel when he thought the husband wanted the cow too? How did the husband feel?"
+    },
+    {
+     "k": "Think of you",
+     "q": "Have you ever misunderstood someone, or been misunderstood? What helped to fix it?"
+    }
+   ]
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "Once upon a time, in a distant Tamil village, there lived a husband and wife who were both deaf.",
+     "They followed a strict routine for their meals. On one day, the wife cooked cabbage with tamarind and soup without tamarind. On the next day, she prepared cabbage without tamarind and soup with tamarind. They repeated this arrangement every alternate day.",
+     "One day, the husband enjoyed the tamarind cabbage so much that he wanted it again the following day. He tried to tell his wife, but she did not understand him.",
+     "The next day, she followed their usual routine and prepared cabbage without tamarind. When the husband sat down to eat, he was furious. He threw the cabbage against the wall and stormed out of the house.",
+     "His wife, unaware of his anger, finished her meal and prepared tamarind cabbage for him. Meanwhile, the husband went to sit at a crossroads to calm himself.",
+     "A shepherd happened to pass by. He had lost a cow and her calf and had been searching for them for several days. Seeing the man sitting quietly at the crossroads, the shepherd assumed he was a fortune-teller.",
+     "“Sir, can you tell me where my missing cow and calf might be?” he asked. But the husband could not hear him. Thinking the shepherd was disturbing him, he angrily pointed in a direction and waved his hand.",
+     "The shepherd interpreted this gesture as an instruction to search in that direction. To his great surprise, he found the missing cow and calf!",
+     "Delighted, he returned to the crossroads, determined to reward the fortune-teller with the calf. He pointed towards the calf and offered it to the husband.",
+     "Unfortunately, the calf had a crooked, broken tail. The husband thought the shepherd was accusing him of injuring the animal. He waved his hand in denial.",
+     "The shepherd misunderstood the gesture. He thought the man was refusing the calf and demanding the cow as well. “How greedy you are!” the shepherd exclaimed. “I promised you the calf, not the cow!”",
+     "The husband, unable to hear him, protested that he knew nothing about either animal and had certainly not broken the calf’s tail. The two continued arguing, each completely misunderstanding the other.",
+     "Just then, a traveller passed by. He quickly understood what was happening and decided to take advantage of the confusion.",
+     "He whispered loudly enough for the shepherd to hear, but not the deaf husband: “Shepherd, you should take your cow and leave. This man is greedy. Leave the calf with me, and I shall persuade him to accept it.”",
+     "The shepherd was relieved. He took his cow and went home, leaving the calf behind.",
+     "The traveller then turned to the husband and said: “You poor man! The shepherd has wrongly accused you. Do not worry. I shall explain your innocence and return the calf to him.”",
+     "The husband was delighted to have found someone who seemed to understand him. He hurried home, leaving the traveller to walk away with the calf. And so, through a series of misunderstandings, the traveller went home with the calf without having earned it.",
+     "Meanwhile, the husband returned home and sat down to eat. His wife served him the tamarind cabbage she had prepared. While eating, he touched the spot on his leaf where the cabbage without tamarind had been served earlier. Finding a little of it particularly tasty, he asked his wife to bring him some more.",
+     "She told him that the pot was already empty. “Then at least scrape out whatever is sticking to the bottom of the pot!” he demanded. His wife did exactly that.",
+     "And that is how the story of the three deaf men came to explain a familiar Tamil saying about a matter ending in complete confusion."
+    ],
+    "hi": [
+     "एक समय की बात है, तमिल प्रदेश के एक दूर के गाँव में एक पति-पत्नी रहते थे, जो दोनों बहरे थे।",
+     "उनके खाने का एक पक्का नियम था। एक दिन पत्नी इमली वाली पत्ता गोभी और बिना इमली का सूप बनाती। अगले दिन वह बिना इमली की पत्ता गोभी और इमली वाला सूप बनाती। यह क्रम हर एक दिन छोड़कर चलता रहता।",
+     "एक दिन पति को इमली वाली पत्ता गोभी इतनी अच्छी लगी कि वह उसे अगले दिन भी खाना चाहता था। उसने पत्नी को बताने की कोशिश की, पर वह समझ नहीं पाई।",
+     "अगले दिन पत्नी ने अपने रोज़ के नियम के हिसाब से बिना इमली की पत्ता गोभी बनाई। खाने बैठते ही पति गुस्से से आग-बबूला हो गया। उसने पत्ता गोभी दीवार पर दे मारी और घर से बाहर निकल गया।",
+     "पत्नी को उसके गुस्से का पता ही नहीं चला। उसने अपना खाना खाया और पति के लिए इमली वाली पत्ता गोभी बना दी। इधर पति अपना मन शांत करने के लिए एक चौराहे पर जा बैठा।",
+     "तभी एक चरवाहा वहाँ से गुज़रा। उसकी एक गाय और उसका बछड़ा खो गए थे, और वह कई दिनों से उन्हें ढूँढ़ रहा था। आदमी को चौराहे पर चुपचाप बैठे देखकर चरवाहे ने सोचा कि यह कोई भविष्य बताने वाला है।",
+     "“साहब, क्या आप बता सकते हैं कि मेरी खोई हुई गाय और बछड़ा कहाँ होंगे?” उसने पूछा। पर पति को कुछ सुनाई नहीं दिया। उसे लगा कि चरवाहा उसे तंग कर रहा है, इसलिए उसने गुस्से में एक तरफ़ इशारा किया और हाथ हिलाया।",
+     "चरवाहे ने इस इशारे को यह समझा कि उसी दिशा में ढूँढ़ना है। उसे बड़ी हैरानी हुई, क्योंकि वहीं उसे अपनी खोई गाय और बछड़ा मिल गए!",
+     "खुश होकर वह चौराहे पर लौटा। उसने ठान लिया कि भविष्य बताने वाले को इनाम में बछड़ा देगा। उसने बछड़े की ओर इशारा किया और उसे पति को देना चाहा।",
+     "पर बछड़े की पूँछ टेढ़ी और टूटी हुई थी। पति ने सोचा कि चरवाहा उस पर जानवर को चोट पहुँचाने का इलज़ाम लगा रहा है। उसने हाथ हिलाकर मना किया।",
+     "चरवाहा इशारा गलत समझ बैठा। उसे लगा कि आदमी बछड़ा लेने से मना कर रहा है और गाय भी माँग रहा है। “कितने लालची हो तुम!” चरवाहा चिल्लाया। “मैंने तुमसे बछड़ा देने को कहा था, गाय नहीं!”",
+     "पति को कुछ सुनाई नहीं दे रहा था। उसने कहा कि वह दोनों जानवरों के बारे में कुछ नहीं जानता और उसने बछड़े की पूँछ बिलकुल नहीं तोड़ी। दोनों बहस करते रहे, और हर कोई दूसरे की बात पूरी तरह गलत समझता रहा।",
+     "तभी वहाँ से एक यात्री गुज़रा। वह तुरंत समझ गया कि क्या हो रहा है और उसने इस गड़बड़ी का फ़ायदा उठाने की सोची।",
+     "उसने इतना ज़ोर से फुसफुसाया कि चरवाहा सुन ले, पर बहरा पति न सुने: “चरवाहे, तुम अपनी गाय लेकर चले जाओ। यह आदमी लालची है। बछड़ा मेरे पास छोड़ दो, मैं इसे मना लूँगा।”",
+     "चरवाहे को राहत मिली। वह अपनी गाय लेकर घर चला गया और बछड़ा वहीं छोड़ गया।",
+     "फिर यात्री पति की ओर मुड़ा और बोला, “बेचारे! चरवाहे ने तुम पर झूठा इलज़ाम लगाया है। चिंता मत करो। मैं उसे समझा दूँगा कि तुम बेकसूर हो, और बछड़ा उसे लौटा दूँगा।”",
+     "पति खुश हो गया कि उसे कोई ऐसा मिला जो उसकी बात समझता है। वह जल्दी से घर चला गया, और यात्री बछड़ा लेकर चलता बना। इस तरह गलतफ़हमियों की एक कड़ी के बाद यात्री बिना कुछ कमाए बछड़ा घर ले गया।",
+     "इधर पति घर लौटकर खाने बैठा। पत्नी ने उसे इमली वाली पत्ता गोभी परोसी। खाते हुए उसने पत्ते पर उस जगह को छुआ जहाँ पहले बिना इमली की पत्ता गोभी परोसी गई थी। उसमें थोड़ा-सा बचा हिस्सा उसे बहुत स्वादिष्ट लगा, तो उसने पत्नी से और माँगा।",
+     "पत्नी ने बताया कि बर्तन तो खाली हो चुका है। “तो कम से कम बर्तन की तली में जो चिपका है, वही खुरच दो!” उसने कहा। पत्नी ने ठीक वैसा ही किया।",
+     "और इसी तरह तीन बहरे आदमियों की कहानी एक जानी-पहचानी तमिल कहावत को समझाने लगी, जो ऐसी बात के लिए कही जाती है जो पूरी गड़बड़ी में खत्म हो।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "deaf",
+     "en": "not able to hear",
+     "hi": "बहरा"
+    },
+    {
+     "w": "routine",
+     "en": "a fixed way of doing things every day",
+     "hi": "नियम, रोज़ का क्रम"
+    },
+    {
+     "w": "furious",
+     "en": "very, very angry",
+     "hi": "बहुत गुस्से में"
+    },
+    {
+     "w": "crossroads",
+     "en": "a place where two roads meet",
+     "hi": "चौराहा"
+    },
+    {
+     "w": "assumed",
+     "en": "thought something was true without checking",
+     "hi": "मान लिया"
+    },
+    {
+     "w": "gesture",
+     "en": "a movement of the hand or body that has a meaning",
+     "hi": "इशारा"
+    },
+    {
+     "w": "accused",
+     "en": "said someone had done something wrong",
+     "hi": "दोष लगाया"
+    },
+    {
+     "w": "greedy",
+     "en": "wanting more than your fair share",
+     "hi": "लालची"
+    },
+    {
+     "w": "persuade",
+     "en": "to make someone agree",
+     "hi": "मनाना"
+    },
+    {
+     "w": "confusion",
+     "en": "a muddle where nobody understands",
+     "hi": "उलझन"
+    },
+    {
+     "w": "delighted",
+     "en": "very happy",
+     "hi": "बहुत खुश"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Cause",
+     "q": "What small thing about the meals started the chain of misunderstandings?"
+    },
+    {
+     "k": "Motivation",
+     "q": "Why did the shepherd think the husband was a fortune-teller, and why did he decide to reward him?"
+    },
+    {
+     "k": "Decision",
+     "q": "Why did the traveller whisper loudly enough for the shepherd to hear but not the husband? What does this show about him?"
+    },
+    {
+     "k": "Consequence",
+     "q": "Who gained and who lost because of the misunderstandings? Was the result fair?"
+    },
+    {
+     "k": "Meaning",
+     "q": "What could the husband or the shepherd have done differently to understand each other?"
+    }
+   ]
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "Long ago, in a remote Tamil village, there lived a husband and wife, both of whom were deaf.",
+     "Their meals followed a strict, unvarying routine. One day the wife cooked cabbage with tamarind and soup without it; the next, she prepared cabbage without tamarind and soup with it. So the arrangement continued, alternating day after day.",
+     "One day, the husband relished the tamarind cabbage so much that he longed for it again the following day. He tried to make his wish known to his wife, but she could not understand him.",
+     "The next day, she kept faithfully to their usual routine and served cabbage without tamarind. When her husband sat down to eat, he was furious. He flung the cabbage against the wall and stormed out of the house.",
+     "His wife, quite unaware of his anger, finished her own meal and prepared tamarind cabbage for him. Meanwhile, the husband sat down at a crossroads, hoping to calm his temper.",
+     "A shepherd happened to pass that way. He had lost a cow and her calf and had been searching for them for several days. Seeing the man seated so quietly at the crossroads, he took him to be a fortune-teller.",
+     "“Sir, can you tell me where my missing cow and calf might be?” he asked. But the husband heard nothing. Believing that the shepherd was disturbing him, he jabbed his finger irritably in one direction and waved his hand.",
+     "The shepherd read this gesture as an instruction to search in that direction. To his great astonishment, he found the missing cow and calf there!",
+     "Overjoyed, he hurried back to the crossroads, resolved to reward the fortune-teller with the calf. He pointed towards the animal and offered it to the husband.",
+     "Unfortunately, the calf’s tail was crooked and broken. The husband, thinking he was being accused of hurting the animal, waved his hand in firm denial.",
+     "The shepherd misread the gesture. He concluded that the man was refusing the calf and demanding the cow as well. “How greedy you are!” he exclaimed. “I promised you the calf, not the cow!”",
+     "The husband, who could not hear a word, protested that he knew nothing of either animal and had certainly never broken the calf’s tail. The two went on arguing, each utterly mistaking what the other meant.",
+     "At that moment, a traveller strolled past. He grasped at once what was happening and resolved to profit from the confusion.",
+     "He whispered, loudly enough for the shepherd to catch but not the deaf husband: “Shepherd, take your cow and be on your way. This man is greedy. Leave the calf with me, and I shall persuade him to accept it.”",
+     "Relieved, the shepherd took his cow and went home, leaving the calf behind.",
+     "The traveller then turned to the husband and said, “You poor man! The shepherd has wrongly accused you. Do not worry. I shall prove your innocence and return the calf to him.”",
+     "The husband, delighted to have found someone who seemed to understand him, hurried home. The traveller walked off with the calf. And so, through a chain of misunderstandings, he took home a calf he had done nothing to earn.",
+     "Meanwhile, the husband reached home and sat down to eat, and his wife served him the tamarind cabbage she had prepared. As he ate, he touched the spot on his leaf where the cabbage without tamarind had been served earlier. Finding a little of it especially tasty, he asked his wife for more.",
+     "She told him that the pot was already empty. “Then at least scrape out whatever is sticking to the bottom!” he demanded. His wife did exactly that.",
+     "And that is how the tale of the three deaf men came to explain a familiar Tamil saying, used for a matter that ends in utter confusion."
+    ],
+    "hi": [
+     "बहुत समय पहले, तमिल प्रदेश के एक दूरदराज़ गाँव में एक पति और पत्नी रहते थे, और दोनों ही बहरे थे।",
+     "उनके भोजन का एक कड़ा, अटल नियम था। एक दिन पत्नी इमली वाली पत्ता गोभी और बिना इमली का सूप पकाती; अगले दिन बिना इमली की पत्ता गोभी और इमली वाला सूप। यह बारी-बारी का क्रम दिन-दिन चलता रहता।",
+     "एक दिन पति को इमली वाली पत्ता गोभी इतनी भाई कि वह अगले दिन भी उसके लिए तरस उठा। उसने अपनी चाह पत्नी तक पहुँचाने की कोशिश की, पर वह उसे समझ न सकी।",
+     "अगले दिन पत्नी ने ईमानदारी से अपना रोज़ का नियम निभाया और बिना इमली की पत्ता गोभी परोस दी। खाने बैठते ही पति आग-बबूला हो उठा। उसने पत्ता गोभी दीवार पर दे मारी और तमतमाता हुआ घर से बाहर चला गया।",
+     "पत्नी को पति के क्रोध की ज़रा भी ख़बर नहीं थी। उसने अपना खाना खत्म किया और उसके लिए इमली वाली पत्ता गोभी तैयार कर दी। इसी बीच पति अपना गुस्सा ठंडा करने के लिए एक चौराहे पर जा बैठा।",
+     "संयोग से एक चरवाहा उधर से निकला। उसकी एक गाय और उसका बछड़ा खो गए थे, और वह कई दिनों से उन्हें खोज रहा था। आदमी को चौराहे पर इतनी शांति से बैठा देखकर उसने उसे कोई भविष्य बताने वाला समझ लिया।",
+     "“साहब, क्या आप बता सकते हैं कि मेरी खोई हुई गाय और बछड़ा कहाँ होंगे?” उसने पूछा। पर पति को कुछ सुनाई नहीं दिया। यह सोचकर कि चरवाहा उसे परेशान कर रहा है, उसने झुँझलाकर एक ओर उँगली उठाई और हाथ झटक दिया।",
+     "चरवाहे ने इस इशारे को उसी दिशा में खोजने का आदेश समझा। उसके आश्चर्य की सीमा न रही, क्योंकि वहीं उसे अपनी खोई हुई गाय और बछड़ा मिल गए!",
+     "खुशी से भरकर वह जल्दी से चौराहे पर लौटा, यह ठानकर कि भविष्य बताने वाले को इनाम में बछड़ा देगा। उसने बछड़े की ओर इशारा किया और उसे पति को देना चाहा।",
+     "दुर्भाग्य से बछड़े की पूँछ टेढ़ी और टूटी हुई थी। पति ने सोचा कि उस पर जानवर को चोट पहुँचाने का आरोप लगाया जा रहा है, और उसने हाथ हिलाकर पक्के तौर पर इनकार कर दिया।",
+     "चरवाहा इशारे का उलटा मतलब समझ बैठा। वह इस नतीजे पर पहुँचा कि आदमी बछड़ा लेने से इनकार कर रहा है और गाय भी माँग रहा है। “कितने लालची हो तुम!” वह चीख उठा। “मैंने तुमसे बछड़ा देने का वादा किया था, गाय का नहीं!”",
+     "पति, जो एक शब्द भी नहीं सुन पा रहा था, ज़ोर देकर बोला कि वह दोनों जानवरों के बारे में कुछ नहीं जानता और उसने बछड़े की पूँछ कभी नहीं तोड़ी। दोनों बहस करते रहे, और हर कोई दूसरे का मतलब पूरी तरह उलटा समझता रहा।",
+     "उसी क्षण एक यात्री टहलता हुआ वहाँ से गुज़रा। वह फ़ौरन समझ गया कि क्या हो रहा है और उसने इस उलझन से फ़ायदा उठाने की ठान ली।",
+     "वह इतनी ऊँची फुसफुसाहट में बोला कि चरवाहा सुन ले, पर बहरा पति नहीं: “चरवाहे, तुम अपनी गाय लेकर चलते बनो। यह आदमी लालची है। बछड़ा मेरे पास छोड़ दो, मैं इसे मना लूँगा।”",
+     "राहत पाकर चरवाहा अपनी गाय लेकर घर चला गया और बछड़े को वहीं छोड़ गया।",
+     "तब यात्री पति की ओर मुड़ा और बोला, “बेचारे! चरवाहे ने तुम पर झूठा आरोप लगाया है। चिंता मत करो। मैं तुम्हारी बेगुनाही साबित करूँगा और बछड़ा उसे लौटा दूँगा।”",
+     "पति इस बात से खुश होकर कि उसे कोई ऐसा मिला जो उसे समझता है, जल्दी से घर चला गया। यात्री बछड़े को लेकर चलता बना। इस तरह गलतफ़हमियों की एक कड़ी के सहारे वह उस बछड़े को घर ले गया, जिसके लिए उसने कुछ नहीं किया था।",
+     "इसी बीच पति घर पहुँचा और खाने बैठा, और पत्नी ने उसे इमली वाली पत्ता गोभी परोसी। खाते हुए उसने पत्ते पर वह जगह छुई जहाँ पहले बिना इमली की पत्ता गोभी परोसी गई थी। उसका थोड़ा-सा बचा हिस्सा उसे ख़ास तौर पर स्वादिष्ट लगा, तो उसने पत्नी से और माँगा।",
+     "पत्नी ने बताया कि बर्तन तो पहले ही खाली हो चुका है। “तो कम से कम तली में जो कुछ चिपका है, वही खुरच दो!” उसने माँग की। पत्नी ने ठीक वही किया।",
+     "और इसी तरह तीन बहरे आदमियों की कथा एक जानी-पहचानी तमिल कहावत को समझाने लगी, जो ऐसी बात के लिए कही जाती है जो पूरी तरह उलझन में खत्म हो।"
+    ]
+   },
+   "vocab": [
+    {
+     "w": "remote",
+     "en": "far away from other places",
+     "hi": "दूरदराज़"
+    },
+    {
+     "w": "unvarying",
+     "en": "never changing",
+     "hi": "अटल, जो बदलता न हो"
+    },
+    {
+     "w": "relished",
+     "en": "enjoyed very much",
+     "hi": "बहुत चाव से खाया"
+    },
+    {
+     "w": "irritably",
+     "en": "in an annoyed, impatient way",
+     "hi": "झुँझलाकर"
+    },
+    {
+     "w": "gesture",
+     "en": "a movement of the hand or body that carries a meaning",
+     "hi": "इशारा"
+    },
+    {
+     "w": "astonishment",
+     "en": "great surprise",
+     "hi": "हैरानी"
+    },
+    {
+     "w": "resolved",
+     "en": "made up his mind",
+     "hi": "ठान लिया"
+    },
+    {
+     "w": "denial",
+     "en": "saying that something is not true",
+     "hi": "इनकार"
+    },
+    {
+     "w": "utterly",
+     "en": "completely",
+     "hi": "पूरी तरह"
+    },
+    {
+     "w": "profit",
+     "en": "to gain something for yourself",
+     "hi": "फ़ायदा उठाना"
+    },
+    {
+     "w": "innocence",
+     "en": "not being guilty of anything",
+     "hi": "बेगुनाही"
+    }
+   ],
+   "questions": [
+    {
+     "k": "Ethics",
+     "q": "The traveller took advantage of two people who could not understand each other. Was it wrong, even though neither man was harmed physically? Explain your view."
+    },
+    {
+     "k": "Another view",
+     "q": "Retell the meeting at the crossroads from the shepherd’s point of view, then from the husband’s. How does each man make sense of what he sees?"
+    },
+    {
+     "k": "Culture",
+     "q": "The story is told to explain a familiar Tamil saying about complete confusion. Why might communities keep sayings and stories like this, and what might a saying like this be used for today?"
+    },
+    {
+     "k": "Theme",
+     "q": "What does the story suggest about how we fill gaps in understanding with our own assumptions? Are there other ways to read its message?"
+    },
+    {
+     "k": "Today",
+     "q": "Today we often misread messages online or across languages. What lessons from the crossroads could help people communicate better, and how can we treat people who cannot hear or speak the same way as us with respect?"
+    }
+   ]
+  }
+ },
+ "pages": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3,
+   4
+  ],
+  [
+   5,
+   6,
+   7
+  ],
+  [
+   8,
+   9,
+   10
+  ],
+  [
+   11,
+   12,
+   13
+  ],
+  [
+   14,
+   15,
+   16
+  ],
+  [
+   17,
+   18,
+   19
+  ]
+ ],
+ "scenes": [
+  {
+   "t": "A deaf couple and their cabbage",
+   "th": "बहरा जोड़ा और पत्ता गोभी",
+   "p": "A simple Tamil village home; the deaf husband and wife share a meal served on banana leaves, with a pot of tamarind cabbage and a bowl of soup. Warm, gentle, humorous mood. Characters: the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands; the deaf wife, a middle-aged Tamil woman in a simple cotton sari in dark red with a small bindi, hair in a plait."
+  },
+  {
+   "t": "The husband storms out",
+   "th": "पति गुस्से में निकला",
+   "p": "The husband flings a leaf of cabbage against the wall and strides out of the door in a huff, while the wife is already busy cooking and does not notice. Mood: comic, lively. Characters: the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands; the deaf wife, a middle-aged Tamil woman in a simple cotton sari in dark red with a small bindi, hair in a plait."
+  },
+  {
+   "t": "The shepherd at the crossroads",
+   "th": "चौराहे पर चरवाहा",
+   "p": "At a dusty village crossroads, the husband sits cross-armed and sulking under a tree; the shepherd speaks politely to him, while the husband waves his hand and points away. Characters: the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands; the shepherd, a lean man with a turban-style head cloth, a simple dhoti and a thin stick."
+  },
+  {
+   "t": "A calf with a crooked tail",
+   "th": "टेढ़ी पूँछ वाला बछड़ा",
+   "p": "The shepherd, happy, presents the calf to the husband, who waves his hands in refusal; the shepherd looks shocked and angry. The calf has a crooked tail. Comic mood. Characters: the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands; the shepherd, a lean man with a turban-style head cloth, a simple dhoti and a thin stick; a brown cow and her small calf; the calf has a visibly crooked, bent tail."
+  },
+  {
+   "t": "The traveller sees his chance",
+   "th": "यात्री को मौका दिखा",
+   "p": "A traveller leans in toward the shepherd and whispers, a hand to his mouth, while the deaf husband stands puzzled in the background. Mood: sly, comic. Characters: the traveller, a sly-looking man in a dhoti and shirt with a shoulder cloth, a small cloth bundle and sandals, a small knowing smile; the shepherd, a lean man with a turban-style head cloth, a simple dhoti and a thin stick; the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands."
+  },
+  {
+   "t": "The calf goes home with the traveller",
+   "th": "बछड़ा यात्री के साथ चला",
+   "p": "The shepherd walks away with the cow; the husband walks off happily; the traveller leads the calf away on a rope with a smug smile. Characters: the shepherd, a lean man with a turban-style head cloth, a simple dhoti and a thin stick; the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands; the traveller, a sly-looking man in a dhoti and shirt with a shoulder cloth, a small cloth bundle and sandals, a small knowing smile; a brown cow and her small calf; the calf has a visibly crooked, bent tail."
+  },
+  {
+   "t": "Scraping the bottom of the pot",
+   "th": "बर्तन की तली खुरचना",
+   "p": "Back home, the husband, delighted, eats from a banana leaf as his wife scrapes the bottom of an empty clay pot to give him the last bits. Warm, funny ending. Characters: the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands; the deaf wife, a middle-aged Tamil woman in a simple cotton sari in dark red with a small bindi, hair in a plait."
+  }
+ ],
+ "artStyle": {
+  "region": "Tamil Nadu, South India",
+  "verified": false,
+  "tradition": null,
+  "note": "We did not verify a specific traditional visual art that belongs to this story, so we are not claiming one. A neutral, warm, lightly humorous storybook style is proposed: earthy palette (ochre, terracotta, leaf green, white cotton), simple rounded shapes, thatched or tiled village houses, banana-leaf meals, expressive hand gestures. Tamil village details (dhoti, cotton sari) are everyday clothing, not an art claim.",
+  "characters": [
+   {
+    "name": "The husband",
+    "look": "the deaf husband, a thin middle-aged Tamil man with a moustache, a white dhoti and a plain shirt, expressive face and hands"
+   },
+   {
+    "name": "The wife",
+    "look": "the deaf wife, a middle-aged Tamil woman in a simple cotton sari in dark red with a small bindi, hair in a plait"
+   },
+   {
+    "name": "The shepherd",
+    "look": "the shepherd, a lean man with a turban-style head cloth, a simple dhoti and a thin stick"
+   },
+   {
+    "name": "The traveller",
+    "look": "the traveller, a sly-looking man in a dhoti and shirt with a shoulder cloth, a small cloth bundle and sandals, a small knowing smile"
+   },
+   {
+    "name": "The cow and calf",
+    "look": "a brown cow and her small calf; the calf has a visibly crooked, bent tail"
+   }
+  ],
+  "sources": []
+ },
+ "imagine": "Imagine you are the shepherd walking back to the crossroads with your calf. What do you think the man is saying with his hands, and what would you try next to be understood?",
+ "create": "Draw the crossroads scene with the husband, the shepherd and the traveller, or write a short comic dialogue in which two people misunderstand each other and then sort it out.",
+ "about": {
+  "where": "The repository lists this story under Tamil Nadu, a state in southern India where Tamil is the main language. The story is set in ‘a distant Tamil village’ and does not name an exact place.",
+  "community": "The sources we have do not say which community first told this version, so we are not guessing.",
+  "tradition": "The story ends by saying it explains ‘a familiar Tamil saying’ about a matter ending in complete confusion. The saying itself is not given in our text, so we do not know its exact words.",
+  "shared": "We only have this version from the project team’s repository, without a named collector, book or storyteller. It is one version, not the only one; similar humorous tales about misunderstandings are told in many places.",
+  "matters": "The story is funny, but it also shows how easily people can misread each other when they guess instead of checking. It also reminds us that being deaf is not the problem: the muddle comes from assumptions and from someone who takes advantage of them.",
+  "links": []
+ },
+ "sources": [
+  {
+   "l": "Repository",
+   "v": "English text supplied by the project team in the CINE Story repository (G1)",
+   "s": "ok"
+  },
+  {
+   "l": "Adaptation",
+   "v": "Levels 1 and 3 written for this website by Claude (an AI assistant) from the supplied version (Level 2)",
+   "s": "ok"
+  },
+  {
+   "l": "Translation",
+   "v": "Hindi translations by Claude (an AI assistant)",
+   "s": "ok"
+  }
+ ],
+ "reviewFlags": [
+  "No source line supplied: author, collector, book and rights holder unknown; origin must be traced before launch",
+  "Copyright and permission cannot be assessed without a source",
+  "Title says three deaf men, but the text shows only the husband (and his wife) as deaf: check whether text is complete or the ‘three’ refers to something not included",
+  "The Tamil saying it explains is not stated; do not claim its wording",
+  "Traveller tricks two men and keeps the calf with no consequence: teachers may want to discuss; kept as supplied",
+  "Depiction of deafness is humorous: review for respectful framing (the humour comes from the muddle, not from mocking deafness)",
+  "Hindi (all levels) and Levels 1 and 3 English are AI-written and unreviewed; check Hindi word choices (plain ‘इलज़ाम’, cabbage/soup terms)",
+  "No art tradition verified; neutral storybook style proposed"
+ ]
+}

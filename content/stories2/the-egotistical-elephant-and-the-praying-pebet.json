@@ -1,0 +1,554 @@
+{
+ "id": "the-egotistical-elephant-and-the-praying-pebet",
+ "state": "mn",
+ "title": "The Egotistical Elephant and the Little Pebet",
+ "titleHi": "घमंडी हाथी और नन्ही पे्बेट",
+ "genre": "Animal folktale",
+ "levelTitles": {
+  "1": {
+   "en": "The Egotistical Elephant and the Little Pebet",
+   "hi": "घमंडी हाथी और नन्ही पे्बेट"
+  },
+  "2": {
+   "en": "The Egotistical Elephant and the Praying Pebet",
+   "hi": "घमंडी हाथी और प्रार्थना करने वाली पे्बेट"
+  },
+  "3": {
+   "en": "The Egotistical Elephant and the Praying Pebet",
+   "hi": "घमंडी हाथी और प्रार्थना करने वाली पे्बेट"
+  }
+ },
+ "levels": {
+  "1": {
+   "texts": {
+    "en": [
+     "At the edge of a great forest in Manipur, there lived a little bird called Pebet. She had built a cosy nest in a bush. Her tiny chicks lived there with her, and a few eggs were waiting to hatch.",
+     "One morning, the little chicks noticed a herd of elephants walking towards their bush.",
+     "\"Mother! Mother!\" they cried. \"The elephants are coming! What if they step on our nest?\"",
+     "Pebet looked outside and saw the enormous animals approaching.",
+     "\"Do not be afraid,\" she told her babies. \"I will speak to them.\"",
+     "She flew towards the leader of the herd.",
+     "\"Dear elephant,\" she said politely, \"my nest is just ahead, with my little ones and eggs inside. Please ask your friends to walk carefully so that nobody gets hurt.\"",
+     "The elephant leader listened carefully.",
+     "\"Of course,\" he replied. \"We shall take another path. Thank you for warning us.\"",
+     "The elephants carefully walked around the bush. But the last elephant in the herd was young and very proud of his enormous size.",
+     "\"Ha! Why should I listen to a tiny bird like you?\" he laughed. \"I am much bigger and stronger than you!\"",
+     "Before Pebet could say anything, the elephant stamped on her nest and destroyed it.",
+     "When Pebet returned, she found her little ones gone and her eggs broken. She was heartbroken.",
+     "\"How could he do this?\" she cried. \"Does he think small creatures do not matter?\"",
+     "Pebet decided to pray to Mother Leimarel for guidance.",
+     "She prayed for many days. At last, Mother Leimarel appeared and spoke gently to her.",
+     "\"Dear Pebet, I know your sorrow. You must be brave, but remember that a heart full of anger cannot bring peace.\"",
+     "Pebet listened carefully.",
+     "She followed the guidance she had received and found a way to make the elephant understand the pain he had caused. The elephant soon became very ill and could no longer walk comfortably.",
+     "He begged Pebet for help.",
+     "\"Please forgive me,\" he said. \"I was proud of my strength and did not care about your little ones. I promise never to hurt another creature again.\"",
+     "Pebet remembered Mother Leimarel's words.",
+     "\"If you truly regret what you have done, I will help you,\" she said.",
+     "She gathered healing herbs from the forest and cared for the elephant until he became well.",
+     "From that day onwards, the elephant treated every creature with kindness and respect.",
+     "And Pebet learnt that true strength lies not in size, but in a heart that knows when to forgive."
+    ],
+    "hi": [
+     "मणिपुर के एक विशाल जंगल के किनारे पेबेट नाम की एक छोटी-सी चिड़िया रहती थी। उसने एक झाड़ी में अपना प्यारा-सा घोंसला बनाया था। उसके नन्हे बच्चे वहीं रहते थे और कुछ अंडों से जल्द ही नए बच्चे निकलने वाले थे।",
+     "एक सुबह बच्चों ने देखा कि हाथियों का एक झुंड उनकी झाड़ी की ओर बढ़ रहा है।",
+     "\"माँ! माँ!\" वे घबराकर बोले। \"हाथी हमारी ओर आ रहे हैं! अगर उन्होंने हमारे घोंसले पर पैर रख दिया तो?\"",
+     "पेबेट ने बाहर देखा। विशाल हाथी धीरे-धीरे उनकी ओर बढ़ रहे थे।",
+     "\"डरो मत,\" उसने बच्चों से कहा। \"मैं उनसे बात करती हूँ।\"",
+     "वह उड़कर हाथियों के झुंड के नेता के पास पहुँची।",
+     "\"प्रिय हाथी महाराज,\" उसने विनम्रता से कहा, \"थोड़ा आगे मेरी झाड़ी में मेरा घोंसला है। उसमें मेरे छोटे बच्चे और अंडे हैं। कृपया अपने साथियों से सावधानी से चलने को कहिए ताकि किसी को चोट न पहुँचे।\"",
+     "हाथियों के नेता ने उसकी बात ध्यान से सुनी।",
+     "\"बिल्कुल,\" उसने कहा। \"हम दूसरा रास्ता ले लेंगे। हमें सावधान करने के लिए धन्यवाद।\"",
+     "हाथियों का झुंड सावधानी से दूसरी ओर से निकल गया। लेकिन झुंड में सबसे पीछे चल रहा एक युवा हाथी बहुत घमंडी था। उसे अपने विशाल शरीर और ताकत पर बहुत गर्व था।",
+     "\"हा हा! मैं तुम्हारी जैसी छोटी चिड़िया की बात क्यों मानूँ?\" वह हँसकर बोला। \"मैं तुमसे कितना बड़ा और ताकतवर हूँ!\"",
+     "पेबेट कुछ कह पाती, उससे पहले ही हाथी ने अपने भारी पैर से उसका घोंसला कुचल दिया।",
+     "जब पेबेट वापस आई, तो उसने अपने बच्चों को खो दिया था और उसके अंडे टूट चुके थे। उसका दिल दुख से भर गया।",
+     "\"उसने ऐसा कैसे कर दिया?\" वह रोई। \"क्या उसे लगता है कि छोटे जीवों का कोई महत्व नहीं होता?\"",
+     "पेबेट ने मार्गदर्शन पाने के लिए माता लैमरेल से प्रार्थना करने का निश्चय किया।",
+     "उसने कई दिनों तक प्रार्थना की। आखिरकार माता लैमरेल उसके सामने प्रकट हुईं और प्रेम से बोलीं।",
+     "\"प्रिय पेबेट, मैं तुम्हारा दुख जानती हू्ँ। तुम्हें साहसी बनना होगा, लेकिन याद रखना कि क्रोध से भरा मन कभी शांति नहीं पा सकता।\"",
+     "पेबेट ने उनकी बात ध्यान से सुनी।",
+     "उनके बताए मार्ग पर चलते हुए उसने हाथी को अपनी गलती का एहसास कराने का उपाय खोजा। जल्द ही हाथी बीमार पड़ गया और उसके लिए चलना भी मुश्किल हो गया।",
+     "वह पेबेट से सहायता माँगने लगा।",
+     "\"कृपया मुझे क्षमा कर दो,\" उसने कहा। \"मुझे अपनी ताकत पर घमंड था और मैंने तुम्हारे बच्चों की परवाह नहीं की। मैं वादा करता हूँ कि अब किसी जीव को चोट नहीं पहुँचाऊँगा।\"",
+     "पेबेट को माता लैमरेल की बातें याद आईं।",
+     "\"अगर तुम्हें सचमुच अपनी गलती का पछतावा है, तो मैं तुम्हारी सहायता करूँगी,\" उसने कहा।",
+     "वह जंगल से औषधीय जड़ी-बूटियाँ इकट्ठी करके लाई और हाथी की देखभाल करने लगी। धीरे-धीरे हाथी ठीक हो गया।",
+     "उस दिन के बाद हाथी हर जीव के साथ दया और सम्मान से पेश आने लगा।",
+     "पेबेट ने भी समझ लिया कि असली ताकत शरीर के आकार में नहीं, बल्कि उस हृदय में होती है जो क्षमा करना जानता है।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2,
+      3,
+      4
+     ],
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     [
+      15,
+      16,
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "2": {
+   "texts": {
+    "en": [
+     "At the edge of a vast forest in Manipur, a little bird called Pebet lived with her young ones. She had built a comfortable nest among the bushes, where her chicks were growing and several eggs lay safely tucked beneath the soft nesting material.",
+     "One morning, the chicks noticed something frightening. A herd of elephants was making its way through the forest, heading directly towards their home.",
+     "\"Mother! Look!\" they cried. \"The elephants are coming this way. Their enormous feet might crush our nest and all our eggs!\"",
+     "Pebet looked towards the approaching herd. She knew that she could not stop such enormous animals by herself, but she decided that she must at least try.",
+     "She flew towards the leader of the herd and addressed him politely.",
+     "\"Respected leader, my little nest lies just ahead, with my young ones and precious eggs inside. I request you and your companions to tread carefully and take another route if possible. We are very small, and even one careless step could destroy our home.\"",
+     "The leader listened to her patiently.",
+     "\"Do not worry, little Pebet,\" he assured her. \"We shall be careful.\"",
+     "The elephants followed another path, taking care not to disturb the nest. But the last elephant in the herd was a young and arrogant creature. He was immensely proud of his size and strength.",
+     "\"Why should I listen to such a tiny bird?\" he trumpeted. \"The forest belongs to those who are strong! If she has chosen to build her nest in my path, that is her problem.\"",
+     "Ignoring Pebet's desperate pleas, he stamped his enormous foot upon the bush, destroying the nest along with the chicks and eggs.",
+     "When Pebet returned, she was devastated. Her little ones were gone, and everything she had worked so hard to protect had been destroyed. She flew around the broken nest, crying in grief.",
+     "The arrogant elephant, meanwhile, continued walking with the herd as though nothing had happened.",
+     "Pebet was overcome with sorrow and anger. She followed the elephant and called out, \"You believe that because I am small, I am powerless. You have destroyed my family without even considering our lives. One day, you will understand what it means to be helpless.\"",
+     "But the elephant paid no attention.",
+     "With a heavy heart, Pebet turned to Mother Leimarel, the divine mother, and prayed for guidance. She prayed day and night for an entire week, asking for strength and justice.",
+     "One day, Mother Leimarel appeared before her in a gentle glow.",
+     "\"My dear Pebet,\" she said lovingly, \"I know the pain you carry. You must stand up for what is right, but remember that forgiveness is also a form of strength. Do not let anger become your only guide.\"",
+     "Pebet listened carefully and decided to follow her guidance.",
+     "She approached the elephant and used her sharp beak to repeatedly prick a small spot on his back. The elephant could not reach the little bird. Soon, the wound became painful, and flies gathered around it. Before long, the elephant became terribly unwell.",
+     "The once-mighty elephant could barely walk. At last, he fell to his knees and called out to Pebet.",
+     "\"Please help me! I cannot bear this pain any longer. I have been foolish and cruel. I am sorry for what I did to your family.\"",
+     "Pebet remembered Mother Leimarel's words.",
+     "\"You destroyed my little ones because you thought they did not matter,\" she said. \"Now you understand how it feels to be helpless. If you truly regret your actions and promise to respect every living creature, I will help you.\"",
+     "The elephant bowed his head.",
+     "\"I promise. I will never again judge another creature by its size. Please forgive me.\"",
+     "Pebet accepted his apology. She gathered healing herbs from the forest and carefully tended to his wounds until he recovered.",
+     "The elephant became gentle and considerate. He never again used his strength to frighten or hurt the smaller animals.",
+     "Pebet's story became a reminder throughout the forest that every living creature deserves respect, no matter how small it may be."
+    ],
+    "hi": [
+     "मणिपुर के एक विशाल जंगल के किनारे पेबेट नाम की एक छोटी चिड़िया अपने बच्चों के साथ रहती थी। उसने झाड़ियों के बीच एक आरामदायक घोंसला बनाया था। उसके बच्चे वहीं बड़े हो रहे थे और घोंसले में कुछ अंडे भी सुरक्षित रखे हुए थे।",
+     "एक सुबह बच्चों ने कुछ डरावना देखा। हाथियों का एक झुंड जंगल से होकर उनके घर की ओर बढ़ रहा था।",
+     "\"माँ! देखो!\" वे चिल्लाए। \"हाथी इसी रास्ते से आ रहे हैं। उनके विशाल पैर हमारा घोंसला और सारे अंडे कुचल सकते हैं!\"",
+     "पेबेट ने झुंड को अपनी ओर आते देखा। वह जानती थी कि इतने बड़े जानवरों को अकेले रोकना संभव नहीं था, लेकिन उसने कम से कम उनसे बात करने का निश्चय किया।",
+     "वह हाथियों के नेता के पास पहुँची और विनम्रता से बोली।",
+     "\"आदरणीय नेता, थोड़ा आगे मेरा छोटा-सा घोंसला है। उसमें मेरे बच्चे और कुछ अंडे हैं। मैं आपसे और आपके साथियों से विनती करती हूँ कि कृपया सावधानी से चलें और संभव हो तो दूसरा रास्ता अपना लें। हम बहुत छोटे हैं और आपकी एक छोटी-सी लापरवाही हमारा घर नष्ट कर सकती है।\"",
+     "हाथियों के नेता ने उसकी बात धैर्यपूर्वक सुनी।",
+     "\"चिंता मत करो, नन्ही पेबेट,\" उसने आश्वासन दिया। \"हम सावधानी बरतेंगे।\"",
+     "हाथियों ने अपना रास्ता बदल लिया और घोंसले को बिना नुकसान पहुँचाए आगे बढ़ गए। लेकिन झुंड में सबसे पीछे चल रहा एक युवा हाथी बहुत घमंडी था। उसे अपने आकार और ताकत पर बेहद गर्व था।",
+     "\"मैं एक छोटी-सी चिड़िया की बात क्यों मानूँ?\" उसने चिंघाड़कर कहा। \"यह जंगल ताकतवर जानवरों का है! अगर उसने मेरे रास्ते में अपना घोंसला बनाया है, तो इसमें मेरी क्या गलती?\"",
+     "पेबेट की विनती को अनसुना करते हुए उसने अपना विशाल पैर झाड़ी पर रख दिया और घोंसले के साथ उसके बच्चों और अंडों को कुचल दिया।",
+     "जब पेबेट वापस लौटी, तो वह पूरी तरह टूट गई। उसके बच्चे अब वहाँ नहीं थे और जिस घर की रक्षा के लिए उसने इतनी मेहनत की थी, वह पूरी तरह नष्ट हो चुका था। वह टूटे हुए घोंसले के चारों ओर उड़ती रही और दुख से रोती रही।",
+     "दूसरी ओर, घमंडी हाथी ऐसे आगे बढ़ता रहा जैसे कुछ हुआ ही न हो।",
+     "पेबेट दुख और क्रोध से भर गई। वह हाथी के पीछे गई और उसे पुकारकर बोली, \"तुम सोचते हो कि छोटी होने के कारण मैं कमज़ोर हूँ। तुमने मेरी पूरी दुनिया नष्ट कर दी और एक बार भी हमारे जीवन के बारे में नहीं सोचा। एक दिन तुम्हें भी समझ आएगा कि असहाय होना कैसा लगता है।\"",
+     "लेकिन हाथी ने उसकी बात पर कोई ध्यान नहीं दिया।",
+     "दुखी होकर पेबेट ने माता लैमरेल से मार्गदर्शन माँगा। वह दिन-रात पूरे एक सप्ताह तक प्रार्थना करती रही। उसने माता से साहस और न्याय पाने की विनती की।",
+     "एक दिन माता लैमरेल एक कोमल प्रकाश के साथ उसके सामने प्रकट हुईं।",
+     "\"मेरी प्यारी पेँ। तुम्हें अपने अधिकारों के लिए खड़ा होना बेट,\" उन्होंने प्रेम से कहा, \"मैं तुम्हारा दुख जानती हू् चाहिए, लेकिन याद रखना कि क्षमा करना भी एक प्रकार की शक्ति है। अपने क्रोध को ही अपना मार्गदर्शक मत बनने देना।\"",
+     "पेबेट ने उनकी बात ध्यान से सुनी और उनके बताए मार्ग पर चलने का निश्चय किया।",
+     "वह हाथी के पास पहुँची और अपनी तेज़ चोंच से उसकी पीठ पर एक ही स्थान पर बार-बार चोंच मारने लगी। हाथी उस छोटी चिड़िया तक पहुँच नहीं पा रहा था। कुछ समय बाद वहाँ घाव बन गया और मक्खियाँ उसके आसपास इकट्ठी होने लगीं। धीरे-धीरे हाथी की हालत बहुत खराब हो गई।",
+     "जो हाथी कभी अपनी ताकत पर घमंड करता था, अब उससे ठीक से चला भी नहीं जा रहा था। आखिरकार वह घुटनों के बल बैठ गया और पेबेट को पुकारने लगा।",
+     "\"कृपया मेरी सहायता करो! अब मुझसे यह पीड़ा सहन नहीं होती। मैं मूर्ख और निर्दयी था। मैंने तुम्हारे परिवार के साथ जो किया, उसके लिए मुझे बहुत पछतावा है।\"",
+     "पेबेट को माता लैमरेल की बातें याद आईं।",
+     "\"तुमने मेरे बच्चों को इसलिए नष्ट किया क्योंकि तुम्हें लगता था कि उनका कोई महत्व नहीं है। अब तुम्हें समझ आ गया होगा कि असहाय महसूस करना कैसा होता है। यदि तुम्हें सचमुच अपनी गलती का पछतावा है और तुम हर जीव का सम्मान करने का वादा करते हो, तो मैं तुम्हारी सहायता करूँगी।\"",
+     "हाथी ने अपना सिर झुका लिया।",
+     "\"मैं वादा करता हूँ। अब मैं किसी भी जीव को उसके आकार से नहीं आँकूँगा। कृपया मुझे क्षमा कर दो।\"",
+     "पेबेट ने उसकी क्षमा-याचना स्वीकार कर ली। वह जंगल से औषधीय जड़ी-बूटियाँ इकट्ठी करके लाई और उसके घावों की देखभाल करने लगी। धीरे-धीरे हाथी ठीक हो गया।",
+     "अब वह पहले जैसा घमंडी नहीं रहा था। वह शांत और दयालु बन गया और उसने कभी भी अपनी ताकत का इस्तेमाल छोटे जानवरों को डराने या चोट पहुँचाने के लिए नहीं किया।",
+     "पेबेट की कहानी पूरे जंगल में एक सीख बन गई—हर जीव सम्मान का अधिकारी है, चाहे वह कितना ही छोटा क्यों न हो।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21,
+      22,
+      23
+     ],
+     [
+      24,
+      25,
+      26,
+      27,
+      28
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     [
+      8,
+      9,
+      10
+     ],
+     [
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16,
+      17
+     ],
+     [
+      18,
+      19,
+      20
+     ],
+     [
+      21,
+      22,
+      23,
+      24
+     ],
+     [
+      25,
+      26,
+      27,
+      28
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  },
+  "3": {
+   "texts": {
+    "en": [
+     "At the edge of a great forest in Manipur, where birds nested among the thick bushes and wild animals wandered freely beneath the trees, lived a little bird called Pebet. She had built her home in a sheltered bush, where she cared for her young chicks and guarded the eggs that were soon to hatch.",
+     "Life was peaceful until one morning, when a large herd of elephants approached the clearing. Their enormous feet shook the ground as they moved towards the bushes.",
+     "The little chicks watched anxiously.",
+     "\"Mother,\" they cried, \"the elephants are coming towards our home! If they walk through the bushes, our nest will be destroyed. Please ask them to take another path.\"",
+     "Pebet understood their fear. Although she was tiny compared with the approaching animals, she decided to speak to the herd's leader.",
+     "\"Respected leader,\" she said, approaching him with humility, \"my nest lies just ahead. My little ones and their eggs are inside it. I request you and your companions to be careful and avoid this path if possible. One careless step could destroy everything.\"",
+     "The leader stopped and listened.",
+     "\"Your concern is understood, little Pebet,\" he replied. \"We shall take another route. No creature should have to lose its home because we were careless.\"",
+     "The herd changed direction and passed safely around the bush. But the last elephant was a young animal whose pride was as enormous as his body.",
+     "He laughed at Pebet.",
+     "\"Why should I listen to you? Look at me! I am powerful enough to move trees and crush stones. What could a little bird like you possibly do to stop me?\"",
+     "Before Pebet could respond, he raised his enormous foot and crushed the nest. The chicks and eggs were destroyed beneath his weight.",
+     "The elephant continued walking, entirely indifferent to the devastation he had caused.",
+     "When Pebet returned, she was overcome with grief. Her home, which had once been filled with the cheerful sounds of her little ones, was now silent. She searched among the broken branches, hoping to find something left untouched, but there was nothing she could save.",
+     "Her sorrow soon turned to anger.",
+     "She followed the elephant and called out, \"You believe that because I am small, my life has no value. You have destroyed my family without a thought. One day, you will understand what it means to be powerless.\"",
+     "The elephant paid no attention. He simply continued on his way.",
+     "Unable to bear her sorrow alone, Pebet turned to Mother Leimarel, the divine mother, and prayed for guidance. For an entire week, she prayed day and night, asking for the strength to face the injustice that had been done to her.",
+     "At last, Mother Leimarel appeared before her in a gentle, radiant light.",
+     "\"My dear Pebet,\" she said, \"I know the pain that fills your heart. You have suffered a terrible loss, and your anger is understandable. But remember that justice must not become cruelty. A creature who truly repents must be given the chance to change.\"",
+     "Pebet listened to her words. She understood that she needed to confront the elephant and make him recognise the suffering he had caused.",
+     "She approached him and began repeatedly pricking a spot on his back with her sharp beak. The elephant tried to shake her away, but the little bird was quick and persistent. Soon, the wound became inflamed, and flies gathered around it. As the days passed, the elephant's condition grew worse.",
+     "The creature who had once believed himself invincible could now barely walk. His enormous strength offered him no comfort. Finally, he collapsed and called out to Pebet.",
+     "\"Please, I beg you, help me! I can no longer bear this suffering. I have been arrogant and cruel. I treated you as though your life meant nothing simply because you were smaller than me.\"",
+     "Pebet looked at him and remembered the words of Mother Leimarel.",
+     "\"You destroyed my children because you believed that your strength gave you the right to ignore the lives of others,\" she said. \"Now you understand what it means to be helpless. Tell me, do you truly regret what you have done?\"",
+     "The elephant lowered his head.",
+     "\"I do,\" he replied. \"I have learnt that strength does not give anyone the right to cause suffering. I promise that I will respect every living creature, however small, and never use my power to hurt another being again.\"",
+     "Pebet could see that his remorse was genuine. She remembered the divine mother's advice and chose forgiveness over revenge.",
+     "\"I will help you recover,\" she said, \"but you must never forget what this experience has taught you.\"",
+     "She gathered medicinal herbs from the forest and carefully applied them to his wounds. Day after day, she continued to care for him until his strength gradually returned.",
+     "The elephant was deeply grateful. He kept his promise and became gentle towards the creatures of the forest. He no longer judged anyone by their size, and he often reminded the other animals that even the smallest life deserved protection.",
+     "Pebet, too, found peace. Though she could never bring her lost children back, she had ensured that the elephant would not cause such suffering again.",
+     "The two became unlikely friends, and the story of their journey travelled throughout the forest.",
+     "It taught everyone that power without compassion becomes cruelty, that genuine remorse must be accompanied by change, and that forgiveness can sometimes accomplish what anger never could."
+    ],
+    "hi": [
+     "मणिपुर के एक विशाल जंगल के किनारे, जहाँ घनी झाड़ियों में पक्षी अपने घोंसले बनाते थे और जंगली जानवर पेड़ों के नीचे स्वतंत्र रूप से घूमते थे, पेबेट नाम की एक छोटी चिड़िया रहती थी। उसने एक सुरक्षित झाड़ी में अपना घर बनाया था। वहीं वह अपने नन्हे बच्चों की देखभाल करती और उन अंडों की रक्षा करती जिनसे जल्द ही नए बच्चे निकलने वाले थे।",
+     "उनका जीवन शांतिपूर्ण था। लेकिन एक सुबह हाथियों का एक बड़ा झुंड उस खुले स्थान की ओर बढ़ने लगा। उनके विशाल पैरों से धरती काँप रही थी और वे सीधे झाड़ियों की ओर आ रहे थे।",
+     "छोटे बच्चे घबराकर अपनी माँ के पास आए।",
+     "\"माँ,\" उन्होंने कहा, \"हाथी हमारे घर की ओर आ रहे हैं! अगर वे झाड़ियों के बीच से गुज़रे, तो हमारा घोंसला नष्ट हो जाएगा। कृपया उनसे दूसरा रास्ता लेने को कहो।\"",
+     "पेबेट उनके डर को समझ गई। आने वाले विशाल जानवरों की तुलना में वह बहुत छोटी थी, फिर भी उसने झु्ंड के नेता से बात करने का निश्चय किया।",
+     "\"आदरणीय नेता,\" उसने विनम्रता से कहा, \"थोड़ा आगे मेरा घोंसला है। उसमें मेरे छोटे बच्चे और अंडे हैं। मैं आपसे और आपके साथियों से विनती करती हूँ कि कृपया सावधानी बरतें और यदि संभव हो तो इस रास्ते से न जाएँ। आपकी एक छोटी-सी लापरवाही मेरा पूरा घर नष्ट कर सकती है।\"",
+     "हाथियों का नेता रुक गया और उसने उसकी बात ध्यान से सुनी।",
+     "\"तुम्हारी चिंता समझ में आती है, नन्ही पेबेट,\" उसने उत्तर दिया। \"हम दूसरा रास्ता अपनाएँगे। हमारी लापरवाही के कारण किसी जीव का घर नष्ट नहीं होना चाहिए।\"",
+     "हाथियों के झुंड ने अपना रास्ता बदल लिया और झाड़ी को बिना नुकसान पहुँचाए आगे बढ़ गया। लेकिन सबसे पीछे चल रहा युवा हाथी बेहद घमंडी था। उसका अहंकार उसके विशाल शरीर जितना ही बड़ा था।",
+     "वह पेबेट पर हँसने लगा।",
+     "\"मैं तुम्हारी बात क्यों मानूँ? मुझे देखो! मैं इतना ताकतवर हूँ कि पेड़ों को हिला सकता हूँ और पत्थरों को कुचल सकता हूँ। तुम जैसी छोटी चिड़िया मुझे रोक ही क्या सकती है?\"",
+     "पेबेट कुछ कह पाती, उससे पहले ही उसने अपना विशाल पैर उठाया और घोंसले को कुचल दिया। उसके छोटे बच्चे और अंडे उसके भारी पैरों के नीचे नष्ट हो गए।",
+     "हाथी बिना किसी परवाह के आगे बढ़ गया। उसे इस बात का ज़रा भी एहसास नहीं था कि उसने कितनी बड़ी क्षति पहुँचाई है।",
+     "जब पेबेट वापस लौटी, तो वह दुख से भर गई। उसका घर, जो कभी बच्चों की चहचहाहट से गू्ँजता था, अब पूरी तरह शांत था। उसने टूटी हुई टहनियों के बीच अपने बच्चों को ढूँढ़ने की कोशिश की। उसे उम्मीद थी कि शायद कुछ बचा हो, लेकिन अब वहाँ कुछ भी नहीं था जिसे वह बचा सकती थी।",
+     "उसका दुख धीरे-धीरे क्रोध में बदल गया।",
+     "वह हाथी के पीछे गई और पुकारकर बोली, \"तुम सोचते हो कि मैं छोटी हूँ, इसलिए मेरे जीवन का कोई मूल्य नहीं है। तुमने बिना सोचे-समझे मेरा पूरा परिवार नष्ट कर दिया। एक दिन तुम्हें भी समझ आएगा कि असहाय होना कैसा लगता है।\"",
+     "हाथी ने उसकी बात पर ध्यान नहीं दिया और आगे बढ़ता रहा।",
+     "अपने दुख को अकेले सहन करना पेबेट के लिए मुश्किल हो गया। उसने माता लैमरेल से मार्गदर्शन माँगा। पूरे एक सप्ताह तक वह दिन-रात प्रार्थना करती रही और उनसे उस अन्याय का सामना करने की शक्ति माँगती रही जो उसके साथ हुआ था।",
+     "आखिरकार माता लैमरेल एक कोमल और प्रकाशमय रूप में उसके सामने प्रकट हुईं।",
+     "\"मेरी प्यारी पेबेट,\" उन्होंने कहा, \"मैं तुम्हारे हृदय में भरे दुख को जानती हूँ। तुमने बहुत बड़ी हानि सहन की है और तुम्हारा क्रोध स्वाभाविक है। लेकिन याद रखना कि न्याय का अर्थ क्रूरता नहीं होता। जो सचमुच अपनी गलती का पछतावा करता है, उसे बदलने का अवसर अवश्य मिलना चाहिए।\"",
+     "पेबेट ने उनकी बातें ध्यान से सुनीं। उसने समझ लिया कि उसे हाथी का सामना करना होगा और उसे अपनी गलती का एहसास कराना होगा।",
+     "वह हाथी के पास पहुँची और अपनी तेज़ चोंच से उसकी पीठ के एक स्थान पर बार-बार चोंच मारने लगी। हाथी उसे हटाने की कोशिश करता रहा, लेकिन छोटी चिड़िया फुर्तली थी और लगातार प्रयास करती रही। कुछ समय बाद वहाँ घाव बन गया। मक्खियाँ उसके आसपास इकट्ठी होने लगीं और धीरे-धीरे हाथी की हालत बिगड़ने लगी।",
+     "जो हाथी कभी स्वयं को अजेय समझता था, अब उससे ठीक से चला भी नहीं जा रहा था। उसकी विशाल ताकत भी उसे कोई राहत नहीं दे पा रही थी। आखिरकार वह ज़मीन पर गिर पड़ा और पेबेट को पुकारने लगा।",
+     "\"कृपया मेरी सहायता करो! अब मुझसे यह पीड़ा सहन नहीं होती। मैं घमंडी और निर्दयी था। मैंने तुम्हारे साथ ऐसा व्यवहार किया मानो तुम्हारे छोटे होने के कारण तुम्हारे जीवन का कोई महत्व ही न हो।\"",
+     "पेबेट ने उसकी ओर देखा और माता लैमरेल की बातें याद कीं।",
+     "\"तुमने मेरे बच्चों को इसलिए नष्ट किया क्योंकि तुम्हें लगता था कि तुम्हारी ताकत तुम्हें दूसरों के जीवन की उपेक्षा करने का अधिकार देती है,\" उसने कहा। \"अब तुम्हें समझ आ गया होगा कि असहाय होना कैसा लगता है। बताओ, क्या तुम्हें सचमुच अपनी गलती का पछतावा है?\"",
+     "हाथी ने अपना सिर झुका लिया।",
+     "\"हाँ,\" उसने उत्तर दिया। \"मैंने समझ लिया है कि ताकत किसी को भी दूसरों को दुख पहुँचाने का अधिकार नहीं देती। मैं वादा करता हूँ कि हर जीव का सम्मान करूँगा, चाहे वह कितना ही छोटा क्यों न हो। मैं अब कभी अपनी शक्ति का उपयोग किसी को चोट पहुँचाने के लिए नहीं करूँगा।\"",
+     "पेबेट को उसके पछतावे में सच्चाई दिखाई दी। उसे माता लैमरेल की सीख याद आई और उसने बदला लेने के बजाय क्षमा करने का निर्णय लिया।",
+     "\"मैं तुम्हारी सहायता करूँगी,\" उसने कहा, \"लेकिन तुम्हें कभी नहीं भूलना चाहिए कि इस अनुभव ने तुम्हें क्या सिखाया है।\"",
+     "वह जंगल से औषधीय जड़ी-बूटियाँ इकट्ठी करके लाई और सावधानी से हाथी के घावों पर लगाने लगी। वह कई दिनों तक उसकी देखभाल करती रही। धीरे-धीरे हाथी की ताकत लौटने लगी और वह पूरी तरह स्वस्थ हो गया।",
+     "हाथी पेबेट का बहुत आभारी था। उसने अपना वादा निभाया और जंगल के सभी जीवों के प्रति दयालु हो गया। अब वह किसी को उसके आकार से नहीं आँकता था। वह दूसरे जानवरों को भी याद दिलाता कि सबसे छोटे जीव का जीवन भी सुरक्षा और सम्मान का अधिकारी है।",
+     "पेबेट को भी अंततः शांति मिली। वह अपने खोए हुए बच्चों को वापस नहीं ला सकती थी, लेकिन उसने यह सुनिश्चित किया था कि हाथी भविष्य में किसी दूसरे परिवार को ऐसा दुख न पहुँचाए।",
+     "दोनों के बीच एक अनोखी मित्रता हो गई और उनकी कहानी पूरे जंगल में फैल गई।",
+     "इस कहानी ने सभी को सिखाया कि करुणा के बिना शक्ति क्रूरता बन जाती है, सच्चे पछतावे के साथ व्यवहार में बदलाव भी आवश्यक है और कई बार क्षमा वह कर सकती है जो क्रोध कभी नहीं कर सकता।"
+    ]
+   },
+   "pages": {
+    "en": [
+     [
+      0,
+      1,
+      2
+     ],
+     [
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12,
+      13
+     ],
+     [
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21
+     ],
+     [
+      22,
+      23,
+      24
+     ],
+     [
+      25,
+      26,
+      27,
+      28
+     ],
+     [
+      29,
+      30,
+      31
+     ],
+     [
+      32,
+      33,
+      34
+     ]
+    ],
+    "hi": [
+     [
+      0,
+      1
+     ],
+     [
+      2,
+      3,
+      4,
+      5
+     ],
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     [
+      10,
+      11,
+      12
+     ],
+     [
+      13,
+      14,
+      15,
+      16
+     ],
+     [
+      17,
+      18,
+      19
+     ],
+     [
+      20,
+      21
+     ],
+     [
+      22,
+      23,
+      24,
+      25
+     ],
+     [
+      26,
+      27,
+      28
+     ],
+     [
+      29,
+      30,
+      31
+     ],
+     [
+      32,
+      33,
+      34
+     ]
+    ]
+   },
+   "vocab": [],
+   "questions": []
+  }
+ },
+ "about": {
+  "where": "Manipur",
+  "community": "Manipuri",
+  "tradition": "Animal folktale / published retelling; a small bird, the pebet, and an elephant who must learn respect."
+ },
+ "sources": [
+  {
+   "l": "Published retelling",
+   "v": "Naosekpam Ajit, E-Pao, 8 April 2012 (e-pao.net). Based on a Manipur folk narrative that invokes Mother Leimarel. This is a published retelling, not a verbatim transcription of an older oral source.",
+   "s": "ok"
+  },
+  {
+   "l": "Reading-level versions and Hindi text",
+   "v": "English reading-level versions and Hindi versions supplied by the project team; prepared with AI assistance.",
+   "s": "ok"
+  }
+ ],
+ "image": "g-039-003",
+ "meta": [
+  "অহংকারী হািত এবং প্রাথ<0>নাকারী পেবত (Manipuri title: Egotistical Elephant and Praying Pebet)",
+  "Manipur Manipur animal folktale / published retelling",
+  "Story origins",
+  "● Published retelling: Naosekpam Ajit ● Published on: E-Pao, 8 April 2012 ● Main character: Pebet, a small bird ● Cultural reference: Mother Leimarel, a divine mother figure invoked in the story ● Themes: Respect, justice, remorse, forgiveness and compassion",
+  "The original narrative has a particularly interesting ending. The pebet does not simply defeat the elephant. After receiving guidance from Mother Leimarel, she chooses to forgive him when he genuinely repents. She also helps him recover from his injuries.",
+  "e-pao.net",
+  "A storytelling decision: I have retained the elephant's wrongdoing and the pebet's response, but described the injury and healing in a gentler way. The story's central message is not revenge; it is that strength must be accompanied by respect, and genuine remorse deserves forgiveness."
+ ]
+}
