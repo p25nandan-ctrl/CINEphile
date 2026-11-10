@@ -1,0 +1,36 @@
+// DEV-ONLY stand-in for Supabase GoTrue so the UI wiring can be exercised offline. NOT deployed, NOT a security test.
+import http from 'node:http';
+import crypto from 'node:crypto';
+const users = new Map(), codes = new Map(), mails = [], sessions = new Map();
+const b64 = o => Buffer.from(JSON.stringify(o)).toString('base64url');
+const jwt = u => `${b64({alg:'HS256',typ:'JWT'})}.${b64({sub:u.id,email:u.email,role:'authenticated',exp:Math.floor(Date.now()/1000)+3600,aud:'authenticated'})}.sig`;
+const pub = u => ({ id:u.id, aud:'authenticated', role:'authenticated', email:u.email, email_confirmed_at:u.confirmed?u.created:null, created_at:u.created, last_sign_in_at:u.last, app_metadata:{provider:'email'}, user_metadata:u.meta||{}, identities:[{id:u.id}] });
+const sess = u => { const rt = crypto.randomUUID(); u.last = new Date().toISOString(); const s = { access_token:jwt(u), token_type:'bearer', expires_in:3600, expires_at:Math.floor(Date.now()/1000)+3600, refresh_token:rt, user:pub(u) }; sessions.set(rt,u.email); return s; };
+const send = (res, code, obj, hdr={}) => { res.writeHead(code, { 'content-type':'application/json', 'access-control-allow-origin':'*', 'access-control-allow-headers':'*', 'access-control-allow-methods':'*', ...hdr }); res.end(obj===undefined?'':JSON.stringify(obj)); };
+const err = (res, code, msg, ec) => send(res, code, { code, error_code:ec, msg, message:msg });
+http.createServer(async (req, res) => {
+  const u = new URL(req.url, 'http://x'); if (req.method === 'OPTIONS') return send(res, 204);
+  let body = {}; if (req.method === 'POST' || req.method === 'PUT') { let d=''; for await (const c of req) d+=c; try{ body = JSON.parse(d||'{}'); }catch{} }
+  const bearer = (req.headers.authorization||'').replace(/^Bearer /,''); const byTok = () => { try { const p = JSON.parse(Buffer.from(bearer.split('.')[1],'base64url')); return [...users.values()].find(x=>x.id===p.sub); } catch { return null; } };
+  const p = u.pathname;
+  if (p === '/__mail') return send(res, 200, mails);
+  if (p === '/auth/v1/signup') {
+    const email = (body.email||'').toLowerCase(); if ((body.password||'').length < 8) return err(res,422,'Password should be at least 8 characters.','weak_password');
+    let x = users.get(email);
+    if (!x) { x = { id:crypto.randomUUID(), email, pw:body.password, created:new Date().toISOString(), confirmed:false, meta:body.data }; users.set(email,x); const c = crypto.randomUUID(); codes.set(c,{email,kind:'signup'}); mails.push({to:email,kind:'signup',link:`http://localhost:54321/auth/v1/verify?c=${c}&redirect_to=${encodeURIComponent(u.searchParams.get('redirect_to')||'')}`}); return send(res,200,pub(x)); }
+    return send(res,200,{ ...pub(x), identities:[] }); // obfuscated for existing email
+  }
+  if (p === '/auth/v1/verify') { const c = codes.get(u.searchParams.get('c')); if (!c) return send(res,302,{}, {location:(u.searchParams.get('redirect_to')||'/')+'#error=access_denied&error_code=otp_expired&error_description=Email+link+is+invalid+or+has+expired'}); const x = users.get(c.email); if (c.kind==='signup') x.confirmed = true; const ac = crypto.randomUUID(); codes.set(ac,{email:c.email,kind:'pkce',type:c.kind}); const r = new URL(u.searchParams.get('redirect_to')); r.searchParams.set('code', ac); res.writeHead(302,{location:r.toString()}); return res.end(); }
+  if (p === '/auth/v1/token') {
+    const g = u.searchParams.get('grant_type');
+    if (g === 'password') { const x = users.get((body.email||'').toLowerCase()); if (!x || x.pw !== body.password) return err(res,400,'Invalid login credentials','invalid_credentials'); if (!x.confirmed) return err(res,400,'Email not confirmed','email_not_confirmed'); return send(res,200,sess(x)); }
+    if (g === 'refresh_token') { const e = sessions.get(body.refresh_token); if (!e) return err(res,400,'Invalid Refresh Token: Refresh Token Not Found','refresh_token_not_found'); return send(res,200,sess(users.get(e))); }
+    if (g === 'pkce') { const c = codes.get(body.auth_code); if (!c) return err(res,400,'invalid flow state, no valid flow state found','flow_state_not_found'); const x = users.get(c.email); return send(res,200,sess(x)); }
+  }
+  if (p === '/auth/v1/user' && req.method === 'GET') { const x = byTok(); return x ? send(res,200,pub(x)) : err(res,401,'invalid JWT','bad_jwt'); }
+  if (p === '/auth/v1/user' && req.method === 'PUT') { const x = byTok(); if (!x) return err(res,401,'invalid JWT','bad_jwt'); if (body.password) { if (body.password.length<8) return err(res,422,'Password should be at least 8 characters.','weak_password'); if (body.password===x.pw) return err(res,422,'New password should be different from the old password.','same_password'); x.pw = body.password; } return send(res,200,pub(x)); }
+  if (p === '/auth/v1/logout') { return send(res,204); }
+  if (p === '/auth/v1/recover') { const email=(body.email||'').toLowerCase(); if (users.has(email)) { const c = crypto.randomUUID(); codes.set(c,{email,kind:'recovery'}); mails.push({to:email,kind:'recovery',link:`http://localhost:54321/auth/v1/verify?c=${c}&redirect_to=${encodeURIComponent(u.searchParams.get('redirect_to')||'')}`}); } return send(res,200,{}); }
+  if (p === '/auth/v1/resend') { const email=(body.email||'').toLowerCase(); if (users.has(email) && !users.get(email).confirmed) { const c = crypto.randomUUID(); codes.set(c,{email,kind:'signup'}); mails.push({to:email,kind:'resend',link:`http://localhost:54321/auth/v1/verify?c=${c}&redirect_to=${encodeURIComponent(u.searchParams.get('redirect_to')||'')}`}); } return send(res,200,{}); }
+  err(res,404,'not found '+p);
+}).listen(54321, () => console.log('mock gotrue on 54321'));
